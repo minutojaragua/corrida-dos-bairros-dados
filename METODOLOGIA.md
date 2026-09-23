@@ -38,5 +38,7 @@ A **Corrida dos Bairros** é o produto de dados do **Minuto Jaraguá**, canal de
 
 Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos de Santa Catarina, São Paulo e mais 25 estados, setembro/2026.
 
+**Arquivo aberto:** os dados de cada edição, esta metodologia, o registro de erratas e a nota técnica ficam guardados, edição por edição, em [github.com/minutojaragua/corrida-dos-bairros-dados](https://github.com/minutojaragua/corrida-dos-bairros-dados).
+
 Dados de cada cidade em CSV/JSON no rodapé das páginas. **Licença:** as medianas estão sob Creative Commons Atribuição 4.0 (CC BY 4.0): use, cruze e republique à vontade, inclusive comercialmente, citando "A Corrida dos Bairros, Minuto Jaraguá" com link para este site. A licença cobre os números, não o texto, o desenho e as marcas do site. O arquivo de coordenadas dos bairros (bairros_geo.json) é base derivada do OpenStreetMap e sai sob ODbL 1.0, © colaboradores do OpenStreetMap. Contato e pautas: direct do [@minutojaragua](https://www.instagram.com/minutojaragua/).
 
