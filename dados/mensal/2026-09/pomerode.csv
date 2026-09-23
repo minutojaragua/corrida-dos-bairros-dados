@@ -1,0 +1,29 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Pomerode,Centro,casa,venda,5544.2,3598.0,7025.5,144,,setembro/2026
+Pomerode,Jardim Pomerania,casa,venda,8278.0,7239.9,9195.6,8,,setembro/2026
+Pomerode,Pomerode Fundos,casa,venda,4948.5,4391.0,5431.1,29,,setembro/2026
+Pomerode,Ribeirão Areia,casa,venda,5960.2,4033.0,7342.9,48,,setembro/2026
+Pomerode,Ribeirão Clara,casa,venda,4641.4,2200.0,6470.6,25,,setembro/2026
+Pomerode,Ribeirão Herdt,casa,venda,6137.2,4273.1,7602.0,8,,setembro/2026
+Pomerode,Ribeirão Souto,casa,venda,8125.0,3512.5,8400.0,5,,setembro/2026
+Pomerode,Testo Alto,casa,venda,4876.7,3533.3,7067.6,30,,setembro/2026
+Pomerode,Testo Central,casa,venda,4488.0,3416.7,5685.3,31,,setembro/2026
+Pomerode,Testo Central Alto,casa,venda,6221.5,4125.4,6634.9,8,,setembro/2026
+Pomerode,Testo Rega,casa,venda,5047.6,3264.5,6682.5,63,,setembro/2026
+Pomerode,Wunderwald,casa,venda,4636.0,4105.9,7812.5,17,,setembro/2026
+Pomerode,Centro,apartamento,venda,7927.1,6421.5,11662.2,142,4.75,setembro/2026
+Pomerode,Centro,apartamento,aluguel,31.4,26.9,34.3,13,4.75,setembro/2026
+Pomerode,Pomerode Fundos,apartamento,venda,6250.0,6203.7,6979.2,5,,setembro/2026
+Pomerode,Ribeirão Areia,apartamento,venda,6408.9,6141.2,7202.5,20,,setembro/2026
+Pomerode,Testo Central,apartamento,venda,5645.2,5379.7,6831.7,5,,setembro/2026
+Pomerode,Testo Rega,apartamento,venda,5510.3,4539.6,6334.8,20,,setembro/2026
+Pomerode,Centro,terreno,venda,802.0,439.0,1072.8,94,,setembro/2026
+Pomerode,Pomerode Fundos,terreno,venda,427.2,148.7,495.3,11,,setembro/2026
+Pomerode,Ribeirão Areia,terreno,venda,526.4,281.0,800.0,25,,setembro/2026
+Pomerode,Testo Alto,terreno,venda,215.8,112.4,367.3,34,,setembro/2026
+Pomerode,Testo Central,terreno,venda,295.3,144.2,504.6,55,,setembro/2026
+Pomerode,Testo Central Alto,terreno,venda,377.2,265.9,438.3,6,,setembro/2026
+Pomerode,Testo Rega,terreno,venda,300.0,163.3,466.7,53,,setembro/2026
+Pomerode,Wunderwald,terreno,venda,297.2,121.3,603.8,21,,setembro/2026
+Pomerode,Centro,sala,venda,12018.5,9576.4,12168.8,7,5.55,setembro/2026
+Pomerode,Centro,sala,aluguel,55.6,37.8,67.0,23,5.55,setembro/2026

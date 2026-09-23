@@ -1,0 +1,100 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Ponta Grossa,Boa Vista,casa,venda,3360.4,2435.6,4270.2,78,7.39,setembro/2026
+Ponta Grossa,Boa Vista,casa,aluguel,20.7,18.8,25.1,25,7.39,setembro/2026
+Ponta Grossa,Cará-Cará,casa,venda,4086.1,3414.6,5000.0,165,6.64,setembro/2026
+Ponta Grossa,Cará-Cará,casa,aluguel,22.6,17.7,30.2,42,6.64,setembro/2026
+Ponta Grossa,Centro,casa,venda,4531.7,3356.1,6543.0,38,6.43,setembro/2026
+Ponta Grossa,Centro,casa,aluguel,24.3,20.3,27.5,20,6.43,setembro/2026
+Ponta Grossa,Chapada,casa,venda,3366.7,2393.5,4026.5,32,6.74,setembro/2026
+Ponta Grossa,Chapada,casa,aluguel,18.9,16.8,22.9,14,6.74,setembro/2026
+Ponta Grossa,Colônia Dona Luíza,casa,venda,5361.4,3564.0,6637.7,77,6.13,setembro/2026
+Ponta Grossa,Colônia Dona Luíza,casa,aluguel,27.4,20.5,33.3,31,6.13,setembro/2026
+Ponta Grossa,Contorno,casa,venda,3897.6,2963.2,5261.9,168,6.53,setembro/2026
+Ponta Grossa,Contorno,casa,aluguel,21.2,15.9,33.5,19,6.53,setembro/2026
+Ponta Grossa,Estrela,casa,venda,5118.1,4290.5,6964.5,107,7.64,setembro/2026
+Ponta Grossa,Estrela,casa,aluguel,32.6,26.7,39.3,25,7.64,setembro/2026
+Ponta Grossa,Jardim Carvalho,casa,venda,5505.9,4530.1,7066.5,180,6.41,setembro/2026
+Ponta Grossa,Jardim Carvalho,casa,aluguel,29.4,22.8,36.7,32,6.41,setembro/2026
+Ponta Grossa,Neves,casa,venda,3682.9,2857.1,4463.9,73,6.52,setembro/2026
+Ponta Grossa,Neves,casa,aluguel,20.0,16.9,23.7,40,6.52,setembro/2026
+Ponta Grossa,Nova Rússia,casa,venda,3609.2,2965.9,4604.7,50,8.41,setembro/2026
+Ponta Grossa,Nova Rússia,casa,aluguel,25.3,24.0,32.0,5,8.41,setembro/2026
+Ponta Grossa,Oficinas,casa,venda,4578.5,3502.4,5439.8,136,5.79,setembro/2026
+Ponta Grossa,Oficinas,casa,aluguel,22.1,17.7,31.2,25,5.79,setembro/2026
+Ponta Grossa,Olarias,casa,venda,3888.9,3418.8,5208.4,35,7.93,setembro/2026
+Ponta Grossa,Olarias,casa,aluguel,25.7,17.5,29.0,19,7.93,setembro/2026
+Ponta Grossa,Orfãs,casa,venda,4926.5,3985.5,6219.7,105,5.48,setembro/2026
+Ponta Grossa,Orfãs,casa,aluguel,22.5,19.4,28.6,29,5.48,setembro/2026
+Ponta Grossa,Piriquitos,casa,venda,3626.9,2391.2,4647.1,16,6.78,setembro/2026
+Ponta Grossa,Piriquitos,casa,aluguel,20.5,19.2,21.7,10,6.78,setembro/2026
+Ponta Grossa,Ronda,casa,venda,3625.6,2712.1,4282.8,31,8.27,setembro/2026
+Ponta Grossa,Ronda,casa,aluguel,25.0,19.0,27.6,11,8.27,setembro/2026
+Ponta Grossa,Uvaranas,casa,venda,3714.3,2906.2,4447.2,235,7.17,setembro/2026
+Ponta Grossa,Uvaranas,casa,aluguel,22.2,15.9,29.4,37,7.17,setembro/2026
+Ponta Grossa,Vila Marina,casa,venda,4004.4,3807.7,4490.5,6,,setembro/2026
+Ponta Grossa,Boa Vista,apartamento,venda,5650.0,4582.2,6479.7,7,,setembro/2026
+Ponta Grossa,Cará-Cará,apartamento,venda,3591.6,2662.3,4747.3,10,,setembro/2026
+Ponta Grossa,Centro,apartamento,venda,4700.0,3553.9,6362.7,510,7.48,setembro/2026
+Ponta Grossa,Centro,apartamento,aluguel,29.3,20.3,36.4,95,7.48,setembro/2026
+Ponta Grossa,Chapada,apartamento,venda,4166.3,3435.2,4783.0,34,7.81,setembro/2026
+Ponta Grossa,Chapada,apartamento,aluguel,27.1,22.2,33.7,23,7.81,setembro/2026
+Ponta Grossa,Colônia Dona Luíza,apartamento,venda,4511.6,3759.5,5064.1,58,7.31,setembro/2026
+Ponta Grossa,Colônia Dona Luíza,apartamento,aluguel,27.5,20.2,33.5,10,7.31,setembro/2026
+Ponta Grossa,Contorno,apartamento,venda,4578.3,3754.6,5227.6,31,7.65,setembro/2026
+Ponta Grossa,Contorno,apartamento,aluguel,29.2,27.1,34.4,9,7.65,setembro/2026
+Ponta Grossa,Estrela,apartamento,venda,5269.4,3949.7,6865.1,246,5.83,setembro/2026
+Ponta Grossa,Estrela,apartamento,aluguel,25.6,19.2,33.0,33,5.83,setembro/2026
+Ponta Grossa,Jardim Carvalho,apartamento,venda,4285.7,3536.4,5536.3,174,8.34,setembro/2026
+Ponta Grossa,Jardim Carvalho,apartamento,aluguel,29.8,22.8,37.4,28,8.34,setembro/2026
+Ponta Grossa,Neves,apartamento,venda,4275.4,3365.5,4813.4,35,7.02,setembro/2026
+Ponta Grossa,Neves,apartamento,aluguel,25.0,25.0,27.0,11,7.02,setembro/2026
+Ponta Grossa,Nova Rússia,apartamento,venda,4220.8,3437.5,5000.0,53,6.4,setembro/2026
+Ponta Grossa,Nova Rússia,apartamento,aluguel,22.5,20.6,26.8,8,6.4,setembro/2026
+Ponta Grossa,Oficinas,apartamento,venda,5555.6,4189.9,7575.8,173,6.0,setembro/2026
+Ponta Grossa,Oficinas,apartamento,aluguel,27.8,22.8,33.5,34,6.0,setembro/2026
+Ponta Grossa,Olarias,apartamento,venda,5152.0,4427.9,6120.9,52,6.1,setembro/2026
+Ponta Grossa,Olarias,apartamento,aluguel,26.2,18.9,36.5,25,6.1,setembro/2026
+Ponta Grossa,Orfãs,apartamento,venda,4689.0,3671.1,5952.4,133,5.27,setembro/2026
+Ponta Grossa,Orfãs,apartamento,aluguel,20.6,18.7,24.1,22,5.27,setembro/2026
+Ponta Grossa,Ronda,apartamento,venda,4090.9,3377.0,4642.9,17,,setembro/2026
+Ponta Grossa,Uvaranas,apartamento,venda,4269.8,3384.6,5377.4,177,6.46,setembro/2026
+Ponta Grossa,Uvaranas,apartamento,aluguel,23.0,18.8,28.3,68,6.46,setembro/2026
+Ponta Grossa,Boa Vista,terreno,venda,675.9,454.2,1000.9,7,,setembro/2026
+Ponta Grossa,Cará-Cará,terreno,venda,455.9,338.9,741.3,15,,setembro/2026
+Ponta Grossa,Centro,terreno,venda,1722.7,950.1,2269.9,9,,setembro/2026
+Ponta Grossa,Chapada,terreno,venda,346.3,265.3,572.6,13,,setembro/2026
+Ponta Grossa,Colônia Dona Luíza,terreno,venda,500.0,290.0,826.7,21,,setembro/2026
+Ponta Grossa,Contorno,terreno,venda,649.0,449.0,756.8,31,,setembro/2026
+Ponta Grossa,Estrela,terreno,venda,1533.3,1000.0,1611.1,15,,setembro/2026
+Ponta Grossa,Jardim Carvalho,terreno,venda,779.6,645.5,959.9,58,,setembro/2026
+Ponta Grossa,Neves,terreno,venda,476.8,384.8,603.6,12,,setembro/2026
+Ponta Grossa,Nova Rússia,terreno,venda,734.7,430.9,1277.4,18,,setembro/2026
+Ponta Grossa,Oficinas,terreno,venda,722.8,591.8,1180.6,16,,setembro/2026
+Ponta Grossa,Olarias,terreno,venda,847.6,771.3,972.5,6,,setembro/2026
+Ponta Grossa,Orfãs,terreno,venda,800.9,649.4,916.6,15,,setembro/2026
+Ponta Grossa,Ronda,terreno,venda,686.5,422.0,746.1,11,,setembro/2026
+Ponta Grossa,Uvaranas,terreno,venda,597.2,449.8,772.7,70,,setembro/2026
+Ponta Grossa,Boa Vista,sala,aluguel,38.1,18.2,43.6,21,,setembro/2026
+Ponta Grossa,Cará-Cará,sala,aluguel,55.5,40.4,77.2,12,,setembro/2026
+Ponta Grossa,Centro,sala,venda,5500.0,5211.0,8946.3,11,6.98,setembro/2026
+Ponta Grossa,Centro,sala,aluguel,32.0,26.1,51.4,47,6.98,setembro/2026
+Ponta Grossa,Chapada,sala,aluguel,29.1,20.4,36.3,8,,setembro/2026
+Ponta Grossa,Colônia Dona Luíza,sala,aluguel,34.0,25.0,42.2,13,,setembro/2026
+Ponta Grossa,Contorno,sala,aluguel,54.5,30.8,76.0,30,,setembro/2026
+Ponta Grossa,Estrela,sala,aluguel,53.4,37.8,67.9,10,,setembro/2026
+Ponta Grossa,Neves,sala,aluguel,31.9,29.1,39.7,14,,setembro/2026
+Ponta Grossa,Nova Rússia,sala,aluguel,41.1,32.0,57.3,52,,setembro/2026
+Ponta Grossa,Oficinas,sala,aluguel,46.3,31.5,68.2,22,,setembro/2026
+Ponta Grossa,Olarias,sala,aluguel,41.0,31.5,50.6,12,,setembro/2026
+Ponta Grossa,Orfãs,sala,aluguel,35.7,27.2,50.0,14,,setembro/2026
+Ponta Grossa,Ronda,sala,aluguel,25.0,24.1,26.0,5,,setembro/2026
+Ponta Grossa,Uvaranas,sala,aluguel,34.8,31.9,50.0,20,,setembro/2026
+Ponta Grossa,Boa Vista,galpao,aluguel,14.6,10.0,18.0,21,,setembro/2026
+Ponta Grossa,Cará-Cará,galpao,aluguel,20.0,13.1,24.5,23,,setembro/2026
+Ponta Grossa,Chapada,galpao,aluguel,17.9,11.7,29.2,13,,setembro/2026
+Ponta Grossa,Colônia Dona Luíza,galpao,aluguel,20.8,16.9,25.5,23,,setembro/2026
+Ponta Grossa,Contorno,galpao,aluguel,19.9,15.8,22.2,18,,setembro/2026
+Ponta Grossa,Nova Rússia,galpao,aluguel,27.9,22.4,30.4,8,,setembro/2026
+Ponta Grossa,Oficinas,galpao,aluguel,22.0,17.2,23.0,5,,setembro/2026
+Ponta Grossa,Orfãs,galpao,aluguel,17.5,12.5,18.8,9,,setembro/2026
+Ponta Grossa,Piriquitos,galpao,aluguel,14.2,8.1,16.9,6,,setembro/2026

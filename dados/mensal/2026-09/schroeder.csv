@@ -1,0 +1,22 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Schroeder,Bracinho,casa,venda,4365.1,3597.4,5683.5,12,,setembro/2026
+Schroeder,Braço do Sul,casa,venda,4333.3,2523.6,6315.9,11,,setembro/2026
+Schroeder,Centro,casa,venda,5033.6,3263.3,5903.8,63,,setembro/2026
+Schroeder,Centro Leste,casa,venda,4500.0,1448.6,5239.1,11,,setembro/2026
+Schroeder,Centro Norte,casa,venda,4544.5,3360.7,6431.1,39,,setembro/2026
+Schroeder,Itoupava Açu,casa,venda,3965.2,3171.7,4741.1,6,,setembro/2026
+Schroeder,Rio Hern,casa,venda,4857.8,3194.1,5846.4,40,,setembro/2026
+Schroeder,Schroeder I,casa,venda,5161.3,4348.7,6199.0,11,,setembro/2026
+Schroeder,Sossego,casa,venda,4840.5,2312.5,5695.0,13,,setembro/2026
+Schroeder,Tomaselli,casa,venda,4772.7,3645.8,5058.2,7,,setembro/2026
+Schroeder,Centro,apartamento,venda,4426.2,4000.0,4754.1,9,,setembro/2026
+Schroeder,Rio Hern,apartamento,venda,4849.4,4165.2,5146.0,6,,setembro/2026
+Schroeder,Bracinho,terreno,venda,377.0,106.0,425.7,21,,setembro/2026
+Schroeder,Braço do Sul,terreno,venda,249.4,221.9,333.3,5,,setembro/2026
+Schroeder,Centro,terreno,venda,638.1,473.0,699.9,68,,setembro/2026
+Schroeder,Centro Leste,terreno,venda,482.9,425.8,520.5,12,,setembro/2026
+Schroeder,Centro Norte,terreno,venda,560.3,293.3,608.6,33,,setembro/2026
+Schroeder,Centro Sul,terreno,venda,664.5,458.2,818.3,7,,setembro/2026
+Schroeder,Itoupava Açu,terreno,venda,222.2,103.4,281.8,7,,setembro/2026
+Schroeder,Rio Hern,terreno,venda,573.1,407.2,620.7,20,,setembro/2026
+Schroeder,Schroeder I,terreno,venda,485.3,411.9,535.9,26,,setembro/2026

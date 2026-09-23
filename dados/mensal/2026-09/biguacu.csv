@@ -1,0 +1,21 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Biguaçu,Beira Rio,casa,venda,7222.2,6615.8,8200.0,61,,setembro/2026
+Biguaçu,Bom Viver,casa,venda,5288.9,4544.2,5636.0,10,,setembro/2026
+Biguaçu,Centro,casa,venda,6521.7,5270.8,7011.6,7,,setembro/2026
+Biguaçu,Deltaville,casa,venda,7278.7,6413.3,8787.0,36,,setembro/2026
+Biguaçu,Fundos,casa,venda,6161.5,4210.5,6936.1,14,,setembro/2026
+Biguaçu,Jardim Janaína,casa,venda,6071.4,3250.0,6333.3,9,,setembro/2026
+Biguaçu,Praia João Rosa,casa,venda,2850.0,2258.3,3771.8,6,,setembro/2026
+Biguaçu,Rio Caveiras,casa,venda,7179.8,5664.7,7472.2,11,,setembro/2026
+Biguaçu,Bom Viver,apartamento,venda,6757.5,5671.8,6818.2,5,,setembro/2026
+Biguaçu,Centro,apartamento,venda,9165.1,7446.2,10132.1,35,,setembro/2026
+Biguaçu,Fundos,apartamento,venda,6492.2,5918.3,7110.4,15,6.58,setembro/2026
+Biguaçu,Fundos,apartamento,aluguel,35.6,31.5,38.9,7,6.58,setembro/2026
+Biguaçu,Jardim Janaína,apartamento,venda,6145.8,5833.3,7142.9,9,,setembro/2026
+Biguaçu,Praia João Rosa,apartamento,venda,8418.6,7418.1,9181.8,17,,setembro/2026
+Biguaçu,Rio Caveiras,apartamento,venda,6564.8,5968.8,7296.8,27,,setembro/2026
+Biguaçu,Vendaval,apartamento,venda,6071.4,5714.3,6641.5,5,,setembro/2026
+Biguaçu,Beira Rio,terreno,venda,1600.0,1362.5,2124.2,39,,setembro/2026
+Biguaçu,Deltaville,terreno,venda,1669.7,1477.9,2151.2,20,,setembro/2026
+Biguaçu,Fundos,terreno,venda,1105.3,936.0,1233.3,6,,setembro/2026
+Biguaçu,Jardim Janaína,terreno,venda,742.5,710.3,794.2,10,,setembro/2026

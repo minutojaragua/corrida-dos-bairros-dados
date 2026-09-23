@@ -1,0 +1,59 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+São Bernardo do Campo,Anchieta,apartamento,venda,9324.3,6379.3,10265.1,9,,setembro/2026
+São Bernardo do Campo,Assunção,apartamento,venda,8162.5,6163.6,8787.9,13,,setembro/2026
+São Bernardo do Campo,Baeta Neves,apartamento,venda,7963.6,6282.0,10000.0,58,,setembro/2026
+São Bernardo do Campo,Centro,apartamento,venda,10053.2,6608.1,11799.8,108,7.32,setembro/2026
+São Bernardo do Campo,Centro,apartamento,aluguel,61.3,48.9,74.5,13,7.32,setembro/2026
+São Bernardo do Campo,Cooperativa,apartamento,venda,6910.4,6386.0,7524.1,7,,setembro/2026
+São Bernardo do Campo,Ferrazópolis,apartamento,venda,6814.6,5591.0,7612.6,8,,setembro/2026
+São Bernardo do Campo,Independência,apartamento,venda,8004.6,6437.5,9600.5,6,,setembro/2026
+São Bernardo do Campo,Jardim do Mar,apartamento,venda,10130.0,7745.3,11038.7,26,,setembro/2026
+São Bernardo do Campo,Jardim Nova Petrópolis,apartamento,venda,7764.7,6666.7,9583.3,9,,setembro/2026
+São Bernardo do Campo,Jardim Olavo Bilac,apartamento,venda,8928.6,7361.1,9240.7,13,,setembro/2026
+São Bernardo do Campo,Nova Petrópolis,apartamento,venda,9482.8,7537.8,10743.8,57,,setembro/2026
+São Bernardo do Campo,Paulicéia,apartamento,venda,6415.1,5147.1,7997.7,13,,setembro/2026
+São Bernardo do Campo,Planalto,apartamento,venda,7916.7,7071.4,8709.2,23,,setembro/2026
+São Bernardo do Campo,Rudge Ramos,apartamento,venda,7115.4,5659.1,10124.3,83,6.76,setembro/2026
+São Bernardo do Campo,Rudge Ramos,apartamento,aluguel,40.1,31.7,48.2,15,6.76,setembro/2026
+São Bernardo do Campo,Santa Terezinha,apartamento,venda,5171.5,4666.9,6577.4,10,,setembro/2026
+São Bernardo do Campo,Taboão,apartamento,venda,6463.2,5289.2,7227.3,14,,setembro/2026
+São Bernardo do Campo,Vila Baeta Neves,apartamento,venda,7909.1,5944.4,9705.9,57,,setembro/2026
+São Bernardo do Campo,Vila Caminho do Mar,apartamento,venda,7288.5,5353.9,10060.5,14,,setembro/2026
+São Bernardo do Campo,Vila Dayse,apartamento,venda,9603.7,9541.4,10066.0,6,,setembro/2026
+São Bernardo do Campo,Vila Gonçalves,apartamento,venda,8353.4,6316.0,9314.5,16,,setembro/2026
+São Bernardo do Campo,Vila Lusitânia,apartamento,venda,8307.7,7038.1,9345.2,15,,setembro/2026
+São Bernardo do Campo,Vila Mussolini,apartamento,venda,7495.8,6768.3,9258.2,7,,setembro/2026
+São Bernardo do Campo,Alves Dias,casa,venda,2944.4,2711.9,3233.9,5,,setembro/2026
+São Bernardo do Campo,Anchieta,casa,venda,5297.3,4240.0,7121.2,13,,setembro/2026
+São Bernardo do Campo,Assunção,casa,venda,4384.0,3533.8,5178.6,21,,setembro/2026
+São Bernardo do Campo,Baeta Neves,casa,venda,3253.8,2754.4,4133.1,11,,setembro/2026
+São Bernardo do Campo,Centro,casa,venda,5447.1,4492.9,6785.8,10,,setembro/2026
+São Bernardo do Campo,Demarchi,casa,venda,3954.5,3134.3,4587.0,7,,setembro/2026
+São Bernardo do Campo,Dos Casa,casa,venda,4878.8,4342.5,5641.3,10,,setembro/2026
+São Bernardo do Campo,Independência,casa,venda,3939.4,3719.9,4666.7,9,,setembro/2026
+São Bernardo do Campo,Jardim do Mar,casa,venda,5000.0,4444.4,6425.9,21,7.18,setembro/2026
+São Bernardo do Campo,Jardim do Mar,casa,aluguel,29.9,23.6,35.0,14,7.18,setembro/2026
+São Bernardo do Campo,Jardim Palermo,casa,venda,3913.4,3614.0,4777.9,6,,setembro/2026
+São Bernardo do Campo,Jordanópolis,casa,venda,3785.7,3625.4,4230.8,5,,setembro/2026
+São Bernardo do Campo,Montanhão,casa,venda,2506.0,1801.5,2744.0,12,,setembro/2026
+São Bernardo do Campo,Nova Petrópolis,casa,venda,3838.9,3529.1,5120.0,25,,setembro/2026
+São Bernardo do Campo,Parque dos Pássaros,casa,venda,5592.6,5341.9,6160.0,6,,setembro/2026
+São Bernardo do Campo,Parque Terra Nova II,casa,venda,9512.2,7286.0,11422.4,17,,setembro/2026
+São Bernardo do Campo,Paulicéia,casa,venda,4687.5,3915.8,5007.3,7,,setembro/2026
+São Bernardo do Campo,Rio Grande,casa,venda,3164.1,2679.9,4471.2,10,,setembro/2026
+São Bernardo do Campo,Rudge Ramos,casa,venda,4023.8,3224.2,4841.2,48,,setembro/2026
+São Bernardo do Campo,Santa Terezinha,casa,venda,5621.1,5107.1,6413.5,12,,setembro/2026
+São Bernardo do Campo,Vila Baeta Neves,casa,venda,4565.5,3990.8,5435.5,14,,setembro/2026
+São Bernardo do Campo,Vila Dayse,casa,venda,5113.1,3783.3,5619.1,5,,setembro/2026
+São Bernardo do Campo,Vila Vivaldi,casa,venda,3500.0,2987.7,3867.5,7,,setembro/2026
+São Bernardo do Campo,Baeta Neves,terreno,venda,1769.2,1575.0,1938.8,5,,setembro/2026
+São Bernardo do Campo,Centro,terreno,venda,4423.4,4370.4,4760.0,5,,setembro/2026
+São Bernardo do Campo,Centro,sala,venda,8373.2,7081.7,10531.6,20,8.28,setembro/2026
+São Bernardo do Campo,Centro,sala,aluguel,57.8,52.5,90.3,9,8.28,setembro/2026
+São Bernardo do Campo,Jardim do Mar,sala,venda,4000.0,3377.5,11536.3,9,16.8,setembro/2026
+São Bernardo do Campo,Jardim do Mar,sala,aluguel,56.0,52.5,60.0,5,16.8,setembro/2026
+São Bernardo do Campo,Rudge Ramos,sala,venda,8989.1,7154.4,9828.3,16,,setembro/2026
+São Bernardo do Campo,Batistini,galpao,aluguel,35.0,34.8,36.5,8,,setembro/2026
+São Bernardo do Campo,Centro,galpao,aluguel,51.1,46.6,55.0,5,,setembro/2026
+São Bernardo do Campo,Planalto,galpao,aluguel,36.2,23.3,38.0,6,,setembro/2026
+São Bernardo do Campo,Rudge Ramos,galpao,aluguel,47.0,35.1,63.0,8,,setembro/2026

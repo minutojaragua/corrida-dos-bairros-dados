@@ -1,0 +1,136 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Canoas,Bela Vista,casa,venda,6067.1,4871.8,7227.1,167,,setembro/2026
+Canoas,Brigadeira,casa,venda,4658.0,3829.2,5533.6,18,,setembro/2026
+Canoas,Central Park,casa,venda,3666.7,3147.4,4000.0,13,,setembro/2026
+Canoas,Centro,casa,venda,4754.9,3512.1,5873.0,163,6.59,setembro/2026
+Canoas,Centro,casa,aluguel,26.1,21.3,34.5,39,6.59,setembro/2026
+Canoas,Cidade Nova,casa,venda,5085.7,4210.5,6666.7,29,,setembro/2026
+Canoas,Cinco Colônias,casa,venda,4159.3,3309.5,6332.4,23,,setembro/2026
+Canoas,Estância Velha,casa,venda,4857.1,3434.3,6506.8,409,7.68,setembro/2026
+Canoas,Estância Velha,casa,aluguel,31.1,22.2,38.1,82,7.68,setembro/2026
+Canoas,Fátima,casa,venda,4087.1,2970.7,5000.0,154,5.99,setembro/2026
+Canoas,Fátima,casa,aluguel,20.4,17.5,27.3,29,5.99,setembro/2026
+Canoas,Guajuviras,casa,venda,2525.9,1818.7,3499.7,110,,setembro/2026
+Canoas,Harmonia,casa,venda,3767.1,2666.7,4950.0,335,7.01,setembro/2026
+Canoas,Harmonia,casa,aluguel,22.0,16.4,28.6,103,7.01,setembro/2026
+Canoas,Igara,casa,venda,5302.3,3921.3,6675.6,506,6.79,setembro/2026
+Canoas,Igara,casa,aluguel,30.0,23.9,36.7,111,6.79,setembro/2026
+Canoas,"Igara I, II, III",casa,venda,6548.2,4207.0,7600.0,13,,setembro/2026
+Canoas,Igara III,casa,venda,6742.9,6544.4,6915.9,16,,setembro/2026
+Canoas,Jardim do Lago,casa,venda,5835.0,4297.7,6295.5,11,,setembro/2026
+Canoas,Marechal Rondon,casa,venda,6195.3,4417.9,8559.5,298,6.2,setembro/2026
+Canoas,Marechal Rondon,casa,aluguel,32.0,23.2,39.4,79,6.2,setembro/2026
+Canoas,Mathias Velho,casa,venda,2894.7,1952.1,3937.4,159,8.29,setembro/2026
+Canoas,Mathias Velho,casa,aluguel,20.0,16.7,25.9,29,8.29,setembro/2026
+Canoas,Mato Grande,casa,venda,3535.0,2919.4,4165.3,114,8.49,setembro/2026
+Canoas,Mato Grande,casa,aluguel,25.0,18.6,31.1,27,8.49,setembro/2026
+Canoas,Moinhos de Vento,casa,venda,5952.4,4845.4,7742.6,283,7.22,setembro/2026
+Canoas,Moinhos de Vento,casa,aluguel,35.8,27.4,40.3,19,7.22,setembro/2026
+Canoas,Mont Serrat,casa,venda,6982.3,5916.7,7750.0,109,,setembro/2026
+Canoas,Morada das Acácias,casa,venda,5178.1,4395.8,5957.9,14,,setembro/2026
+Canoas,Niterói,casa,venda,3918.1,2826.0,5100.1,244,7.07,setembro/2026
+Canoas,Niterói,casa,aluguel,23.1,16.8,28.2,36,7.07,setembro/2026
+Canoas,Nossa Senhora das Graças,casa,venda,4573.6,3410.5,5797.7,272,6.56,setembro/2026
+Canoas,Nossa Senhora das Graças,casa,aluguel,25.0,20.7,36.9,42,6.56,setembro/2026
+Canoas,Olaria,casa,venda,4164.2,3140.0,5348.3,195,8.13,setembro/2026
+Canoas,Olaria,casa,aluguel,28.2,20.3,40.6,23,8.13,setembro/2026
+Canoas,Parque Universitário,casa,venda,4692.3,3512.6,7085.1,7,,setembro/2026
+Canoas,Pitangueiras,casa,venda,3703.1,3409.1,4512.7,10,,setembro/2026
+Canoas,Quintas do Palermo,casa,venda,6282.0,5549.0,7131.2,10,,setembro/2026
+Canoas,Residencial dos Jardins,casa,venda,6141.3,5790.9,6636.4,17,,setembro/2026
+Canoas,Rio Branco,casa,venda,3475.6,2773.9,4542.9,180,6.94,setembro/2026
+Canoas,Rio Branco,casa,aluguel,20.1,16.3,24.4,39,6.94,setembro/2026
+Canoas,São José,casa,venda,4833.3,3687.5,5909.1,361,5.16,setembro/2026
+Canoas,São José,casa,aluguel,20.8,15.7,33.6,51,5.16,setembro/2026
+Canoas,São Luis,casa,venda,3652.2,2966.7,4494.5,63,,setembro/2026
+Canoas,Bairro Centro,apartamento,venda,7185.5,6357.6,9549.4,16,,setembro/2026
+Canoas,Bairro Marechal Rondon,apartamento,venda,8488.4,7203.2,10518.5,7,,setembro/2026
+Canoas,Bairro Nossa Senhora das Graças,apartamento,venda,9012.6,6046.8,10644.0,7,,setembro/2026
+Canoas,Centro,apartamento,venda,5504.6,4110.3,7543.4,700,6.47,setembro/2026
+Canoas,Centro,apartamento,aluguel,29.7,22.8,38.3,241,6.47,setembro/2026
+Canoas,Estância Velha,apartamento,venda,4432.6,3457.5,5883.1,136,8.42,setembro/2026
+Canoas,Estância Velha,apartamento,aluguel,31.1,26.8,37.6,75,8.42,setembro/2026
+Canoas,Fátima,apartamento,venda,4405.0,3552.4,5586.0,124,6.78,setembro/2026
+Canoas,Fátima,apartamento,aluguel,24.9,20.0,32.1,82,6.78,setembro/2026
+Canoas,Guajuviras,apartamento,venda,2928.3,2333.3,3484.8,53,7.99,setembro/2026
+Canoas,Guajuviras,apartamento,aluguel,19.5,12.8,22.4,8,7.99,setembro/2026
+Canoas,Harmonia,apartamento,venda,4779.2,4008.1,5263.2,29,5.8,setembro/2026
+Canoas,Harmonia,apartamento,aluguel,23.1,19.4,27.9,30,5.8,setembro/2026
+Canoas,Igara,apartamento,venda,4652.8,3601.5,6041.3,225,8.1,setembro/2026
+Canoas,Igara,apartamento,aluguel,31.4,25.9,38.6,122,8.1,setembro/2026
+Canoas,"Igara I, II, III",apartamento,venda,5668.7,4473.7,5946.6,13,,setembro/2026
+Canoas,Marechal Rondon,apartamento,venda,6346.2,4779.1,8910.7,447,7.19,setembro/2026
+Canoas,Marechal Rondon,apartamento,aluguel,38.0,28.0,49.9,197,7.19,setembro/2026
+Canoas,Mathias Velho,apartamento,venda,3248.0,2946.4,4008.0,13,7.39,setembro/2026
+Canoas,Mathias Velho,apartamento,aluguel,20.0,16.2,25.5,27,7.39,setembro/2026
+Canoas,Mato Grande,apartamento,venda,4075.3,3281.6,5029.1,104,6.48,setembro/2026
+Canoas,Mato Grande,apartamento,aluguel,22.0,18.5,28.6,80,6.48,setembro/2026
+Canoas,Moinhos de Vento,apartamento,venda,8017.9,6258.4,10229.9,49,,setembro/2026
+Canoas,Niterói,apartamento,venda,5322.6,4363.9,6216.3,83,4.85,setembro/2026
+Canoas,Niterói,apartamento,aluguel,21.5,17.8,29.2,26,4.85,setembro/2026
+Canoas,Nossa Senhora das Graças,apartamento,venda,6085.6,4332.1,8181.8,298,6.66,setembro/2026
+Canoas,Nossa Senhora das Graças,apartamento,aluguel,33.8,27.9,44.9,73,6.66,setembro/2026
+Canoas,Olaria,apartamento,venda,3800.0,3200.9,4663.4,99,8.12,setembro/2026
+Canoas,Olaria,apartamento,aluguel,25.7,21.0,29.9,66,8.12,setembro/2026
+Canoas,Rio Branco,apartamento,venda,3222.2,2342.0,4183.3,47,7.67,setembro/2026
+Canoas,Rio Branco,apartamento,aluguel,20.6,17.9,26.2,46,7.67,setembro/2026
+Canoas,São José,apartamento,venda,4545.5,3416.7,5606.8,81,8.82,setembro/2026
+Canoas,São José,apartamento,aluguel,33.4,24.3,42.9,83,8.82,setembro/2026
+Canoas,São Luis,apartamento,venda,4761.9,4568.8,5885.0,7,5.85,setembro/2026
+Canoas,São Luis,apartamento,aluguel,23.2,20.6,33.0,8,5.85,setembro/2026
+Canoas,Bela Vista,terreno,venda,1753.1,1667.2,2040.9,25,,setembro/2026
+Canoas,Brigadeira,terreno,venda,733.9,659.1,780.8,17,,setembro/2026
+Canoas,Centro,terreno,venda,1392.9,1123.6,1766.7,57,,setembro/2026
+Canoas,Cidade Nova,terreno,venda,1611.1,1333.3,1729.2,7,,setembro/2026
+Canoas,Estância Velha,terreno,venda,975.6,757.6,1641.9,89,,setembro/2026
+Canoas,Fátima,terreno,venda,833.3,690.5,1403.7,31,,setembro/2026
+Canoas,Guajuviras,terreno,venda,800.0,737.5,1182.2,15,,setembro/2026
+Canoas,Harmonia,terreno,venda,818.4,655.6,1000.0,21,,setembro/2026
+Canoas,Igara,terreno,venda,1221.9,1048.5,1740.2,107,,setembro/2026
+Canoas,Loteamento Paradis,terreno,venda,750.0,645.9,825.0,5,,setembro/2026
+Canoas,Marechal Rondon,terreno,venda,2385.3,1692.0,2851.0,99,,setembro/2026
+Canoas,Mathias Velho,terreno,venda,822.2,634.7,1762.1,52,,setembro/2026
+Canoas,Mato Grande,terreno,venda,756.1,520.8,971.2,8,,setembro/2026
+Canoas,Moinhos de Vento,terreno,venda,2108.3,1886.2,2771.0,20,,setembro/2026
+Canoas,Mont Serrat,terreno,venda,1966.7,1827.3,2064.5,23,,setembro/2026
+Canoas,Niterói,terreno,venda,800.0,660.6,966.8,47,,setembro/2026
+Canoas,Nossa Senhora das Graças,terreno,venda,1004.1,862.9,1469.9,68,,setembro/2026
+Canoas,Olaria,terreno,venda,606.8,446.4,880.0,57,,setembro/2026
+Canoas,Rio Branco,terreno,venda,875.0,710.8,1214.6,30,,setembro/2026
+Canoas,São José,terreno,venda,1014.7,827.4,1370.1,64,,setembro/2026
+Canoas,São Luis,terreno,venda,549.6,266.7,822.4,37,,setembro/2026
+Canoas,Centro,sala,venda,5594.6,4382.1,8996.5,110,7.14,setembro/2026
+Canoas,Centro,sala,aluguel,33.3,24.3,53.2,280,7.14,setembro/2026
+Canoas,Estância Velha,sala,venda,5625.0,4893.6,9137.1,5,7.83,setembro/2026
+Canoas,Estância Velha,sala,aluguel,36.7,25.0,56.1,89,7.83,setembro/2026
+Canoas,Guajuviras,sala,aluguel,31.1,29.2,36.4,6,,setembro/2026
+Canoas,Harmonia,sala,aluguel,33.3,27.4,39.4,44,,setembro/2026
+Canoas,Igara,sala,aluguel,44.3,32.1,55.3,74,,setembro/2026
+Canoas,Marechal Rondon,sala,venda,10772.1,8221.9,12534.2,48,6.17,setembro/2026
+Canoas,Marechal Rondon,sala,aluguel,55.4,39.5,71.9,170,6.17,setembro/2026
+Canoas,Mathias Velho,sala,aluguel,30.0,24.0,38.0,61,,setembro/2026
+Canoas,Mato Grande,sala,aluguel,27.2,22.1,29.9,17,,setembro/2026
+Canoas,Moinhos de Vento,sala,aluguel,63.5,48.3,65.1,6,,setembro/2026
+Canoas,Niterói,sala,aluguel,33.7,27.0,45.5,80,,setembro/2026
+Canoas,Nossa Senhora das Graças,sala,aluguel,48.5,38.3,59.2,69,,setembro/2026
+Canoas,Olaria,sala,aluguel,38.6,32.7,44.0,12,,setembro/2026
+Canoas,Rio Branco,sala,aluguel,33.3,25.0,35.0,13,,setembro/2026
+Canoas,São José,sala,aluguel,24.5,20.0,39.5,13,,setembro/2026
+Canoas,São Luis,sala,aluguel,30.6,22.3,32.2,7,,setembro/2026
+Canoas,Brigadeira,galpao,aluguel,20.7,19.5,22.9,8,,setembro/2026
+Canoas,Centro,galpao,aluguel,17.7,15.1,24.8,18,,setembro/2026
+Canoas,Estância Velha,galpao,aluguel,12.8,9.5,20.3,14,,setembro/2026
+Canoas,Fátima,galpao,aluguel,15.7,11.2,20.8,15,,setembro/2026
+Canoas,Harmonia,galpao,aluguel,25.0,19.0,29.0,5,,setembro/2026
+Canoas,Igara,galpao,aluguel,21.2,14.1,27.2,26,,setembro/2026
+Canoas,Industrial,galpao,aluguel,7.8,6.3,14.8,5,,setembro/2026
+Canoas,Marechal Rondon,galpao,aluguel,22.7,12.5,27.8,12,,setembro/2026
+Canoas,Mathias Velho,galpao,aluguel,15.1,11.1,22.3,34,,setembro/2026
+Canoas,Mato Grande,galpao,aluguel,20.8,16.8,21.7,11,,setembro/2026
+Canoas,Niterói,galpao,venda,2692.8,2073.0,3061.9,6,8.91,setembro/2026
+Canoas,Niterói,galpao,aluguel,20.0,14.0,27.3,27,8.91,setembro/2026
+Canoas,Nossa Senhora das Graças,galpao,aluguel,24.7,16.7,28.4,16,,setembro/2026
+Canoas,Olaria,galpao,aluguel,17.8,11.7,28.0,5,,setembro/2026
+Canoas,Rio Branco,galpao,aluguel,13.9,11.1,20.2,18,,setembro/2026
+Canoas,São José,galpao,aluguel,17.5,14.8,23.9,9,,setembro/2026
+Canoas,São Luis,galpao,aluguel,24.0,18.3,25.0,49,,setembro/2026

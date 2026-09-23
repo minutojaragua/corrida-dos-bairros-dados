@@ -1,0 +1,18 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Maricá,Barroco,casa,venda,4240.9,2772.4,4947.4,6,,setembro/2026
+Maricá,Barroco (Itaipuaçu),casa,venda,4454.5,3704.5,6507.0,7,,setembro/2026
+Maricá,Chácaras de Inoã (Inoã),casa,venda,4114.3,1826.3,4803.7,6,,setembro/2026
+Maricá,Inoã,casa,venda,4581.7,3458.3,5667.8,24,,setembro/2026
+Maricá,Inoã (Inoã),casa,venda,4424.8,2860.1,6591.4,8,,setembro/2026
+Maricá,Itaipuaçu,casa,venda,3770.8,2448.9,5500.0,26,,setembro/2026
+Maricá,Itapeba,casa,venda,3460.6,2325.0,4750.0,6,,setembro/2026
+Maricá,Jardim Atlântico,casa,venda,4626.9,2673.8,4864.4,7,,setembro/2026
+Maricá,Jardim Atlântico Central (Itaipuaçu),casa,venda,4000.0,2592.6,5409.8,9,,setembro/2026
+Maricá,Jardim Atlântico Leste (Itaipuaçu),casa,venda,5078.9,4222.2,6571.4,10,,setembro/2026
+Maricá,Jardim Atlântico Oeste (Itaipuaçu),casa,venda,4605.1,4134.2,5033.3,6,,setembro/2026
+Maricá,São José do Imbassaí,casa,venda,4466.7,2898.7,4906.6,18,,setembro/2026
+Maricá,Ubatiba,casa,venda,4714.3,4074.4,5279.4,11,,setembro/2026
+Maricá,Itaipuaçu,terreno,venda,364.6,166.8,488.5,19,,setembro/2026
+Maricá,Ponta Negra,terreno,venda,333.3,252.0,384.3,7,,setembro/2026
+Maricá,São José do Imbassaí,terreno,venda,263.9,236.8,360.1,10,,setembro/2026
+Maricá,Ubatiba,terreno,venda,183.2,157.0,321.1,5,,setembro/2026

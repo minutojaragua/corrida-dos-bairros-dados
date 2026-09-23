@@ -1,0 +1,33 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Senador Canedo,Jardim Veneza,casa,venda,6666.7,5343.5,7142.9,9,,setembro/2026
+Senador Canedo,Jardins Barcelona,casa,venda,7889.7,6743.3,8247.6,22,,setembro/2026
+Senador Canedo,Jardins Bolonha,casa,venda,7352.6,6507.1,8074.3,30,,setembro/2026
+Senador Canedo,Jardins Capri,casa,venda,7568.8,6607.7,8129.0,27,,setembro/2026
+Senador Canedo,Jardins Frankfurt,casa,venda,2304.7,1809.1,5712.0,5,,setembro/2026
+Senador Canedo,Jardins Nápoles,casa,venda,8108.1,7485.2,8945.4,15,,setembro/2026
+Senador Canedo,Jardins Parma,casa,venda,8117.8,6995.6,8655.7,6,,setembro/2026
+Senador Canedo,Jardins Porto,casa,venda,7776.5,7039.3,8480.6,16,,setembro/2026
+Senador Canedo,Residencial Condomínio Jardim Veneza,casa,venda,4500.0,3666.7,6358.6,9,,setembro/2026
+Senador Canedo,Residencial Marília,casa,venda,5050.8,3982.1,7239.2,12,,setembro/2026
+Senador Canedo,Residencial Morada do Bosque,casa,venda,8888.9,7822.6,9444.4,5,,setembro/2026
+Senador Canedo,Residencial Ravena,casa,venda,4000.0,3888.9,4047.3,5,,setembro/2026
+Senador Canedo,Residencial Vale Verde,casa,venda,6500.0,4731.8,6853.7,5,,setembro/2026
+Senador Canedo,Terras Alpha 1,casa,venda,6816.1,5899.1,7134.3,6,,setembro/2026
+Senador Canedo,Terras Alpha Residencial 1,casa,venda,5816.0,4562.4,6349.0,8,,setembro/2026
+Senador Canedo,Terras Alpha Residencial 2,casa,venda,6490.1,6043.5,7533.3,5,,setembro/2026
+Senador Canedo,Estância Vargem Bonita,terreno,venda,500.0,244.5,875.0,7,,setembro/2026
+Senador Canedo,Jardins Barcelona,terreno,venda,1008.6,939.0,1099.3,11,,setembro/2026
+Senador Canedo,Jardins Bolonha,terreno,venda,1000.0,907.8,1061.1,7,,setembro/2026
+Senador Canedo,Jardins Capri,terreno,venda,1000.0,957.9,1082.0,17,,setembro/2026
+Senador Canedo,Jardins Nápoles,terreno,venda,871.7,845.3,892.9,12,,setembro/2026
+Senador Canedo,Jardins Parma,terreno,venda,937.4,878.3,996.5,22,,setembro/2026
+Senador Canedo,Jardins Porto,terreno,venda,990.7,933.3,1077.8,23,,setembro/2026
+Senador Canedo,Jardins Roma,terreno,venda,1397.5,1272.7,1538.7,6,,setembro/2026
+Senador Canedo,Jardins Turim,terreno,venda,1385.2,1245.7,1420.3,8,,setembro/2026
+Senador Canedo,Residencial Marília,terreno,venda,1400.0,968.6,1500.0,9,,setembro/2026
+Senador Canedo,Solaris Laguna,terreno,venda,1139.2,1072.7,1200.0,5,,setembro/2026
+Senador Canedo,Terras Alpha 1,terreno,venda,583.3,541.7,666.7,7,,setembro/2026
+Senador Canedo,Terras Alpha 2,terreno,venda,628.1,545.8,703.3,18,,setembro/2026
+Senador Canedo,Terras Alpha Residencial 1,terreno,venda,541.7,512.2,606.8,7,,setembro/2026
+Senador Canedo,Terras Alpha Residencial 2,terreno,venda,561.6,542.6,602.3,10,,setembro/2026
+Senador Canedo,Vinhas Flamboyant,terreno,venda,1482.9,1395.7,1541.4,10,,setembro/2026

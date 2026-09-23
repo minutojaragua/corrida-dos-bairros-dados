@@ -1,0 +1,40 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Aquiraz,Aquiraz,casa,venda,3562.5,2676.3,7200.0,15,,setembro/2026
+Aquiraz,Barro Preto,casa,venda,1920.0,1363.6,2296.7,5,,setembro/2026
+Aquiraz,Camará,casa,venda,3350.0,2622.3,5849.1,6,,setembro/2026
+Aquiraz,Centro,casa,venda,3750.0,3176.0,4464.3,16,,setembro/2026
+Aquiraz,Chácara da Prainha,casa,venda,3228.5,2773.0,3499.8,8,,setembro/2026
+Aquiraz,Jacunda,casa,venda,5994.1,5041.4,6838.0,38,,setembro/2026
+Aquiraz,Loteamento Sol Nascente,casa,venda,3289.4,3174.9,3474.3,10,,setembro/2026
+Aquiraz,Porto das Dunas,casa,venda,4818.6,3729.5,6290.7,67,6.8,setembro/2026
+Aquiraz,Porto das Dunas,casa,aluguel,27.3,17.7,33.4,5,6.8,setembro/2026
+Aquiraz,Praia do Presídio,casa,venda,1650.0,1485.3,2566.7,11,,setembro/2026
+Aquiraz,Prainha,casa,venda,3476.7,2436.3,4905.1,8,,setembro/2026
+Aquiraz,Tapera,casa,venda,3576.8,1997.0,9202.8,6,,setembro/2026
+Aquiraz,Vila Terra Brasilis,casa,venda,6600.0,5823.4,7007.0,9,,setembro/2026
+Aquiraz,Aquiraz,apartamento,venda,11354.4,9595.4,11711.5,24,,setembro/2026
+Aquiraz,Aquiraz Riviera,apartamento,venda,11136.4,10339.0,12878.0,21,,setembro/2026
+Aquiraz,Centro,apartamento,venda,9469.4,5393.0,11362.1,6,,setembro/2026
+Aquiraz,Japao,apartamento,venda,12122.5,11352.3,12502.1,10,,setembro/2026
+Aquiraz,Loteamento Parque das Fontes,apartamento,venda,11538.5,10000.0,12907.7,9,,setembro/2026
+Aquiraz,Porta das Dunas,apartamento,venda,11137.9,9849.7,14543.6,12,,setembro/2026
+Aquiraz,Porto das Dunas,apartamento,venda,10131.1,7629.9,14640.9,298,6.02,setembro/2026
+Aquiraz,Porto das Dunas,apartamento,aluguel,50.8,28.1,78.9,11,6.02,setembro/2026
+Aquiraz,Praia do Japão,apartamento,venda,11230.8,10769.2,11538.5,5,,setembro/2026
+Aquiraz,Prainha,apartamento,venda,9910.4,4779.1,14112.8,14,,setembro/2026
+Aquiraz,Tapera,apartamento,venda,10478.1,9182.3,12471.7,16,,setembro/2026
+Aquiraz,Aquiraz,terreno,venda,530.0,257.2,714.9,24,,setembro/2026
+Aquiraz,Bairro Terra Brasilis,terreno,venda,683.6,600.0,725.0,5,,setembro/2026
+Aquiraz,Bairro Vila Terra Brasílis,terreno,venda,732.3,700.0,738.9,5,,setembro/2026
+Aquiraz,Camará,terreno,venda,338.7,203.4,450.0,22,,setembro/2026
+Aquiraz,Centro,terreno,venda,681.8,625.0,802.2,13,,setembro/2026
+Aquiraz,Jacunda,terreno,venda,812.4,679.8,1100.0,109,,setembro/2026
+Aquiraz,Loteamento Novo,terreno,venda,694.7,437.5,996.9,10,,setembro/2026
+Aquiraz,Loteamento Rio Mar,terreno,venda,1116.4,900.0,1157.9,5,,setembro/2026
+Aquiraz,Lt dos Bandeirantes,terreno,venda,709.0,709.0,709.0,7,,setembro/2026
+Aquiraz,Lt Plan Novo,terreno,venda,1101.8,872.1,1224.3,13,,setembro/2026
+Aquiraz,Patacas,terreno,venda,262.4,99.9,391.7,8,,setembro/2026
+Aquiraz,Porto das Dunas,terreno,venda,444.4,309.4,656.6,28,,setembro/2026
+Aquiraz,Tapera,terreno,venda,229.2,100.8,720.0,5,,setembro/2026
+Aquiraz,Vila Terra Brasilis,terreno,venda,724.2,634.5,1089.3,38,,setembro/2026
+Aquiraz,Villa Terra Brasilis,terreno,venda,690.0,649.0,718.0,9,,setembro/2026

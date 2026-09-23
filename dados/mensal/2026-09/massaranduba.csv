@@ -1,0 +1,10 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Massaranduba,Campinha,casa,venda,5435.9,4103.1,5978.4,7,,setembro/2026
+Massaranduba,Centro,casa,venda,3750.0,2512.8,5000.0,33,,setembro/2026
+Massaranduba,Patrimônio,casa,venda,2636.4,1199.3,4561.7,7,,setembro/2026
+Massaranduba,Butuca,terreno,venda,414.2,316.4,555.0,6,,setembro/2026
+Massaranduba,Campinha,terreno,venda,327.2,233.8,429.2,11,,setembro/2026
+Massaranduba,Centro,terreno,venda,632.4,299.5,898.2,28,,setembro/2026
+Massaranduba,Guarani Mirim,terreno,venda,108.2,49.9,290.2,8,,setembro/2026
+Massaranduba,Patrimônio,terreno,venda,262.8,177.0,355.8,10,,setembro/2026
+Massaranduba,Patrimônio,galpao,venda,1587.5,690.3,2666.7,5,,setembro/2026

@@ -1,0 +1,28 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Barra dos Coqueiros,Alamedas da Barra,casa,venda,5092.6,4792.8,5679.0,14,,setembro/2026
+Barra dos Coqueiros,Alphaville,casa,venda,5418.2,4705.7,6051.6,30,,setembro/2026
+Barra dos Coqueiros,Barra dos Coqueiros,casa,venda,3150.0,2633.3,4428.6,41,,setembro/2026
+Barra dos Coqueiros,Capuã,casa,venda,5185.2,4661.0,5483.9,9,,setembro/2026
+Barra dos Coqueiros,Centro,casa,venda,4947.4,3041.5,5643.3,44,,setembro/2026
+Barra dos Coqueiros,Luar da Barra,casa,venda,4545.5,3958.3,5501.8,19,,setembro/2026
+Barra dos Coqueiros,Luar da Barra 1,casa,venda,4687.5,3318.8,4969.9,7,,setembro/2026
+Barra dos Coqueiros,Olhos d'Água,casa,venda,5208.3,4333.3,5887.1,57,,setembro/2026
+Barra dos Coqueiros,Serigy,casa,venda,6700.0,5783.3,7125.4,6,,setembro/2026
+Barra dos Coqueiros,Zona de Expansão (Olhos d'Agua),casa,venda,5282.3,3596.9,5822.7,22,,setembro/2026
+Barra dos Coqueiros,Alphaville,apartamento,venda,5086.2,4241.1,5666.7,5,,setembro/2026
+Barra dos Coqueiros,Barra dos Coqueiros,apartamento,venda,4300.0,3973.6,4704.1,11,,setembro/2026
+Barra dos Coqueiros,Centro,apartamento,venda,3800.0,3477.3,4711.5,19,6.95,setembro/2026
+Barra dos Coqueiros,Centro,apartamento,aluguel,22.0,21.2,27.3,11,6.95,setembro/2026
+Barra dos Coqueiros,Costa Paradiso,apartamento,venda,5079.4,4536.6,5306.4,19,,setembro/2026
+Barra dos Coqueiros,Espaço Tropical,apartamento,venda,5172.4,4583.3,5689.7,21,5.43,setembro/2026
+Barra dos Coqueiros,Espaço Tropical,apartamento,aluguel,23.4,20.0,31.7,7,5.43,setembro/2026
+Barra dos Coqueiros,Luar da Barra,apartamento,venda,3913.0,3564.5,5087.7,17,,setembro/2026
+Barra dos Coqueiros,Olhos d'Água,apartamento,venda,4210.5,3265.3,4963.0,13,,setembro/2026
+Barra dos Coqueiros,Alphaville,terreno,venda,823.8,694.7,898.0,13,,setembro/2026
+Barra dos Coqueiros,Barra dos Coqueiros,terreno,venda,677.4,581.7,824.7,40,,setembro/2026
+Barra dos Coqueiros,Capuã,terreno,venda,658.9,603.7,745.3,40,,setembro/2026
+Barra dos Coqueiros,Centro,terreno,venda,746.0,570.3,895.9,24,,setembro/2026
+Barra dos Coqueiros,Luar da Barra,terreno,venda,733.6,563.2,909.6,8,,setembro/2026
+Barra dos Coqueiros,Olhos d'Água,terreno,venda,737.0,657.9,953.8,41,,setembro/2026
+Barra dos Coqueiros,Rodovia Se-100,terreno,venda,606.0,571.8,645.4,6,,setembro/2026
+Barra dos Coqueiros,Zona de Expansão (Olhos d'Agua),terreno,venda,550.0,456.1,621.4,7,,setembro/2026

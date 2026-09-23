@@ -1,0 +1,16 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Chapada dos Guimarães,Aldeia Velha,casa,venda,5500.0,3600.0,8060.1,13,,setembro/2026
+Chapada dos Guimarães,Bom Clima,casa,venda,5303.0,2686.7,6935.9,59,,setembro/2026
+Chapada dos Guimarães,Centro,casa,venda,4389.5,2825.9,6434.1,50,,setembro/2026
+Chapada dos Guimarães,Chapada dos Guimarães,casa,venda,6500.0,5011.9,8038.6,29,,setembro/2026
+Chapada dos Guimarães,Florada da Serra,casa,venda,2812.5,1287.3,4728.1,10,,setembro/2026
+Chapada dos Guimarães,Manso,casa,venda,4494.4,2806.1,4902.8,7,,setembro/2026
+Chapada dos Guimarães,Miraflores,casa,venda,5011.9,3291.2,6505.0,11,,setembro/2026
+Chapada dos Guimarães,Aldeia Velha,terreno,venda,580.8,233.3,600.0,9,,setembro/2026
+Chapada dos Guimarães,Bom Clima,terreno,venda,800.0,611.2,1504.3,15,,setembro/2026
+Chapada dos Guimarães,Centro,terreno,venda,600.0,439.3,1242.3,35,,setembro/2026
+Chapada dos Guimarães,Chapada dos Guimarães,terreno,venda,553.0,197.9,876.7,23,,setembro/2026
+Chapada dos Guimarães,Florada da Serra,terreno,venda,333.3,278.3,341.7,6,,setembro/2026
+Chapada dos Guimarães,Florais Chapada,terreno,venda,1510.4,1422.2,1658.3,15,,setembro/2026
+Chapada dos Guimarães,Lago do Manso,terreno,venda,384.0,102.8,760.0,9,,setembro/2026
+Chapada dos Guimarães,Manso,terreno,venda,150.0,120.5,327.7,11,,setembro/2026

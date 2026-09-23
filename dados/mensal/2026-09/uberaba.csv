@@ -1,0 +1,425 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Uberaba,Abadia,casa,venda,2695.8,2361.5,3260.9,77,8.1,setembro/2026
+Uberaba,Abadia,casa,aluguel,18.2,17.6,24.6,6,8.1,setembro/2026
+Uberaba,Alfredo Freire I,casa,venda,1882.8,1828.6,2008.0,5,,setembro/2026
+Uberaba,Alfredo Freire III,casa,venda,3200.0,2694.3,4144.3,7,,setembro/2026
+Uberaba,Amoroso Costa,casa,venda,2662.2,2401.5,3657.1,20,,setembro/2026
+Uberaba,Antônia Cândida I,casa,venda,2166.7,2035.9,2629.1,7,,setembro/2026
+Uberaba,Ayat 2,casa,venda,8000.0,7352.9,8277.8,5,,setembro/2026
+Uberaba,Beija-Flor,casa,venda,2485.3,2120.6,2884.5,22,,setembro/2026
+Uberaba,Beija-Flor II,casa,venda,3589.7,2359.6,5582.5,57,11.4,setembro/2026
+Uberaba,Beija-Flor II,casa,aluguel,34.1,23.7,36.1,7,11.4,setembro/2026
+Uberaba,Boa Vista,casa,venda,2546.3,2026.1,3365.9,165,7.07,setembro/2026
+Uberaba,Boa Vista,casa,aluguel,15.0,12.0,18.2,33,7.07,setembro/2026
+Uberaba,Bom Retiro,casa,venda,2355.1,1712.0,3109.2,29,6.93,setembro/2026
+Uberaba,Bom Retiro,casa,aluguel,13.6,11.0,16.6,7,6.93,setembro/2026
+Uberaba,Cassio Rezende,casa,venda,2500.4,2270.1,2923.9,10,,setembro/2026
+Uberaba,Centro,casa,venda,2792.6,2020.5,3605.1,66,8.08,setembro/2026
+Uberaba,Centro,casa,aluguel,18.8,14.2,22.5,37,8.08,setembro/2026
+Uberaba,Cidade Jardim,casa,venda,2787.7,2362.9,3207.8,24,10.03,setembro/2026
+Uberaba,Cidade Jardim,casa,aluguel,23.3,21.0,25.2,7,10.03,setembro/2026
+Uberaba,Cidade Nova,casa,venda,2792.6,2177.5,3278.1,48,,setembro/2026
+Uberaba,Cidade Ozanan,casa,venda,1733.3,1666.7,1891.9,5,,setembro/2026
+Uberaba,Club Residence Ayat,casa,venda,6417.1,6095.2,7325.0,9,,setembro/2026
+Uberaba,Conjunto Alfredo Freire,casa,venda,1738.5,1679.5,1787.3,7,,setembro/2026
+Uberaba,Conjunto Antônio Barbosa de Souza,casa,venda,2083.3,1783.0,2513.5,7,,setembro/2026
+Uberaba,Conjunto Cássio Rezende,casa,venda,2044.4,1865.3,2605.1,27,8.63,setembro/2026
+Uberaba,Conjunto Cássio Rezende,casa,aluguel,14.7,11.5,18.7,6,8.63,setembro/2026
+Uberaba,Conjunto Chica Ferreira,casa,venda,2323.2,1428.2,2695.2,7,,setembro/2026
+Uberaba,Conjunto Costa Telles I,casa,venda,2142.9,1891.3,2900.0,29,,setembro/2026
+Uberaba,Conjunto Costa Telles II,casa,venda,2373.8,2144.6,2743.3,34,,setembro/2026
+Uberaba,Conjunto Frei Eugênio,casa,venda,2616.3,2279.4,2974.3,23,,setembro/2026
+Uberaba,Conjunto Guanabara,casa,venda,2639.8,2043.5,3142.3,15,,setembro/2026
+Uberaba,Conjunto José Barbosa,casa,venda,2365.3,2171.2,2561.9,12,,setembro/2026
+Uberaba,Conjunto José Vallim de Melo,casa,venda,1818.2,1525.2,2610.1,23,,setembro/2026
+Uberaba,Conjunto Manoel Mendes,casa,venda,2862.6,2353.5,3737.2,48,6.29,setembro/2026
+Uberaba,Conjunto Manoel Mendes,casa,aluguel,15.0,14.3,22.5,5,6.29,setembro/2026
+Uberaba,Conjunto Margarida Rosa de Azevedo,casa,venda,3866.0,2329.5,4999.3,47,,setembro/2026
+Uberaba,Conjunto Maringá I,casa,venda,1869.6,1833.3,1954.3,5,,setembro/2026
+Uberaba,Conjunto Morada do Sol,casa,venda,2111.1,1800.0,2837.8,17,,setembro/2026
+Uberaba,Conjunto Pontal,casa,venda,3157.9,2727.3,4285.7,13,,setembro/2026
+Uberaba,Conjunto Uberaba,casa,venda,1816.2,1533.3,2129.7,34,,setembro/2026
+Uberaba,Conjunto Umuarama,casa,venda,2705.5,2178.4,3164.6,7,,setembro/2026
+Uberaba,Cyrela Landscape,casa,venda,8152.0,7243.5,9104.3,74,5.52,setembro/2026
+Uberaba,Cyrela Landscape,casa,aluguel,37.5,34.6,42.1,7,5.52,setembro/2026
+Uberaba,Cyrela Landscape II (Residencial Vitória),casa,venda,8500.0,7600.2,8666.0,7,,setembro/2026
+Uberaba,Damha II,casa,venda,10217.4,6000.0,11399.0,5,,setembro/2026
+Uberaba,Damha III Residencial,casa,venda,10895.3,10215.3,11293.0,8,,setembro/2026
+Uberaba,Damha Residencial Uberaba I,casa,venda,8734.1,6893.1,9705.9,36,,setembro/2026
+Uberaba,Damha Residencial Uberaba II,casa,venda,8948.5,8287.0,10582.5,46,,setembro/2026
+Uberaba,Damha Residencial Uberaba III,casa,venda,10275.9,9643.1,11117.1,28,,setembro/2026
+Uberaba,Dom Eduardo,casa,venda,4109.6,3320.0,4452.1,13,,setembro/2026
+Uberaba,Elza Amui,casa,venda,1801.1,1439.4,2567.2,6,,setembro/2026
+Uberaba,"Espanha, Residencial Jardim",casa,venda,3936.9,3551.6,4840.9,8,,setembro/2026
+Uberaba,Estados Unidos,casa,venda,2907.0,2235.3,3602.8,125,7.22,setembro/2026
+Uberaba,Estados Unidos,casa,aluguel,17.5,13.0,20.7,33,7.22,setembro/2026
+Uberaba,Estados Unidos - Residencial,casa,venda,2679.8,2144.4,3603.2,8,,setembro/2026
+Uberaba,Estância dos Ipês,casa,venda,8222.2,7211.1,9033.0,83,4.86,setembro/2026
+Uberaba,Estância dos Ipês,casa,aluguel,33.3,29.8,46.6,11,4.86,setembro/2026
+Uberaba,Fabrício,casa,venda,2691.7,1939.0,3544.9,151,7.45,setembro/2026
+Uberaba,Fabrício,casa,aluguel,16.7,13.8,21.7,22,7.45,setembro/2026
+Uberaba,Flamboyant Residencial Park,casa,venda,7561.8,6935.8,8910.0,44,5.55,setembro/2026
+Uberaba,Flamboyant Residencial Park,casa,aluguel,35.0,31.4,42.1,8,5.55,setembro/2026
+Uberaba,Grande Horizonte,casa,venda,2636.0,2221.7,3466.9,48,,setembro/2026
+Uberaba,Ilha Bela,casa,venda,4160.7,3444.7,4688.3,6,,setembro/2026
+Uberaba,Irmãos Soares,casa,aluguel,17.2,15.9,18.5,5,,setembro/2026
+Uberaba,Jardim Alexandre Campos,casa,venda,3224.5,2596.7,4040.6,23,6.55,setembro/2026
+Uberaba,Jardim Alexandre Campos,casa,aluguel,17.6,15.6,24.4,13,6.55,setembro/2026
+Uberaba,Jardim América,casa,venda,1562.5,1247.5,2250.0,7,,setembro/2026
+Uberaba,Jardim Baronesa,casa,venda,7239.8,6270.0,7973.4,7,,setembro/2026
+Uberaba,Jardim Califórnia,casa,venda,1826.1,1656.0,2361.3,7,,setembro/2026
+Uberaba,Jardim Copacabana,casa,venda,2773.5,2139.7,3755.6,28,,setembro/2026
+Uberaba,Jardim do Lago,casa,venda,5238.1,4179.1,7169.3,83,,setembro/2026
+Uberaba,Jardim Eldorado,casa,venda,2697.3,2016.8,3573.5,23,,setembro/2026
+Uberaba,Jardim Elza Amuí I,casa,venda,3057.9,2185.6,3379.4,14,,setembro/2026
+Uberaba,Jardim Elza Amuí II,casa,venda,2877.5,2093.0,3017.2,13,,setembro/2026
+Uberaba,Jardim Elza Amuí III,casa,venda,2506.5,2275.6,2727.6,6,,setembro/2026
+Uberaba,Jardim Elza Amuí IV,casa,venda,2500.0,1926.1,2893.2,17,,setembro/2026
+Uberaba,Jardim Espanha,casa,venda,2898.3,2422.4,3920.7,46,,setembro/2026
+Uberaba,Jardim Espírito Santo,casa,venda,3200.8,2385.4,4241.2,35,,setembro/2026
+Uberaba,Jardim Esplanada,casa,venda,2755.7,2116.4,3026.1,7,,setembro/2026
+Uberaba,Jardim Induberaba,casa,venda,3073.1,2692.9,3468.4,30,6.13,setembro/2026
+Uberaba,Jardim Induberaba,casa,aluguel,15.7,14.2,21.7,5,6.13,setembro/2026
+Uberaba,Jardim Itália,casa,venda,2907.8,2000.8,3818.2,17,,setembro/2026
+Uberaba,Jardim Itália II,casa,venda,3161.6,2694.1,4331.6,10,,setembro/2026
+Uberaba,Jardim Maracanã,casa,venda,2352.9,1965.9,3442.9,71,7.4,setembro/2026
+Uberaba,Jardim Maracanã,casa,aluguel,14.5,12.3,17.0,8,7.4,setembro/2026
+Uberaba,Jardim Marajó,casa,venda,3796.6,2818.8,4548.9,22,,setembro/2026
+Uberaba,Jardim Maria Alice,casa,venda,4366.2,2930.9,4984.1,15,,setembro/2026
+Uberaba,Jardim Nenê Gomes,casa,venda,3985.5,3259.7,4645.5,55,,setembro/2026
+Uberaba,Jardim Primavera,casa,venda,1741.8,1150.0,2149.2,8,,setembro/2026
+Uberaba,Jardim São Bento,casa,venda,3446.2,2924.5,4000.0,73,7.14,setembro/2026
+Uberaba,Jardim São Bento,casa,aluguel,20.5,16.1,23.0,7,7.14,setembro/2026
+Uberaba,Jardim Triângulo,casa,venda,2874.7,2000.0,3230.8,5,,setembro/2026
+Uberaba,Jardim Uberaba,casa,venda,1866.7,1682.3,2400.0,21,,setembro/2026
+Uberaba,Jockey Park,casa,venda,8118.1,6284.4,9056.6,21,,setembro/2026
+Uberaba,Jockey Park II,casa,venda,8079.3,5789.5,8118.1,5,,setembro/2026
+Uberaba,Josa Bernardino I,casa,venda,2234.0,1621.1,2336.4,11,,setembro/2026
+Uberaba,Josa Bernardino II,casa,venda,2125.6,1792.3,2375.0,10,,setembro/2026
+Uberaba,Laranjeiras II,casa,venda,3740.1,3371.4,4894.9,10,,setembro/2026
+Uberaba,"Laranjeiras II, Parque",casa,venda,4234.2,3193.2,5283.2,10,,setembro/2026
+Uberaba,"Laranjeiras, Parque",casa,venda,4782.6,4576.3,5470.6,13,,setembro/2026
+Uberaba,Leblon,casa,venda,2347.6,1865.0,3383.5,41,,setembro/2026
+Uberaba,Loteamento Antônio Caiado,casa,venda,4456.1,3670.9,4833.3,5,,setembro/2026
+Uberaba,Loteamento Ilha Bela,casa,venda,4500.0,3333.3,4909.1,21,,setembro/2026
+Uberaba,Loteamento Isabel do Nascimento,casa,venda,4312.9,3905.4,4595.8,6,,setembro/2026
+Uberaba,Loteamento Residencial Cândida Borges,casa,venda,2610.2,2397.2,3810.2,10,,setembro/2026
+Uberaba,Loteamento Residencial Isabel do Nascimento,casa,venda,3453.9,2885.7,3831.6,8,,setembro/2026
+Uberaba,Loteamento Residencial Tamareiras,casa,venda,4255.3,4090.9,4500.0,7,,setembro/2026
+Uberaba,Lourdes,casa,venda,2440.2,1709.8,2906.2,74,,setembro/2026
+Uberaba,"Lourdes, Bairro",casa,venda,2694.3,2569.0,3071.4,5,,setembro/2026
+Uberaba,Mangueiras,casa,venda,2356.4,2142.1,2518.4,5,,setembro/2026
+Uberaba,Manhattan,casa,venda,2704.1,2171.1,3846.2,13,,setembro/2026
+Uberaba,Manoel Mendes,casa,venda,2695.8,2407.0,3240.8,21,,setembro/2026
+Uberaba,Maracanã,casa,venda,4021.7,3412.7,4757.1,9,,setembro/2026
+Uberaba,"Maracanã, Jardim",casa,venda,3300.1,2986.9,3643.7,8,,setembro/2026
+Uberaba,Mercês,casa,venda,3354.8,2439.9,4411.8,121,6.37,setembro/2026
+Uberaba,Mercês,casa,aluguel,17.8,13.7,20.5,27,6.37,setembro/2026
+Uberaba,Morada das Fontes,casa,venda,5471.7,4212.0,6623.9,11,4.01,setembro/2026
+Uberaba,Morada das Fontes,casa,aluguel,18.3,15.8,20.2,5,4.01,setembro/2026
+Uberaba,Moradas,casa,venda,3827.7,3517.5,4483.9,8,,setembro/2026
+Uberaba,Morumbi,casa,venda,3887.6,2851.9,3900.0,5,,setembro/2026
+Uberaba,Morumbi - Residencial,casa,venda,3204.4,3055.6,3907.8,5,,setembro/2026
+Uberaba,"Nenê Gomes, Jardim",casa,venda,4036.0,3605.6,4855.9,18,,setembro/2026
+Uberaba,Nossa Senhora da Abadia,casa,venda,2635.6,2151.3,3226.5,154,7.33,setembro/2026
+Uberaba,Nossa Senhora da Abadia,casa,aluguel,16.1,11.7,23.7,33,7.33,setembro/2026
+Uberaba,Núcleo Habitacional Silvério Cartafina,casa,venda,2000.0,1799.1,2760.2,14,,setembro/2026
+Uberaba,Núcleo Residencial Tutunas,casa,venda,2840.9,2681.6,3728.4,5,,setembro/2026
+Uberaba,Olinda,casa,venda,3208.6,2519.6,3840.0,104,7.41,setembro/2026
+Uberaba,Olinda,casa,aluguel,19.8,17.1,22.5,8,7.41,setembro/2026
+Uberaba,Oneida Mendes,casa,venda,3173.8,2602.7,3708.3,27,,setembro/2026
+Uberaba,Oneida Mendes II,casa,venda,4950.0,3686.2,5135.6,12,,setembro/2026
+Uberaba,Pacaembu,casa,venda,2550.7,2111.2,3069.0,28,,setembro/2026
+Uberaba,Paraíso,casa,venda,5231.4,4260.8,6296.3,5,,setembro/2026
+Uberaba,Parque Colibri,casa,venda,3437.5,1640.0,3600.0,7,,setembro/2026
+Uberaba,Parque das Américas,casa,venda,2632.7,2058.8,3400.0,61,7.34,setembro/2026
+Uberaba,Parque das Américas,casa,aluguel,16.1,12.4,21.8,13,7.34,setembro/2026
+Uberaba,Parque das Aroeiras,casa,venda,3818.2,3111.1,4878.0,17,,setembro/2026
+Uberaba,Parque das Gameleiras,casa,venda,1896.9,1422.1,2417.3,57,,setembro/2026
+Uberaba,Parque das Laranjeiras,casa,venda,3837.0,3080.9,4616.5,62,,setembro/2026
+Uberaba,Parque das Laranjeiras I,casa,venda,6190.5,3820.2,7752.8,5,,setembro/2026
+Uberaba,Parque das Laranjeiras II,casa,venda,4150.7,3344.0,4950.0,18,,setembro/2026
+Uberaba,Parque do Mirante,casa,venda,4687.5,3409.1,6763.3,49,,setembro/2026
+Uberaba,Parque dos Buritis,casa,venda,3175.3,2488.6,4902.2,8,,setembro/2026
+Uberaba,Parque dos Buritis II,casa,venda,6060.6,4516.1,6296.3,5,,setembro/2026
+Uberaba,Parque dos Girassóis,casa,venda,2680.2,2088.2,3488.2,11,,setembro/2026
+Uberaba,Parque São Geraldo,casa,venda,2377.0,2000.0,2941.2,41,,setembro/2026
+Uberaba,Portal Beija Flor,casa,venda,4593.8,4411.8,4944.4,13,,setembro/2026
+Uberaba,Quinta Boa Esperança,casa,venda,2859.5,2363.5,3561.1,40,7.76,setembro/2026
+Uberaba,Quinta Boa Esperança,casa,aluguel,18.5,14.0,20.6,8,7.76,setembro/2026
+Uberaba,Recanto do Sol,casa,venda,4285.7,2164.1,4803.5,5,,setembro/2026
+Uberaba,Recreio dos Bandeirantes,casa,venda,3665.4,2742.8,4972.2,138,6.88,setembro/2026
+Uberaba,Recreio dos Bandeirantes,casa,aluguel,21.0,15.0,28.4,27,6.88,setembro/2026
+Uberaba,Residencial 2000,casa,venda,1618.5,1220.7,2000.0,8,,setembro/2026
+Uberaba,Residencial Doutor Abel Reis,casa,venda,2588.7,2123.0,3024.0,6,,setembro/2026
+Uberaba,Residencial Estados Unidos,casa,venda,3221.8,2415.2,3922.1,48,4.1,setembro/2026
+Uberaba,Residencial Estados Unidos,casa,aluguel,11.0,8.8,21.4,13,4.1,setembro/2026
+Uberaba,Residencial Ilha de Marajó I,casa,venda,3980.0,3956.0,4486.4,9,,setembro/2026
+Uberaba,Residencial Ilha de Marajó II,casa,venda,4036.5,3863.2,4352.1,6,,setembro/2026
+Uberaba,Residencial Mário de Almeida Franco,casa,venda,6551.7,4615.4,8333.3,45,,setembro/2026
+Uberaba,Residencial Morada Du Park,casa,venda,3055.6,2416.7,4717.0,45,,setembro/2026
+Uberaba,Residencial Morumbi,casa,venda,3294.1,2748.5,3859.6,37,,setembro/2026
+Uberaba,Residencial Palmeiras,casa,venda,3807.7,3278.7,4090.4,17,,setembro/2026
+Uberaba,Residencial Presidente Tancredo Neves,casa,venda,3795.9,3042.7,5097.1,23,,setembro/2026
+Uberaba,Residencial Rio de Janeiro,casa,venda,2500.0,1679.1,3639.4,11,,setembro/2026
+Uberaba,Residencial Vainice Andrade,casa,venda,3592.5,2799.1,4367.9,14,,setembro/2026
+Uberaba,Santa Maria,casa,venda,3178.1,2439.8,3948.3,95,7.78,setembro/2026
+Uberaba,Santa Maria,casa,aluguel,20.6,13.9,27.5,24,7.78,setembro/2026
+Uberaba,Santa Marta,casa,venda,2815.8,2172.3,3756.7,47,7.29,setembro/2026
+Uberaba,Santa Marta,casa,aluguel,17.1,12.6,20.1,11,7.29,setembro/2026
+Uberaba,São Benedito,casa,venda,2760.6,2220.6,3373.7,102,7.3,setembro/2026
+Uberaba,São Benedito,casa,aluguel,16.8,13.8,25.2,27,7.3,setembro/2026
+Uberaba,São Bento,casa,venda,3633.1,3327.9,4646.8,15,,setembro/2026
+Uberaba,São José,casa,venda,2521.7,2350.0,3571.4,29,,setembro/2026
+Uberaba,São Sebastião,casa,venda,3205.1,2490.5,4201.4,41,6.93,setembro/2026
+Uberaba,São Sebastião,casa,aluguel,18.5,16.8,22.0,15,6.93,setembro/2026
+Uberaba,Serra Dourada,casa,venda,2429.6,2314.0,2962.8,11,,setembro/2026
+Uberaba,Tancredo Neves,casa,venda,3120.0,3041.7,3437.5,5,,setembro/2026
+Uberaba,"Tancredo Neves, Residencial",casa,venda,3564.6,3291.7,4415.9,6,,setembro/2026
+Uberaba,Terra Nova,casa,venda,4140.0,3820.9,4196.4,8,,setembro/2026
+Uberaba,Tita Rezende,casa,venda,2187.5,1606.6,2711.4,11,,setembro/2026
+Uberaba,Tutunas,casa,venda,1531.4,1200.7,2120.2,14,,setembro/2026
+Uberaba,Universitário,casa,venda,2897.4,2280.6,3438.1,20,5.63,setembro/2026
+Uberaba,Universitário,casa,aluguel,13.6,9.0,15.2,7,5.63,setembro/2026
+Uberaba,Vila Alvorada,casa,venda,2200.0,2136.4,2715.7,5,,setembro/2026
+Uberaba,Vila Arquelau,casa,venda,3949.2,3122.7,4970.4,46,,setembro/2026
+Uberaba,Vila Celeste,casa,venda,3167.6,2742.9,3785.7,26,,setembro/2026
+Uberaba,Vila Frei Eugênio,casa,venda,3236.9,2737.6,3416.3,10,,setembro/2026
+Uberaba,Vila Maria Helena,casa,venda,2675.0,2141.1,3183.2,24,6.06,setembro/2026
+Uberaba,Vila Maria Helena,casa,aluguel,13.5,11.4,15.8,12,6.06,setembro/2026
+Uberaba,Vila Militar,casa,venda,2986.9,2021.5,3492.2,26,,setembro/2026
+Uberaba,Vila Nossa Senhora Aparecida,casa,venda,2083.0,1692.3,2572.3,5,,setembro/2026
+Uberaba,Vila Olímpica,casa,venda,3158.7,2554.5,3802.0,49,,setembro/2026
+Uberaba,Vila São Cristóvão,casa,venda,1920.9,1310.9,3406.0,12,,setembro/2026
+Uberaba,Vila São Vicente,casa,venda,2197.1,2004.8,2454.0,6,,setembro/2026
+Uberaba,Abadia,apartamento,venda,4301.1,3587.0,5402.8,41,6.7,setembro/2026
+Uberaba,Abadia,apartamento,aluguel,24.0,19.1,29.5,17,6.7,setembro/2026
+Uberaba,Amoroso Costa,apartamento,venda,3466.4,3113.6,3979.7,10,,setembro/2026
+Uberaba,Antônia Cândida I,apartamento,venda,2974.4,2471.2,3429.5,6,,setembro/2026
+Uberaba,Boa Vista,apartamento,venda,3017.2,2295.9,3559.5,100,6.4,setembro/2026
+Uberaba,Boa Vista,apartamento,aluguel,16.1,11.9,20.8,12,6.4,setembro/2026
+Uberaba,Bom Retiro,apartamento,venda,3482.1,2636.4,3750.0,37,8.44,setembro/2026
+Uberaba,Bom Retiro,apartamento,aluguel,24.5,15.5,33.0,16,8.44,setembro/2026
+Uberaba,Centro,apartamento,venda,2966.4,2140.3,3849.5,292,5.62,setembro/2026
+Uberaba,Centro,apartamento,aluguel,13.9,10.4,17.3,71,5.62,setembro/2026
+Uberaba,Cidade Jardim,apartamento,venda,3863.6,3271.7,4303.5,23,7.36,setembro/2026
+Uberaba,Cidade Jardim,apartamento,aluguel,23.7,19.3,27.7,8,7.36,setembro/2026
+Uberaba,Cidade Nova,apartamento,venda,4192.5,3958.3,5127.0,6,,setembro/2026
+Uberaba,Conjunto Chica Ferreira,apartamento,venda,4109.9,2920.3,4747.2,19,,setembro/2026
+Uberaba,Conjunto Frei Eugênio,apartamento,venda,5217.4,3534.6,6801.4,59,7.52,setembro/2026
+Uberaba,Conjunto Frei Eugênio,apartamento,aluguel,32.7,20.6,43.4,10,7.52,setembro/2026
+Uberaba,Conjunto Guanabara,apartamento,venda,3617.0,2597.4,4565.2,53,8.0,setembro/2026
+Uberaba,Conjunto Guanabara,apartamento,aluguel,24.1,20.3,28.2,16,8.0,setembro/2026
+Uberaba,Conjunto José Vallim de Melo,apartamento,venda,2022.2,1809.0,2484.9,8,,setembro/2026
+Uberaba,Conjunto Manoel Mendes,apartamento,venda,4066.6,3298.8,4758.5,62,7.91,setembro/2026
+Uberaba,Conjunto Manoel Mendes,apartamento,aluguel,26.8,20.3,30.7,30,7.91,setembro/2026
+Uberaba,Conjunto Pontal,apartamento,venda,3126.3,2568.8,3863.6,33,7.22,setembro/2026
+Uberaba,Conjunto Pontal,apartamento,aluguel,18.8,16.3,22.6,8,7.22,setembro/2026
+Uberaba,Conjunto Umuarama,apartamento,venda,3585.7,3078.8,4000.0,16,,setembro/2026
+Uberaba,Distrito Industrial I,apartamento,venda,4191.9,4016.5,4297.2,6,,setembro/2026
+Uberaba,Estados Unidos,apartamento,venda,4008.9,3049.2,5509.9,202,5.0,setembro/2026
+Uberaba,Estados Unidos,apartamento,aluguel,16.7,10.3,22.0,41,5.0,setembro/2026
+Uberaba,Fabrício,apartamento,venda,3400.0,2688.2,4000.0,133,5.82,setembro/2026
+Uberaba,Fabrício,apartamento,aluguel,16.5,11.7,23.0,34,5.82,setembro/2026
+Uberaba,Guanabara,apartamento,venda,3777.8,3476.3,5500.0,7,,setembro/2026
+Uberaba,Irmãos Soares,apartamento,venda,4791.0,3765.9,5016.9,8,6.14,setembro/2026
+Uberaba,Irmãos Soares,apartamento,aluguel,24.5,21.7,26.7,6,6.14,setembro/2026
+Uberaba,Jardim Alexandre Campos,apartamento,venda,4242.4,3531.6,5155.1,19,3.03,setembro/2026
+Uberaba,Jardim Alexandre Campos,apartamento,aluguel,10.7,8.5,13.2,9,3.03,setembro/2026
+Uberaba,Jardim do Lago,apartamento,venda,5782.6,4619.3,7203.4,117,5.96,setembro/2026
+Uberaba,Jardim do Lago,apartamento,aluguel,28.7,24.4,37.9,52,5.96,setembro/2026
+Uberaba,Jardim Esplanada,apartamento,venda,3864.5,3126.0,4618.4,16,7.48,setembro/2026
+Uberaba,Jardim Esplanada,apartamento,aluguel,24.1,19.8,34.5,14,7.48,setembro/2026
+Uberaba,Jardim Libânio,apartamento,venda,4309.5,4109.8,4891.3,14,,setembro/2026
+Uberaba,Jardim Maracanã,apartamento,venda,2833.3,2213.2,3395.1,35,4.7,setembro/2026
+Uberaba,Jardim Maracanã,apartamento,aluguel,11.1,10.1,14.2,5,4.7,setembro/2026
+Uberaba,Jardim Santa Inez,apartamento,venda,3590.9,2828.9,4168.1,15,,setembro/2026
+Uberaba,Jardim São Bento,apartamento,venda,7340.2,5506.7,7837.8,5,,setembro/2026
+Uberaba,Jardim Uberaba,apartamento,venda,1450.0,1349.8,1500.0,6,,setembro/2026
+Uberaba,Leblon,apartamento,venda,2580.6,2392.3,3416.5,5,,setembro/2026
+Uberaba,Loteamento Reserva Ushuaia,apartamento,venda,3859.3,3482.1,4727.6,40,8.27,setembro/2026
+Uberaba,Loteamento Reserva Ushuaia,apartamento,aluguel,26.6,21.3,31.4,11,8.27,setembro/2026
+Uberaba,Lourdes,apartamento,venda,3990.7,3022.0,4541.7,24,,setembro/2026
+Uberaba,Manoel Mendes,apartamento,venda,3863.6,3278.9,4666.7,27,7.02,setembro/2026
+Uberaba,Manoel Mendes,apartamento,aluguel,22.6,18.8,24.5,5,7.02,setembro/2026
+Uberaba,Mercês,apartamento,venda,4123.7,3058.8,6194.7,209,6.08,setembro/2026
+Uberaba,Mercês,apartamento,aluguel,20.9,16.7,34.8,37,6.08,setembro/2026
+Uberaba,Nossa Senhora da Abadia,apartamento,venda,4378.1,3361.8,5390.7,96,6.66,setembro/2026
+Uberaba,Nossa Senhora da Abadia,apartamento,aluguel,24.3,15.8,34.6,37,6.66,setembro/2026
+Uberaba,Olinda,apartamento,venda,3882.1,3025.1,4835.4,150,7.73,setembro/2026
+Uberaba,Olinda,apartamento,aluguel,25.0,21.0,32.6,45,7.73,setembro/2026
+Uberaba,Paraíso,apartamento,venda,3970.4,3333.3,4888.9,61,8.34,setembro/2026
+Uberaba,Paraíso,apartamento,aluguel,27.6,22.2,34.4,26,8.34,setembro/2026
+Uberaba,Parque das Acácias,apartamento,venda,7152.8,6363.6,8613.9,5,,setembro/2026
+Uberaba,Parque das Américas,apartamento,venda,3353.1,3279.9,3964.2,12,,setembro/2026
+Uberaba,Parque do Mirante,apartamento,venda,4642.2,3358.2,5980.0,145,6.67,setembro/2026
+Uberaba,Parque do Mirante,apartamento,aluguel,25.8,19.1,37.1,28,6.67,setembro/2026
+Uberaba,Parque dos Buritis,apartamento,venda,3571.4,3207.1,4035.6,23,,setembro/2026
+Uberaba,Parque Hiléia,apartamento,venda,3181.8,2618.2,3630.6,15,,setembro/2026
+Uberaba,Parque São Geraldo,apartamento,venda,3463.1,3100.9,4277.8,24,5.47,setembro/2026
+Uberaba,Parque São Geraldo,apartamento,aluguel,15.8,13.2,22.0,5,5.47,setembro/2026
+Uberaba,Pontal,apartamento,venda,3672.7,3555.6,4000.0,5,,setembro/2026
+Uberaba,Quinta Boa Esperança,apartamento,venda,4582.6,4043.3,5585.3,46,,setembro/2026
+Uberaba,Rec. dos Bandeirantes,apartamento,venda,3500.0,3241.5,3720.2,11,,setembro/2026
+Uberaba,Recreio dos Bandeirantes,apartamento,venda,3450.0,2927.7,3979.6,50,11.58,setembro/2026
+Uberaba,Recreio dos Bandeirantes,apartamento,aluguel,33.3,26.3,35.2,15,11.58,setembro/2026
+Uberaba,Residencial Doutor Abel Reis,apartamento,venda,4831.8,3898.6,5301.1,16,9.11,setembro/2026
+Uberaba,Residencial Doutor Abel Reis,apartamento,aluguel,36.7,27.3,51.4,6,9.11,setembro/2026
+Uberaba,Residencial Estados Unidos,apartamento,venda,3500.0,2570.1,4230.8,17,,setembro/2026
+Uberaba,Residencial Palmeiras,apartamento,venda,3636.4,3277.8,4305.6,19,,setembro/2026
+Uberaba,Santa Maria,apartamento,venda,4942.5,3671.6,6739.5,322,6.31,setembro/2026
+Uberaba,Santa Maria,apartamento,aluguel,26.0,20.1,36.9,94,6.31,setembro/2026
+Uberaba,Santa Marta,apartamento,venda,4482.1,3145.2,7129.3,29,,setembro/2026
+Uberaba,Santos Dumont,apartamento,venda,3181.8,2678.0,3397.1,7,,setembro/2026
+Uberaba,São Benedito,apartamento,venda,4094.0,3144.9,5175.6,212,5.86,setembro/2026
+Uberaba,São Benedito,apartamento,aluguel,20.0,15.6,26.6,49,5.86,setembro/2026
+Uberaba,São José,apartamento,venda,4535.1,4032.7,5227.3,15,,setembro/2026
+Uberaba,São Sebastião,apartamento,venda,4022.9,3163.4,6243.8,79,,setembro/2026
+Uberaba,Serra do Sol,apartamento,venda,1454.5,1358.6,1700.0,7,,setembro/2026
+Uberaba,Universitário,apartamento,venda,3611.1,2953.2,4962.9,70,7.31,setembro/2026
+Uberaba,Universitário,apartamento,aluguel,22.0,18.2,26.5,24,7.31,setembro/2026
+Uberaba,Vila Arquelau,apartamento,venda,3734.0,3219.2,4031.7,24,8.52,setembro/2026
+Uberaba,Vila Arquelau,apartamento,aluguel,26.5,22.6,31.2,6,8.52,setembro/2026
+Uberaba,Vila Celeste,apartamento,venda,3008.6,2415.0,3777.3,8,,setembro/2026
+Uberaba,Vila Craide,apartamento,venda,3555.6,3433.7,3940.2,7,,setembro/2026
+Uberaba,Vila Maria Helena,apartamento,venda,3980.8,3272.7,4880.0,29,,setembro/2026
+Uberaba,Vila Olímpica,apartamento,venda,3548.8,2712.1,5900.5,56,,setembro/2026
+Uberaba,Vila São Vicente,apartamento,venda,3069.2,2947.1,3296.0,6,,setembro/2026
+Uberaba,Zeca Mendes,apartamento,venda,3902.4,3381.0,4241.3,5,,setembro/2026
+Uberaba,Abadia,terreno,venda,745.2,489.7,1087.1,12,,setembro/2026
+Uberaba,Alfredo Freire III,terreno,venda,345.3,275.0,414.3,7,,setembro/2026
+Uberaba,Amoroso Costa,terreno,venda,533.3,446.3,904.0,10,,setembro/2026
+Uberaba,Antônia Cândida I,terreno,venda,542.3,479.6,576.1,13,,setembro/2026
+Uberaba,Ayat 2,terreno,venda,991.2,890.6,1045.0,6,,setembro/2026
+Uberaba,Beija-Flor II,terreno,venda,1020.0,913.7,1220.9,11,,setembro/2026
+Uberaba,Boa Vista,terreno,venda,617.1,500.8,810.4,43,,setembro/2026
+Uberaba,Bom Retiro,terreno,venda,729.2,586.2,1000.0,9,,setembro/2026
+Uberaba,"Brahman I, Condomínio",terreno,venda,840.0,720.0,880.0,5,,setembro/2026
+Uberaba,Centro,terreno,venda,1185.3,797.7,1610.7,27,,setembro/2026
+Uberaba,Chácaras Mariíta,terreno,venda,444.4,118.0,602.6,5,,setembro/2026
+Uberaba,Cidade Jardim,terreno,venda,800.0,771.9,850.7,9,,setembro/2026
+Uberaba,Conjunto Costa Telles II,terreno,venda,420.0,333.3,447.6,5,,setembro/2026
+Uberaba,Conjunto Manoel Mendes,terreno,venda,748.6,652.0,880.0,21,,setembro/2026
+Uberaba,Conjunto Margarida Rosa de Azevedo,terreno,venda,630.0,537.3,816.7,32,,setembro/2026
+Uberaba,Cyrela Landscape,terreno,venda,805.8,721.0,885.0,57,,setembro/2026
+Uberaba,Damha Fit,terreno,venda,771.8,685.0,889.9,20,,setembro/2026
+Uberaba,"Damha Fit, Residencial",terreno,venda,689.3,627.8,760.2,18,,setembro/2026
+Uberaba,Damha III Residencial,terreno,venda,1132.5,1076.9,1290.3,9,,setembro/2026
+Uberaba,Damha Residencial Uberaba I,terreno,venda,1906.5,1805.5,2125.2,14,,setembro/2026
+Uberaba,Damha Residencial Uberaba III,terreno,venda,1179.7,1067.2,1353.1,27,,setembro/2026
+Uberaba,Estados Unidos,terreno,venda,977.0,800.0,1162.3,29,,setembro/2026
+Uberaba,Estância dos Ipês,terreno,venda,1066.7,985.1,1266.7,17,,setembro/2026
+Uberaba,Fabrício,terreno,venda,765.0,508.9,998.8,38,,setembro/2026
+Uberaba,Flamboyant Residencial Park,terreno,venda,1549.9,1363.6,2000.0,5,,setembro/2026
+Uberaba,Ilha Bela,terreno,venda,587.5,418.8,624.9,10,,setembro/2026
+Uberaba,Jardim Baronesa,terreno,venda,1209.0,1000.0,1444.4,5,,setembro/2026
+Uberaba,Jardim do Lago,terreno,venda,800.0,635.8,927.1,8,,setembro/2026
+Uberaba,Jardim Elza Amuí I,terreno,venda,591.8,582.4,640.0,5,,setembro/2026
+Uberaba,Jardim Espanha,terreno,venda,575.0,526.4,640.5,23,,setembro/2026
+Uberaba,Jardim Espírito Santo,terreno,venda,575.8,550.0,676.0,7,,setembro/2026
+Uberaba,Jardim Induberaba,terreno,venda,652.9,427.8,843.2,6,,setembro/2026
+Uberaba,Jardim Ipiranga,terreno,venda,562.1,544.3,611.9,5,,setembro/2026
+Uberaba,Jardim Itália,terreno,venda,499.3,483.6,510.0,6,,setembro/2026
+Uberaba,Jardim Libânio,terreno,venda,650.0,633.6,705.0,6,,setembro/2026
+Uberaba,Jardim Maracanã,terreno,venda,407.1,315.0,555.6,81,,setembro/2026
+Uberaba,Jardim Nenê Gomes,terreno,venda,640.0,524.7,780.0,15,,setembro/2026
+Uberaba,Jardim São Bento,terreno,venda,666.7,568.8,739.5,11,,setembro/2026
+Uberaba,Jardim Uberaba,terreno,venda,270.3,180.2,300.0,17,,setembro/2026
+Uberaba,Jockey Park,terreno,venda,550.0,486.5,688.9,27,,setembro/2026
+Uberaba,Laranjeiras II,terreno,venda,572.0,442.2,772.1,7,,setembro/2026
+Uberaba,Leblon,terreno,venda,925.1,715.9,1408.3,10,,setembro/2026
+Uberaba,Loteamento Antônio Caiado,terreno,venda,500.0,458.3,560.0,13,,setembro/2026
+Uberaba,Loteamento Ilha Bela,terreno,venda,465.0,450.0,484.6,5,,setembro/2026
+Uberaba,Loteamento Ilha Bela II,terreno,venda,400.0,361.1,546.0,7,,setembro/2026
+Uberaba,Loteamento Jardim Ipiranga,terreno,venda,500.0,458.9,589.3,7,,setembro/2026
+Uberaba,Loteamento Residencial Damha Fit,terreno,venda,730.8,693.4,804.1,13,,setembro/2026
+Uberaba,Lourdes,terreno,venda,387.5,291.0,467.8,24,,setembro/2026
+Uberaba,Manoel Mendes,terreno,venda,840.0,670.4,857.1,9,,setembro/2026
+Uberaba,Mário Franco,terreno,venda,444.9,351.6,624.4,6,,setembro/2026
+Uberaba,Mercês,terreno,venda,1056.4,821.0,1205.0,30,,setembro/2026
+Uberaba,Nossa Senhora da Abadia,terreno,venda,788.3,613.4,1045.4,62,,setembro/2026
+Uberaba,Olinda,terreno,venda,897.4,801.3,1666.7,9,,setembro/2026
+Uberaba,Oneida Mendes,terreno,venda,625.0,589.4,687.5,6,,setembro/2026
+Uberaba,Oneida Mendes II,terreno,venda,618.4,540.0,800.0,17,,setembro/2026
+Uberaba,Pacaembu,terreno,venda,655.0,587.5,660.0,12,,setembro/2026
+Uberaba,Paraíso,terreno,venda,691.9,609.7,802.4,10,,setembro/2026
+Uberaba,Parque das Américas,terreno,venda,703.1,576.3,942.4,15,,setembro/2026
+Uberaba,Parque das Gameleiras,terreno,venda,440.5,391.4,661.1,20,,setembro/2026
+Uberaba,Parque das Laranjeiras,terreno,venda,684.5,559.2,855.5,58,,setembro/2026
+Uberaba,Parque das Laranjeiras II,terreno,venda,625.3,513.9,715.9,16,,setembro/2026
+Uberaba,Parque do Mirante,terreno,venda,672.0,503.7,813.0,15,,setembro/2026
+Uberaba,Parque dos Buritis,terreno,venda,527.5,457.5,612.5,6,,setembro/2026
+Uberaba,Parque São Geraldo,terreno,venda,635.5,548.0,955.4,8,,setembro/2026
+Uberaba,Peirópolis,terreno,venda,287.7,271.4,325.0,6,,setembro/2026
+Uberaba,Quinta Boa Esperança,terreno,venda,694.2,501.9,783.9,6,,setembro/2026
+Uberaba,Recanto das Flores,terreno,venda,161.2,140.5,200.0,7,,setembro/2026
+Uberaba,Recanto Imperial,terreno,venda,900.0,840.0,924.2,5,,setembro/2026
+Uberaba,Recreio dos Bandeirantes,terreno,venda,1003.9,761.4,1162.6,84,,setembro/2026
+Uberaba,Residencial Estados Unidos,terreno,venda,609.1,572.7,634.5,6,,setembro/2026
+Uberaba,Residencial Filinha Mendes,terreno,venda,500.4,500.0,631.2,16,,setembro/2026
+Uberaba,Residencial Mário de Almeida Franco,terreno,venda,425.0,336.8,697.2,43,,setembro/2026
+Uberaba,Residencial Morumbi,terreno,venda,625.0,400.0,1087.0,9,,setembro/2026
+Uberaba,Santa Maria,terreno,venda,1031.2,794.7,1384.1,39,,setembro/2026
+Uberaba,Santa Marta,terreno,venda,625.4,602.7,785.0,6,,setembro/2026
+Uberaba,São Benedito,terreno,venda,1177.6,873.1,1282.5,31,,setembro/2026
+Uberaba,São José,terreno,venda,563.5,495.0,629.9,12,,setembro/2026
+Uberaba,São Sebastião,terreno,venda,1934.3,1160.3,2864.6,6,,setembro/2026
+Uberaba,Serra Dourada,terreno,venda,336.3,290.6,387.5,6,,setembro/2026
+Uberaba,Tita Rezende,terreno,venda,460.0,440.0,550.0,5,,setembro/2026
+Uberaba,Universitário,terreno,venda,996.1,745.6,1024.7,12,,setembro/2026
+Uberaba,Vila Celeste,terreno,venda,666.1,608.3,791.4,14,,setembro/2026
+Uberaba,Vila Olímpica,terreno,venda,724.1,713.1,794.5,8,,setembro/2026
+Uberaba,Vila São Cristóvão,terreno,venda,595.0,543.0,668.0,7,,setembro/2026
+Uberaba,Abadia,sala,aluguel,46.4,31.0,58.2,12,,setembro/2026
+Uberaba,Amoroso Costa,sala,aluguel,18.9,17.9,26.7,5,,setembro/2026
+Uberaba,Boa Vista,sala,aluguel,28.0,17.1,36.9,26,,setembro/2026
+Uberaba,Bom Retiro,sala,aluguel,23.1,18.0,40.7,13,,setembro/2026
+Uberaba,Centro,sala,venda,2159.4,1500.0,3165.3,44,14.78,setembro/2026
+Uberaba,Centro,sala,aluguel,26.6,17.4,40.4,157,14.78,setembro/2026
+Uberaba,Conjunto Alfredo Freire,sala,aluguel,37.0,33.3,45.0,5,,setembro/2026
+Uberaba,Conjunto Manoel Mendes,sala,aluguel,26.8,19.9,36.2,6,,setembro/2026
+Uberaba,Estados Unidos,sala,aluguel,27.9,17.5,53.5,24,,setembro/2026
+Uberaba,Fabrício,sala,aluguel,26.2,20.0,31.3,12,,setembro/2026
+Uberaba,Jardim Alexandre Campos,sala,aluguel,62.9,45.5,70.7,6,,setembro/2026
+Uberaba,Leblon,sala,aluguel,18.8,16.3,25.1,11,,setembro/2026
+Uberaba,Mercês,sala,venda,3846.2,3178.3,5000.0,5,10.39,setembro/2026
+Uberaba,Mercês,sala,aluguel,33.3,29.0,58.3,21,10.39,setembro/2026
+Uberaba,Nossa Senhora da Abadia,sala,aluguel,34.1,21.4,44.0,46,,setembro/2026
+Uberaba,Parque das Américas,sala,aluguel,33.3,26.5,62.8,23,,setembro/2026
+Uberaba,Parque do Mirante,sala,aluguel,32.8,11.7,60.6,9,,setembro/2026
+Uberaba,Santa Maria,sala,venda,8218.0,5419.5,11413.8,15,8.72,setembro/2026
+Uberaba,Santa Maria,sala,aluguel,59.7,38.2,75.0,41,8.72,setembro/2026
+Uberaba,Santa Marta,sala,aluguel,35.0,17.9,46.8,10,,setembro/2026
+Uberaba,São Benedito,sala,venda,2519.6,1768.1,3151.9,6,13.38,setembro/2026
+Uberaba,São Benedito,sala,aluguel,28.1,17.2,37.9,73,13.38,setembro/2026
+Uberaba,São Sebastião,sala,aluguel,48.3,32.8,78.8,10,,setembro/2026
+Uberaba,Vila São Cristóvão,sala,aluguel,47.8,13.5,52.1,11,,setembro/2026
+Uberaba,Amoroso Costa,galpao,aluguel,14.9,13.3,16.0,11,,setembro/2026
+Uberaba,Bom Retiro,galpao,venda,3042.6,1714.3,3250.0,5,5.92,setembro/2026
+Uberaba,Bom Retiro,galpao,aluguel,15.0,12.1,20.0,23,5.92,setembro/2026
+Uberaba,Centro,galpao,aluguel,12.7,12.5,16.0,9,,setembro/2026
+Uberaba,Conjunto Costa Telles II,galpao,aluguel,12.1,8.0,14.2,7,,setembro/2026
+Uberaba,Conjunto Manoel Mendes,galpao,aluguel,20.2,14.9,28.8,16,,setembro/2026
+Uberaba,Estados Unidos,galpao,aluguel,21.3,20.0,25.9,5,,setembro/2026
+Uberaba,Jardim Copacabana,galpao,aluguel,17.4,17.3,17.8,6,,setembro/2026
+Uberaba,Jardim Espanha,galpao,aluguel,15.6,14.2,18.7,8,,setembro/2026
+Uberaba,Jardim Esplanada,galpao,aluguel,24.0,19.2,25.6,5,,setembro/2026
+Uberaba,Jardim Induberaba,galpao,aluguel,16.3,15.7,17.1,8,,setembro/2026
+Uberaba,Jardim Maracanã,galpao,venda,3503.2,3067.5,3783.8,13,6.41,setembro/2026
+Uberaba,Jardim Maracanã,galpao,aluguel,18.7,13.0,22.4,36,6.41,setembro/2026
+Uberaba,Jardim Marajó,galpao,aluguel,16.1,13.8,17.4,6,,setembro/2026
+Uberaba,Leblon,galpao,aluguel,18.5,14.8,22.6,11,,setembro/2026
+Uberaba,Lourdes,galpao,aluguel,13.3,12.5,16.0,10,,setembro/2026
+Uberaba,Mercês,galpao,aluguel,11.7,10.9,15.7,6,,setembro/2026
+Uberaba,Nossa Senhora da Abadia,galpao,venda,1511.0,1143.8,2212.1,7,11.28,setembro/2026
+Uberaba,Nossa Senhora da Abadia,galpao,aluguel,14.2,11.1,15.2,16,11.28,setembro/2026
+Uberaba,Olinda,galpao,aluguel,19.1,17.2,19.9,7,,setembro/2026
+Uberaba,Parque das Américas,galpao,venda,1902.8,1626.0,2998.5,6,11.67,setembro/2026
+Uberaba,Parque das Américas,galpao,aluguel,18.5,15.6,22.3,44,11.67,setembro/2026
+Uberaba,Parque das Gameleiras,galpao,aluguel,14.3,12.5,20.0,29,,setembro/2026
+Uberaba,Parque das Laranjeiras,galpao,aluguel,21.8,18.0,26.6,30,,setembro/2026
+Uberaba,Recreio dos Bandeirantes,galpao,aluguel,13.9,9.6,16.6,23,,setembro/2026
+Uberaba,Santa Maria,galpao,aluguel,15.3,11.6,29.6,16,,setembro/2026
+Uberaba,São Benedito,galpao,venda,3263.4,2537.1,4441.8,11,7.5,setembro/2026
+Uberaba,São Benedito,galpao,aluguel,20.4,14.6,29.4,70,7.5,setembro/2026
+Uberaba,Vila São Cristóvão,galpao,aluguel,14.8,11.7,19.0,18,,setembro/2026

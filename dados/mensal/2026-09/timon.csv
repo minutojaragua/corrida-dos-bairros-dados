@@ -1,0 +1,10 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Timon,Boa Esperança,casa,venda,2857.1,2652.2,3076.9,5,,setembro/2026
+Timon,Centro,casa,venda,3633.5,3315.9,3900.1,6,,setembro/2026
+Timon,Flores,casa,venda,2640.0,2501.4,2745.1,5,,setembro/2026
+Timon,Jóia,casa,venda,3887.3,2993.3,4490.3,36,5.83,setembro/2026
+Timon,Jóia,casa,aluguel,18.9,12.5,23.9,9,5.83,setembro/2026
+Timon,Parque Alvorada,casa,venda,2444.4,1798.9,2758.6,9,,setembro/2026
+Timon,Parque Piauí,casa,venda,3014.7,2535.9,3275.2,16,,setembro/2026
+Timon,Planalto Boa Esperança,casa,venda,1285.3,1147.3,2328.6,10,,setembro/2026
+Timon,Centro,terreno,venda,438.5,432.5,631.3,5,,setembro/2026

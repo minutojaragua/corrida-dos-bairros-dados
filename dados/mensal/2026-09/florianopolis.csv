@@ -1,0 +1,226 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Florianópolis,Abraão,apartamento,venda,10750.0,8333.3,13281.2,85,4.79,setembro/2026
+Florianópolis,Abraão,apartamento,aluguel,42.9,34.6,52.2,32,4.79,setembro/2026
+Florianópolis,Agronômica,apartamento,venda,14103.4,11055.4,19127.0,251,6.04,setembro/2026
+Florianópolis,Agronômica,apartamento,aluguel,71.0,52.3,87.4,74,6.04,setembro/2026
+Florianópolis,Balneário,apartamento,venda,10740.8,7688.0,13543.0,108,4.88,setembro/2026
+Florianópolis,Balneário,apartamento,aluguel,43.7,33.7,55.3,24,4.88,setembro/2026
+Florianópolis,Barra da Lagoa,apartamento,venda,13333.3,11961.5,17831.7,31,4.7,setembro/2026
+Florianópolis,Barra da Lagoa,apartamento,aluguel,52.2,48.9,62.9,7,4.7,setembro/2026
+Florianópolis,Bom Abrigo,apartamento,venda,9729.2,8152.3,11706.5,48,7.52,setembro/2026
+Florianópolis,Bom Abrigo,apartamento,aluguel,61.0,44.8,68.3,10,7.52,setembro/2026
+Florianópolis,Cachoeira do Bom Jesus,apartamento,venda,12500.0,9502.6,15458.3,141,4.85,setembro/2026
+Florianópolis,Cachoeira do Bom Jesus,apartamento,aluguel,50.5,44.1,57.4,30,4.85,setembro/2026
+Florianópolis,Cacupé,apartamento,venda,15779.6,12352.9,18560.6,112,6.32,setembro/2026
+Florianópolis,Cacupé,apartamento,aluguel,83.1,71.0,96.0,14,6.32,setembro/2026
+Florianópolis,Campeche,apartamento,venda,17095.5,13220.2,21296.6,320,4.91,setembro/2026
+Florianópolis,Campeche,apartamento,aluguel,69.9,56.6,90.0,140,4.91,setembro/2026
+Florianópolis,Canasvieiras,apartamento,venda,11480.1,9409.0,14304.6,236,5.31,setembro/2026
+Florianópolis,Canasvieiras,apartamento,aluguel,50.8,38.4,58.5,53,5.31,setembro/2026
+Florianópolis,Canto,apartamento,venda,10660.0,8671.6,12785.5,124,5.13,setembro/2026
+Florianópolis,Canto,apartamento,aluguel,45.6,39.6,51.1,25,5.13,setembro/2026
+Florianópolis,Capoeiras,apartamento,venda,8251.8,6528.0,10032.5,140,6.06,setembro/2026
+Florianópolis,Capoeiras,apartamento,aluguel,41.7,36.2,50.4,55,6.06,setembro/2026
+Florianópolis,Carianos,apartamento,venda,8703.2,8280.0,9794.2,9,7.65,setembro/2026
+Florianópolis,Carianos,apartamento,aluguel,55.5,45.4,59.2,10,7.65,setembro/2026
+Florianópolis,Carvoeira,apartamento,venda,9857.9,7454.3,12160.0,96,6.39,setembro/2026
+Florianópolis,Carvoeira,apartamento,aluguel,52.5,42.1,65.6,72,6.39,setembro/2026
+Florianópolis,Centro,apartamento,venda,12339.2,9145.4,17241.4,684,5.79,setembro/2026
+Florianópolis,Centro,apartamento,aluguel,59.5,43.5,84.5,394,5.79,setembro/2026
+Florianópolis,Coloninha,apartamento,venda,10625.0,9397.6,11816.9,17,,setembro/2026
+Florianópolis,Coqueiros,apartamento,venda,11391.0,7999.8,14477.5,206,5.1,setembro/2026
+Florianópolis,Coqueiros,apartamento,aluguel,48.4,38.2,65.2,50,5.1,setembro/2026
+Florianópolis,Córrego Grande,apartamento,venda,11700.1,8856.4,15618.2,108,5.39,setembro/2026
+Florianópolis,Córrego Grande,apartamento,aluguel,52.6,44.1,65.7,49,5.39,setembro/2026
+Florianópolis,Costeira do Pirajubaé,apartamento,venda,9789.7,8667.6,11110.5,6,,setembro/2026
+Florianópolis,Estreito,apartamento,venda,10779.2,8103.5,13849.9,239,5.22,setembro/2026
+Florianópolis,Estreito,apartamento,aluguel,46.9,37.3,56.9,62,5.22,setembro/2026
+Florianópolis,Ingleses,apartamento,venda,8028.4,5889.9,11158.5,548,6.37,setembro/2026
+Florianópolis,Ingleses,apartamento,aluguel,42.6,33.3,53.3,221,6.37,setembro/2026
+Florianópolis,Itacorubi,apartamento,venda,11126.7,8888.5,13830.4,250,5.83,setembro/2026
+Florianópolis,Itacorubi,apartamento,aluguel,54.1,45.1,62.5,148,5.83,setembro/2026
+Florianópolis,Itaguaçu,apartamento,venda,7856.8,6577.3,9475.6,10,,setembro/2026
+Florianópolis,Jardim Atlântico,apartamento,venda,11118.2,7954.3,14884.1,150,5.97,setembro/2026
+Florianópolis,Jardim Atlântico,apartamento,aluguel,55.3,32.9,71.4,25,5.97,setembro/2026
+Florianópolis,João Paulo,apartamento,venda,14313.2,12040.1,19352.0,187,4.8,setembro/2026
+Florianópolis,João Paulo,apartamento,aluguel,57.2,45.6,69.5,55,4.8,setembro/2026
+Florianópolis,Jurerê,apartamento,venda,18603.9,14711.5,23480.8,342,4.81,setembro/2026
+Florianópolis,Jurerê,apartamento,aluguel,74.5,64.6,100.0,53,4.81,setembro/2026
+Florianópolis,Lagoa da Conceição,apartamento,venda,12447.3,9995.7,17163.5,47,6.67,setembro/2026
+Florianópolis,Lagoa da Conceição,apartamento,aluguel,69.2,51.5,89.2,38,6.67,setembro/2026
+Florianópolis,Monte Verde,apartamento,venda,11414.1,8495.7,13311.2,34,7.58,setembro/2026
+Florianópolis,Monte Verde,apartamento,aluguel,72.1,69.1,83.7,10,7.58,setembro/2026
+Florianópolis,Morro das Pedras,apartamento,venda,15777.8,12876.7,17868.1,57,5.99,setembro/2026
+Florianópolis,Morro das Pedras,apartamento,aluguel,78.7,60.0,102.3,17,5.99,setembro/2026
+Florianópolis,Pantanal,apartamento,venda,10151.2,7851.1,13134.5,52,6.04,setembro/2026
+Florianópolis,Pantanal,apartamento,aluguel,51.1,41.2,74.2,62,6.04,setembro/2026
+Florianópolis,Pântano do Sul,apartamento,venda,14296.7,11575.2,15754.6,34,5.85,setembro/2026
+Florianópolis,Pântano do Sul,apartamento,aluguel,69.7,54.3,97.2,14,5.85,setembro/2026
+Florianópolis,Ponta das Canas,apartamento,venda,11426.5,9736.7,19936.9,17,,setembro/2026
+Florianópolis,Praia Brava,apartamento,venda,14302.3,12894.7,19230.8,45,,setembro/2026
+Florianópolis,Ribeirão da Ilha,apartamento,venda,10478.3,8674.8,11601.0,54,6.54,setembro/2026
+Florianópolis,Ribeirão da Ilha,apartamento,aluguel,57.1,46.5,67.4,25,6.54,setembro/2026
+Florianópolis,Rio Tavares,apartamento,venda,14833.6,12423.3,17378.2,23,5.52,setembro/2026
+Florianópolis,Rio Tavares,apartamento,aluguel,68.2,60.0,80.9,20,5.52,setembro/2026
+Florianópolis,Rio Vermelho,apartamento,venda,8741.5,5034.3,11701.0,24,5.89,setembro/2026
+Florianópolis,Rio Vermelho,apartamento,aluguel,42.9,34.6,55.7,15,5.89,setembro/2026
+Florianópolis,Saco dos Limões,apartamento,venda,11130.4,8064.5,14219.6,45,6.16,setembro/2026
+Florianópolis,Saco dos Limões,apartamento,aluguel,57.1,48.0,76.8,31,6.16,setembro/2026
+Florianópolis,Saco Grande,apartamento,venda,12025.3,8455.4,15683.7,101,6.24,setembro/2026
+Florianópolis,Saco Grande,apartamento,aluguel,62.5,44.7,78.1,47,6.24,setembro/2026
+Florianópolis,Santinho,apartamento,venda,13765.7,9517.9,16204.0,18,4.67,setembro/2026
+Florianópolis,Santinho,apartamento,aluguel,53.6,51.6,64.7,5,4.67,setembro/2026
+Florianópolis,Santo Antônio de Lisboa,apartamento,venda,15937.1,12541.8,18537.5,40,5.86,setembro/2026
+Florianópolis,Santo Antônio de Lisboa,apartamento,aluguel,77.8,68.7,85.0,8,5.86,setembro/2026
+Florianópolis,Trindade,apartamento,venda,10391.3,8430.2,13615.4,194,6.22,setembro/2026
+Florianópolis,Trindade,apartamento,aluguel,53.9,41.8,79.6,162,6.22,setembro/2026
+Florianópolis,Vargem do Bom Jesus,apartamento,venda,7051.3,6305.1,7861.1,17,,setembro/2026
+Florianópolis,Vargem Grande,apartamento,venda,9642.7,8697.0,10893.5,14,4.74,setembro/2026
+Florianópolis,Vargem Grande,apartamento,aluguel,38.1,33.5,42.4,6,4.74,setembro/2026
+Florianópolis,Abraão,casa,venda,7942.6,6839.9,9583.3,21,7.1,setembro/2026
+Florianópolis,Abraão,casa,aluguel,47.0,40.8,49.0,5,7.1,setembro/2026
+Florianópolis,Agronômica,casa,venda,7073.2,5136.0,9009.8,71,7.96,setembro/2026
+Florianópolis,Agronômica,casa,aluguel,46.9,39.7,54.5,17,7.96,setembro/2026
+Florianópolis,Armação,casa,venda,10344.8,6493.5,13706.9,53,,setembro/2026
+Florianópolis,Balneário,casa,venda,7577.3,5163.3,11252.6,58,8.14,setembro/2026
+Florianópolis,Balneário,casa,aluguel,51.4,43.5,53.7,9,8.14,setembro/2026
+Florianópolis,Barra da Lagoa,casa,venda,6369.0,3479.6,11345.9,34,9.76,setembro/2026
+Florianópolis,Barra da Lagoa,casa,aluguel,51.8,43.8,64.6,10,9.76,setembro/2026
+Florianópolis,Bom Abrigo,casa,venda,10223.6,6616.2,11552.8,23,,setembro/2026
+Florianópolis,Cachoeira do Bom Jesus,casa,venda,8564.6,7070.7,10629.9,161,6.94,setembro/2026
+Florianópolis,Cachoeira do Bom Jesus,casa,aluguel,49.5,40.2,58.6,14,6.94,setembro/2026
+Florianópolis,Cacupé,casa,venda,11006.2,8744.9,13858.0,84,5.45,setembro/2026
+Florianópolis,Cacupé,casa,aluguel,50.0,43.4,59.8,9,5.45,setembro/2026
+Florianópolis,Campeche,casa,venda,9597.9,7575.9,11792.4,380,6.66,setembro/2026
+Florianópolis,Campeche,casa,aluguel,53.3,44.6,64.0,98,6.66,setembro/2026
+Florianópolis,Canasvieiras,casa,venda,8655.1,6533.3,11363.6,89,,setembro/2026
+Florianópolis,Canto,casa,venda,7288.3,5350.4,7989.4,24,,setembro/2026
+Florianópolis,Capoeiras,casa,venda,5778.2,3877.0,7508.0,89,6.35,setembro/2026
+Florianópolis,Capoeiras,casa,aluguel,30.6,21.2,36.3,11,6.35,setembro/2026
+Florianópolis,Carianos,casa,venda,7697.1,6174.4,8919.6,68,6.55,setembro/2026
+Florianópolis,Carianos,casa,aluguel,42.0,31.7,52.1,9,6.55,setembro/2026
+Florianópolis,Carvoeira,casa,venda,7212.7,5102.0,9730.6,33,,setembro/2026
+Florianópolis,Centro,casa,venda,7458.0,5151.1,10593.3,122,6.37,setembro/2026
+Florianópolis,Centro,casa,aluguel,39.6,31.3,47.5,20,6.37,setembro/2026
+Florianópolis,Coloninha,casa,venda,6795.0,5735.3,7887.5,18,,setembro/2026
+Florianópolis,Coqueiros,casa,venda,7200.0,5173.6,8832.8,41,,setembro/2026
+Florianópolis,Córrego Grande,casa,venda,8474.6,6214.3,10562.5,89,4.46,setembro/2026
+Florianópolis,Córrego Grande,casa,aluguel,31.5,28.6,39.8,7,4.46,setembro/2026
+Florianópolis,Costeira do Pirajubaé,casa,venda,5453.7,3734.2,8471.0,8,,setembro/2026
+Florianópolis,Daniela,casa,venda,9232.8,6490.5,10760.6,28,,setembro/2026
+Florianópolis,Estreito,casa,venda,6414.6,5180.2,8405.0,66,6.85,setembro/2026
+Florianópolis,Estreito,casa,aluguel,36.6,32.6,42.6,5,6.85,setembro/2026
+Florianópolis,Ingleses,casa,venda,5882.4,4072.9,7674.5,423,7.77,setembro/2026
+Florianópolis,Ingleses,casa,aluguel,38.1,31.8,41.2,41,7.77,setembro/2026
+Florianópolis,Itacorubi,casa,venda,8391.7,5855.3,10815.0,64,4.46,setembro/2026
+Florianópolis,Itacorubi,casa,aluguel,31.2,24.4,44.8,12,4.46,setembro/2026
+Florianópolis,Itaguaçu,casa,venda,7720.6,6349.8,9770.1,49,,setembro/2026
+Florianópolis,Jardim Atlântico,casa,venda,5432.1,4166.7,7297.5,92,6.56,setembro/2026
+Florianópolis,Jardim Atlântico,casa,aluguel,29.7,24.9,47.6,12,6.56,setembro/2026
+Florianópolis,João Paulo,casa,venda,8821.2,7296.4,10777.3,72,4.76,setembro/2026
+Florianópolis,João Paulo,casa,aluguel,35.0,29.0,40.8,10,4.76,setembro/2026
+Florianópolis,José Mendes,casa,venda,8912.3,6288.3,11311.3,8,,setembro/2026
+Florianópolis,Jurerê,casa,venda,16312.6,13131.5,19447.5,196,5.09,setembro/2026
+Florianópolis,Jurerê,casa,aluguel,69.2,50.1,78.0,15,5.09,setembro/2026
+Florianópolis,Lagoa da Conceição,casa,venda,10370.4,7172.3,13269.9,155,5.91,setembro/2026
+Florianópolis,Lagoa da Conceição,casa,aluguel,51.1,39.4,61.8,29,5.91,setembro/2026
+Florianópolis,Monte Verde,casa,venda,5811.7,3250.9,6863.8,12,,setembro/2026
+Florianópolis,Morro das Pedras,casa,venda,11571.1,7673.7,14132.8,79,5.96,setembro/2026
+Florianópolis,Morro das Pedras,casa,aluguel,57.5,46.3,73.1,11,5.96,setembro/2026
+Florianópolis,Pantanal,casa,venda,6017.7,4368.4,8250.0,31,,setembro/2026
+Florianópolis,Pântano do Sul,casa,venda,8554.7,5865.0,10511.0,63,6.02,setembro/2026
+Florianópolis,Pântano do Sul,casa,aluguel,42.9,35.8,51.3,7,6.02,setembro/2026
+Florianópolis,Ponta das Canas,casa,venda,7813.1,3638.2,10074.1,35,,setembro/2026
+Florianópolis,Praia Brava,casa,venda,12368.3,10104.2,13843.6,18,,setembro/2026
+Florianópolis,Ratones,casa,venda,8112.5,4898.9,10891.3,18,,setembro/2026
+Florianópolis,Ribeirão da Ilha,casa,venda,7739.1,5462.9,9818.1,108,6.28,setembro/2026
+Florianópolis,Ribeirão da Ilha,casa,aluguel,40.5,37.9,55.6,13,6.28,setembro/2026
+Florianópolis,Rio Tavares,casa,venda,9401.8,6664.6,12500.0,150,6.69,setembro/2026
+Florianópolis,Rio Tavares,casa,aluguel,52.4,39.8,64.6,50,6.69,setembro/2026
+Florianópolis,Rio Vermelho,casa,venda,5285.7,3960.0,6923.1,293,9.17,setembro/2026
+Florianópolis,Rio Vermelho,casa,aluguel,40.4,36.4,46.3,23,9.17,setembro/2026
+Florianópolis,Saco dos Limões,casa,venda,7000.0,4713.8,8067.2,41,6.6,setembro/2026
+Florianópolis,Saco dos Limões,casa,aluguel,38.5,25.0,47.1,13,6.6,setembro/2026
+Florianópolis,Saco Grande,casa,venda,8172.0,5418.5,10411.2,23,,setembro/2026
+Florianópolis,Sambaqui,casa,venda,8273.4,6432.5,10333.3,51,6.72,setembro/2026
+Florianópolis,Sambaqui,casa,aluguel,46.3,33.0,53.1,11,6.72,setembro/2026
+Florianópolis,Santa Mônica,casa,venda,10451.9,8667.5,11755.5,40,5.49,setembro/2026
+Florianópolis,Santa Mônica,casa,aluguel,47.8,45.4,51.8,7,5.49,setembro/2026
+Florianópolis,Santinho,casa,venda,7331.2,4061.3,8300.9,10,,setembro/2026
+Florianópolis,Santo Antônio de Lisboa,casa,venda,9020.2,7487.2,11161.7,75,5.95,setembro/2026
+Florianópolis,Santo Antônio de Lisboa,casa,aluguel,44.7,35.0,48.9,5,5.95,setembro/2026
+Florianópolis,Tapera,casa,venda,4017.2,3210.2,4603.4,12,,setembro/2026
+Florianópolis,Tapera da Base,casa,venda,3390.8,2841.6,4411.0,20,13.63,setembro/2026
+Florianópolis,Tapera da Base,casa,aluguel,38.5,33.1,43.3,5,13.63,setembro/2026
+Florianópolis,Trindade,casa,venda,7066.7,5389.3,10174.0,79,6.72,setembro/2026
+Florianópolis,Trindade,casa,aluguel,39.6,34.5,49.0,14,6.72,setembro/2026
+Florianópolis,Vargem do Bom Jesus,casa,venda,6663.5,5310.6,7900.1,52,,setembro/2026
+Florianópolis,Vargem Grande,casa,venda,6944.4,5069.0,8767.2,51,,setembro/2026
+Florianópolis,Vargem Pequena,casa,venda,8148.1,6329.2,8954.2,43,,setembro/2026
+Florianópolis,Agronômica,terreno,venda,1872.7,1209.4,2458.2,15,,setembro/2026
+Florianópolis,Armação,terreno,venda,2173.9,1078.5,3674.6,8,,setembro/2026
+Florianópolis,Balneário,terreno,venda,4262.7,4236.6,4980.9,11,,setembro/2026
+Florianópolis,Cachoeira do Bom Jesus,terreno,venda,2188.0,1918.2,3228.2,22,,setembro/2026
+Florianópolis,Cacupé,terreno,venda,3294.3,1787.9,4500.7,19,,setembro/2026
+Florianópolis,Campeche,terreno,venda,2837.2,2144.6,3942.6,92,,setembro/2026
+Florianópolis,Canasvieiras,terreno,venda,1761.1,1370.6,2956.4,20,,setembro/2026
+Florianópolis,Canto,terreno,venda,2462.2,2411.9,4682.7,7,,setembro/2026
+Florianópolis,Capoeiras,terreno,venda,2401.5,2006.0,3100.7,42,,setembro/2026
+Florianópolis,Carianos,terreno,venda,1663.9,1313.9,1933.7,21,,setembro/2026
+Florianópolis,Carvoeira,terreno,venda,2165.9,1479.1,2374.9,12,,setembro/2026
+Florianópolis,Centro,terreno,venda,5083.9,1555.9,7994.7,30,,setembro/2026
+Florianópolis,Coqueiros,terreno,venda,1949.1,1354.7,3339.7,16,,setembro/2026
+Florianópolis,Córrego Grande,terreno,venda,1513.5,1077.6,2037.2,18,,setembro/2026
+Florianópolis,Daniela,terreno,venda,2776.4,2392.0,3263.9,6,,setembro/2026
+Florianópolis,Estreito,terreno,venda,3017.2,2088.5,4359.0,33,,setembro/2026
+Florianópolis,Ingleses,terreno,venda,1350.1,1117.1,2068.4,100,,setembro/2026
+Florianópolis,Itacorubi,terreno,venda,2381.1,2096.4,2916.7,71,,setembro/2026
+Florianópolis,Jardim Atlântico,terreno,venda,2777.8,1495.3,3816.8,13,,setembro/2026
+Florianópolis,João Paulo,terreno,venda,2291.7,1444.6,3161.6,37,,setembro/2026
+Florianópolis,Jurerê,terreno,venda,6280.6,5290.1,9250.0,32,,setembro/2026
+Florianópolis,Lagoa da Conceição,terreno,venda,2494.2,1110.2,3855.3,28,,setembro/2026
+Florianópolis,Morro das Pedras,terreno,venda,2100.0,1515.2,3220.4,15,,setembro/2026
+Florianópolis,Pantanal,terreno,venda,2000.0,413.7,3000.0,13,,setembro/2026
+Florianópolis,Pântano do Sul,terreno,venda,2202.1,1868.4,3229.2,51,,setembro/2026
+Florianópolis,Praia Brava,terreno,venda,2407.4,887.5,3097.7,8,,setembro/2026
+Florianópolis,Ratones,terreno,venda,1212.1,260.3,1611.8,45,,setembro/2026
+Florianópolis,Ribeirão da Ilha,terreno,venda,1565.2,1232.1,1989.9,39,,setembro/2026
+Florianópolis,Rio Tavares,terreno,venda,2281.0,926.3,3937.7,28,,setembro/2026
+Florianópolis,Rio Vermelho,terreno,venda,1236.0,993.1,1403.5,60,,setembro/2026
+Florianópolis,Saco dos Limões,terreno,venda,3758.3,2086.0,5464.6,10,,setembro/2026
+Florianópolis,Saco Grande,terreno,venda,1727.3,1284.5,2042.2,24,,setembro/2026
+Florianópolis,Sambaqui,terreno,venda,871.1,379.8,1887.9,19,,setembro/2026
+Florianópolis,Santa Mônica,terreno,venda,4838.7,4138.9,5009.1,5,,setembro/2026
+Florianópolis,Santo Antônio de Lisboa,terreno,venda,1212.3,492.0,2343.7,39,,setembro/2026
+Florianópolis,Tapera,terreno,venda,1601.0,1010.7,1839.5,8,,setembro/2026
+Florianópolis,Tapera da Base,terreno,venda,1505.1,1165.8,2452.3,15,,setembro/2026
+Florianópolis,Trindade,terreno,venda,2766.8,1901.1,8038.6,29,,setembro/2026
+Florianópolis,Vargem do Bom Jesus,terreno,venda,1157.9,886.3,1280.0,11,,setembro/2026
+Florianópolis,Vargem Grande,terreno,venda,996.2,726.5,1270.3,28,,setembro/2026
+Florianópolis,Vargem Pequena,terreno,venda,881.4,675.0,1464.5,11,,setembro/2026
+Florianópolis,Agronômica,sala,venda,13636.4,10714.3,15068.5,9,,setembro/2026
+Florianópolis,Balneário,sala,venda,12715.1,9375.0,15287.4,10,6.49,setembro/2026
+Florianópolis,Balneário,sala,aluguel,68.8,41.4,76.8,9,6.49,setembro/2026
+Florianópolis,Campeche,sala,venda,17879.8,17407.4,19024.4,9,6.21,setembro/2026
+Florianópolis,Campeche,sala,aluguel,92.5,88.4,109.7,5,6.21,setembro/2026
+Florianópolis,Canto,sala,venda,9664.5,8307.2,11344.3,5,9.96,setembro/2026
+Florianópolis,Canto,sala,aluguel,80.2,73.8,87.2,15,9.96,setembro/2026
+Florianópolis,Capoeiras,sala,venda,9459.5,7586.2,9886.4,9,5.58,setembro/2026
+Florianópolis,Capoeiras,sala,aluguel,44.0,33.1,52.7,11,5.58,setembro/2026
+Florianópolis,Carvoeira,sala,venda,10257.5,8913.0,13942.3,5,,setembro/2026
+Florianópolis,Centro,sala,venda,7366.9,5631.8,10663.8,206,6.91,setembro/2026
+Florianópolis,Centro,sala,aluguel,42.4,28.8,75.0,125,6.91,setembro/2026
+Florianópolis,Córrego Grande,sala,venda,13515.8,9675.1,17357.3,6,,setembro/2026
+Florianópolis,Estreito,sala,venda,9061.6,7436.0,13460.5,34,7.85,setembro/2026
+Florianópolis,Estreito,sala,aluguel,59.3,50.0,79.4,29,7.85,setembro/2026
+Florianópolis,Ingleses,sala,venda,12066.7,8947.4,12941.2,9,6.43,setembro/2026
+Florianópolis,Ingleses,sala,aluguel,64.7,55.4,69.6,14,6.43,setembro/2026
+Florianópolis,Itacorubi,sala,venda,8878.7,6940.8,10487.4,20,7.12,setembro/2026
+Florianópolis,Itacorubi,sala,aluguel,52.7,51.7,61.2,11,7.12,setembro/2026
+Florianópolis,João Paulo,sala,venda,10179.6,8800.0,12252.1,5,9.43,setembro/2026
+Florianópolis,João Paulo,sala,aluguel,80.0,79.6,86.6,5,9.43,setembro/2026
+Florianópolis,Jurerê,sala,aluguel,97.2,93.8,100.0,5,,setembro/2026
+Florianópolis,Saco Grande,sala,venda,12276.3,10553.2,13632.4,24,6.73,setembro/2026
+Florianópolis,Saco Grande,sala,aluguel,68.8,51.7,72.3,15,6.73,setembro/2026
+Florianópolis,Trindade,sala,venda,8378.0,7014.6,10000.0,38,8.59,setembro/2026
+Florianópolis,Trindade,sala,aluguel,60.0,48.5,70.5,23,8.59,setembro/2026

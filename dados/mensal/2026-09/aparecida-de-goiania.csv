@@ -1,0 +1,68 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Aparecida de Goiânia,Cardoso,casa,venda,5312.5,4608.3,5946.1,23,,setembro/2026
+Aparecida de Goiânia,Cardoso Continuação,casa,venda,4693.9,3984.9,5361.8,31,,setembro/2026
+Aparecida de Goiânia,Chácara São Pedro,casa,venda,3987.4,3704.9,4401.5,6,,setembro/2026
+Aparecida de Goiânia,Cidade Satélite São Luiz,casa,venda,4000.0,2429.4,5799.5,19,,setembro/2026
+Aparecida de Goiânia,Cidade Vera Cruz,casa,venda,4219.4,2808.5,7402.0,24,,setembro/2026
+Aparecida de Goiânia,Conjunto Residencial Storil,casa,venda,7236.1,5018.4,7831.5,8,,setembro/2026
+Aparecida de Goiânia,Garavelo Residencial Park,casa,venda,4482.5,2400.0,5252.3,13,,setembro/2026
+Aparecida de Goiânia,Goiânia Park Sul,casa,venda,3827.9,3326.0,4575.5,10,,setembro/2026
+Aparecida de Goiânia,Ilda,casa,venda,3213.8,3050.0,6482.7,8,,setembro/2026
+Aparecida de Goiânia,Independência,casa,venda,3397.2,2884.5,3757.4,8,,setembro/2026
+Aparecida de Goiânia,Itapoã,casa,venda,3828.1,2457.0,4285.7,9,,setembro/2026
+Aparecida de Goiânia,Itapuã,casa,venda,3939.4,3326.7,4074.1,5,,setembro/2026
+Aparecida de Goiânia,Jardim Boa Esperança,casa,venda,3600.0,3144.7,3966.2,27,,setembro/2026
+Aparecida de Goiânia,Jardim Buriti Sereno,casa,venda,3629.0,2451.0,4417.2,31,,setembro/2026
+Aparecida de Goiânia,Jardim Dom Bosco,casa,venda,3440.9,2581.7,3870.6,5,,setembro/2026
+Aparecida de Goiânia,Jardim Helvécia,casa,venda,4832.2,3503.2,6636.4,23,,setembro/2026
+Aparecida de Goiânia,Jardim Imperial,casa,venda,5435.2,3600.0,6240.5,13,,setembro/2026
+Aparecida de Goiânia,Jardim Luz,casa,venda,5333.3,5142.9,5869.6,5,,setembro/2026
+Aparecida de Goiânia,Jardim Nova Era,casa,venda,3455.4,2543.1,4356.3,7,,setembro/2026
+Aparecida de Goiânia,Jardim Tropical,casa,venda,4053.2,2479.7,5218.3,6,,setembro/2026
+Aparecida de Goiânia,Jardim Veneza,casa,venda,3851.7,3587.9,4166.3,12,,setembro/2026
+Aparecida de Goiânia,Jardins Marselha,casa,venda,6795.6,5149.4,8176.8,5,,setembro/2026
+Aparecida de Goiânia,Mansões Paraíso,casa,venda,3977.3,2882.9,4371.6,8,,setembro/2026
+Aparecida de Goiânia,Papillon Park,casa,venda,4360.2,3256.6,5513.4,10,,setembro/2026
+Aparecida de Goiânia,Parque das Nações,casa,venda,3623.0,3335.0,4001.3,7,,setembro/2026
+Aparecida de Goiânia,Parque Ibirapuera,casa,venda,4173.1,3746.4,5043.5,8,,setembro/2026
+Aparecida de Goiânia,Parque Itatiaia,casa,venda,3840.0,3726.0,4285.7,5,,setembro/2026
+Aparecida de Goiânia,Parque Trindade,casa,venda,3923.1,3153.7,4458.0,11,,setembro/2026
+Aparecida de Goiânia,Parque Veiga Jardim,casa,venda,3572.8,3177.4,3885.0,10,,setembro/2026
+Aparecida de Goiânia,Parqville Jacarandá,casa,venda,7186.3,7093.5,8200.7,5,,setembro/2026
+Aparecida de Goiânia,Parqville Pinheiros,casa,venda,8383.9,7484.9,9031.8,19,,setembro/2026
+Aparecida de Goiânia,Pontal Sul - Acréscimo,casa,venda,3658.5,2954.5,3949.6,9,,setembro/2026
+Aparecida de Goiânia,Residencial Jardins Lyon,casa,venda,3236.1,2627.5,6747.4,19,,setembro/2026
+Aparecida de Goiânia,Setor Aeroporto Sul,casa,venda,2980.0,2341.8,3800.0,9,,setembro/2026
+Aparecida de Goiânia,Setor Conde dos Arcos,casa,venda,2305.6,2027.0,3333.3,5,,setembro/2026
+Aparecida de Goiânia,Setor Garavelo,casa,venda,2133.3,1891.5,5200.0,13,8.44,setembro/2026
+Aparecida de Goiânia,Setor Garavelo,casa,aluguel,15.0,13.3,16.2,5,8.44,setembro/2026
+Aparecida de Goiânia,Setor Pontal Sul,casa,venda,3761.1,3448.3,3888.9,9,,setembro/2026
+Aparecida de Goiânia,Sítios Santa Luzia,casa,venda,4619.7,3841.9,5681.6,24,,setembro/2026
+Aparecida de Goiânia,Sítios Santa Luzia Residencial,casa,venda,4341.2,4139.6,4635.7,6,,setembro/2026
+Aparecida de Goiânia,Vila Brasília,casa,venda,4715.5,3184.9,5100.0,8,,setembro/2026
+Aparecida de Goiânia,Vila Maria,casa,venda,5131.7,4433.3,5261.6,7,,setembro/2026
+Aparecida de Goiânia,Vila Mariana,casa,venda,4772.1,3515.2,5851.1,13,,setembro/2026
+Aparecida de Goiânia,Vila Oliveira,casa,venda,4632.4,4131.1,5347.1,23,,setembro/2026
+Aparecida de Goiânia,Vila São Jorge,casa,venda,5393.3,4537.0,5445.5,5,,setembro/2026
+Aparecida de Goiânia,Chácara São Pedro,apartamento,venda,5047.2,4541.7,5471.2,8,,setembro/2026
+Aparecida de Goiânia,Jardim Bela Vista,apartamento,venda,5000.0,4666.7,5801.6,7,,setembro/2026
+Aparecida de Goiânia,Jardim Luz,apartamento,venda,5404.9,4383.1,5793.3,8,,setembro/2026
+Aparecida de Goiânia,Jardim Maria Inês,apartamento,venda,4695.7,3910.7,5508.6,6,,setembro/2026
+Aparecida de Goiânia,Parque Santa Cecília,apartamento,venda,5905.2,5541.2,6637.4,6,,setembro/2026
+Aparecida de Goiânia,Residencial Recanto do Cerrado,apartamento,venda,5892.9,5468.8,6307.7,5,,setembro/2026
+Aparecida de Goiânia,Setor dos Afonsos,apartamento,venda,5439.1,4723.0,6094.4,10,,setembro/2026
+Aparecida de Goiânia,Vila Brasília,apartamento,venda,5939.1,5052.9,6206.6,11,,setembro/2026
+Aparecida de Goiânia,Cardoso Continuação,terreno,venda,591.7,510.5,642.6,12,,setembro/2026
+Aparecida de Goiânia,Chácara São Pedro,terreno,venda,250.0,248.0,464.1,14,,setembro/2026
+Aparecida de Goiânia,Cidade Vera Cruz,terreno,venda,788.6,353.4,1057.4,7,,setembro/2026
+Aparecida de Goiânia,Expansul,terreno,venda,258.0,222.2,284.9,5,,setembro/2026
+Aparecida de Goiânia,Jardim Boa Esperança,terreno,venda,492.4,433.3,1190.0,5,,setembro/2026
+Aparecida de Goiânia,Jardim Buriti Sereno,terreno,venda,401.5,356.0,509.4,11,,setembro/2026
+Aparecida de Goiânia,Jardim Cristal,terreno,venda,408.0,382.1,984.2,6,,setembro/2026
+Aparecida de Goiânia,Jardim Helvécia,terreno,venda,714.3,678.6,766.3,9,,setembro/2026
+Aparecida de Goiânia,Jardins Versalhes,terreno,venda,1163.3,1110.4,1212.5,6,,setembro/2026
+Aparecida de Goiânia,Parque Veiga Jardim,terreno,venda,1050.2,991.5,1124.6,6,,setembro/2026
+Aparecida de Goiânia,Rosa dos Ventos,terreno,venda,201.4,161.8,297.5,6,,setembro/2026
+Aparecida de Goiânia,Vila Oliveira,terreno,venda,599.0,598.1,599.5,13,,setembro/2026
+Aparecida de Goiânia,Jardim Buriti Sereno,galpao,venda,2606.4,2207.0,2738.7,5,,setembro/2026
+Aparecida de Goiânia,Vila Brasília,galpao,aluguel,25.8,23.5,26.9,5,,setembro/2026

@@ -1,0 +1,92 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Natal,Alecrim,casa,venda,1975.9,1370.9,2691.1,46,,setembro/2026
+Natal,Barro Vermelho,casa,venda,1928.6,1695.5,2570.1,53,10.89,setembro/2026
+Natal,Barro Vermelho,casa,aluguel,17.5,12.0,21.7,6,10.89,setembro/2026
+Natal,Candelária,casa,venda,3833.9,2400.0,6285.7,65,,setembro/2026
+Natal,Capim Macio,casa,venda,3000.0,2428.6,4063.6,73,,setembro/2026
+Natal,Cidade Alta,casa,venda,1815.4,1680.7,2103.6,14,,setembro/2026
+Natal,Dix-Sept Rosado,casa,venda,1500.0,1481.5,2215.6,5,,setembro/2026
+Natal,Igapó,casa,venda,1236.3,1125.2,1565.3,8,,setembro/2026
+Natal,Lagoa Nova,casa,venda,2755.9,2132.5,3620.7,100,9.75,setembro/2026
+Natal,Lagoa Nova,casa,aluguel,22.4,14.1,32.6,15,9.75,setembro/2026
+Natal,Lagoa Seca,casa,venda,2400.8,2271.4,2575.0,6,,setembro/2026
+Natal,Neópolis,casa,venda,2549.8,1962.5,4562.5,50,8.0,setembro/2026
+Natal,Neópolis,casa,aluguel,17.0,16.5,26.4,5,8.0,setembro/2026
+Natal,Nordeste,casa,venda,1666.1,1101.8,1951.9,6,,setembro/2026
+Natal,Nossa Senhora da Apresentação,casa,venda,1106.0,912.7,1636.3,6,,setembro/2026
+Natal,Nossa Senhora de Nazaré,casa,venda,2268.9,2000.0,2625.7,21,,setembro/2026
+Natal,Nova Descoberta,casa,venda,3257.6,3000.0,3399.8,7,,setembro/2026
+Natal,Pajuçara,casa,venda,1600.0,1298.0,2249.1,23,,setembro/2026
+Natal,Petrópolis,casa,venda,2911.4,2294.0,5281.0,17,,setembro/2026
+Natal,Pitimbu,casa,venda,3446.9,2017.8,6839.3,36,,setembro/2026
+Natal,Planalto,casa,venda,1774.2,1028.2,2232.1,7,,setembro/2026
+Natal,Ponta Negra,casa,venda,3513.5,2437.5,5421.7,77,6.42,setembro/2026
+Natal,Ponta Negra,casa,aluguel,18.8,12.3,35.8,9,6.42,setembro/2026
+Natal,Potengi,casa,venda,1600.0,1080.2,2169.3,15,,setembro/2026
+Natal,Redinha,casa,venda,1784.8,1458.8,1995.4,10,,setembro/2026
+Natal,Tirol,casa,venda,4225.4,2818.2,5025.7,29,6.39,setembro/2026
+Natal,Tirol,casa,aluguel,22.5,18.8,30.2,7,6.39,setembro/2026
+Natal,Alecrim,apartamento,venda,4888.9,3288.5,5512.8,7,,setembro/2026
+Natal,Areia Preta,apartamento,venda,7911.9,5988.1,10000.0,68,7.77,setembro/2026
+Natal,Areia Preta,apartamento,aluguel,51.2,41.7,53.8,11,7.77,setembro/2026
+Natal,Barro Vermelho,apartamento,venda,5423.7,3670.9,6909.1,81,8.72,setembro/2026
+Natal,Barro Vermelho,apartamento,aluguel,39.4,35.1,47.2,10,8.72,setembro/2026
+Natal,Candelária,apartamento,venda,6198.9,4063.7,8531.7,92,7.98,setembro/2026
+Natal,Candelária,apartamento,aluguel,41.2,28.4,47.4,17,7.98,setembro/2026
+Natal,Capim Macio,apartamento,venda,7852.0,5682.3,9725.7,172,7.34,setembro/2026
+Natal,Capim Macio,apartamento,aluguel,48.0,40.8,56.7,33,7.34,setembro/2026
+Natal,Cidade Alta,apartamento,venda,3428.6,2605.3,4375.0,17,,setembro/2026
+Natal,Cidade da Esperança,apartamento,venda,5101.4,4527.3,5702.6,12,,setembro/2026
+Natal,Dix-Sept Rosado,apartamento,venda,5944.9,3110.2,6672.4,14,,setembro/2026
+Natal,Lagoa Nova,apartamento,venda,6557.4,4510.9,8320.1,211,8.64,setembro/2026
+Natal,Lagoa Nova,apartamento,aluguel,47.2,37.2,50.9,21,8.64,setembro/2026
+Natal,Neópolis,apartamento,venda,6479.6,5282.3,7154.8,63,7.13,setembro/2026
+Natal,Neópolis,apartamento,aluguel,38.5,28.3,43.7,11,7.13,setembro/2026
+Natal,Nossa Senhora de Nazaré,apartamento,venda,6838.4,6081.7,8035.7,18,,setembro/2026
+Natal,Nova Descoberta,apartamento,venda,4666.7,2683.8,4969.2,15,,setembro/2026
+Natal,Pajuçara,apartamento,venda,3075.6,2418.3,3947.8,32,,setembro/2026
+Natal,Petrópolis,apartamento,venda,6511.6,4412.0,9315.0,155,5.69,setembro/2026
+Natal,Petrópolis,apartamento,aluguel,30.9,25.0,51.4,25,5.69,setembro/2026
+Natal,Pitimbu,apartamento,venda,5449.4,4254.4,6120.3,43,9.03,setembro/2026
+Natal,Pitimbu,apartamento,aluguel,41.0,35.1,44.9,13,9.03,setembro/2026
+Natal,Planalto,apartamento,venda,2678.6,2172.9,3558.0,23,,setembro/2026
+Natal,Ponta Negra,apartamento,venda,7105.3,5568.2,9353.3,181,8.44,setembro/2026
+Natal,Ponta Negra,apartamento,aluguel,50.0,42.1,65.1,66,8.44,setembro/2026
+Natal,Potengi,apartamento,venda,5486.9,4975.0,6122.5,5,,setembro/2026
+Natal,Praia do Meio,apartamento,venda,3809.2,3333.3,5083.3,16,,setembro/2026
+Natal,Redinha,apartamento,venda,4550.8,2812.5,5799.8,11,,setembro/2026
+Natal,Ribeira,apartamento,venda,6493.5,4944.4,7532.5,21,,setembro/2026
+Natal,Tirol,apartamento,venda,7661.5,4375.0,9926.5,201,7.83,setembro/2026
+Natal,Tirol,apartamento,aluguel,50.0,31.2,62.0,31,7.83,setembro/2026
+Natal,Vila de Ponta Negra,apartamento,venda,5765.3,3620.7,6406.2,5,,setembro/2026
+Natal,Alecrim,terreno,venda,1200.0,675.9,1700.4,7,,setembro/2026
+Natal,Candelária,terreno,venda,706.2,424.8,1875.3,14,,setembro/2026
+Natal,Capim Macio,terreno,venda,1064.5,878.4,1391.7,11,,setembro/2026
+Natal,Cidade Alta,terreno,venda,1193.3,977.6,1637.5,7,,setembro/2026
+Natal,Igapó,terreno,venda,937.0,540.3,1278.8,6,,setembro/2026
+Natal,Lagoa Nova,terreno,venda,1315.8,774.0,1886.4,13,,setembro/2026
+Natal,Neópolis,terreno,venda,878.3,709.8,1514.4,7,,setembro/2026
+Natal,Pajuçara,terreno,venda,416.7,312.2,562.8,12,,setembro/2026
+Natal,Petrópolis,terreno,venda,1717.5,946.0,2023.6,8,,setembro/2026
+Natal,Pitimbu,terreno,venda,1550.0,650.0,1633.3,9,,setembro/2026
+Natal,Planalto,terreno,venda,496.4,398.6,880.9,6,,setembro/2026
+Natal,Ponta Negra,terreno,venda,959.2,697.5,1233.3,36,,setembro/2026
+Natal,Redinha,terreno,venda,275.1,259.6,415.6,7,,setembro/2026
+Natal,Tirol,terreno,venda,1491.3,1300.7,1770.7,6,,setembro/2026
+Natal,Alecrim,sala,aluguel,33.3,22.4,68.6,11,,setembro/2026
+Natal,Candelária,sala,venda,5831.6,4915.8,6957.1,6,15.35,setembro/2026
+Natal,Candelária,sala,aluguel,74.6,59.7,97.5,32,15.35,setembro/2026
+Natal,Capim Macio,sala,aluguel,67.5,41.9,86.2,14,,setembro/2026
+Natal,Cidade Alta,sala,aluguel,41.7,14.4,54.4,7,,setembro/2026
+Natal,Lagoa Nova,sala,venda,7933.5,6519.6,10134.3,18,8.24,setembro/2026
+Natal,Lagoa Nova,sala,aluguel,54.5,41.2,66.7,29,8.24,setembro/2026
+Natal,Lagoa Seca,sala,aluguel,40.0,34.4,78.9,15,,setembro/2026
+Natal,Neópolis,sala,aluguel,40.9,26.8,53.6,5,,setembro/2026
+Natal,Petrópolis,sala,venda,6129.0,4318.2,7909.6,17,11.79,setembro/2026
+Natal,Petrópolis,sala,aluguel,60.2,40.4,82.5,32,11.79,setembro/2026
+Natal,Ponta Negra,sala,aluguel,60.4,44.4,70.3,18,,setembro/2026
+Natal,Tirol,sala,venda,10658.7,7511.7,11746.7,16,7.53,setembro/2026
+Natal,Tirol,sala,aluguel,66.9,54.8,102.0,33,7.53,setembro/2026
+Natal,Alecrim,galpao,aluguel,12.3,11.1,13.1,6,,setembro/2026
+Natal,Candelária,galpao,aluguel,13.9,11.9,19.7,14,,setembro/2026
+Natal,Dix-Sept Rosado,galpao,aluguel,14.1,13.9,18.5,5,,setembro/2026

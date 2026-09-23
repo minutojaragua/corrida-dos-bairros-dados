@@ -1,0 +1,43 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Serra,Alphaville Jacuhy,casa,venda,9692.7,8860.8,10824.7,45,,setembro/2026
+Serra,Alterosas,casa,venda,6200.0,5849.1,6361.7,5,,setembro/2026
+Serra,Balneário de Carapebus,casa,venda,4091.8,1862.0,6805.9,6,,setembro/2026
+Serra,Bicanga,casa,venda,6818.2,4166.7,11538.5,5,,setembro/2026
+Serra,Boulevard Lagoa,casa,venda,9636.2,8565.7,11194.3,44,,setembro/2026
+Serra,Centro,casa,venda,4435.2,4316.7,4445.3,5,,setembro/2026
+Serra,Colina de Laranjeiras,casa,venda,7500.0,6666.7,9693.9,25,,setembro/2026
+Serra,De Fátima,casa,venda,4642.9,4166.7,5950.0,5,,setembro/2026
+Serra,Eurico Salles,casa,venda,5876.8,5429.9,6812.5,5,,setembro/2026
+Serra,Hélio Ferraz,casa,venda,6379.3,5012.5,8438.9,7,,setembro/2026
+Serra,Jacaraípe,casa,venda,4642.9,3969.2,5937.5,6,,setembro/2026
+Serra,Jacuhy,casa,venda,9316.2,7979.6,10146.1,39,,setembro/2026
+Serra,Laranjeiras,casa,venda,6300.0,4000.0,7005.5,9,,setembro/2026
+Serra,Manguinhos,casa,venda,8235.6,7119.8,9641.0,39,,setembro/2026
+Serra,Morada de Laranjeiras,casa,venda,8717.9,6877.8,10176.6,35,,setembro/2026
+Serra,Parque Jacaraípe,casa,venda,3876.9,2919.0,4502.5,6,,setembro/2026
+Serra,Parque Residencial Laranjeiras,casa,venda,4833.3,3250.0,7032.3,17,,setembro/2026
+Serra,Planície,casa,venda,5777.8,5447.2,6067.4,13,,setembro/2026
+Serra,São Francisco,casa,venda,4666.7,4285.7,6521.7,5,,setembro/2026
+Serra,Bicanga,apartamento,venda,5807.7,4532.7,6627.2,23,,setembro/2026
+Serra,Campinho da Serra II,apartamento,venda,6152.2,5956.3,6178.7,5,,setembro/2026
+Serra,Colina de Laranjeiras,apartamento,venda,7362.8,5983.2,8332.7,32,,setembro/2026
+Serra,De Fátima,apartamento,venda,9522.3,7201.9,10446.1,28,,setembro/2026
+Serra,Jacuhy,apartamento,venda,10468.9,9500.0,11002.5,7,,setembro/2026
+Serra,Jardim Limoeiro,apartamento,venda,6768.7,5457.5,7410.0,31,6.54,setembro/2026
+Serra,Jardim Limoeiro,apartamento,aluguel,36.9,30.8,43.1,6,6.54,setembro/2026
+Serra,Maringá,apartamento,venda,6568.1,5985.7,7944.4,6,,setembro/2026
+Serra,Morada de Laranjeiras,apartamento,venda,7920.6,7068.6,8579.4,26,7.62,setembro/2026
+Serra,Morada de Laranjeiras,apartamento,aluguel,50.3,47.8,53.1,6,7.62,setembro/2026
+Serra,Parque Residencial Laranjeiras,apartamento,venda,7046.6,6444.7,7795.8,10,,setembro/2026
+Serra,Planalto de Carapina,apartamento,venda,6341.7,4663.9,7629.9,17,,setembro/2026
+Serra,Praia da Baleia,apartamento,venda,5975.0,5781.4,6180.8,8,,setembro/2026
+Serra,Santa Luzia,apartamento,venda,8605.5,8163.3,8854.2,5,,setembro/2026
+Serra,São Diogo II,apartamento,venda,5160.0,4909.1,5181.8,5,,setembro/2026
+Serra,Valparaíso,apartamento,venda,8286.0,7876.9,8725.9,14,,setembro/2026
+Serra,Boulevard Lagoa,terreno,venda,1746.8,1626.8,2067.5,12,,setembro/2026
+Serra,Jacuhy,terreno,venda,1208.6,977.5,1228.7,7,,setembro/2026
+Serra,Jardim Limoeiro,terreno,venda,946.4,574.2,1373.1,6,,setembro/2026
+Serra,Manguinhos,terreno,venda,1500.0,1100.0,2000.0,9,,setembro/2026
+Serra,De Fátima,sala,venda,10277.1,9332.5,10871.5,7,,setembro/2026
+Serra,Civit II,galpao,aluguel,22.1,19.5,30.0,8,,setembro/2026
+Serra,Jardim Limoeiro,galpao,aluguel,20.3,15.0,21.8,8,,setembro/2026

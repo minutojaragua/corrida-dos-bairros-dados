@@ -1,0 +1,12 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Corupá,Ano Bom,casa,venda,3752.6,2307.3,5314.0,18,,setembro/2026
+Corupá,Bomplandt,casa,venda,4049.0,2827.7,5490.9,16,,setembro/2026
+Corupá,Centro,casa,venda,3951.9,2771.7,5224.9,24,,setembro/2026
+Corupá,João Tozini,casa,venda,3563.0,3404.8,5085.0,20,,setembro/2026
+Corupá,Seminário,casa,venda,4583.3,3518.5,5833.3,29,,setembro/2026
+Corupá,XV de Novembro,casa,venda,4285.7,3262.9,5000.0,9,,setembro/2026
+Corupá,Ano Bom,terreno,venda,466.7,171.4,633.1,11,,setembro/2026
+Corupá,Bomplandt,terreno,venda,299.6,239.7,390.3,10,,setembro/2026
+Corupá,Centro,terreno,venda,766.0,354.8,843.5,12,,setembro/2026
+Corupá,João Tozini,terreno,venda,539.0,440.7,654.7,6,,setembro/2026
+Corupá,Seminário,terreno,venda,544.7,413.6,598.7,22,,setembro/2026

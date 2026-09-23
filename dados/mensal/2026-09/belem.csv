@@ -1,0 +1,88 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Belém,Batista Campos,apartamento,venda,10105.3,6000.0,13004.7,109,8.51,setembro/2026
+Belém,Batista Campos,apartamento,aluguel,71.7,58.8,86.3,28,8.51,setembro/2026
+Belém,Campina,apartamento,venda,5000.0,4729.6,6410.3,13,5.4,setembro/2026
+Belém,Campina,apartamento,aluguel,22.5,14.7,36.6,15,5.4,setembro/2026
+Belém,Coqueiro,apartamento,venda,5845.6,5159.6,6272.7,18,7.41,setembro/2026
+Belém,Coqueiro,apartamento,aluguel,36.1,31.0,38.9,8,7.41,setembro/2026
+Belém,Cremação,apartamento,venda,7450.0,5074.5,10334.4,32,10.24,setembro/2026
+Belém,Cremação,apartamento,aluguel,63.6,55.6,76.1,9,10.24,setembro/2026
+Belém,Fátima,apartamento,venda,10714.3,9154.9,13076.9,9,8.8,setembro/2026
+Belém,Fátima,apartamento,aluguel,78.6,71.4,89.7,13,8.8,setembro/2026
+Belém,Guamá,apartamento,venda,7386.4,5542.4,9570.8,7,,setembro/2026
+Belém,Jurunas,apartamento,venda,6018.5,4974.0,11641.0,27,9.91,setembro/2026
+Belém,Jurunas,apartamento,aluguel,49.7,30.7,54.2,12,9.91,setembro/2026
+Belém,Mangueirão,apartamento,venda,5750.0,5079.4,6790.1,13,,setembro/2026
+Belém,Marambaia,apartamento,venda,7947.0,5747.7,8474.4,10,5.29,setembro/2026
+Belém,Marambaia,apartamento,aluguel,35.0,25.3,47.3,10,5.29,setembro/2026
+Belém,Marco,apartamento,venda,8309.5,6317.2,9655.8,66,8.3,setembro/2026
+Belém,Marco,apartamento,aluguel,57.5,41.5,78.8,35,8.3,setembro/2026
+Belém,Nazaré,apartamento,venda,9788.7,6144.6,12050.1,97,9.0,setembro/2026
+Belém,Nazaré,apartamento,aluguel,73.4,48.3,92.4,22,9.0,setembro/2026
+Belém,Parque Verde,apartamento,venda,7386.4,6500.0,8010.3,17,7.02,setembro/2026
+Belém,Parque Verde,apartamento,aluguel,43.2,37.1,55.6,15,7.02,setembro/2026
+Belém,Pedreira,apartamento,venda,8800.0,7355.8,10116.2,51,8.14,setembro/2026
+Belém,Pedreira,apartamento,aluguel,59.7,49.7,72.3,35,8.14,setembro/2026
+Belém,Reduto,apartamento,venda,8177.6,6116.2,12077.4,23,9.33,setembro/2026
+Belém,Reduto,apartamento,aluguel,63.6,43.0,88.0,11,9.33,setembro/2026
+Belém,Sacramenta,apartamento,venda,8804.3,7428.6,9375.0,5,,setembro/2026
+Belém,São Brás,apartamento,venda,7846.5,6226.0,10982.9,28,6.88,setembro/2026
+Belém,São Brás,apartamento,aluguel,45.0,34.7,54.8,17,6.88,setembro/2026
+Belém,Tapanã (Icoaraci),apartamento,venda,6070.7,5653.5,6965.1,8,,setembro/2026
+Belém,Telégrafo Sem Fio,apartamento,venda,10435.0,9160.0,11509.1,7,9.2,setembro/2026
+Belém,Telégrafo Sem Fio,apartamento,aluguel,80.0,43.5,100.0,5,9.2,setembro/2026
+Belém,Tenoné,apartamento,venda,5344.6,4117.6,6690.0,9,,setembro/2026
+Belém,Umarizal,apartamento,venda,11968.5,9812.8,14133.0,136,7.16,setembro/2026
+Belém,Umarizal,apartamento,aluguel,71.4,56.3,89.9,54,7.16,setembro/2026
+Belém,Val-De-Cães,apartamento,venda,8922.5,8624.7,9779.4,6,,setembro/2026
+Belém,Água Boa (Outeiro),casa,venda,6166.7,3555.6,6727.3,5,,setembro/2026
+Belém,Batista Campos,casa,venda,5807.2,1971.4,6339.3,7,,setembro/2026
+Belém,Campina de Icoaraci (Icoaraci),casa,venda,5769.2,5000.0,5950.0,5,,setembro/2026
+Belém,Castanheira,casa,venda,3375.0,2362.2,4125.0,9,,setembro/2026
+Belém,Centro,casa,venda,6613.8,5758.7,7031.2,14,,setembro/2026
+Belém,Cidade Velha,casa,venda,3571.4,2400.0,4117.6,5,,setembro/2026
+Belém,Coqueiro,casa,venda,5699.5,2945.7,7051.3,21,,setembro/2026
+Belém,Cremação,casa,venda,3445.2,2523.4,5902.4,10,,setembro/2026
+Belém,Curió-Utinga,casa,venda,3584.7,2516.7,11314.5,7,,setembro/2026
+Belém,Guamá,casa,venda,2422.6,2167.6,2652.7,10,,setembro/2026
+Belém,Mangueirão,casa,venda,6705.4,6407.4,8381.6,12,6.16,setembro/2026
+Belém,Mangueirão,casa,aluguel,34.4,28.0,46.9,6,6.16,setembro/2026
+Belém,Maracacuera (Icoaraci),casa,venda,4555.8,3333.3,4687.5,5,,setembro/2026
+Belém,Marambaia,casa,venda,2866.7,2212.6,3690.2,14,10.8,setembro/2026
+Belém,Marambaia,casa,aluguel,25.8,23.2,26.3,6,10.8,setembro/2026
+Belém,Marco,casa,venda,3625.0,3087.2,4630.2,18,,setembro/2026
+Belém,Marituba,casa,venda,5259.9,5014.2,5498.0,6,,setembro/2026
+Belém,Nazaré,casa,venda,5097.9,3976.6,5705.6,12,8.57,setembro/2026
+Belém,Nazaré,casa,aluguel,36.4,30.0,48.3,5,8.57,setembro/2026
+Belém,Parque Guajará (Icoaraci),casa,venda,5231.8,5000.0,5937.5,9,,setembro/2026
+Belém,Parque Verde,casa,venda,7135.5,4783.3,9478.3,51,5.6,setembro/2026
+Belém,Parque Verde,casa,aluguel,33.3,26.9,45.0,15,5.6,setembro/2026
+Belém,Pedreira,casa,venda,2597.0,2187.5,3149.7,12,,setembro/2026
+Belém,Pratinha (Icoaraci),casa,venda,4891.3,4545.5,5217.4,5,,setembro/2026
+Belém,Reduto,casa,aluguel,30.0,16.7,39.0,5,,setembro/2026
+Belém,Sacramenta,casa,venda,2313.5,1884.1,2710.7,12,,setembro/2026
+Belém,São Brás,casa,venda,2714.3,2447.2,3603.3,11,,setembro/2026
+Belém,Souza,casa,venda,4499.3,2592.9,5503.8,8,,setembro/2026
+Belém,Tapanã,casa,venda,5489.6,2717.0,5770.3,6,,setembro/2026
+Belém,Tapanã (Icoaraci),casa,venda,5791.7,2142.9,7000.0,17,,setembro/2026
+Belém,Telégrafo,casa,venda,2133.3,1880.0,3339.9,7,,setembro/2026
+Belém,Tenoné,casa,venda,4405.8,3642.5,5247.0,8,,setembro/2026
+Belém,Umarizal,casa,venda,3234.8,2927.6,3892.0,14,,setembro/2026
+Belém,Val-De-Cães,casa,venda,3301.3,3151.3,3880.2,6,,setembro/2026
+Belém,Campina de Icoaraci (Icoaraci),terreno,venda,832.4,484.5,1260.7,12,,setembro/2026
+Belém,Maracacuera (Icoaraci),terreno,venda,522.2,359.4,681.2,22,,setembro/2026
+Belém,Marco,terreno,venda,2435.4,2274.0,2706.5,8,,setembro/2026
+Belém,Marituba,terreno,venda,565.2,478.3,604.2,5,,setembro/2026
+Belém,Pedreira,terreno,venda,2635.1,1744.2,3847.4,9,,setembro/2026
+Belém,São Brás,terreno,venda,2732.2,2666.7,3176.3,5,,setembro/2026
+Belém,Batista Campos,sala,aluguel,100.3,93.8,101.0,9,,setembro/2026
+Belém,Campina,sala,aluguel,32.4,21.4,43.9,18,,setembro/2026
+Belém,Cremação,sala,aluguel,71.3,66.9,83.8,6,,setembro/2026
+Belém,Marco,sala,aluguel,92.9,50.6,105.5,9,,setembro/2026
+Belém,Nazaré,sala,venda,14000.0,9230.7,14250.0,31,7.52,setembro/2026
+Belém,Nazaré,sala,aluguel,87.7,84.7,117.2,38,7.52,setembro/2026
+Belém,Pedreira,sala,venda,10746.7,10610.8,11074.4,11,,setembro/2026
+Belém,São Brás,sala,aluguel,83.3,65.7,91.4,5,,setembro/2026
+Belém,Umarizal,sala,venda,13021.7,11171.9,14595.2,12,8.75,setembro/2026
+Belém,Umarizal,sala,aluguel,95.0,67.1,108.1,25,8.75,setembro/2026
+Belém,Guamá,galpao,aluguel,14.7,11.7,21.3,6,,setembro/2026

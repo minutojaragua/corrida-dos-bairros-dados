@@ -1,0 +1,56 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Nova Iguaçu,Andrade Araújo,casa,venda,2500.0,1911.4,3360.7,5,,setembro/2026
+Nova Iguaçu,Boa Esperança,casa,venda,2476.7,1682.8,3102.5,6,,setembro/2026
+Nova Iguaçu,Califórnia,casa,venda,3990.6,3345.2,4807.7,15,,setembro/2026
+Nova Iguaçu,Campo Alegre,casa,venda,2027.4,1891.2,2135.5,8,,setembro/2026
+Nova Iguaçu,Caonze,casa,venda,3458.6,2858.3,4534.3,19,,setembro/2026
+Nova Iguaçu,Centro,casa,venda,4054.1,3132.8,5000.0,63,10.36,setembro/2026
+Nova Iguaçu,Centro,casa,aluguel,35.0,20.0,42.1,29,10.36,setembro/2026
+Nova Iguaçu,Cerâmica,casa,venda,1625.0,1279.9,3122.0,7,,setembro/2026
+Nova Iguaçu,Chacrinha,casa,venda,4732.5,3242.5,5141.0,7,5.2,setembro/2026
+Nova Iguaçu,Chacrinha,casa,aluguel,20.5,17.8,22.2,5,5.2,setembro/2026
+Nova Iguaçu,Comendador Soares,casa,venda,3068.7,2535.7,4051.0,10,,setembro/2026
+Nova Iguaçu,Conjunto Residencial Redenção,casa,venda,10125.0,5435.7,11428.7,8,,setembro/2026
+Nova Iguaçu,Engenho Pequeno,casa,venda,2588.2,1160.0,3333.3,5,,setembro/2026
+Nova Iguaçu,Jardim Alvorada,casa,venda,3608.2,2222.2,5000.0,17,,setembro/2026
+Nova Iguaçu,Jardim Iguaçu,casa,venda,3428.6,3325.0,4666.6,5,,setembro/2026
+Nova Iguaçu,Jardim Tropical,casa,venda,4200.0,3250.0,5222.2,9,,setembro/2026
+Nova Iguaçu,Luz,casa,venda,4468.1,3340.8,5949.9,67,6.71,setembro/2026
+Nova Iguaçu,Luz,casa,aluguel,25.0,18.7,33.3,6,6.71,setembro/2026
+Nova Iguaçu,Moquetá,casa,venda,3958.3,3453.9,4530.7,7,,setembro/2026
+Nova Iguaçu,Palhada,casa,venda,3316.7,2480.6,3349.4,9,,setembro/2026
+Nova Iguaçu,Paraíso,casa,venda,2522.6,2072.0,2882.1,6,,setembro/2026
+Nova Iguaçu,Posse,casa,venda,3133.3,2468.1,4363.6,17,,setembro/2026
+Nova Iguaçu,Rancho Novo,casa,venda,3142.7,2260.4,5180.6,8,,setembro/2026
+Nova Iguaçu,Santa Eugênia,casa,venda,4038.5,2821.4,4500.0,13,,setembro/2026
+Nova Iguaçu,Tinguá,casa,venda,3270.7,2752.3,5342.8,6,,setembro/2026
+Nova Iguaçu,Valverde,casa,venda,2608.6,2242.7,3645.3,6,,setembro/2026
+Nova Iguaçu,Viga,casa,venda,3083.3,2625.0,10454.5,5,,setembro/2026
+Nova Iguaçu,Vila Nova,casa,venda,3818.7,3440.5,4113.9,8,,setembro/2026
+Nova Iguaçu,Alvarez,apartamento,venda,6363.6,4772.7,8402.0,7,,setembro/2026
+Nova Iguaçu,Califórnia,apartamento,venda,5910.8,3761.8,6554.8,12,,setembro/2026
+Nova Iguaçu,Caonze,apartamento,venda,3593.2,3026.7,4484.0,22,,setembro/2026
+Nova Iguaçu,Centro,apartamento,venda,5400.6,3923.2,7630.9,194,5.75,setembro/2026
+Nova Iguaçu,Centro,apartamento,aluguel,25.9,20.6,31.8,27,5.75,setembro/2026
+Nova Iguaçu,Cerâmica,apartamento,venda,3083.4,2727.3,3428.4,13,,setembro/2026
+Nova Iguaçu,Cruzeiro do Sul,apartamento,venda,5833.3,5306.1,6122.4,5,,setembro/2026
+Nova Iguaçu,Jardim Alvorada,apartamento,venda,4021.3,3547.4,4936.4,32,8.03,setembro/2026
+Nova Iguaçu,Jardim Alvorada,apartamento,aluguel,26.9,20.0,31.2,7,8.03,setembro/2026
+Nova Iguaçu,Jardim da Posse,apartamento,venda,3803.0,3567.5,4364.6,8,,setembro/2026
+Nova Iguaçu,Jardim Guandu,apartamento,venda,2500.0,2154.3,3085.1,6,,setembro/2026
+Nova Iguaçu,Jardim Palmares,apartamento,venda,2723.2,2677.1,3184.5,6,,setembro/2026
+Nova Iguaçu,Jardim Tropical,apartamento,venda,5416.7,4807.8,5822.2,11,,setembro/2026
+Nova Iguaçu,Joana d'Arc,apartamento,venda,8191.8,7306.7,9105.9,6,,setembro/2026
+Nova Iguaçu,Luz,apartamento,venda,5333.3,4166.7,7065.9,41,9.45,setembro/2026
+Nova Iguaçu,Luz,apartamento,aluguel,42.0,31.2,44.5,8,9.45,setembro/2026
+Nova Iguaçu,Ouro Verde,apartamento,venda,5801.3,4656.6,6023.6,6,,setembro/2026
+Nova Iguaçu,Parque Rosário,apartamento,venda,5000.0,4761.9,5595.2,5,,setembro/2026
+Nova Iguaçu,Posse,apartamento,venda,3469.4,3155.6,4185.8,5,,setembro/2026
+Nova Iguaçu,Prata,apartamento,venda,4444.4,4178.2,4944.4,11,,setembro/2026
+Nova Iguaçu,Vila Catia,apartamento,venda,4130.4,3859.6,4444.4,5,,setembro/2026
+Nova Iguaçu,Centro,terreno,venda,1358.0,945.5,2181.8,17,,setembro/2026
+Nova Iguaçu,Comendador Soares,terreno,venda,782.3,633.3,1160.3,7,,setembro/2026
+Nova Iguaçu,Centro,sala,venda,4075.5,3108.5,5993.9,34,14.16,setembro/2026
+Nova Iguaçu,Centro,sala,aluguel,48.1,28.1,77.0,67,14.16,setembro/2026
+Nova Iguaçu,Comendador Soares,sala,aluguel,68.3,62.2,72.7,12,,setembro/2026
+Nova Iguaçu,Centro,galpao,aluguel,19.8,17.8,25.4,6,,setembro/2026

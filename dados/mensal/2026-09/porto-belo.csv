@@ -1,0 +1,32 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Porto Belo,Alto Perequê,apartamento,venda,13257.6,11250.7,16879.7,23,4.53,setembro/2026
+Porto Belo,Alto Perequê,apartamento,aluguel,50.0,45.5,53.5,5,4.53,setembro/2026
+Porto Belo,Balneário Perequê,apartamento,venda,15612.6,12591.6,19792.9,459,4.05,setembro/2026
+Porto Belo,Balneário Perequê,apartamento,aluguel,52.7,46.4,58.7,32,4.05,setembro/2026
+Porto Belo,Centro,apartamento,venda,15940.5,12323.9,18847.8,91,,setembro/2026
+Porto Belo,Jardim Dourado,apartamento,venda,16475.8,14323.2,19883.5,110,,setembro/2026
+Porto Belo,Porto Belo,apartamento,venda,12412.1,10615.3,14230.8,17,,setembro/2026
+Porto Belo,Vila Nova,apartamento,venda,13085.3,11228.8,15736.5,40,,setembro/2026
+Porto Belo,Vivapark,apartamento,venda,18245.7,16596.4,19894.7,37,,setembro/2026
+Porto Belo,Alto Perequê,casa,venda,7792.5,5057.7,9405.6,22,,setembro/2026
+Porto Belo,Araçá,casa,venda,18235.3,14444.4,18285.7,5,,setembro/2026
+Porto Belo,Balneário Perequê,casa,venda,8809.5,6666.7,12437.8,81,7.61,setembro/2026
+Porto Belo,Balneário Perequê,casa,aluguel,55.9,46.8,63.6,10,7.61,setembro/2026
+Porto Belo,Centro,casa,venda,10000.0,7095.0,16943.3,43,,setembro/2026
+Porto Belo,Jardim Dourado,casa,venda,14857.1,8112.4,17837.0,43,,setembro/2026
+Porto Belo,Vila Nova,casa,venda,7701.4,6522.5,9453.0,48,,setembro/2026
+Porto Belo,Vivapark,casa,venda,17518.2,17327.8,18393.0,7,,setembro/2026
+Porto Belo,Alto Perequê,terreno,venda,1837.8,1495.4,3125.0,17,,setembro/2026
+Porto Belo,Araçá,terreno,venda,1639.8,996.4,3803.6,5,,setembro/2026
+Porto Belo,Balneário Perequê,terreno,venda,5090.1,3631.1,8079.3,31,,setembro/2026
+Porto Belo,Centro,terreno,venda,3333.3,1604.6,5621.3,37,,setembro/2026
+Porto Belo,Jardim Dourado,terreno,venda,3617.2,3185.3,3872.2,24,,setembro/2026
+Porto Belo,Santa Luzia,terreno,venda,7036.7,1626.8,10004.9,24,,setembro/2026
+Porto Belo,Sertão de Santa Luzia,terreno,venda,9302.4,5983.8,10091.6,23,,setembro/2026
+Porto Belo,Vila Nova,terreno,venda,2242.0,1915.1,4796.8,10,,setembro/2026
+Porto Belo,Balneário Perequê,sala,venda,14758.4,12833.6,18939.7,20,5.69,setembro/2026
+Porto Belo,Balneário Perequê,sala,aluguel,70.0,63.7,112.6,13,5.69,setembro/2026
+Porto Belo,Centro,sala,aluguel,69.3,56.0,74.5,6,,setembro/2026
+Porto Belo,Jardim Dourado,sala,venda,20038.3,18564.3,22259.4,7,,setembro/2026
+Porto Belo,Balneário Perequê,galpao,venda,5488.3,3499.5,7333.3,6,5.51,setembro/2026
+Porto Belo,Balneário Perequê,galpao,aluguel,25.2,19.9,31.7,5,5.51,setembro/2026

@@ -1,0 +1,214 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Blumenau,Água Verde,apartamento,venda,6739.1,5090.9,8000.0,109,5.97,setembro/2026
+Blumenau,Água Verde,apartamento,aluguel,33.5,27.3,40.4,90,5.97,setembro/2026
+Blumenau,Badenfurt,apartamento,venda,5667.4,5072.1,6447.7,24,6.56,setembro/2026
+Blumenau,Badenfurt,apartamento,aluguel,31.0,26.1,35.5,22,6.56,setembro/2026
+Blumenau,Boa Vista,apartamento,venda,6781.6,6130.3,9440.5,19,6.35,setembro/2026
+Blumenau,Boa Vista,apartamento,aluguel,35.9,30.6,46.7,22,6.35,setembro/2026
+Blumenau,Bom Retiro,apartamento,venda,9751.3,6470.2,12217.6,28,5.13,setembro/2026
+Blumenau,Bom Retiro,apartamento,aluguel,41.7,28.6,52.5,14,5.13,setembro/2026
+Blumenau,Centro,apartamento,venda,10176.7,7341.9,12913.5,170,5.71,setembro/2026
+Blumenau,Centro,apartamento,aluguel,48.4,35.6,66.3,132,5.71,setembro/2026
+Blumenau,Escola Agrícola,apartamento,venda,7529.6,6478.6,8336.8,118,5.02,setembro/2026
+Blumenau,Escola Agrícola,apartamento,aluguel,31.5,26.7,40.7,80,5.02,setembro/2026
+Blumenau,Fidélis,apartamento,venda,6250.9,5102.0,6680.0,10,,setembro/2026
+Blumenau,Fortaleza,apartamento,venda,7000.0,5811.4,8235.1,83,5.79,setembro/2026
+Blumenau,Fortaleza,apartamento,aluguel,33.8,29.6,41.5,63,5.79,setembro/2026
+Blumenau,Fortaleza Alta,apartamento,venda,6618.6,5846.9,7057.1,18,5.26,setembro/2026
+Blumenau,Fortaleza Alta,apartamento,aluguel,29.0,24.0,34.2,79,5.26,setembro/2026
+Blumenau,Garcia,apartamento,venda,6035.7,5054.7,7465.7,84,5.79,setembro/2026
+Blumenau,Garcia,apartamento,aluguel,29.1,22.4,38.1,57,5.79,setembro/2026
+Blumenau,Itoupava Central,apartamento,venda,6338.0,5289.3,7505.9,95,4.98,setembro/2026
+Blumenau,Itoupava Central,apartamento,aluguel,26.3,21.9,33.0,68,4.98,setembro/2026
+Blumenau,Itoupava Norte,apartamento,venda,7274.3,5943.8,8184.5,100,5.43,setembro/2026
+Blumenau,Itoupava Norte,apartamento,aluguel,32.9,26.1,37.9,37,5.43,setembro/2026
+Blumenau,Itoupava Seca,apartamento,venda,9334.8,7543.6,11088.4,200,5.45,setembro/2026
+Blumenau,Itoupava Seca,apartamento,aluguel,42.4,32.9,53.3,132,5.45,setembro/2026
+Blumenau,Itoupavazinha,apartamento,venda,5192.4,4573.6,5783.3,32,6.22,setembro/2026
+Blumenau,Itoupavazinha,apartamento,aluguel,26.9,21.7,30.6,20,6.22,setembro/2026
+Blumenau,Jardim,apartamento,venda,10058.2,7855.0,12803.9,222,3.85,setembro/2026
+Blumenau,Jardim,apartamento,aluguel,32.3,27.8,45.7,58,3.85,setembro/2026
+Blumenau,Nova Esperança,apartamento,venda,5660.4,5556.3,6048.6,7,6.0,setembro/2026
+Blumenau,Nova Esperança,apartamento,aluguel,28.3,26.9,38.6,5,6.0,setembro/2026
+Blumenau,Passo Manso,apartamento,venda,5254.8,4886.4,6102.7,28,7.24,setembro/2026
+Blumenau,Passo Manso,apartamento,aluguel,31.7,27.8,37.5,23,7.24,setembro/2026
+Blumenau,Ponta Aguda,apartamento,venda,8431.2,6152.6,11245.8,139,5.32,setembro/2026
+Blumenau,Ponta Aguda,apartamento,aluguel,37.4,27.5,48.5,62,5.32,setembro/2026
+Blumenau,Progresso,apartamento,aluguel,22.6,17.7,25.8,14,,setembro/2026
+Blumenau,Ribeirão Fresco,apartamento,venda,5968.9,4959.9,6655.2,16,7.54,setembro/2026
+Blumenau,Ribeirão Fresco,apartamento,aluguel,37.5,32.0,45.0,13,7.54,setembro/2026
+Blumenau,Salto,apartamento,venda,7109.6,6111.1,7953.4,17,5.92,setembro/2026
+Blumenau,Salto,apartamento,aluguel,35.1,26.8,48.6,9,5.92,setembro/2026
+Blumenau,Salto do Norte,apartamento,venda,5724.5,5193.3,6465.8,38,6.92,setembro/2026
+Blumenau,Salto do Norte,apartamento,aluguel,33.0,27.9,40.0,34,6.92,setembro/2026
+Blumenau,Salto Weissbach,apartamento,venda,5328.0,5069.1,6394.6,30,6.17,setembro/2026
+Blumenau,Salto Weissbach,apartamento,aluguel,27.4,20.3,30.9,5,6.17,setembro/2026
+Blumenau,Tribess,apartamento,venda,6221.9,5711.0,7254.6,18,6.19,setembro/2026
+Blumenau,Tribess,apartamento,aluguel,32.1,29.9,36.7,11,6.19,setembro/2026
+Blumenau,Valparaíso,apartamento,venda,3722.0,3079.0,4451.7,6,,setembro/2026
+Blumenau,Velha,apartamento,venda,8557.1,6521.7,10516.1,333,6.13,setembro/2026
+Blumenau,Velha,apartamento,aluguel,43.7,31.4,56.9,237,6.13,setembro/2026
+Blumenau,Velha Central,apartamento,venda,4861.1,4058.1,6367.9,33,7.95,setembro/2026
+Blumenau,Velha Central,apartamento,aluguel,32.2,27.6,44.9,28,7.95,setembro/2026
+Blumenau,Victor Konder,apartamento,venda,9077.9,7375.0,12034.6,261,5.05,setembro/2026
+Blumenau,Victor Konder,apartamento,aluguel,38.2,29.0,49.2,146,5.05,setembro/2026
+Blumenau,Vila Formosa,apartamento,venda,7893.8,5967.3,10398.2,38,4.21,setembro/2026
+Blumenau,Vila Formosa,apartamento,aluguel,27.7,21.0,34.5,16,4.21,setembro/2026
+Blumenau,Vila Nova,apartamento,venda,8270.7,6666.7,10227.3,277,5.32,setembro/2026
+Blumenau,Vila Nova,apartamento,aluguel,36.7,30.0,47.8,212,5.32,setembro/2026
+Blumenau,Vorstadt,apartamento,venda,8580.8,6961.5,9279.8,45,5.82,setembro/2026
+Blumenau,Vorstadt,apartamento,aluguel,41.6,36.1,53.2,14,5.82,setembro/2026
+Blumenau,Água Verde,casa,venda,4956.1,3778.1,5874.6,226,7.17,setembro/2026
+Blumenau,Água Verde,casa,aluguel,29.6,22.7,36.9,26,7.17,setembro/2026
+Blumenau,Asilo,casa,venda,7428.6,4750.0,8163.3,9,,setembro/2026
+Blumenau,Badenfurt,casa,venda,4301.4,3568.3,5153.3,63,6.17,setembro/2026
+Blumenau,Badenfurt,casa,aluguel,22.1,14.4,29.1,16,6.17,setembro/2026
+Blumenau,Boa Vista,casa,venda,5555.6,4251.5,8229.4,19,,setembro/2026
+Blumenau,Bom Retiro,casa,aluguel,25.6,22.9,45.4,7,,setembro/2026
+Blumenau,Centro,casa,venda,5382.4,4780.2,6994.6,51,6.42,setembro/2026
+Blumenau,Centro,casa,aluguel,28.8,20.1,35.7,26,6.42,setembro/2026
+Blumenau,Escola Agrícola,casa,venda,5333.3,4582.8,6867.2,251,6.91,setembro/2026
+Blumenau,Escola Agrícola,casa,aluguel,30.7,22.7,43.9,19,6.91,setembro/2026
+Blumenau,Fidélis,casa,venda,4623.5,3127.3,5666.6,28,6.75,setembro/2026
+Blumenau,Fidélis,casa,aluguel,26.0,22.4,30.6,8,6.75,setembro/2026
+Blumenau,Fortaleza,casa,venda,4870.1,3861.6,5749.2,147,6.6,setembro/2026
+Blumenau,Fortaleza,casa,aluguel,26.8,20.0,34.8,12,6.6,setembro/2026
+Blumenau,Fortaleza Alta,casa,venda,5281.5,4271.4,6000.0,57,5.09,setembro/2026
+Blumenau,Fortaleza Alta,casa,aluguel,22.4,19.2,34.8,14,5.09,setembro/2026
+Blumenau,Garcia,casa,venda,4557.9,2950.4,6406.1,123,7.5,setembro/2026
+Blumenau,Garcia,casa,aluguel,28.5,24.1,35.3,24,7.5,setembro/2026
+Blumenau,Glória,casa,venda,2961.6,2294.1,4123.2,14,,setembro/2026
+Blumenau,Itoupava Central,casa,venda,5206.3,3734.2,6818.5,284,6.22,setembro/2026
+Blumenau,Itoupava Central,casa,aluguel,27.0,22.0,34.6,57,6.22,setembro/2026
+Blumenau,Itoupava Norte,casa,venda,4854.6,3900.5,5918.5,184,6.8,setembro/2026
+Blumenau,Itoupava Norte,casa,aluguel,27.5,23.2,31.1,26,6.8,setembro/2026
+Blumenau,Itoupava Seca,casa,venda,6597.9,5652.2,8595.0,85,5.46,setembro/2026
+Blumenau,Itoupava Seca,casa,aluguel,30.0,26.4,37.1,23,5.46,setembro/2026
+Blumenau,Itoupavazinha,casa,venda,4569.2,3216.4,5494.5,86,7.8,setembro/2026
+Blumenau,Itoupavazinha,casa,aluguel,29.7,24.3,35.4,12,7.8,setembro/2026
+Blumenau,Jardim,casa,venda,6127.5,4143.3,8095.2,17,6.99,setembro/2026
+Blumenau,Jardim,casa,aluguel,35.7,29.6,39.3,13,6.99,setembro/2026
+Blumenau,Passo Manso,casa,venda,4788.7,3890.0,5532.5,69,5.74,setembro/2026
+Blumenau,Passo Manso,casa,aluguel,22.9,16.3,31.2,28,5.74,setembro/2026
+Blumenau,Ponta Aguda,casa,venda,6228.0,4624.7,7678.0,110,4.24,setembro/2026
+Blumenau,Ponta Aguda,casa,aluguel,22.0,17.9,34.1,37,4.24,setembro/2026
+Blumenau,Progresso,casa,venda,3328.4,2473.0,4515.9,52,8.04,setembro/2026
+Blumenau,Progresso,casa,aluguel,22.3,18.0,24.7,7,8.04,setembro/2026
+Blumenau,Ribeirão Fresco,casa,venda,4285.7,3066.7,5428.6,21,5.57,setembro/2026
+Blumenau,Ribeirão Fresco,casa,aluguel,19.9,18.3,21.4,6,5.57,setembro/2026
+Blumenau,Salto,casa,venda,4701.8,3401.1,5600.9,36,7.81,setembro/2026
+Blumenau,Salto,casa,aluguel,30.6,26.4,33.0,18,7.81,setembro/2026
+Blumenau,Salto do Norte,casa,venda,4528.8,3695.3,5888.3,80,7.95,setembro/2026
+Blumenau,Salto do Norte,casa,aluguel,30.0,27.5,39.8,27,7.95,setembro/2026
+Blumenau,Salto Weissbach,casa,venda,5240.4,4277.0,5892.2,35,5.5,setembro/2026
+Blumenau,Salto Weissbach,casa,aluguel,24.0,10.8,25.7,5,5.5,setembro/2026
+Blumenau,Testo Salto,casa,venda,5279.4,4263.6,6142.9,45,4.71,setembro/2026
+Blumenau,Testo Salto,casa,aluguel,20.7,16.8,25.1,6,4.71,setembro/2026
+Blumenau,Tribess,casa,venda,4961.7,4270.8,6395.8,58,6.72,setembro/2026
+Blumenau,Tribess,casa,aluguel,27.8,23.6,31.7,10,6.72,setembro/2026
+Blumenau,Valparaíso,casa,venda,4100.6,2475.0,5247.3,20,5.03,setembro/2026
+Blumenau,Valparaíso,casa,aluguel,17.2,12.1,22.6,6,5.03,setembro/2026
+Blumenau,Velha,casa,venda,5138.9,4032.3,6153.8,329,5.84,setembro/2026
+Blumenau,Velha,casa,aluguel,25.0,22.2,32.7,42,5.84,setembro/2026
+Blumenau,Velha Central,casa,venda,5201.5,4000.0,6164.4,153,6.9,setembro/2026
+Blumenau,Velha Central,casa,aluguel,29.9,25.1,33.3,26,6.9,setembro/2026
+Blumenau,Victor Konder,casa,venda,5707.2,3821.7,8571.4,9,5.85,setembro/2026
+Blumenau,Victor Konder,casa,aluguel,27.8,22.9,31.1,7,5.85,setembro/2026
+Blumenau,Vila Itoupava,casa,venda,3571.4,3365.4,5106.4,9,4.94,setembro/2026
+Blumenau,Vila Itoupava,casa,aluguel,14.7,12.5,27.3,11,4.94,setembro/2026
+Blumenau,Vila Nova,casa,venda,5750.0,4274.3,7434.5,71,6.76,setembro/2026
+Blumenau,Vila Nova,casa,aluguel,32.4,25.8,40.8,24,6.76,setembro/2026
+Blumenau,Vorstadt,casa,venda,6222.2,4646.2,7614.5,63,4.61,setembro/2026
+Blumenau,Vorstadt,casa,aluguel,23.9,15.9,33.2,20,4.61,setembro/2026
+Blumenau,Água Verde,terreno,venda,922.4,600.0,1164.1,58,,setembro/2026
+Blumenau,Asilo,terreno,venda,872.7,755.5,1007.7,5,,setembro/2026
+Blumenau,Badenfurt,terreno,venda,480.3,281.1,718.3,44,,setembro/2026
+Blumenau,Boa Vista,terreno,venda,872.1,513.9,1020.9,7,,setembro/2026
+Blumenau,Centro,terreno,venda,1333.3,897.9,2083.3,25,,setembro/2026
+Blumenau,Escola Agrícola,terreno,venda,962.4,706.2,1224.5,47,,setembro/2026
+Blumenau,Fidélis,terreno,venda,547.6,227.0,800.9,12,,setembro/2026
+Blumenau,Fortaleza,terreno,venda,757.9,513.2,1007.7,95,,setembro/2026
+Blumenau,Fortaleza Alta,terreno,venda,427.0,280.6,610.2,7,,setembro/2026
+Blumenau,Garcia,terreno,venda,620.9,268.6,947.0,32,,setembro/2026
+Blumenau,Itoupava Central,terreno,venda,662.4,472.2,992.1,193,,setembro/2026
+Blumenau,Itoupava Norte,terreno,venda,1520.6,930.4,2213.8,132,,setembro/2026
+Blumenau,Itoupava Seca,terreno,venda,1146.1,759.3,1608.2,53,,setembro/2026
+Blumenau,Itoupavazinha,terreno,venda,660.7,446.4,913.6,42,,setembro/2026
+Blumenau,Jardim,terreno,venda,1432.3,877.2,2193.8,10,,setembro/2026
+Blumenau,Passo Manso,terreno,venda,524.5,449.9,837.5,16,,setembro/2026
+Blumenau,Ponta Aguda,terreno,venda,943.5,742.0,1237.5,129,,setembro/2026
+Blumenau,Progresso,terreno,venda,452.3,323.0,756.9,12,,setembro/2026
+Blumenau,Ribeirão Fresco,terreno,venda,278.5,193.6,469.0,18,,setembro/2026
+Blumenau,Salto,terreno,venda,754.9,590.9,973.6,28,,setembro/2026
+Blumenau,Salto do Norte,terreno,venda,642.8,433.2,735.5,60,,setembro/2026
+Blumenau,Salto Weissbach,terreno,venda,903.6,562.0,981.8,15,,setembro/2026
+Blumenau,Testo Salto,terreno,venda,307.3,219.5,402.8,20,,setembro/2026
+Blumenau,Tribess,terreno,venda,803.7,585.2,1250.1,19,,setembro/2026
+Blumenau,Valparaíso,terreno,venda,535.0,341.0,595.4,8,,setembro/2026
+Blumenau,Velha,terreno,venda,1126.3,823.6,1522.1,179,,setembro/2026
+Blumenau,Velha Central,terreno,venda,827.8,581.2,1342.8,23,,setembro/2026
+Blumenau,Victor Konder,terreno,venda,1857.3,1442.8,3532.4,10,,setembro/2026
+Blumenau,Vila Formosa,terreno,venda,931.9,847.5,1056.9,8,,setembro/2026
+Blumenau,Vila Itoupava,terreno,venda,498.9,277.9,561.2,12,,setembro/2026
+Blumenau,Vila Nova,terreno,venda,1387.6,882.4,1943.6,31,,setembro/2026
+Blumenau,Vorstadt,terreno,venda,1611.1,583.3,1938.0,21,,setembro/2026
+Blumenau,Água Verde,sala,aluguel,36.3,28.5,47.4,30,,setembro/2026
+Blumenau,Badenfurt,sala,aluguel,32.4,27.4,42.2,14,,setembro/2026
+Blumenau,Centro,sala,venda,7587.9,5940.2,10704.5,62,6.4,setembro/2026
+Blumenau,Centro,sala,aluguel,40.5,27.0,60.0,255,6.4,setembro/2026
+Blumenau,Escola Agrícola,sala,aluguel,39.3,32.2,61.1,17,,setembro/2026
+Blumenau,Fortaleza,sala,aluguel,48.0,29.9,61.9,34,,setembro/2026
+Blumenau,Garcia,sala,venda,9691.7,7764.0,13346.3,30,5.19,setembro/2026
+Blumenau,Garcia,sala,aluguel,41.9,30.8,55.1,97,5.19,setembro/2026
+Blumenau,Glória,sala,aluguel,34.9,24.8,39.0,7,,setembro/2026
+Blumenau,Itoupava Central,sala,venda,10000.0,9024.4,10416.7,9,5.64,setembro/2026
+Blumenau,Itoupava Central,sala,aluguel,47.0,34.1,69.6,88,5.64,setembro/2026
+Blumenau,Itoupava Norte,sala,aluguel,38.7,29.9,45.7,74,,setembro/2026
+Blumenau,Itoupava Seca,sala,aluguel,41.4,32.0,57.6,31,,setembro/2026
+Blumenau,Itoupavazinha,sala,aluguel,64.5,39.3,69.6,18,,setembro/2026
+Blumenau,Jardim,sala,venda,9767.1,8054.1,10937.5,10,6.08,setembro/2026
+Blumenau,Jardim,sala,aluguel,49.5,41.4,59.0,28,6.08,setembro/2026
+Blumenau,Ponta Aguda,sala,venda,7944.8,5318.2,13582.4,14,5.82,setembro/2026
+Blumenau,Ponta Aguda,sala,aluguel,38.5,29.7,52.0,41,5.82,setembro/2026
+Blumenau,Progresso,sala,aluguel,28.6,19.3,33.9,6,,setembro/2026
+Blumenau,Ribeirão Fresco,sala,aluguel,40.4,29.7,46.7,13,,setembro/2026
+Blumenau,Salto,sala,aluguel,44.2,35.3,52.5,8,,setembro/2026
+Blumenau,Salto do Norte,sala,aluguel,33.3,24.3,48.0,21,,setembro/2026
+Blumenau,Salto Weissbach,sala,aluguel,31.5,29.8,34.0,6,,setembro/2026
+Blumenau,Velha,sala,venda,10000.0,9166.4,12325.2,15,5.18,setembro/2026
+Blumenau,Velha,sala,aluguel,43.2,33.0,63.1,90,5.18,setembro/2026
+Blumenau,Velha Central,sala,aluguel,35.0,30.6,37.5,9,,setembro/2026
+Blumenau,Victor Konder,sala,venda,10416.7,8358.9,10930.0,7,4.03,setembro/2026
+Blumenau,Victor Konder,sala,aluguel,35.0,25.8,57.5,45,4.03,setembro/2026
+Blumenau,Vila Formosa,sala,aluguel,55.4,29.8,66.1,20,,setembro/2026
+Blumenau,Vila Itoupava,sala,aluguel,25.0,22.1,33.1,14,,setembro/2026
+Blumenau,Vila Nova,sala,venda,9543.9,8670.6,10762.4,14,6.76,setembro/2026
+Blumenau,Vila Nova,sala,aluguel,53.8,42.4,67.7,68,6.76,setembro/2026
+Blumenau,Vorstadt,sala,aluguel,40.0,31.7,46.9,25,,setembro/2026
+Blumenau,Água Verde,galpao,aluguel,29.2,26.0,31.0,7,,setembro/2026
+Blumenau,Badenfurt,galpao,aluguel,23.4,18.7,25.0,32,,setembro/2026
+Blumenau,Centro,galpao,aluguel,22.0,17.0,36.7,15,,setembro/2026
+Blumenau,Escola Agrícola,galpao,aluguel,26.5,25.4,33.3,5,,setembro/2026
+Blumenau,Fidélis,galpao,aluguel,20.9,18.0,25.5,10,,setembro/2026
+Blumenau,Fortaleza,galpao,aluguel,15.0,12.7,17.6,5,,setembro/2026
+Blumenau,Fortaleza Alta,galpao,aluguel,23.5,16.9,27.9,8,,setembro/2026
+Blumenau,Garcia,galpao,aluguel,24.8,22.3,26.9,8,,setembro/2026
+Blumenau,Itoupava Central,galpao,venda,3854.5,2970.2,4403.3,6,6.23,setembro/2026
+Blumenau,Itoupava Central,galpao,aluguel,20.0,16.7,26.7,72,6.23,setembro/2026
+Blumenau,Itoupava Norte,galpao,aluguel,25.8,18.2,29.5,18,,setembro/2026
+Blumenau,Itoupava Seca,galpao,aluguel,18.3,14.8,20.1,8,,setembro/2026
+Blumenau,Itoupavazinha,galpao,venda,3569.7,2836.0,5512.0,7,7.7,setembro/2026
+Blumenau,Itoupavazinha,galpao,aluguel,22.9,17.1,30.0,51,7.7,setembro/2026
+Blumenau,Passo Manso,galpao,aluguel,20.0,16.3,22.3,20,,setembro/2026
+Blumenau,Ponta Aguda,galpao,aluguel,19.4,16.7,21.7,9,,setembro/2026
+Blumenau,Progresso,galpao,aluguel,12.0,10.4,13.0,6,,setembro/2026
+Blumenau,Salto,galpao,aluguel,19.5,17.1,23.5,22,,setembro/2026
+Blumenau,Salto do Norte,galpao,aluguel,13.3,11.4,22.5,17,,setembro/2026
+Blumenau,Salto Weissbach,galpao,aluguel,17.9,16.4,19.7,22,,setembro/2026
+Blumenau,Velha,galpao,venda,3201.0,2919.9,4184.1,11,6.56,setembro/2026
+Blumenau,Velha,galpao,aluguel,17.5,12.0,22.6,37,6.56,setembro/2026
+Blumenau,Velha Central,galpao,aluguel,18.0,12.0,21.0,7,,setembro/2026
+Blumenau,Victor Konder,galpao,aluguel,16.3,14.3,20.2,6,,setembro/2026
+Blumenau,Vila Itoupava,galpao,aluguel,21.4,19.4,21.5,5,,setembro/2026
+Blumenau,Vila Nova,galpao,aluguel,23.8,12.6,28.1,11,,setembro/2026
+Blumenau,Vorstadt,galpao,aluguel,18.3,16.6,33.3,8,,setembro/2026

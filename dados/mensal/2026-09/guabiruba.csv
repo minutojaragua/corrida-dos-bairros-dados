@@ -1,0 +1,24 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Guabiruba,Aimoré,casa,venda,5588.7,4854.0,6263.6,30,,setembro/2026
+Guabiruba,Aymoré,casa,venda,5562.5,4643.6,5860.0,8,,setembro/2026
+Guabiruba,Centro,casa,venda,5956.2,4198.3,6902.0,94,,setembro/2026
+Guabiruba,Guabiruba,casa,venda,6844.0,6319.2,7354.5,6,,setembro/2026
+Guabiruba,Guabiruba Sul,casa,venda,5876.9,4953.8,6758.6,77,,setembro/2026
+Guabiruba,Imigrantes,casa,venda,4375.0,2444.1,6646.8,18,,setembro/2026
+Guabiruba,Lageado Baixo,casa,venda,5275.0,4500.0,5760.6,40,,setembro/2026
+Guabiruba,Pomerânia,casa,venda,5448.7,4470.6,6363.6,13,,setembro/2026
+Guabiruba,São Pedro,casa,venda,5910.2,4081.2,6938.7,28,,setembro/2026
+Guabiruba,Centro,apartamento,venda,7050.1,5788.5,8856.3,23,,setembro/2026
+Guabiruba,Guabiruba Sul,apartamento,venda,6666.7,6158.7,7128.6,5,,setembro/2026
+Guabiruba,Aimoré,terreno,venda,525.2,379.9,570.7,37,,setembro/2026
+Guabiruba,Aymoré,terreno,venda,553.7,407.9,646.4,23,,setembro/2026
+Guabiruba,Centro,terreno,venda,733.3,489.8,896.7,109,,setembro/2026
+Guabiruba,Guabiruba Sul,terreno,venda,766.1,513.8,918.9,53,,setembro/2026
+Guabiruba,Imigrantes,terreno,venda,610.1,448.5,935.3,25,,setembro/2026
+Guabiruba,Lageado Alto,terreno,venda,108.8,99.9,194.2,7,,setembro/2026
+Guabiruba,Lageado Baixo,terreno,venda,444.6,368.1,511.3,16,,setembro/2026
+Guabiruba,Planície Alta,terreno,venda,102.2,41.6,269.5,14,,setembro/2026
+Guabiruba,Pomerânia,terreno,venda,421.6,256.9,526.8,15,,setembro/2026
+Guabiruba,São Pedro,terreno,venda,607.9,257.1,797.2,43,,setembro/2026
+Guabiruba,Centro,sala,aluguel,24.3,20.0,35.0,17,,setembro/2026
+Guabiruba,Guabiruba Sul,galpao,aluguel,16.0,12.1,16.7,7,,setembro/2026

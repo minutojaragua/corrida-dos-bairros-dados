@@ -1,0 +1,26 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Lauro de Freitas,Buraquinho,casa,venda,5258.8,4221.6,6197.3,98,9.79,setembro/2026
+Lauro de Freitas,Buraquinho,casa,aluguel,42.9,40.8,46.1,7,9.79,setembro/2026
+Lauro de Freitas,Caixa d'Água,casa,venda,3027.9,2697.6,3441.3,6,,setembro/2026
+Lauro de Freitas,Caji,casa,venda,4400.0,3490.8,4997.6,7,,setembro/2026
+Lauro de Freitas,Centro,casa,venda,4430.2,3485.1,5364.4,22,,setembro/2026
+Lauro de Freitas,Ipitanga,casa,venda,4521.7,3041.8,5119.7,33,,setembro/2026
+Lauro de Freitas,Pitangueiras,casa,venda,4577.1,4063.0,5891.8,14,,setembro/2026
+Lauro de Freitas,Portão,casa,venda,5150.8,2862.9,7024.3,24,,setembro/2026
+Lauro de Freitas,Recreio Ipitanga,casa,venda,4775.3,1500.0,5777.8,17,,setembro/2026
+Lauro de Freitas,Vilas do Atlântico,casa,venda,5242.7,3332.8,6001.9,59,,setembro/2026
+Lauro de Freitas,Buraquinho,apartamento,venda,7242.6,5303.9,8944.0,62,7.54,setembro/2026
+Lauro de Freitas,Buraquinho,apartamento,aluguel,45.5,39.2,67.8,6,7.54,setembro/2026
+Lauro de Freitas,Caixa d'Água,apartamento,venda,3584.9,3358.8,4096.8,7,,setembro/2026
+Lauro de Freitas,Caji,apartamento,venda,3309.5,2750.0,3664.4,37,,setembro/2026
+Lauro de Freitas,Centro,apartamento,venda,6536.1,5561.9,7364.1,36,5.34,setembro/2026
+Lauro de Freitas,Centro,apartamento,aluguel,29.1,24.3,41.7,5,5.34,setembro/2026
+Lauro de Freitas,Ipitanga,apartamento,venda,5200.0,4615.4,5500.0,13,,setembro/2026
+Lauro de Freitas,Itinga,apartamento,venda,3930.2,3750.0,4062.5,5,,setembro/2026
+Lauro de Freitas,Pitangueiras,apartamento,venda,6140.8,4888.9,7615.8,31,,setembro/2026
+Lauro de Freitas,Recreio Ipitanga,apartamento,venda,5155.7,4005.4,7243.3,19,,setembro/2026
+Lauro de Freitas,Vilas do Atlântico,apartamento,venda,9843.8,6233.7,12659.7,24,,setembro/2026
+Lauro de Freitas,Caji,terreno,venda,225.0,178.6,400.5,8,,setembro/2026
+Lauro de Freitas,Centro,terreno,venda,577.8,500.0,592.6,5,,setembro/2026
+Lauro de Freitas,Pitangueiras,terreno,venda,1475.0,1075.0,1917.9,8,,setembro/2026
+Lauro de Freitas,Centro,sala,venda,6825.5,6273.1,6896.6,9,,setembro/2026

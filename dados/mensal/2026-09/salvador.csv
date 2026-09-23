@@ -1,0 +1,401 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Salvador,Acupe,apartamento,venda,4722.2,3750.0,7285.7,17,,setembro/2026
+Salvador,Acupe de Brotas,apartamento,venda,5000.0,3601.5,7697.2,80,,setembro/2026
+Salvador,Águas Claras,apartamento,venda,3039.2,2738.1,3469.4,17,,setembro/2026
+Salvador,Alphaville,apartamento,venda,10980.4,9664.4,12500.0,5,,setembro/2026
+Salvador,Alphaville I,apartamento,venda,12798.2,11225.0,15249.1,111,6.67,setembro/2026
+Salvador,Alphaville I,apartamento,aluguel,71.1,62.8,84.7,68,6.67,setembro/2026
+Salvador,Alphaville II,apartamento,venda,8672.6,6241.5,12092.4,11,,setembro/2026
+Salvador,Alto do Coqueirinho,apartamento,venda,4318.2,3714.3,4750.0,9,,setembro/2026
+Salvador,Amaralina,apartamento,venda,6500.0,4533.3,12125.0,71,12.94,setembro/2026
+Salvador,Amaralina,apartamento,aluguel,70.1,40.1,105.6,35,12.94,setembro/2026
+Salvador,Aquárius,apartamento,venda,9990.0,8243.5,11968.6,75,7.3,setembro/2026
+Salvador,Aquárius,apartamento,aluguel,60.8,58.5,65.8,13,7.3,setembro/2026
+Salvador,Areia Branca,apartamento,venda,3225.5,2165.3,4031.2,48,,setembro/2026
+Salvador,Arraial do Retiro,apartamento,venda,4166.7,2822.6,6190.5,9,,setembro/2026
+Salvador,Barbalho,apartamento,venda,4473.7,3594.1,6250.0,41,,setembro/2026
+Salvador,Barra,apartamento,venda,12943.3,6776.9,18295.5,306,7.37,setembro/2026
+Salvador,Barra,apartamento,aluguel,79.5,54.3,105.3,154,7.37,setembro/2026
+Salvador,Barreiras,apartamento,venda,2760.5,2563.8,3521.7,6,9.65,setembro/2026
+Salvador,Barreiras,apartamento,aluguel,22.2,18.4,24.1,5,9.65,setembro/2026
+Salvador,Barris,apartamento,venda,3444.4,3137.3,4210.5,17,,setembro/2026
+Salvador,Boa Viagem,apartamento,venda,4333.3,3500.0,5416.7,6,,setembro/2026
+Salvador,Boca da Mata,apartamento,venda,4303.8,3777.8,5128.2,17,,setembro/2026
+Salvador,Boca do Rio,apartamento,venda,7222.2,5384.6,8923.1,65,6.91,setembro/2026
+Salvador,Boca do Rio,apartamento,aluguel,41.6,29.3,58.7,22,6.91,setembro/2026
+Salvador,Bonfim,apartamento,venda,3373.8,2453.5,4309.3,38,11.81,setembro/2026
+Salvador,Bonfim,apartamento,aluguel,33.2,14.1,37.9,10,11.81,setembro/2026
+Salvador,Brotas,apartamento,venda,5330.0,3745.3,7601.6,144,7.88,setembro/2026
+Salvador,Brotas,apartamento,aluguel,35.0,24.5,53.0,35,7.88,setembro/2026
+Salvador,Cabula,apartamento,venda,6843.2,4009.6,7911.2,78,7.68,setembro/2026
+Salvador,Cabula,apartamento,aluguel,43.8,31.8,54.0,18,7.68,setembro/2026
+Salvador,Cabula VI,apartamento,venda,3020.8,2649.0,3611.1,19,,setembro/2026
+Salvador,Caixa Dágua,apartamento,venda,2391.3,2116.7,2666.7,9,,setembro/2026
+Salvador,Cajazeiras,apartamento,venda,2991.2,1981.2,3795.6,34,,setembro/2026
+Salvador,Cajazeiras XI,apartamento,venda,3333.3,1900.2,3667.5,11,,setembro/2026
+Salvador,Caminho das Árvores,apartamento,venda,10843.8,8179.5,13123.9,288,7.93,setembro/2026
+Salvador,Caminho das Árvores,apartamento,aluguel,71.7,55.2,92.2,164,7.93,setembro/2026
+Salvador,Caminho de Areia,apartamento,venda,2926.8,2530.1,3500.0,21,,setembro/2026
+Salvador,Campinas de Brotas,apartamento,venda,4285.7,3587.0,6607.1,21,,setembro/2026
+Salvador,Campinas de Pirajá,apartamento,venda,6486.5,5777.8,6888.9,9,,setembro/2026
+Salvador,Campo Grande,apartamento,venda,5386.9,4468.7,6845.7,94,10.4,setembro/2026
+Salvador,Campo Grande,apartamento,aluguel,46.7,34.8,69.6,6,10.4,setembro/2026
+Salvador,Canabrava,apartamento,venda,2877.8,2577.6,3664.0,50,17.18,setembro/2026
+Salvador,Canabrava,apartamento,aluguel,41.2,24.0,48.9,10,17.18,setembro/2026
+Salvador,Candeal,apartamento,venda,7352.9,5042.4,9538.0,147,7.31,setembro/2026
+Salvador,Candeal,apartamento,aluguel,44.8,33.1,50.0,33,7.31,setembro/2026
+Salvador,Canela,apartamento,venda,5642.9,3958.3,8761.1,109,9.12,setembro/2026
+Salvador,Canela,apartamento,aluguel,42.9,32.2,57.5,21,9.12,setembro/2026
+Salvador,Cassange,apartamento,venda,5000.0,4400.0,5365.9,17,,setembro/2026
+Salvador,Castelo Branco,apartamento,venda,6666.7,5431.0,7000.0,17,,setembro/2026
+Salvador,Centro,apartamento,venda,4839.8,4065.8,6557.5,48,7.84,setembro/2026
+Salvador,Centro,apartamento,aluguel,31.6,25.6,38.0,16,7.84,setembro/2026
+Salvador,Centro Administrativo da Bahia,apartamento,venda,11477.3,11089.3,11987.0,6,,setembro/2026
+Salvador,Chame-Chame,apartamento,venda,5321.3,4140.7,7131.4,64,,setembro/2026
+Salvador,Cidade Jardim,apartamento,venda,8490.6,7058.8,10052.7,105,7.04,setembro/2026
+Salvador,Cidade Jardim,apartamento,aluguel,49.8,43.6,56.4,14,7.04,setembro/2026
+Salvador,Cidade Nova,apartamento,venda,2538.5,1689.2,2567.6,5,12.15,setembro/2026
+Salvador,Cidade Nova,apartamento,aluguel,25.7,24.4,25.8,5,12.15,setembro/2026
+Salvador,Comércio,apartamento,venda,14545.5,8165.3,22333.3,15,7.5,setembro/2026
+Salvador,Comércio,apartamento,aluguel,90.9,70.7,105.1,15,7.5,setembro/2026
+Salvador,Corredor da Vitória,apartamento,venda,15714.3,11180.6,20625.0,27,,setembro/2026
+Salvador,Cosme de Farias,apartamento,venda,4200.0,3333.3,4666.7,13,,setembro/2026
+Salvador,Costa Azul,apartamento,venda,6048.0,4625.9,8500.0,221,8.1,setembro/2026
+Salvador,Costa Azul,apartamento,aluguel,40.8,31.5,62.5,58,8.1,setembro/2026
+Salvador,Daniel Lisboa,apartamento,venda,4864.9,3505.3,5309.6,31,,setembro/2026
+Salvador,Dois de Julho,apartamento,venda,4745.2,3164.5,14836.6,72,18.69,setembro/2026
+Salvador,Dois de Julho,apartamento,aluguel,73.9,37.3,96.2,24,18.69,setembro/2026
+Salvador,Dom Avelar,apartamento,venda,6321.8,5225.0,7194.6,12,,setembro/2026
+Salvador,Doron,apartamento,venda,6400.0,3590.1,10107.1,14,,setembro/2026
+Salvador,Engenho Velho da Federação,apartamento,venda,9228.8,5165.7,13875.0,22,,setembro/2026
+Salvador,Engenho Velho de Brotas,apartamento,venda,3375.0,2979.4,4083.3,35,,setembro/2026
+Salvador,Fazenda Grande do Retiro,apartamento,venda,4095.1,2225.0,6316.2,10,,setembro/2026
+Salvador,Fazenda Grande I,apartamento,venda,2608.7,2142.9,3863.6,5,,setembro/2026
+Salvador,Fazenda Grande II,apartamento,venda,1632.7,1272.7,4750.0,5,,setembro/2026
+Salvador,Federação,apartamento,venda,7823.7,5013.2,11932.4,114,7.7,setembro/2026
+Salvador,Federação,apartamento,aluguel,50.2,40.5,70.8,42,7.7,setembro/2026
+Salvador,Garcia,apartamento,venda,5147.4,3875.8,6126.3,82,7.67,setembro/2026
+Salvador,Garcia,apartamento,aluguel,32.9,29.2,35.6,11,7.67,setembro/2026
+Salvador,Garibaldi,apartamento,venda,10799.6,9836.1,12642.0,6,,setembro/2026
+Salvador,Graça,apartamento,venda,7623.5,5174.1,12034.2,284,8.99,setembro/2026
+Salvador,Graça,apartamento,aluguel,57.1,36.7,89.2,77,8.99,setembro/2026
+Salvador,Granjas Rurais Presidente Vargas,apartamento,venda,4250.0,3500.0,4523.8,17,,setembro/2026
+Salvador,Horto Bela Vista,apartamento,venda,8278.3,7254.0,9156.3,42,6.18,setembro/2026
+Salvador,Horto Bela Vista,apartamento,aluguel,42.6,39.6,51.1,9,6.18,setembro/2026
+Salvador,Horto Florestal,apartamento,venda,13112.6,10238.1,15892.6,279,7.32,setembro/2026
+Salvador,Horto Florestal,apartamento,aluguel,80.0,65.0,95.5,73,7.32,setembro/2026
+Salvador,Iapi,apartamento,venda,3000.0,2386.1,4443.8,39,13.32,setembro/2026
+Salvador,Iapi,apartamento,aluguel,33.3,15.7,40.0,5,13.32,setembro/2026
+Salvador,Ilha Amarela,apartamento,venda,5603.1,3040.8,8133.2,6,,setembro/2026
+Salvador,Imbuí,apartamento,venda,7093.0,5507.1,8729.3,139,9.32,setembro/2026
+Salvador,Imbuí,apartamento,aluguel,55.1,43.6,61.9,63,9.32,setembro/2026
+Salvador,Itaigara,apartamento,venda,8199.1,6423.6,11316.3,146,7.48,setembro/2026
+Salvador,Itaigara,apartamento,aluguel,51.1,43.4,66.6,38,7.48,setembro/2026
+Salvador,Itapuã,apartamento,venda,7183.2,5120.2,10830.9,108,7.6,setembro/2026
+Salvador,Itapuã,apartamento,aluguel,45.5,36.4,75.9,61,7.6,setembro/2026
+Salvador,Jaguaribe,apartamento,venda,13815.8,11111.1,16668.8,113,7.54,setembro/2026
+Salvador,Jaguaribe,apartamento,aluguel,86.8,70.8,104.6,51,7.54,setembro/2026
+Salvador,Jardim Apipema,apartamento,venda,6101.7,4864.7,8370.3,150,8.95,setembro/2026
+Salvador,Jardim Apipema,apartamento,aluguel,45.5,37.5,56.0,17,8.95,setembro/2026
+Salvador,Jardim Armação,apartamento,venda,8871.4,7154.9,10818.6,258,8.12,setembro/2026
+Salvador,Jardim Armação,apartamento,aluguel,60.0,44.9,75.9,144,8.12,setembro/2026
+Salvador,Jardim Cajazeiras,apartamento,venda,6179.2,4642.9,6431.6,9,,setembro/2026
+Salvador,Jardim das Margaridas,apartamento,venda,4416.1,3873.7,5144.2,88,8.21,setembro/2026
+Salvador,Jardim das Margaridas,apartamento,aluguel,30.2,25.8,39.3,50,8.21,setembro/2026
+Salvador,Jardim de Alah,apartamento,venda,6538.5,6206.9,10317.5,5,,setembro/2026
+Salvador,Jardim Nova Esperança,apartamento,venda,3769.2,3033.4,4555.8,18,,setembro/2026
+Salvador,Jardim Placaford,apartamento,venda,5805.8,4790.3,9228.9,24,,setembro/2026
+Salvador,Jardim Santo Inácio,apartamento,venda,2941.2,2766.0,3191.5,13,,setembro/2026
+Salvador,Le Parc,apartamento,venda,15591.7,14511.2,16987.2,16,,setembro/2026
+Salvador,Liberdade,apartamento,venda,2615.4,2081.1,3015.9,15,,setembro/2026
+Salvador,Luiz Anselmo,apartamento,venda,6292.2,4502.8,8210.2,80,11.1,setembro/2026
+Salvador,Luiz Anselmo,apartamento,aluguel,58.2,47.8,66.7,17,11.1,setembro/2026
+Salvador,Machado,apartamento,venda,1886.5,1310.7,2686.8,8,,setembro/2026
+Salvador,Mares,apartamento,venda,3469.5,2835.6,4984.2,12,,setembro/2026
+Salvador,Massaranduba,apartamento,venda,2151.2,1480.8,2550.0,19,,setembro/2026
+Salvador,Mata Escura,apartamento,venda,2945.4,2511.4,3411.0,34,,setembro/2026
+Salvador,Matatu,apartamento,venda,4666.7,3667.5,6235.3,55,9.98,setembro/2026
+Salvador,Matatu,apartamento,aluguel,38.8,31.5,58.1,13,9.98,setembro/2026
+Salvador,Monte Serrat,apartamento,venda,3052.9,2472.9,4000.0,14,,setembro/2026
+Salvador,Morro do Gato,apartamento,venda,5333.3,4827.6,5681.8,5,,setembro/2026
+Salvador,Morro Ipiranga,apartamento,venda,14672.1,14035.1,17455.6,5,,setembro/2026
+Salvador,Mussurunga I,apartamento,venda,5429.1,4446.4,6616.0,16,,setembro/2026
+Salvador,Mussurunga II,apartamento,venda,6853.4,5977.8,7340.7,9,,setembro/2026
+Salvador,Narandiba,apartamento,venda,7368.4,6087.0,8181.8,41,8.84,setembro/2026
+Salvador,Narandiba,apartamento,aluguel,54.3,44.7,58.9,15,8.84,setembro/2026
+Salvador,Nazaré,apartamento,venda,3240.4,2810.4,3784.8,80,8.78,setembro/2026
+Salvador,Nazaré,apartamento,aluguel,23.7,16.5,30.8,22,8.78,setembro/2026
+Salvador,Nova Brasília,apartamento,venda,4118.1,3500.3,4960.5,52,9.59,setembro/2026
+Salvador,Nova Brasília,apartamento,aluguel,32.9,27.1,48.5,14,9.59,setembro/2026
+Salvador,Novo Horizonte,apartamento,venda,5186.2,4927.9,5468.2,18,,setembro/2026
+Salvador,Novo Marotinho,apartamento,venda,4291.2,3293.4,5029.9,6,,setembro/2026
+Salvador,Ondina,apartamento,venda,11275.6,7718.5,15378.8,248,6.88,setembro/2026
+Salvador,Ondina,apartamento,aluguel,64.6,48.7,97.8,82,6.88,setembro/2026
+Salvador,Paralela,apartamento,venda,11205.6,8302.2,13904.9,96,7.17,setembro/2026
+Salvador,Paralela,apartamento,aluguel,67.0,54.0,84.6,37,7.17,setembro/2026
+Salvador,Paripe,apartamento,venda,4125.0,3266.7,7125.0,7,,setembro/2026
+Salvador,Parque Bela Vista,apartamento,venda,6071.4,4678.1,8107.1,87,10.95,setembro/2026
+Salvador,Parque Bela Vista,apartamento,aluguel,55.4,44.6,72.7,36,10.95,setembro/2026
+Salvador,Patamares,apartamento,venda,11115.9,9550.9,13000.0,164,7.36,setembro/2026
+Salvador,Patamares,apartamento,aluguel,68.2,50.0,81.0,93,7.36,setembro/2026
+Salvador,Pau da Lima,apartamento,venda,2193.2,2025.0,2589.8,10,,setembro/2026
+Salvador,Pernambués,apartamento,venda,4529.4,3478.8,6142.7,80,9.06,setembro/2026
+Salvador,Pernambués,apartamento,aluguel,34.2,32.8,38.9,10,9.06,setembro/2026
+Salvador,Piatã,apartamento,venda,8190.2,6302.1,11646.0,136,7.91,setembro/2026
+Salvador,Piatã,apartamento,aluguel,54.0,39.7,76.5,104,7.91,setembro/2026
+Salvador,Pirajá,apartamento,venda,3375.0,2400.0,6444.4,17,,setembro/2026
+Salvador,Pituaçu,apartamento,venda,11011.5,9163.5,13553.6,94,7.53,setembro/2026
+Salvador,Pituaçu,apartamento,aluguel,69.1,50.0,80.0,25,7.53,setembro/2026
+Salvador,Pituba,apartamento,venda,7493.2,5518.9,9876.6,474,7.53,setembro/2026
+Salvador,Pituba,apartamento,aluguel,47.0,34.6,67.3,219,7.53,setembro/2026
+Salvador,Plataforma,apartamento,venda,3625.0,2352.9,3863.6,5,,setembro/2026
+Salvador,Politeama,apartamento,venda,3962.0,3607.5,4997.1,22,,setembro/2026
+Salvador,Porto Seco Pirajá,apartamento,venda,6941.4,6697.9,7200.9,8,,setembro/2026
+Salvador,Praia do Flamengo,apartamento,venda,9884.8,6607.1,12078.9,59,5.89,setembro/2026
+Salvador,Praia do Flamengo,apartamento,aluguel,48.5,31.5,58.8,16,5.89,setembro/2026
+Salvador,Resgate,apartamento,venda,5479.5,4137.9,6385.5,29,,setembro/2026
+Salvador,Ribeira,apartamento,venda,2981.5,2318.1,3926.1,44,8.21,setembro/2026
+Salvador,Ribeira,apartamento,aluguel,20.4,17.5,25.2,8,8.21,setembro/2026
+Salvador,Rio Vermelho,apartamento,venda,8293.5,5690.7,11612.6,228,7.55,setembro/2026
+Salvador,Rio Vermelho,apartamento,aluguel,52.2,35.9,72.4,99,7.55,setembro/2026
+Salvador,Roma,apartamento,venda,3363.1,2557.3,7506.6,14,8.24,setembro/2026
+Salvador,Roma,apartamento,aluguel,23.1,21.8,28.1,7,8.24,setembro/2026
+Salvador,Saboeiro,apartamento,venda,5751.3,3158.3,6779.5,30,9.74,setembro/2026
+Salvador,Saboeiro,apartamento,aluguel,46.7,35.1,54.0,15,9.74,setembro/2026
+Salvador,Santa Cruz,apartamento,venda,6197.6,4890.4,6386.5,8,,setembro/2026
+Salvador,Santa Mônica,apartamento,venda,2232.1,1882.4,2336.4,7,,setembro/2026
+Salvador,Santa Teresa,apartamento,venda,7944.2,6389.5,9051.2,74,9.17,setembro/2026
+Salvador,Santa Teresa,apartamento,aluguel,60.7,52.9,69.1,27,9.17,setembro/2026
+Salvador,Santo Antônio,apartamento,venda,3166.7,2277.8,3571.4,5,,setembro/2026
+Salvador,São Cristóvão,apartamento,venda,5000.0,3425.0,6076.7,33,5.78,setembro/2026
+Salvador,São Cristóvão,apartamento,aluguel,24.1,20.3,42.9,6,5.78,setembro/2026
+Salvador,São Marcos,apartamento,venda,3693.9,2830.5,6007.4,54,10.01,setembro/2026
+Salvador,São Marcos,apartamento,aluguel,30.8,27.3,34.2,15,10.01,setembro/2026
+Salvador,São Rafael,apartamento,venda,4805.2,3185.4,8019.8,39,8.12,setembro/2026
+Salvador,São Rafael,apartamento,aluguel,32.5,31.4,37.4,7,8.12,setembro/2026
+Salvador,Saúde,apartamento,venda,2720.8,2705.6,3818.2,6,,setembro/2026
+Salvador,Sete de Abril,apartamento,venda,3897.1,2884.6,4800.0,13,,setembro/2026
+Salvador,Stella Maris,apartamento,venda,8706.1,6090.9,12198.6,89,7.25,setembro/2026
+Salvador,Stella Maris,apartamento,aluguel,52.6,38.1,86.7,65,7.25,setembro/2026
+Salvador,Stiep,apartamento,venda,7307.7,6333.3,8384.6,105,7.52,setembro/2026
+Salvador,Stiep,apartamento,aluguel,45.8,35.7,54.3,45,7.52,setembro/2026
+Salvador,Sussuarana,apartamento,venda,4354.8,3000.0,5888.9,49,,setembro/2026
+Salvador,Tancredo Neves,apartamento,venda,3074.1,2662.9,4045.1,12,,setembro/2026
+Salvador,Tororó,apartamento,venda,2923.1,2168.1,3750.0,11,,setembro/2026
+Salvador,Trobogy,apartamento,venda,6268.7,3707.8,8992.8,59,6.6,setembro/2026
+Salvador,Trobogy,apartamento,aluguel,34.5,31.6,47.1,9,6.6,setembro/2026
+Salvador,Uruguai,apartamento,venda,1802.1,1551.9,2522.1,20,,setembro/2026
+Salvador,Vale dos Lagos,apartamento,venda,2500.0,2265.4,2537.9,11,,setembro/2026
+Salvador,Valéria,apartamento,venda,4642.9,4319.9,5000.0,7,,setembro/2026
+Salvador,Vila Canária,apartamento,venda,5632.2,3724.9,6372.7,16,,setembro/2026
+Salvador,Vila Laura,apartamento,venda,4889.0,3667.6,8140.7,100,11.76,setembro/2026
+Salvador,Vila Laura,apartamento,aluguel,47.9,45.9,50.8,7,11.76,setembro/2026
+Salvador,Vila Ruy Barbosa,apartamento,venda,1954.0,1547.6,2291.7,29,,setembro/2026
+Salvador,Vitória,apartamento,venda,16250.0,10536.6,22246.0,111,6.99,setembro/2026
+Salvador,Vitória,apartamento,aluguel,94.7,65.5,114.1,52,6.99,setembro/2026
+Salvador,Acupe de Brotas,casa,venda,3671.5,2400.0,6585.0,8,,setembro/2026
+Salvador,Águas Claras,casa,venda,1358.0,1161.9,1628.8,6,,setembro/2026
+Salvador,Alphaville I,casa,venda,8524.1,6059.6,11075.7,60,,setembro/2026
+Salvador,Alphaville II,casa,venda,9541.8,8317.9,10921.1,65,,setembro/2026
+Salvador,Alto do Coqueirinho,casa,venda,1630.0,1125.0,2990.0,6,,setembro/2026
+Salvador,Amaralina,casa,venda,2993.8,2165.3,4120.8,12,,setembro/2026
+Salvador,Barbalho,casa,venda,2666.7,1750.0,2888.9,13,,setembro/2026
+Salvador,Barra,casa,venda,7846.2,4966.7,10689.7,13,,setembro/2026
+Salvador,Barris,casa,venda,3099.6,2225.4,3636.4,17,,setembro/2026
+Salvador,Boca do Rio,casa,venda,3185.2,2161.2,3984.2,31,5.84,setembro/2026
+Salvador,Boca do Rio,casa,aluguel,15.5,15.1,18.5,7,5.84,setembro/2026
+Salvador,Bonfim,casa,venda,3218.3,2019.9,4268.1,20,,setembro/2026
+Salvador,Brotas,casa,venda,4697.6,3583.3,7279.2,8,6.67,setembro/2026
+Salvador,Brotas,casa,aluguel,26.1,16.2,32.0,12,6.67,setembro/2026
+Salvador,Cabula,casa,venda,2777.8,1966.7,3214.3,9,,setembro/2026
+Salvador,Cabula VI,casa,venda,1333.3,1285.7,2314.8,5,,setembro/2026
+Salvador,Caixa Dágua,casa,venda,2000.0,1583.2,3054.2,10,,setembro/2026
+Salvador,Cajazeiras,casa,venda,1770.0,1456.8,2479.2,20,,setembro/2026
+Salvador,Caminho das Árvores,casa,venda,6315.8,5249.2,8513.0,31,10.53,setembro/2026
+Salvador,Caminho das Árvores,casa,aluguel,55.4,46.5,70.0,9,10.53,setembro/2026
+Salvador,Canabrava,casa,venda,2000.0,1333.3,2500.0,5,,setembro/2026
+Salvador,Candeal,casa,venda,5007.9,2785.7,7911.8,21,,setembro/2026
+Salvador,Canela,casa,venda,5420.1,1996.0,6222.2,5,,setembro/2026
+Salvador,Castelo Branco,casa,venda,1792.9,1366.7,2413.2,40,,setembro/2026
+Salvador,Centro,casa,venda,3900.0,2563.8,6027.8,11,,setembro/2026
+Salvador,Cidade Nova,casa,venda,1900.0,1538.5,2115.4,9,,setembro/2026
+Salvador,Cosme de Farias,casa,venda,2000.0,1430.8,2434.8,5,,setembro/2026
+Salvador,Costa Azul,casa,venda,4651.2,4579.4,4888.9,5,,setembro/2026
+Salvador,Daniel Lisboa,casa,venda,3186.9,1983.3,4596.6,8,,setembro/2026
+Salvador,Dois de Julho,casa,venda,2600.0,2016.1,4347.8,9,,setembro/2026
+Salvador,Engenho Velho de Brotas,casa,venda,2405.9,1501.0,4468.4,12,,setembro/2026
+Salvador,Fazenda Grande do Retiro,casa,venda,1893.9,1360.5,2666.7,13,,setembro/2026
+Salvador,Federação,casa,venda,3290.7,2509.4,4571.4,10,,setembro/2026
+Salvador,Garcia,casa,venda,3714.3,3218.9,4109.6,9,,setembro/2026
+Salvador,Graça,casa,venda,6327.4,5575.5,8020.3,14,,setembro/2026
+Salvador,Horto Florestal,casa,venda,8105.0,5298.6,10605.0,22,,setembro/2026
+Salvador,Iapi,casa,venda,2406.1,1917.3,2797.3,16,,setembro/2026
+Salvador,Itaigara,casa,venda,5487.4,4610.2,6857.0,46,,setembro/2026
+Salvador,Itapuã,casa,venda,4069.8,3120.0,6272.7,113,6.93,setembro/2026
+Salvador,Itapuã,casa,aluguel,23.5,17.5,31.1,43,6.93,setembro/2026
+Salvador,Jaguaribe,casa,venda,6414.5,5346.2,8469.1,34,5.03,setembro/2026
+Salvador,Jaguaribe,casa,aluguel,26.9,25.0,52.9,5,5.03,setembro/2026
+Salvador,Jardim Apipema,casa,venda,7425.6,7035.7,7953.9,6,,setembro/2026
+Salvador,Jardim Armação,casa,venda,5000.0,3653.1,5792.7,21,,setembro/2026
+Salvador,Jardim das Margaridas,casa,venda,2122.6,1535.9,2589.3,15,,setembro/2026
+Salvador,Jardim Nova Esperança,casa,venda,3354.4,2987.5,3566.7,5,,setembro/2026
+Salvador,Jardim Placaford,casa,venda,3831.8,3068.9,4622.4,36,,setembro/2026
+Salvador,Liberdade,casa,venda,1867.5,1390.6,2757.1,19,,setembro/2026
+Salvador,Luiz Anselmo,casa,venda,3133.3,2600.0,4845.5,7,,setembro/2026
+Salvador,Massaranduba,casa,venda,2045.5,2000.0,2500.0,13,,setembro/2026
+Salvador,Matatu,casa,venda,2797.2,2231.8,3652.1,31,,setembro/2026
+Salvador,Monte Serrat,casa,venda,2906.7,2233.7,4045.9,12,,setembro/2026
+Salvador,Mussurunga,casa,venda,2346.9,2039.5,2487.7,7,,setembro/2026
+Salvador,Mussurunga I,casa,venda,2307.3,1587.1,2763.7,18,,setembro/2026
+Salvador,Nazaré,casa,venda,2888.5,2347.5,4266.8,20,,setembro/2026
+Salvador,Nova Brasília,casa,venda,3258.4,1833.3,4000.0,5,,setembro/2026
+Salvador,Nova Brasília de Itapuã,casa,venda,2312.5,1500.0,2450.0,9,,setembro/2026
+Salvador,Ondina,casa,venda,6574.8,4899.8,17121.0,6,,setembro/2026
+Salvador,Paripe,casa,venda,2424.2,1593.2,3958.3,20,,setembro/2026
+Salvador,Patamares,casa,venda,7000.0,5208.3,8888.9,49,7.61,setembro/2026
+Salvador,Patamares,casa,aluguel,44.4,27.6,51.5,5,7.61,setembro/2026
+Salvador,Pau Miúdo,casa,venda,1491.2,1233.0,1897.6,11,,setembro/2026
+Salvador,Periperi,casa,venda,1972.2,1680.6,2270.0,12,,setembro/2026
+Salvador,Pernambués,casa,venda,2000.0,1475.0,2750.0,29,,setembro/2026
+Salvador,Pero Vaz,casa,venda,1596.8,1425.3,2334.1,8,,setembro/2026
+Salvador,Piatã,casa,venda,5519.9,4414.3,7305.6,98,7.3,setembro/2026
+Salvador,Piatã,casa,aluguel,33.6,26.5,38.2,26,7.3,setembro/2026
+Salvador,Pirajá,casa,venda,1677.4,1607.1,2700.0,9,,setembro/2026
+Salvador,Pituaçu,casa,venda,4888.9,3625.0,6031.9,30,7.78,setembro/2026
+Salvador,Pituaçu,casa,aluguel,31.7,28.9,35.9,10,7.78,setembro/2026
+Salvador,Pituba,casa,venda,5589.3,4154.4,6955.8,44,7.86,setembro/2026
+Salvador,Pituba,casa,aluguel,36.6,30.6,48.0,21,7.86,setembro/2026
+Salvador,Plataforma,casa,venda,2197.8,1341.7,2743.8,7,,setembro/2026
+Salvador,Praia do Flamengo,casa,venda,5765.4,4669.7,7198.6,74,6.97,setembro/2026
+Salvador,Praia do Flamengo,casa,aluguel,33.5,28.1,47.6,22,6.97,setembro/2026
+Salvador,Praia Grande,casa,venda,2174.2,1461.4,2438.4,8,,setembro/2026
+Salvador,Ribeira,casa,venda,2657.3,1984.1,2892.2,21,,setembro/2026
+Salvador,Rio Vermelho,casa,venda,6111.1,3275.0,7818.2,27,7.13,setembro/2026
+Salvador,Rio Vermelho,casa,aluguel,36.3,27.5,42.3,10,7.13,setembro/2026
+Salvador,Roma,casa,venda,2250.0,2014.3,3508.8,11,,setembro/2026
+Salvador,Saboeiro,casa,venda,2187.5,1923.1,4166.7,5,,setembro/2026
+Salvador,Santo Antônio,casa,venda,4279.3,3556.3,6565.7,23,,setembro/2026
+Salvador,São Caetano,casa,venda,1714.3,1277.8,2321.4,11,,setembro/2026
+Salvador,São Cristóvão,casa,venda,2058.8,1458.3,3312.4,17,10.26,setembro/2026
+Salvador,São Cristóvão,casa,aluguel,17.6,13.1,27.2,8,10.26,setembro/2026
+Salvador,São Marcos,casa,venda,1562.5,1222.2,1859.6,9,,setembro/2026
+Salvador,Saúde,casa,venda,2440.0,2153.1,2990.6,8,,setembro/2026
+Salvador,Stella Maris,casa,venda,5267.0,3685.9,6974.4,134,7.04,setembro/2026
+Salvador,Stella Maris,casa,aluguel,30.9,26.2,40.2,66,7.04,setembro/2026
+Salvador,Stiep,casa,venda,4228.9,3787.9,5137.0,9,,setembro/2026
+Salvador,Uruguai,casa,venda,1850.0,1750.0,2333.3,9,,setembro/2026
+Salvador,Vila Laura,casa,venda,3593.8,2398.0,4904.6,17,,setembro/2026
+Salvador,Vila Ruy Barbosa,casa,venda,1985.7,1520.6,2349.0,7,,setembro/2026
+Salvador,Águas Claras,terreno,venda,903.1,804.0,1297.6,10,,setembro/2026
+Salvador,Alphaville I,terreno,venda,2488.8,2433.7,2600.2,41,,setembro/2026
+Salvador,Alphaville II,terreno,venda,2613.0,2346.8,3033.5,53,,setembro/2026
+Salvador,Amaralina,terreno,venda,2531.6,2519.4,3888.9,5,,setembro/2026
+Salvador,Barra,terreno,venda,9861.9,7163.7,11702.0,7,,setembro/2026
+Salvador,Boca do Rio,terreno,venda,1933.7,1792.4,2371.0,11,,setembro/2026
+Salvador,Brotas,terreno,venda,2854.2,1281.8,3196.6,8,,setembro/2026
+Salvador,Cabula,terreno,venda,1800.0,1492.0,1870.0,5,,setembro/2026
+Salvador,Caminho das Árvores,terreno,venda,5342.5,4571.4,6000.0,5,,setembro/2026
+Salvador,Cassange,terreno,venda,203.9,101.1,404.6,20,,setembro/2026
+Salvador,Centro,terreno,venda,2202.9,1250.0,2391.3,5,,setembro/2026
+Salvador,Federação,terreno,venda,2769.2,1500.0,4381.0,11,,setembro/2026
+Salvador,Itaigara,terreno,venda,2343.8,1065.4,3431.9,5,,setembro/2026
+Salvador,Itapuã,terreno,venda,1428.6,750.0,1893.9,17,,setembro/2026
+Salvador,Jardim Armação,terreno,venda,2110.8,1500.0,3179.5,9,,setembro/2026
+Salvador,Jardim das Margaridas,terreno,venda,500.0,461.9,865.5,7,,setembro/2026
+Salvador,Jardim Placaford,terreno,venda,763.9,657.7,945.4,7,,setembro/2026
+Salvador,Matatu,terreno,venda,2132.7,1704.6,2751.6,7,,setembro/2026
+Salvador,Mussurunga I,terreno,venda,482.5,413.8,545.5,5,,setembro/2026
+Salvador,Parque Bela Vista,terreno,venda,2000.0,1067.6,3706.3,8,,setembro/2026
+Salvador,Patamares,terreno,venda,1871.2,1592.1,2224.2,12,,setembro/2026
+Salvador,Pernambués,terreno,venda,618.5,422.9,841.9,8,,setembro/2026
+Salvador,Piatã,terreno,venda,3039.3,2173.0,5218.8,6,,setembro/2026
+Salvador,Pirajá,terreno,venda,927.6,600.0,1000.0,5,,setembro/2026
+Salvador,Pituaçu,terreno,venda,2530.6,1559.2,3000.0,15,,setembro/2026
+Salvador,Pituba,terreno,venda,5000.0,4855.4,5707.1,11,,setembro/2026
+Salvador,Praia do Flamengo,terreno,venda,1094.8,993.8,1787.5,14,,setembro/2026
+Salvador,Ribeira,terreno,venda,703.7,671.6,706.3,5,,setembro/2026
+Salvador,Rio Vermelho,terreno,venda,3486.0,2324.1,4250.0,8,,setembro/2026
+Salvador,São Cristóvão,terreno,venda,563.4,227.0,1188.7,11,,setembro/2026
+Salvador,Stella Maris,terreno,venda,1079.1,841.3,2857.1,10,,setembro/2026
+Salvador,Trobogy,terreno,venda,498.0,457.7,552.6,6,,setembro/2026
+Salvador,Valéria,terreno,venda,600.0,320.0,900.9,13,,setembro/2026
+Salvador,Vila Laura,terreno,venda,2109.7,850.3,2855.5,6,,setembro/2026
+Salvador,Acupe de Brotas,sala,venda,7142.9,6562.5,7592.6,9,8.15,setembro/2026
+Salvador,Acupe de Brotas,sala,aluguel,48.5,38.4,115.4,13,8.15,setembro/2026
+Salvador,Amaralina,sala,aluguel,40.0,37.9,45.7,8,,setembro/2026
+Salvador,Barra,sala,venda,5135.1,3900.0,7490.4,15,17.41,setembro/2026
+Salvador,Barra,sala,aluguel,74.5,46.7,107.8,20,17.41,setembro/2026
+Salvador,Barris,sala,aluguel,62.5,48.0,100.0,5,,setembro/2026
+Salvador,Boca do Rio,sala,aluguel,50.0,37.1,62.9,14,,setembro/2026
+Salvador,Brotas,sala,venda,4023.8,3631.3,4719.9,22,17.21,setembro/2026
+Salvador,Brotas,sala,aluguel,57.7,34.3,73.8,25,17.21,setembro/2026
+Salvador,Cajazeiras,sala,aluguel,39.6,31.9,42.5,6,,setembro/2026
+Salvador,Calçada,sala,aluguel,59.7,38.6,98.5,14,,setembro/2026
+Salvador,Caminho das Árvores,sala,venda,8100.0,6071.4,11875.0,61,12.31,setembro/2026
+Salvador,Caminho das Árvores,sala,aluguel,83.1,61.6,102.4,74,12.31,setembro/2026
+Salvador,Caminho de Areia,sala,aluguel,50.0,37.9,175.9,7,,setembro/2026
+Salvador,Candeal,sala,venda,6410.3,3793.1,7333.3,5,13.52,setembro/2026
+Salvador,Candeal,sala,aluguel,72.2,51.6,92.8,7,13.52,setembro/2026
+Salvador,Canela,sala,venda,4715.8,3429.6,5707.1,14,,setembro/2026
+Salvador,Centro,sala,venda,2321.4,1381.2,3041.7,14,22.38,setembro/2026
+Salvador,Centro,sala,aluguel,43.3,25.8,66.2,15,22.38,setembro/2026
+Salvador,Cidadela,sala,venda,3703.7,3394.7,4228.3,7,,setembro/2026
+Salvador,Comércio,sala,venda,2411.7,1754.1,2770.8,32,14.88,setembro/2026
+Salvador,Comércio,sala,aluguel,29.9,18.9,47.2,52,14.88,setembro/2026
+Salvador,Costa Azul,sala,aluguel,116.7,96.7,144.5,9,,setembro/2026
+Salvador,Dois de Julho,sala,venda,2781.2,2387.0,3386.5,12,20.88,setembro/2026
+Salvador,Dois de Julho,sala,aluguel,48.4,36.2,67.7,12,20.88,setembro/2026
+Salvador,Federação,sala,venda,6377.5,4072.8,8620.6,20,9.75,setembro/2026
+Salvador,Federação,sala,aluguel,51.8,36.3,92.8,27,9.75,setembro/2026
+Salvador,Garcia,sala,aluguel,31.3,25.2,42.1,10,,setembro/2026
+Salvador,Garibaldi,sala,venda,18055.6,4324.3,18055.6,5,4.85,setembro/2026
+Salvador,Garibaldi,sala,aluguel,73.0,55.2,136.1,5,4.85,setembro/2026
+Salvador,Graça,sala,venda,5503.2,4453.9,6626.5,16,16.29,setembro/2026
+Salvador,Graça,sala,aluguel,74.7,43.8,86.0,10,16.29,setembro/2026
+Salvador,Horto Florestal,sala,venda,16757.5,10000.0,18470.6,13,5.48,setembro/2026
+Salvador,Horto Florestal,sala,aluguel,76.5,60.0,118.2,16,5.48,setembro/2026
+Salvador,Imbuí,sala,venda,4833.3,3016.7,5267.9,6,14.62,setembro/2026
+Salvador,Imbuí,sala,aluguel,58.9,40.7,78.2,6,14.62,setembro/2026
+Salvador,Itaigara,sala,venda,6292.6,5040.0,8026.7,16,9.92,setembro/2026
+Salvador,Itaigara,sala,aluguel,52.0,45.9,82.7,24,9.92,setembro/2026
+Salvador,Itapuã,sala,aluguel,75.0,47.2,100.0,41,,setembro/2026
+Salvador,Jardim Armação,sala,venda,5500.0,4738.4,13907.1,6,,setembro/2026
+Salvador,Liberdade,sala,aluguel,18.4,17.0,26.8,9,,setembro/2026
+Salvador,Mares,sala,aluguel,32.2,28.0,35.9,12,,setembro/2026
+Salvador,Massaranduba,sala,aluguel,21.7,21.4,35.7,5,,setembro/2026
+Salvador,Matatu,sala,aluguel,45.0,36.8,51.5,6,,setembro/2026
+Salvador,Nazaré,sala,venda,2872.3,2250.0,2975.0,5,24.02,setembro/2026
+Salvador,Nazaré,sala,aluguel,57.5,31.6,73.1,16,24.02,setembro/2026
+Salvador,Ondina,sala,venda,7121.2,6666.7,9685.7,9,11.59,setembro/2026
+Salvador,Ondina,sala,aluguel,68.8,52.2,75.9,12,11.59,setembro/2026
+Salvador,Paralela,sala,venda,10008.0,8310.6,11833.3,16,11.99,setembro/2026
+Salvador,Paralela,sala,aluguel,100.0,85.9,105.4,6,11.99,setembro/2026
+Salvador,Paripe,sala,aluguel,42.7,34.8,58.8,8,,setembro/2026
+Salvador,Parque Bela Vista,sala,venda,4285.7,3159.7,5347.2,31,16.16,setembro/2026
+Salvador,Parque Bela Vista,sala,aluguel,57.7,25.7,73.1,19,16.16,setembro/2026
+Salvador,Pau da Lima,sala,aluguel,40.0,32.2,40.8,5,,setembro/2026
+Salvador,Pernambués,sala,aluguel,34.5,32.9,48.8,6,,setembro/2026
+Salvador,Pituaçu,sala,aluguel,62.7,25.3,82.4,8,,setembro/2026
+Salvador,Pituba,sala,venda,5882.4,4524.9,7979.8,41,14.08,setembro/2026
+Salvador,Pituba,sala,aluguel,69.0,46.6,103.2,67,14.08,setembro/2026
+Salvador,Rio Vermelho,sala,venda,5394.7,5000.0,7173.9,13,12.61,setembro/2026
+Salvador,Rio Vermelho,sala,aluguel,56.7,35.1,75.8,42,12.61,setembro/2026
+Salvador,Roma,sala,aluguel,40.2,27.1,56.7,10,,setembro/2026
+Salvador,São Caetano,sala,aluguel,40.5,31.3,53.5,8,,setembro/2026
+Salvador,São Cristóvão,sala,venda,7241.4,5952.4,8857.1,21,10.74,setembro/2026
+Salvador,São Cristóvão,sala,aluguel,64.8,41.2,80.3,16,10.74,setembro/2026
+Salvador,São Marcos,sala,venda,5916.7,3226.2,9075.0,6,20.28,setembro/2026
+Salvador,São Marcos,sala,aluguel,100.0,46.4,155.0,9,20.28,setembro/2026
+Salvador,Stella Maris,sala,aluguel,68.3,58.3,76.5,8,,setembro/2026
+Salvador,Stiep,sala,venda,7381.0,6293.1,8214.3,7,8.32,setembro/2026
+Salvador,Stiep,sala,aluguel,51.2,42.4,85.7,13,8.32,setembro/2026
+Salvador,Uruguai,sala,aluguel,32.8,28.3,57.8,8,,setembro/2026
+Salvador,Vila Ruy Barbosa,sala,venda,5625.0,5084.7,7142.9,9,9.9,setembro/2026
+Salvador,Vila Ruy Barbosa,sala,aluguel,46.4,26.0,52.0,5,9.9,setembro/2026
+Salvador,Águas Claras,galpao,aluguel,21.4,13.8,23.5,11,,setembro/2026
+Salvador,Cassange,galpao,aluguel,27.6,21.7,30.0,5,,setembro/2026
+Salvador,Granjas Rurais Presidente Vargas,galpao,venda,2059.8,1005.5,2905.2,8,24.76,setembro/2026
+Salvador,Granjas Rurais Presidente Vargas,galpao,aluguel,42.5,30.6,43.1,5,24.76,setembro/2026
+Salvador,Iapi,galpao,aluguel,30.0,17.5,37.6,7,,setembro/2026
+Salvador,Pirajá,galpao,aluguel,22.9,17.9,30.0,9,,setembro/2026
+Salvador,Porto Seco Pirajá,galpao,aluguel,25.0,20.0,29.1,17,,setembro/2026

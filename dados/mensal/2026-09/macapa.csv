@@ -1,0 +1,29 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Macapá,Brasil Novo,casa,venda,5510.0,4676.0,5872.2,8,,setembro/2026
+Macapá,Cabralzinho,casa,venda,4516.1,3250.0,5151.5,37,,setembro/2026
+Macapá,Central,casa,venda,5454.5,3594.5,7000.0,33,5.41,setembro/2026
+Macapá,Central,casa,aluguel,24.6,19.3,28.0,6,5.41,setembro/2026
+Macapá,Fazendinha,casa,venda,4750.0,4280.8,5693.3,7,,setembro/2026
+Macapá,Jardim Equatorial,casa,venda,5636.9,5164.3,6793.7,7,,setembro/2026
+Macapá,Jardim Felicidade,casa,venda,3080.2,2464.5,3675.0,7,,setembro/2026
+Macapá,Jardim Marco Zero,casa,venda,3731.3,2083.3,5797.1,21,,setembro/2026
+Macapá,Marabaixo,casa,venda,4117.6,2400.0,4878.0,21,,setembro/2026
+Macapá,Pacoval,casa,venda,3449.8,2062.9,5099.9,6,,setembro/2026
+Macapá,Renascer,casa,venda,3873.8,2153.8,5600.0,16,,setembro/2026
+Macapá,Santa Rita,casa,venda,3754.6,2746.9,4916.8,19,,setembro/2026
+Macapá,São José,casa,venda,5001.8,4275.0,5316.1,34,,setembro/2026
+Macapá,Trem,casa,venda,2544.4,1466.7,3312.9,6,,setembro/2026
+Macapá,Universidade,casa,venda,4756.4,2960.9,5700.9,25,4.19,setembro/2026
+Macapá,Universidade,casa,aluguel,16.6,9.5,20.1,8,4.19,setembro/2026
+Macapá,Central,apartamento,venda,8563.5,7389.8,9324.9,12,2.84,setembro/2026
+Macapá,Central,apartamento,aluguel,20.3,17.9,25.9,6,2.84,setembro/2026
+Macapá,Jardim Marco Zero,apartamento,venda,6865.0,5894.8,7967.5,6,,setembro/2026
+Macapá,Universidade,apartamento,venda,4833.0,4007.2,7665.3,8,,setembro/2026
+Macapá,Brasil Novo,terreno,venda,1078.8,280.2,1164.3,8,,setembro/2026
+Macapá,Cabralzinho,terreno,venda,530.4,393.9,583.3,7,,setembro/2026
+Macapá,Fazendinha,terreno,venda,516.9,347.1,693.2,6,,setembro/2026
+Macapá,Marabaixo,terreno,venda,450.0,385.1,908.4,11,,setembro/2026
+Macapá,São José,terreno,venda,589.1,549.1,712.5,6,,setembro/2026
+Macapá,Universidade,terreno,venda,333.3,320.3,513.2,7,,setembro/2026
+Macapá,Central,sala,aluguel,77.8,44.2,100.0,35,,setembro/2026
+Macapá,Central,galpao,aluguel,28.5,26.9,35.9,6,,setembro/2026

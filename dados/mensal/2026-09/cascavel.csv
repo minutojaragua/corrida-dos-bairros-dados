@@ -1,0 +1,216 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Cascavel,14 de Novembro,casa,venda,5512.9,5004.1,6038.5,16,,setembro/2026
+Cascavel,Alto Alegre,casa,venda,5555.6,5056.4,6465.9,63,7.37,setembro/2026
+Cascavel,Alto Alegre,casa,aluguel,34.1,31.7,39.5,17,7.37,setembro/2026
+Cascavel,Angra dos Reis,casa,venda,5661.8,4306.9,6383.8,11,,setembro/2026
+Cascavel,Barcelona,casa,venda,5401.7,5130.6,5544.0,6,,setembro/2026
+Cascavel,Belmonte,casa,venda,5333.3,5175.4,5541.7,5,,setembro/2026
+Cascavel,Brasília,casa,venda,5180.1,4483.1,5753.5,20,,setembro/2026
+Cascavel,Brasmadeira,casa,venda,5973.9,5644.2,6446.0,32,,setembro/2026
+Cascavel,Brazmadeira,casa,venda,6344.4,5663.2,6663.3,23,,setembro/2026
+Cascavel,Canadá,casa,venda,6186.4,5176.3,7732.2,99,6.23,setembro/2026
+Cascavel,Canadá,casa,aluguel,32.1,30.3,39.2,5,6.23,setembro/2026
+Cascavel,Cancelli,casa,venda,6686.4,5772.3,8903.1,103,6.84,setembro/2026
+Cascavel,Cancelli,casa,aluguel,38.1,25.7,65.5,12,6.84,setembro/2026
+Cascavel,Caponga,casa,venda,1944.4,1592.5,2937.5,8,,setembro/2026
+Cascavel,Cascavel Velho,casa,venda,5739.3,4683.3,6479.2,42,5.71,setembro/2026
+Cascavel,Cascavel Velho,casa,aluguel,27.3,21.7,30.5,5,5.71,setembro/2026
+Cascavel,Cataratas,casa,venda,7024.8,5970.1,9756.1,31,5.28,setembro/2026
+Cascavel,Cataratas,casa,aluguel,30.9,27.2,32.1,6,5.28,setembro/2026
+Cascavel,Centro,casa,venda,6536.2,5264.1,8491.1,104,5.65,setembro/2026
+Cascavel,Centro,casa,aluguel,30.8,23.3,38.0,43,5.65,setembro/2026
+Cascavel,Ciro Nardi,casa,venda,6976.7,5487.4,7851.7,7,,setembro/2026
+Cascavel,Claudete,casa,venda,7135.4,6139.0,8885.1,46,,setembro/2026
+Cascavel,Colinas Tropical,casa,venda,8917.2,8149.9,9814.9,7,,setembro/2026
+Cascavel,Coqueiral,casa,venda,5825.0,5059.1,7133.6,59,5.91,setembro/2026
+Cascavel,Coqueiral,casa,aluguel,28.7,22.9,40.6,5,5.91,setembro/2026
+Cascavel,Country,casa,venda,7387.3,6310.4,9904.0,97,4.16,setembro/2026
+Cascavel,Country,casa,aluguel,25.6,23.0,34.5,31,4.16,setembro/2026
+Cascavel,Ecopark,casa,venda,5058.4,4795.5,5431.3,8,,setembro/2026
+Cascavel,Esmeralda,casa,venda,5554.7,4546.2,6205.1,58,,setembro/2026
+Cascavel,Fag,casa,venda,8815.3,7375.8,11130.4,103,6.37,setembro/2026
+Cascavel,Fag,casa,aluguel,46.8,31.5,50.0,7,6.37,setembro/2026
+Cascavel,Florais do Parana,casa,venda,5254.3,5023.6,5700.9,20,,setembro/2026
+Cascavel,Floresta,casa,venda,5332.7,4558.3,5889.2,58,6.17,setembro/2026
+Cascavel,Floresta,casa,aluguel,27.4,20.4,29.4,6,6.17,setembro/2026
+Cascavel,Guarujá,casa,venda,4226.5,2532.6,5459.5,24,,setembro/2026
+Cascavel,Interlagos,casa,venda,5282.7,4756.0,5677.3,28,6.63,setembro/2026
+Cascavel,Interlagos,casa,aluguel,29.2,21.2,33.4,6,6.63,setembro/2026
+Cascavel,Jardim Cassol,casa,venda,8908.0,7471.3,9068.0,5,,setembro/2026
+Cascavel,Jardim Piovesan,casa,venda,5886.6,5709.2,6942.3,12,,setembro/2026
+Cascavel,Maria Luiza,casa,venda,7121.3,5420.5,8126.2,51,3.64,setembro/2026
+Cascavel,Maria Luiza,casa,aluguel,21.6,17.9,25.3,8,3.64,setembro/2026
+Cascavel,Mirante,casa,venda,6335.4,5771.3,6497.3,7,,setembro/2026
+Cascavel,Montreal,casa,venda,5384.6,5151.2,6250.0,8,,setembro/2026
+Cascavel,Morumbi,casa,venda,5123.6,4618.1,5661.4,26,5.55,setembro/2026
+Cascavel,Morumbi,casa,aluguel,23.7,16.4,36.1,8,5.55,setembro/2026
+Cascavel,Neva,casa,venda,6779.0,5224.8,8239.5,54,5.1,setembro/2026
+Cascavel,Neva,casa,aluguel,28.8,23.4,37.6,7,5.1,setembro/2026
+Cascavel,Nova Cidade,casa,venda,4001.7,2133.8,5865.1,7,,setembro/2026
+Cascavel,Nova York,casa,venda,8051.3,7692.3,8609.3,5,,setembro/2026
+Cascavel,Nucleo de Produção III,casa,venda,11655.1,10994.0,12865.2,5,,setembro/2026
+Cascavel,Nucleo Industrial III,casa,venda,11213.4,11023.2,12477.8,6,,setembro/2026
+Cascavel,Pacaembu,casa,venda,6885.7,4962.1,8220.2,28,,setembro/2026
+Cascavel,Padovani,casa,venda,5651.3,4788.7,6000.0,13,,setembro/2026
+Cascavel,Paraíso Tropical,casa,venda,7715.4,7005.9,8424.0,20,,setembro/2026
+Cascavel,Paraiso Tropical 1,casa,venda,7847.1,7263.6,8116.9,5,,setembro/2026
+Cascavel,Paraíso Tropical I,casa,venda,7725.0,7161.7,8370.5,14,,setembro/2026
+Cascavel,Parque São Paulo,casa,venda,5769.2,4846.4,6857.1,59,6.3,setembro/2026
+Cascavel,Parque São Paulo,casa,aluguel,30.3,25.6,39.9,13,6.3,setembro/2026
+Cascavel,Parque Verde,casa,venda,6388.9,5312.6,7294.3,91,3.51,setembro/2026
+Cascavel,Parque Verde,casa,aluguel,18.7,17.2,26.6,8,3.51,setembro/2026
+Cascavel,Periolo,casa,venda,5468.8,3585.9,6277.1,19,,setembro/2026
+Cascavel,Pioneiros Catarinenses,casa,venda,6075.0,5402.2,6785.6,55,5.75,setembro/2026
+Cascavel,Pioneiros Catarinenses,casa,aluguel,29.1,26.7,29.4,9,5.75,setembro/2026
+Cascavel,Positano,casa,venda,6266.7,5640.3,6635.2,27,,setembro/2026
+Cascavel,Recanto Tropical,casa,venda,7531.6,6624.6,8854.8,129,4.92,setembro/2026
+Cascavel,Recanto Tropical,casa,aluguel,30.9,26.6,35.8,16,4.92,setembro/2026
+Cascavel,Recanto Tropical III,casa,venda,8285.7,7657.7,10000.0,17,,setembro/2026
+Cascavel,Região do Lago,casa,venda,7597.3,5740.9,9527.6,40,5.23,setembro/2026
+Cascavel,Região do Lago,casa,aluguel,33.1,17.0,47.7,6,5.23,setembro/2026
+Cascavel,Região do Lago 1,casa,venda,9344.7,8486.4,13690.1,6,,setembro/2026
+Cascavel,Região do Lago 2,casa,venda,10664.4,8806.7,10753.3,6,,setembro/2026
+Cascavel,Santa Cruz,casa,venda,6199.2,4482.3,7558.9,92,4.28,setembro/2026
+Cascavel,Santa Cruz,casa,aluguel,22.1,18.2,29.1,10,4.28,setembro/2026
+Cascavel,Santa Felicidade,casa,venda,5299.8,4627.4,5849.1,45,,setembro/2026
+Cascavel,Santo Inácio,casa,venda,10991.7,8751.9,13055.0,20,,setembro/2026
+Cascavel,Santo Onofre,casa,venda,3863.6,3437.5,4800.0,5,,setembro/2026
+Cascavel,Santos Dumont,casa,venda,5061.5,3794.0,5856.0,8,,setembro/2026
+Cascavel,São Cristóvão,casa,venda,6759.2,5228.8,7935.8,42,,setembro/2026
+Cascavel,Siena,casa,venda,5695.2,5256.1,6098.0,22,,setembro/2026
+Cascavel,Tropical,casa,venda,6879.0,5761.4,8826.7,50,6.02,setembro/2026
+Cascavel,Tropical,casa,aluguel,34.5,31.9,42.3,7,6.02,setembro/2026
+Cascavel,Tropical 3,casa,venda,8018.0,6919.3,8639.1,7,,setembro/2026
+Cascavel,Tropical 4,casa,venda,7422.5,6762.9,7797.9,7,,setembro/2026
+Cascavel,Tropical II,casa,venda,7931.0,7324.3,8674.6,27,,setembro/2026
+Cascavel,Tropical III,casa,venda,7930.9,6245.1,9494.4,48,,setembro/2026
+Cascavel,Tropical IV,casa,venda,7755.6,7178.6,8407.8,18,,setembro/2026
+Cascavel,Universitário,casa,venda,5244.8,4114.3,6000.0,65,5.93,setembro/2026
+Cascavel,Universitário,casa,aluguel,25.9,24.7,33.7,7,5.93,setembro/2026
+Cascavel,Vale Verde,casa,venda,6980.0,6933.1,7081.0,7,,setembro/2026
+Cascavel,Veredas,casa,venda,5526.3,5285.2,6048.7,11,,setembro/2026
+Cascavel,Verona,casa,venda,6124.6,5482.4,6662.5,8,,setembro/2026
+Cascavel,Viena,casa,venda,6129.1,5887.6,6543.4,6,,setembro/2026
+Cascavel,Vila Tolentino,casa,venda,6334.5,6195.8,6544.8,8,,setembro/2026
+Cascavel,Vista Linda,casa,venda,6818.2,6049.4,9214.3,21,,setembro/2026
+Cascavel,Vitality Home Resort,casa,venda,11655.1,11578.9,12865.2,5,,setembro/2026
+Cascavel,Alto Alegre,apartamento,venda,5700.0,4805.6,6764.7,67,4.53,setembro/2026
+Cascavel,Alto Alegre,apartamento,aluguel,21.5,20.0,27.5,5,4.53,setembro/2026
+Cascavel,Bairro Coqueiral,apartamento,venda,8814.0,7905.9,9631.6,12,,setembro/2026
+Cascavel,Brasília,apartamento,venda,4905.7,4336.5,5543.1,31,8.17,setembro/2026
+Cascavel,Brasília,apartamento,aluguel,33.4,26.6,36.5,6,8.17,setembro/2026
+Cascavel,Canadá,apartamento,venda,5778.6,4901.5,6905.5,36,,setembro/2026
+Cascavel,Cancelli,apartamento,venda,6460.4,4744.6,7985.6,184,6.19,setembro/2026
+Cascavel,Cancelli,apartamento,aluguel,33.3,29.8,40.0,33,6.19,setembro/2026
+Cascavel,Centro,apartamento,venda,6785.5,5062.7,9811.3,963,5.11,setembro/2026
+Cascavel,Centro,apartamento,aluguel,28.9,21.2,38.5,239,5.11,setembro/2026
+Cascavel,Ciro Nardi,apartamento,venda,7459.5,4419.4,8795.8,11,,setembro/2026
+Cascavel,Claudete,apartamento,venda,5555.6,4770.9,6419.3,17,,setembro/2026
+Cascavel,Coqueiral,apartamento,venda,5578.1,4792.7,8009.8,126,6.02,setembro/2026
+Cascavel,Coqueiral,apartamento,aluguel,28.0,19.8,32.7,24,6.02,setembro/2026
+Cascavel,Country,apartamento,venda,8109.9,6220.1,11217.9,169,4.28,setembro/2026
+Cascavel,Country,apartamento,aluguel,28.9,26.2,33.5,22,4.28,setembro/2026
+Cascavel,Esmeralda,apartamento,venda,4733.3,4275.9,5292.2,7,,setembro/2026
+Cascavel,Fag,apartamento,venda,5757.7,4569.6,6943.3,26,,setembro/2026
+Cascavel,Florais do Parana,apartamento,venda,4464.3,3981.1,4690.5,7,,setembro/2026
+Cascavel,Floresta,apartamento,venda,4420.9,3921.2,5174.4,23,7.36,setembro/2026
+Cascavel,Floresta,apartamento,aluguel,27.1,23.1,31.3,24,7.36,setembro/2026
+Cascavel,Interlagos,apartamento,venda,3829.8,3773.6,4177.1,5,,setembro/2026
+Cascavel,Maria Luiza,apartamento,venda,6461.5,4788.6,7832.8,31,6.18,setembro/2026
+Cascavel,Maria Luiza,apartamento,aluguel,33.3,24.9,36.2,7,6.18,setembro/2026
+Cascavel,Morumbi,apartamento,venda,4795.8,4395.5,5312.1,12,6.96,setembro/2026
+Cascavel,Morumbi,apartamento,aluguel,27.8,24.5,31.1,8,6.96,setembro/2026
+Cascavel,Neva,apartamento,venda,6250.0,5072.7,9180.3,165,4.8,setembro/2026
+Cascavel,Neva,apartamento,aluguel,25.0,20.9,31.5,9,4.8,setembro/2026
+Cascavel,Pacaembu,apartamento,venda,5451.9,4178.8,6626.6,28,,setembro/2026
+Cascavel,Parque São Paulo,apartamento,venda,5764.1,4786.6,7824.2,67,,setembro/2026
+Cascavel,Parque Verde,apartamento,venda,4858.5,3280.2,5556.5,11,,setembro/2026
+Cascavel,Periolo,apartamento,venda,4751.5,4523.8,5731.9,7,,setembro/2026
+Cascavel,Pioneiros Catarinenses,apartamento,venda,5239.4,4231.7,6363.6,61,7.58,setembro/2026
+Cascavel,Pioneiros Catarinenses,apartamento,aluguel,33.1,23.8,37.9,11,7.58,setembro/2026
+Cascavel,Recanto Tropical,apartamento,venda,5307.9,4516.2,6162.6,32,6.04,setembro/2026
+Cascavel,Recanto Tropical,apartamento,aluguel,26.7,21.2,31.4,13,6.04,setembro/2026
+Cascavel,Região do Lago,apartamento,venda,5437.0,3921.2,7703.0,23,7.46,setembro/2026
+Cascavel,Região do Lago,apartamento,aluguel,33.8,21.4,36.3,5,7.46,setembro/2026
+Cascavel,Região do Lago 1,apartamento,venda,6815.9,4702.6,9583.9,6,,setembro/2026
+Cascavel,Santa Cruz,apartamento,venda,5000.0,4600.6,5983.3,27,8.81,setembro/2026
+Cascavel,Santa Cruz,apartamento,aluguel,36.7,31.7,45.2,8,8.81,setembro/2026
+Cascavel,Santa Felicidade,apartamento,venda,5378.8,3512.3,5900.8,9,,setembro/2026
+Cascavel,Santo Inácio,apartamento,venda,5556.0,4935.9,5581.0,5,,setembro/2026
+Cascavel,Santo Onofre,apartamento,venda,4844.6,4072.0,6471.3,11,,setembro/2026
+Cascavel,São Cristóvão,apartamento,venda,5642.9,4790.0,7068.0,55,5.4,setembro/2026
+Cascavel,São Cristóvão,apartamento,aluguel,25.4,22.8,28.2,7,5.4,setembro/2026
+Cascavel,Tropical,apartamento,venda,6305.0,5096.8,7738.0,16,,setembro/2026
+Cascavel,Universitário,apartamento,venda,5206.9,4841.6,5763.2,34,5.81,setembro/2026
+Cascavel,Universitário,apartamento,aluguel,25.2,23.1,31.5,11,5.81,setembro/2026
+Cascavel,Vila Tolentino,apartamento,venda,4755.1,4218.4,6016.0,8,,setembro/2026
+Cascavel,Alto Alegre,terreno,venda,1983.6,1294.6,2285.7,32,,setembro/2026
+Cascavel,Bella Vita,terreno,venda,998.4,915.6,1118.8,17,,setembro/2026
+Cascavel,Brasília,terreno,venda,913.6,777.5,1049.2,9,,setembro/2026
+Cascavel,Brasmadeira,terreno,venda,986.7,839.4,1118.0,21,,setembro/2026
+Cascavel,Brazmadeira,terreno,venda,989.8,898.6,996.7,13,,setembro/2026
+Cascavel,Canadá,terreno,venda,1336.9,1054.5,1656.5,43,,setembro/2026
+Cascavel,Cancelli,terreno,venda,1825.0,1222.2,1998.8,53,,setembro/2026
+Cascavel,Caponga,terreno,venda,293.3,202.5,308.3,8,,setembro/2026
+Cascavel,Cascavel Velho,terreno,venda,846.8,567.1,1273.1,36,,setembro/2026
+Cascavel,Cataratas,terreno,venda,891.7,633.5,1200.4,26,,setembro/2026
+Cascavel,Centro,terreno,venda,2585.1,1876.4,3308.4,100,,setembro/2026
+Cascavel,Claudete,terreno,venda,1437.5,997.5,1800.0,17,,setembro/2026
+Cascavel,Colinas Tropical,terreno,venda,1130.4,1096.3,1155.0,5,,setembro/2026
+Cascavel,Coqueiral,terreno,venda,1254.0,1100.5,1656.2,20,,setembro/2026
+Cascavel,Country,terreno,venda,2000.0,1624.6,2375.0,27,,setembro/2026
+Cascavel,Esmeralda,terreno,venda,1016.5,939.7,1065.4,8,,setembro/2026
+Cascavel,Espigão Azul,terreno,venda,722.1,705.3,743.0,6,,setembro/2026
+Cascavel,Fag,terreno,venda,1150.0,1098.9,1263.4,61,,setembro/2026
+Cascavel,Floresta,terreno,venda,750.0,641.2,830.2,15,,setembro/2026
+Cascavel,Guarujá,terreno,venda,750.0,732.4,825.0,6,,setembro/2026
+Cascavel,Interlagos,terreno,venda,593.5,481.8,718.8,6,,setembro/2026
+Cascavel,Lago Azul,terreno,venda,371.7,345.3,450.0,7,,setembro/2026
+Cascavel,Maria Luiza,terreno,venda,1500.0,1079.1,1699.5,11,,setembro/2026
+Cascavel,Morumbi,terreno,venda,780.0,726.6,819.5,14,,setembro/2026
+Cascavel,Neva,terreno,venda,1843.3,1408.3,2151.8,28,,setembro/2026
+Cascavel,Nucleo de Produção III,terreno,venda,1582.0,1376.1,1720.8,12,,setembro/2026
+Cascavel,Pacaembu,terreno,venda,2040.8,1521.7,3484.0,22,,setembro/2026
+Cascavel,Parque São Paulo,terreno,venda,1503.8,1274.5,2854.6,18,,setembro/2026
+Cascavel,Parque Verde,terreno,venda,1323.1,1107.1,1641.1,16,,setembro/2026
+Cascavel,Periolo,terreno,venda,847.0,500.0,1102.2,9,,setembro/2026
+Cascavel,Pioneiros Catarinenses,terreno,venda,1204.0,1067.7,1473.6,10,,setembro/2026
+Cascavel,Recanto Tropical,terreno,venda,1187.9,1039.9,1462.6,34,,setembro/2026
+Cascavel,Região do Lago,terreno,venda,1913.0,1649.8,2125.0,9,,setembro/2026
+Cascavel,Santa Cruz,terreno,venda,1136.2,939.4,1368.4,28,,setembro/2026
+Cascavel,Santa Felicidade,terreno,venda,896.9,848.7,970.1,18,,setembro/2026
+Cascavel,Santo Inácio,terreno,venda,1170.1,1114.5,1271.6,13,,setembro/2026
+Cascavel,Santos Dumont,terreno,venda,950.0,700.0,1056.8,11,,setembro/2026
+Cascavel,São Cristóvão,terreno,venda,1388.9,1017.7,2361.1,41,,setembro/2026
+Cascavel,São Salvador,terreno,venda,1175.1,97.9,2254.0,8,,setembro/2026
+Cascavel,Tropical,terreno,venda,1433.7,1091.5,2785.1,35,,setembro/2026
+Cascavel,Tropical III,terreno,venda,1190.5,1035.2,1232.0,7,,setembro/2026
+Cascavel,Tropical IV,terreno,venda,1211.2,1126.7,1366.1,7,,setembro/2026
+Cascavel,Universitário,terreno,venda,891.5,743.8,1085.6,41,,setembro/2026
+Cascavel,Vista Linda,terreno,venda,1199.0,1020.8,1600.2,19,,setembro/2026
+Cascavel,Alto Alegre,sala,venda,8241.8,7628.2,8725.0,5,5.78,setembro/2026
+Cascavel,Alto Alegre,sala,aluguel,39.7,31.4,43.9,25,5.78,setembro/2026
+Cascavel,Brazmadeira,sala,aluguel,40.0,37.8,40.2,5,,setembro/2026
+Cascavel,Cascavel Velho,sala,aluguel,22.4,22.2,27.8,5,,setembro/2026
+Cascavel,Centro,sala,venda,8737.9,6306.1,14606.5,83,6.41,setembro/2026
+Cascavel,Centro,sala,aluguel,46.7,32.6,69.7,289,6.41,setembro/2026
+Cascavel,Ciro Nardi,sala,aluguel,39.5,34.0,42.1,10,,setembro/2026
+Cascavel,Coqueiral,sala,aluguel,38.9,31.6,56.0,20,,setembro/2026
+Cascavel,Country,sala,aluguel,38.5,34.6,42.9,7,,setembro/2026
+Cascavel,Esmeralda,sala,aluguel,60.2,48.9,60.3,7,,setembro/2026
+Cascavel,Neva,sala,aluguel,45.6,31.5,51.9,18,,setembro/2026
+Cascavel,Pacaembu,sala,aluguel,36.2,33.8,75.7,5,,setembro/2026
+Cascavel,Parque São Paulo,sala,aluguel,46.4,34.5,63.2,18,,setembro/2026
+Cascavel,Periolo,sala,aluguel,29.6,26.6,35.7,12,,setembro/2026
+Cascavel,Santa Cruz,sala,aluguel,40.9,35.3,56.2,17,,setembro/2026
+Cascavel,São Cristóvão,sala,aluguel,31.4,20.7,43.3,17,,setembro/2026
+Cascavel,Canadá,galpao,aluguel,14.5,12.9,19.6,5,,setembro/2026
+Cascavel,Cascavel Velho,galpao,aluguel,20.7,12.4,24.0,8,,setembro/2026
+Cascavel,Cataratas,galpao,aluguel,20.4,15.8,23.4,10,,setembro/2026
+Cascavel,Centro,galpao,aluguel,25.2,18.2,30.4,12,,setembro/2026
+Cascavel,Morumbi,galpao,aluguel,12.5,9.8,19.7,18,,setembro/2026
+Cascavel,Pacaembu,galpao,aluguel,28.0,20.8,29.6,8,,setembro/2026
+Cascavel,Parque São Paulo,galpao,aluguel,21.3,18.7,24.9,19,,setembro/2026
+Cascavel,Santos Dumont,galpao,aluguel,22.7,21.1,26.1,7,,setembro/2026
+Cascavel,São Cristóvão,galpao,aluguel,24.1,20.5,33.3,9,,setembro/2026
+Cascavel,Vista Linda,galpao,aluguel,16.0,15.0,22.5,5,,setembro/2026

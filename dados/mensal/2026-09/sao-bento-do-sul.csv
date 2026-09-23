@@ -1,0 +1,48 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+São Bento do Sul,25 de Julho,casa,venda,3905.9,2797.6,4880.6,15,,setembro/2026
+São Bento do Sul,Boehmerwald,casa,venda,3719.1,2613.0,4212.1,12,,setembro/2026
+São Bento do Sul,Brasília,casa,venda,4366.3,3362.2,6187.3,39,,setembro/2026
+São Bento do Sul,Centenário,casa,venda,3857.9,2631.0,5346.0,37,,setembro/2026
+São Bento do Sul,Centro,casa,venda,5044.0,4296.4,7562.2,56,,setembro/2026
+São Bento do Sul,Colonial,casa,venda,4542.9,1769.2,5380.8,31,,setembro/2026
+São Bento do Sul,Cruzeiro,casa,venda,3655.3,2914.0,5473.9,8,,setembro/2026
+São Bento do Sul,Dona Francisca,casa,venda,4296.4,3136.7,5210.6,14,,setembro/2026
+São Bento do Sul,Lençol,casa,venda,1979.0,1683.4,3883.8,12,,setembro/2026
+São Bento do Sul,Mato Preto,casa,venda,4404.1,3006.0,5337.5,29,,setembro/2026
+São Bento do Sul,Oxford,casa,venda,3629.2,2181.9,4286.6,14,,setembro/2026
+São Bento do Sul,Progresso,casa,venda,4743.6,3792.5,5532.1,46,,setembro/2026
+São Bento do Sul,Rio Negro,casa,venda,4416.1,3074.5,5664.5,40,,setembro/2026
+São Bento do Sul,Schramm,casa,venda,4531.4,3093.8,5542.9,40,6.99,setembro/2026
+São Bento do Sul,Schramm,casa,aluguel,26.4,22.4,28.7,7,6.99,setembro/2026
+São Bento do Sul,Serra Alta,casa,venda,3502.9,2825.9,4602.4,52,,setembro/2026
+São Bento do Sul,Boehmerwald,apartamento,venda,6338.8,5182.9,7022.5,9,,setembro/2026
+São Bento do Sul,Centro,apartamento,venda,7016.3,5434.0,7906.6,31,3.83,setembro/2026
+São Bento do Sul,Centro,apartamento,aluguel,22.4,19.4,26.1,18,3.83,setembro/2026
+São Bento do Sul,Colonial,apartamento,venda,5168.1,4166.7,6194.9,13,6.08,setembro/2026
+São Bento do Sul,Colonial,apartamento,aluguel,26.2,25.0,30.0,5,6.08,setembro/2026
+São Bento do Sul,Cruzeiro,apartamento,venda,5833.3,4881.9,5957.4,5,,setembro/2026
+São Bento do Sul,Progresso,apartamento,venda,6035.0,5564.2,6881.6,15,5.27,setembro/2026
+São Bento do Sul,Progresso,apartamento,aluguel,26.5,25.4,32.5,6,5.27,setembro/2026
+São Bento do Sul,Rio Negro,apartamento,venda,5691.1,5150.3,6407.5,15,,setembro/2026
+São Bento do Sul,Schramm,apartamento,venda,5306.1,4119.0,5704.5,11,,setembro/2026
+São Bento do Sul,25 de Julho,terreno,venda,275.5,134.6,418.4,10,,setembro/2026
+São Bento do Sul,Alpino,terreno,venda,163.2,104.7,218.0,9,,setembro/2026
+São Bento do Sul,Bela Aliança,terreno,venda,389.2,348.0,571.0,8,,setembro/2026
+São Bento do Sul,Boehmerwald,terreno,venda,571.4,120.4,800.0,13,,setembro/2026
+São Bento do Sul,Brasília,terreno,venda,545.0,442.4,620.0,29,,setembro/2026
+São Bento do Sul,Centenário,terreno,venda,482.9,373.5,599.9,22,,setembro/2026
+São Bento do Sul,Centro,terreno,venda,909.7,554.2,1614.0,32,,setembro/2026
+São Bento do Sul,Colonial,terreno,venda,653.3,518.1,852.5,33,,setembro/2026
+São Bento do Sul,Cruzeiro,terreno,venda,202.7,111.0,563.9,10,,setembro/2026
+São Bento do Sul,Dona Francisca,terreno,venda,394.9,251.3,562.4,10,,setembro/2026
+São Bento do Sul,Lençol,terreno,venda,184.6,148.6,254.5,20,,setembro/2026
+São Bento do Sul,Mato Preto,terreno,venda,553.7,271.7,621.0,11,,setembro/2026
+São Bento do Sul,Oxford,terreno,venda,545.9,209.2,810.2,8,,setembro/2026
+São Bento do Sul,Progresso,terreno,venda,549.0,344.7,737.5,27,,setembro/2026
+São Bento do Sul,Rio Negro,terreno,venda,630.5,459.6,939.8,27,,setembro/2026
+São Bento do Sul,Rio Vermelho Estação,terreno,venda,180.0,121.5,228.3,7,,setembro/2026
+São Bento do Sul,Schramm,terreno,venda,602.2,429.9,800.1,19,,setembro/2026
+São Bento do Sul,Serra Alta,terreno,venda,321.9,240.6,405.9,38,,setembro/2026
+São Bento do Sul,Centro,sala,venda,5468.1,3923.0,5888.2,10,7.37,setembro/2026
+São Bento do Sul,Centro,sala,aluguel,33.6,24.2,44.6,31,7.37,setembro/2026
+São Bento do Sul,Colonial,sala,aluguel,49.5,41.2,58.8,5,,setembro/2026

@@ -1,0 +1,58 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Eusébio,Alphaville,casa,venda,9871.8,7316.2,13048.2,15,,setembro/2026
+Eusébio,Alphaville Ceará 1,casa,venda,8571.4,7319.0,9581.6,7,,setembro/2026
+Eusébio,Alphaville Fortaleza,casa,venda,11494.3,9977.0,15072.2,11,,setembro/2026
+Eusébio,Amador,casa,venda,6037.8,4938.4,6420.4,14,,setembro/2026
+Eusébio,Autódromo,casa,venda,4544.5,4250.8,4839.6,7,,setembro/2026
+Eusébio,Bairro Cidade Alpha,casa,venda,7923.5,6716.2,8426.8,17,,setembro/2026
+Eusébio,Cararu,casa,venda,9379.3,7200.0,11422.7,14,,setembro/2026
+Eusébio,Centro,casa,venda,5163.0,4278.9,6562.3,131,,setembro/2026
+Eusébio,Cidade Alpha,casa,venda,7771.3,6780.9,9348.3,214,,setembro/2026
+Eusébio,Coaçu,casa,venda,6875.0,4825.4,8280.2,43,7.4,setembro/2026
+Eusébio,Coaçu,casa,aluguel,42.4,33.2,49.1,6,7.4,setembro/2026
+Eusébio,Coité,casa,venda,5623.6,4979.4,6389.5,105,,setembro/2026
+Eusébio,Encantada,casa,venda,4296.4,3796.1,4848.7,31,,setembro/2026
+Eusébio,Eusébio,casa,venda,6389.1,5202.1,8225.8,106,,setembro/2026
+Eusébio,Guaribas,casa,venda,4906.8,4359.5,5517.2,39,,setembro/2026
+Eusébio,Jacundá,casa,venda,5607.1,4958.2,6198.1,10,,setembro/2026
+Eusébio,Lagoinha,casa,venda,5642.9,3666.7,6363.6,17,,setembro/2026
+Eusébio,Mangabeira,casa,venda,4649.5,4288.7,5351.3,44,,setembro/2026
+Eusébio,Olho d'Água,casa,venda,4803.8,4343.3,5404.8,8,,setembro/2026
+Eusébio,Parque Havaí,casa,venda,5277.8,4642.1,5980.6,12,,setembro/2026
+Eusébio,Pedra,casa,venda,5890.7,5203.4,6539.2,19,,setembro/2026
+Eusébio,Pires Façanha,casa,venda,5674.2,4904.6,7291.7,53,,setembro/2026
+Eusébio,Porto das Dunas,casa,venda,10500.0,8970.1,11136.8,5,,setembro/2026
+Eusébio,Precabura,casa,venda,3896.1,2675.2,4627.1,19,,setembro/2026
+Eusébio,Santo Antonio,casa,venda,5754.8,5125.1,6486.5,10,,setembro/2026
+Eusébio,Tamatanduba,casa,venda,5010.7,4358.3,5835.0,51,,setembro/2026
+Eusébio,Terras Alphaville Residencial 2,casa,venda,7275.5,6985.1,8291.7,8,,setembro/2026
+Eusébio,Timbu,casa,venda,4657.8,4228.8,5334.3,39,,setembro/2026
+Eusébio,Urucunema,casa,venda,4803.3,4054.4,6479.3,82,,setembro/2026
+Eusébio,Vereda Tropical,casa,venda,4069.8,3736.1,4290.3,17,,setembro/2026
+Eusébio,Centro,apartamento,venda,5814.0,5005.3,7796.3,31,6.69,setembro/2026
+Eusébio,Centro,apartamento,aluguel,32.4,26.8,38.4,12,6.69,setembro/2026
+Eusébio,Coaçu,apartamento,venda,5299.1,4885.1,5574.9,8,,setembro/2026
+Eusébio,Coité,apartamento,venda,6905.0,6215.2,7418.6,17,,setembro/2026
+Eusébio,Eusébio,apartamento,venda,7048.8,5658.3,8133.7,19,,setembro/2026
+Eusébio,Guaribas,apartamento,venda,4800.0,4092.9,4839.7,5,,setembro/2026
+Eusébio,Pedra,apartamento,venda,8119.4,7293.0,11137.5,8,,setembro/2026
+Eusébio,Tamatanduba,apartamento,venda,7128.8,6316.8,9533.3,20,,setembro/2026
+Eusébio,Alphaville,terreno,venda,1648.4,1057.6,1872.2,5,,setembro/2026
+Eusébio,Cararu,terreno,venda,490.7,334.5,906.9,6,,setembro/2026
+Eusébio,Centro,terreno,venda,889.3,700.6,1000.0,37,,setembro/2026
+Eusébio,Cidade Alpha,terreno,venda,966.7,909.0,1057.4,59,,setembro/2026
+Eusébio,Coaçu,terreno,venda,1223.3,750.0,1291.3,13,,setembro/2026
+Eusébio,Coité,terreno,venda,945.0,860.7,1041.3,29,,setembro/2026
+Eusébio,Eusébio,terreno,venda,847.4,681.4,1097.6,30,,setembro/2026
+Eusébio,Guaribas,terreno,venda,1025.8,746.3,1079.8,14,,setembro/2026
+Eusébio,Jacundá,terreno,venda,758.6,672.0,876.8,6,,setembro/2026
+Eusébio,Mangabeira,terreno,venda,647.2,307.3,1615.0,68,,setembro/2026
+Eusébio,Olho d'Água,terreno,venda,1300.0,1249.0,1300.0,8,,setembro/2026
+Eusébio,Parque Havaí,terreno,venda,1100.0,993.8,1125.0,7,,setembro/2026
+Eusébio,Pedra,terreno,venda,836.0,833.3,860.2,5,,setembro/2026
+Eusébio,Pires Façanha,terreno,venda,1717.7,352.1,2202.0,12,,setembro/2026
+Eusébio,Precabura,terreno,venda,308.8,269.0,370.0,23,,setembro/2026
+Eusébio,Tamatanduba,terreno,venda,748.8,600.9,895.3,14,,setembro/2026
+Eusébio,Urucunema,terreno,venda,745.6,441.7,802.6,22,,setembro/2026
+Eusébio,Vereda Tropical,terreno,venda,776.2,521.3,1048.7,5,,setembro/2026
+Eusébio,Jaboti,galpao,aluguel,13.8,3.6,15.0,10,,setembro/2026

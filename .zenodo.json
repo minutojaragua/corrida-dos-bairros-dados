@@ -1,0 +1,26 @@
+{
+  "title": "A Corrida dos Bairros: mediana do preço pedido por m² por bairro",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "Minuto Jaraguá"
+    }
+  ],
+  "description": "Mediana do preço pedido por m² em cada bairro de 109 cidades brasileiras, publicada todo mês a partir de anúncios públicos de portais e sites de imobiliárias. Inclui os dados mensais agregados (mediana, P25, P75, número de anúncios e rendimento bruto do aluguel), a metodologia versionada, o registro de erratas e a nota técnica. Preços de oferta, não de transação.",
+  "license": "cc-by-4.0",
+  "language": "por",
+  "keywords": [
+    "mercado imobiliário",
+    "preço do metro quadrado",
+    "bairros",
+    "Brasil",
+    "dados abertos"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://acorridadosbairros.com.br",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-other"
+    }
+  ]
+}

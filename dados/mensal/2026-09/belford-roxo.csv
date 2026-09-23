@@ -1,0 +1,15 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Belford Roxo,Andrade de Araújo,casa,venda,1217.9,1123.9,1875.0,6,,setembro/2026
+Belford Roxo,Areia Branca,casa,venda,1500.0,1357.1,2333.3,9,,setembro/2026
+Belford Roxo,Centro,casa,venda,2000.0,1650.0,2166.7,13,,setembro/2026
+Belford Roxo,Heliópolis,casa,venda,2047.6,1916.7,2766.7,8,,setembro/2026
+Belford Roxo,Nova Piam,casa,venda,2875.0,1400.0,3571.4,9,,setembro/2026
+Belford Roxo,Piam,casa,venda,1630.2,1170.8,3934.0,8,,setembro/2026
+Belford Roxo,Santo Antônio da Prata,casa,venda,1937.5,1527.8,2200.0,5,,setembro/2026
+Belford Roxo,São Bernardo,casa,venda,2000.0,1734.0,2500.0,7,,setembro/2026
+Belford Roxo,São Vicente,casa,venda,1593.9,1291.7,2010.5,11,,setembro/2026
+Belford Roxo,Belford Roxo,apartamento,venda,4190.8,4020.4,4695.7,6,,setembro/2026
+Belford Roxo,Bom Pastor,apartamento,venda,3659.7,3042.0,4472.2,8,,setembro/2026
+Belford Roxo,Centro,apartamento,venda,3753.4,2990.1,4055.6,20,,setembro/2026
+Belford Roxo,Das Graças,apartamento,venda,3166.2,2490.4,3361.1,8,,setembro/2026
+Belford Roxo,Santa Amélia,apartamento,venda,3166.7,3095.2,3333.3,5,,setembro/2026

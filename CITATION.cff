@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Se usar estes dados, cite como abaixo."
+title: "A Corrida dos Bairros: mediana do preço pedido por m² por bairro"
+type: dataset
+authors:
+  - name: "Minuto Jaraguá"
+version: "0.1.0"
+date-released: "2026-09-22"
+license: CC-BY-4.0
+url: "https://acorridadosbairros.com.br"
+repository-artifact: "https://github.com/minutojaragua/corrida-dos-bairros-dados"
+abstract: >-
+  Mediana do preço pedido por m² em cada bairro de 109 cidades brasileiras, calculada todo mês
+  a partir de anúncios públicos de portais e sites de imobiliárias, com metodologia versionada
+  e registro público de erratas. Preços de oferta, não de transação.
+keywords:
+  - mercado imobiliário
+  - preço do metro quadrado
+  - bairros
+  - Brasil
+  - dados abertos

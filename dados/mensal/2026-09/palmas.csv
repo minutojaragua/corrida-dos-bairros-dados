@@ -1,0 +1,173 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Palmas,1003 Sul,casa,venda,5023.1,3635.4,6030.6,40,,setembro/2026
+Palmas,1004 Sul,casa,venda,3631.8,3202.4,4401.8,6,,setembro/2026
+Palmas,1006 Sul,casa,venda,4375.0,1925.6,5604.4,11,,setembro/2026
+Palmas,1007 Sul,casa,venda,5173.0,4280.1,6187.3,6,,setembro/2026
+Palmas,105 Norte,casa,venda,4826.8,3810.8,6623.1,10,,setembro/2026
+Palmas,106 Norte,casa,venda,4862.6,2555.6,5330.8,7,,setembro/2026
+Palmas,106 Sul,casa,venda,5829.9,4275.9,8062.9,11,,setembro/2026
+Palmas,108 Norte,casa,venda,5285.4,4264.0,7222.2,13,,setembro/2026
+Palmas,109 Sul,casa,venda,13526.7,11907.4,14419.8,20,,setembro/2026
+Palmas,110 Norte,casa,venda,5155.6,4056.3,6017.1,18,,setembro/2026
+Palmas,110 Sul,casa,venda,5510.3,3961.5,7728.4,28,,setembro/2026
+Palmas,1103 Sul,casa,venda,5261.8,3867.6,5900.5,50,,setembro/2026
+Palmas,1104 Sul,casa,venda,5143.7,3695.5,5850.9,12,,setembro/2026
+Palmas,1105 Sul,casa,venda,3522.4,2813.9,6313.4,6,,setembro/2026
+Palmas,1203 Sul,casa,venda,3647.8,3233.1,4878.0,5,,setembro/2026
+Palmas,1204 Sul,casa,venda,3797.1,2729.3,4964.6,18,,setembro/2026
+Palmas,1205 Sul,casa,venda,5520.8,4480.0,5892.9,27,,setembro/2026
+Palmas,1304 Sul,casa,venda,3395.1,3166.7,3920.0,9,,setembro/2026
+Palmas,1305 Sul,casa,venda,5274.4,4512.2,5845.1,14,,setembro/2026
+Palmas,1306 Sul,casa,venda,3475.0,3174.4,3886.1,7,,setembro/2026
+Palmas,1404 Sul,casa,venda,5105.2,3959.7,5567.2,30,,setembro/2026
+Palmas,1406 Sul,casa,venda,4838.7,4368.9,5339.8,21,,setembro/2026
+Palmas,141B,casa,venda,5231.7,4637.2,5679.4,6,,setembro/2026
+Palmas,1503 Sul,casa,venda,5000.0,4027.5,5746.0,92,,setembro/2026
+Palmas,1504 Sul,casa,venda,5182.9,3978.5,5759.6,39,,setembro/2026
+Palmas,1506 Sul,casa,venda,5013.2,4074.1,5650.3,45,,setembro/2026
+Palmas,1601 Sul,casa,venda,4802.3,3489.9,5946.1,11,,setembro/2026
+Palmas,1603 Sul,casa,venda,4902.4,4210.0,5508.6,38,,setembro/2026
+Palmas,1605 Sul,casa,venda,11392.4,7696.1,13506.8,7,,setembro/2026
+Palmas,203 Sul,casa,venda,11035.7,10302.6,11601.0,7,,setembro/2026
+Palmas,204 Sul,casa,venda,8375.0,6960.6,11210.8,13,,setembro/2026
+Palmas,205 Norte,casa,venda,9838.4,8867.1,12403.6,14,,setembro/2026
+Palmas,205 Sul,casa,venda,6682.0,5400.3,7522.3,15,,setembro/2026
+Palmas,206 Sul,casa,venda,5000.0,4782.9,5652.1,6,9.41,setembro/2026
+Palmas,206 Sul,casa,aluguel,39.2,25.0,67.7,5,9.41,setembro/2026
+Palmas,207 Sul,casa,venda,5879.0,4637.9,7107.1,14,,setembro/2026
+Palmas,208 Norte,casa,venda,4907.4,4438.9,5866.8,12,,setembro/2026
+Palmas,208 Sul,casa,venda,4783.9,3865.8,7068.8,11,,setembro/2026
+Palmas,209 Sul,casa,venda,13059.7,12345.3,14039.4,17,,setembro/2026
+Palmas,210 Norte,casa,venda,4934.0,2849.9,6144.2,10,,setembro/2026
+Palmas,303 Sul,casa,venda,6666.6,5660.4,8433.7,21,,setembro/2026
+Palmas,304 Norte,casa,venda,5757.6,4400.0,6473.5,7,,setembro/2026
+Palmas,305 Sul,casa,venda,5957.4,4411.8,6481.5,21,,setembro/2026
+Palmas,306 Sul,casa,venda,4864.6,4443.3,5136.6,8,,setembro/2026
+Palmas,307 Sul,casa,venda,5082.2,4183.1,6573.5,28,,setembro/2026
+Palmas,308 Sul,casa,venda,4827.6,4333.8,5969.8,7,,setembro/2026
+Palmas,309 Sul,casa,venda,6150.0,4819.9,7574.9,67,,setembro/2026
+Palmas,403 Sul,casa,venda,5266.7,4580.8,6617.1,17,,setembro/2026
+Palmas,404 Sul,casa,venda,6643.2,5146.9,7715.8,18,,setembro/2026
+Palmas,405 Sul,casa,venda,6000.0,4534.8,6994.0,48,8.62,setembro/2026
+Palmas,405 Sul,casa,aluguel,43.1,38.9,45.2,7,8.62,setembro/2026
+Palmas,407 Norte,casa,venda,2569.8,1995.0,2582.8,5,,setembro/2026
+Palmas,407 Sul,casa,venda,5937.5,4775.0,7022.7,55,,setembro/2026
+Palmas,409 Sul,casa,venda,5863.2,4637.3,6632.4,36,,setembro/2026
+Palmas,504 Norte,casa,venda,4182.0,3288.1,5463.5,8,,setembro/2026
+Palmas,504 Sul,casa,venda,4318.0,3304.6,6168.1,10,,setembro/2026
+Palmas,505 Sul,casa,venda,7160.0,6092.7,8120.9,111,,setembro/2026
+Palmas,507 Sul,casa,venda,5862.4,4675.2,6666.7,65,,setembro/2026
+Palmas,508 Norte,casa,venda,5416.7,3590.1,5577.0,7,,setembro/2026
+Palmas,509 Sul,casa,venda,6289.0,5500.0,7449.5,28,,setembro/2026
+Palmas,603 Sul,casa,venda,4481.0,3589.7,6934.9,31,,setembro/2026
+Palmas,604 Norte,casa,venda,5050.3,3304.0,6220.5,40,,setembro/2026
+Palmas,604 Sul,casa,venda,5550.8,3946.2,5818.1,16,,setembro/2026
+Palmas,605 Sul,casa,venda,5970.1,4124.6,6709.5,35,,setembro/2026
+Palmas,606 Norte,casa,venda,4179.0,3582.4,4443.5,10,,setembro/2026
+Palmas,606 Sul,casa,venda,4401.1,4276.8,4979.2,8,6.84,setembro/2026
+Palmas,606 Sul,casa,aluguel,25.1,24.0,29.3,7,6.84,setembro/2026
+Palmas,607 Sul,casa,venda,5658.4,4065.5,5906.6,6,,setembro/2026
+Palmas,704 Norte,casa,venda,6206.7,5312.5,6910.6,17,,setembro/2026
+Palmas,704 Sul,casa,venda,3864.7,3666.7,4468.2,13,8.04,setembro/2026
+Palmas,704 Sul,casa,aluguel,25.9,19.6,30.0,6,8.04,setembro/2026
+Palmas,706 Sul,casa,venda,5521.8,5154.5,5902.2,8,,setembro/2026
+Palmas,804 Norte,casa,venda,3609.0,2885.6,4461.4,7,,setembro/2026
+Palmas,804 Sul,casa,venda,4730.8,3442.2,6037.6,11,,setembro/2026
+Palmas,806 Sul,casa,venda,5956.6,4229.5,6628.7,18,,setembro/2026
+Palmas,904 Sul,casa,venda,4228.5,2865.1,4907.3,18,,setembro/2026
+Palmas,906 Sul,casa,venda,4851.3,3952.8,6052.3,24,,setembro/2026
+Palmas,Alphaville 1,casa,venda,14754.1,13348.4,15479.9,5,,setembro/2026
+Palmas,Alphaville 2,casa,venda,12537.3,11907.0,14045.7,7,,setembro/2026
+Palmas,Bertavile,casa,venda,3675.4,3447.9,4319.5,6,,setembro/2026
+Palmas,Bertaville,casa,venda,3754.2,3344.6,4187.1,38,,setembro/2026
+Palmas,Caribe Residence e Resort,casa,venda,10144.6,9553.1,11304.0,8,,setembro/2026
+Palmas,Graciosa - Orla 14,casa,venda,7204.4,5382.9,8486.8,20,,setembro/2026
+Palmas,Jardim Aureny III,casa,venda,3303.6,2765.0,3709.9,33,,setembro/2026
+Palmas,Jardim Janaína (Taquaralto),casa,venda,3432.8,3228.3,3513.8,7,,setembro/2026
+Palmas,Jardim Santa Bárbara,casa,venda,3333.3,2777.1,3727.3,5,,setembro/2026
+Palmas,Loteamento Caribe,casa,venda,9726.6,7481.9,10806.6,35,,setembro/2026
+Palmas,Loteamento Lago Sul (Taquaralto),casa,venda,3428.4,2970.5,3778.5,7,,setembro/2026
+Palmas,Loteamento Residencial Polinésia,casa,venda,9006.8,8071.0,10091.6,14,,setembro/2026
+Palmas,Morada do Sol,casa,venda,3601.6,3420.1,3716.4,12,,setembro/2026
+Palmas,Residencial Mirante do Lago,casa,venda,11761.6,10919.0,12854.2,12,,setembro/2026
+Palmas,Setor Santa Fé 2 (Taquaralto),casa,venda,3557.4,3326.0,3919.8,16,,setembro/2026
+Palmas,105 Norte,apartamento,venda,8800.0,8026.3,10416.7,25,7.31,setembro/2026
+Palmas,105 Norte,apartamento,aluguel,53.6,45.9,63.4,11,7.31,setembro/2026
+Palmas,106 Norte,apartamento,venda,8160.2,6669.7,9238.4,24,5.15,setembro/2026
+Palmas,106 Norte,apartamento,aluguel,35.0,32.7,55.6,9,5.15,setembro/2026
+Palmas,106 Sul,apartamento,venda,8063.6,6527.4,9458.7,20,,setembro/2026
+Palmas,107 Norte,apartamento,venda,10435.7,8617.6,12301.5,12,,setembro/2026
+Palmas,108 Sul,apartamento,aluguel,44.9,39.6,56.8,6,,setembro/2026
+Palmas,110 Norte,apartamento,venda,8906.1,6630.0,9520.9,12,,setembro/2026
+Palmas,110 Sul,apartamento,venda,8076.9,7699.6,8985.6,7,,setembro/2026
+Palmas,1504 Sul,apartamento,aluguel,45.5,41.8,46.6,6,,setembro/2026
+Palmas,201 Sul,apartamento,venda,11704.1,9848.5,12595.8,8,,setembro/2026
+Palmas,202 Sul,apartamento,venda,12073.6,10979.9,17033.0,9,,setembro/2026
+Palmas,203 Norte,apartamento,venda,6666.7,6383.0,7365.0,5,,setembro/2026
+Palmas,204 Sul,apartamento,venda,8176.9,7220.6,9471.4,42,7.5,setembro/2026
+Palmas,204 Sul,apartamento,aluguel,51.1,46.3,71.7,14,7.5,setembro/2026
+Palmas,205 Sul,apartamento,venda,7978.7,7058.8,8705.9,17,5.59,setembro/2026
+Palmas,205 Sul,apartamento,aluguel,37.2,34.3,45.8,10,5.59,setembro/2026
+Palmas,206 Sul,apartamento,venda,6896.6,5500.0,7746.5,21,6.54,setembro/2026
+Palmas,206 Sul,apartamento,aluguel,37.6,35.5,38.7,5,6.54,setembro/2026
+Palmas,207 Sul,apartamento,venda,8909.1,8796.3,9434.0,5,,setembro/2026
+Palmas,208 Norte,apartamento,venda,5235.3,4600.0,5504.3,5,,setembro/2026
+Palmas,208 Sul,apartamento,venda,6324.1,5480.2,7142.9,9,,setembro/2026
+Palmas,305 Sul,apartamento,venda,8783.8,8611.1,8896.7,5,6.24,setembro/2026
+Palmas,305 Sul,apartamento,aluguel,45.7,35.2,54.9,6,6.24,setembro/2026
+Palmas,306 Sul,apartamento,venda,7986.9,7540.3,8461.3,15,7.47,setembro/2026
+Palmas,306 Sul,apartamento,aluguel,49.7,38.2,53.7,10,7.47,setembro/2026
+Palmas,308 Sul,apartamento,venda,6781.7,5934.0,7961.1,16,8.28,setembro/2026
+Palmas,308 Sul,apartamento,aluguel,46.8,39.3,51.5,7,8.28,setembro/2026
+Palmas,402 Norte,apartamento,venda,5581.4,5116.3,5952.4,5,,setembro/2026
+Palmas,402 Sul,apartamento,venda,12695.1,12500.7,13194.1,7,,setembro/2026
+Palmas,404 Norte,apartamento,aluguel,28.9,25.8,34.5,5,,setembro/2026
+Palmas,404 Sul,apartamento,venda,11482.7,8815.3,14661.6,38,,setembro/2026
+Palmas,405 Norte,apartamento,venda,4428.6,4396.6,5000.0,5,,setembro/2026
+Palmas,405 Sul,apartamento,venda,6308.0,4894.7,7604.6,6,,setembro/2026
+Palmas,406 Norte,apartamento,venda,5169.2,4821.7,6267.2,8,10.08,setembro/2026
+Palmas,406 Norte,apartamento,aluguel,43.4,41.8,57.1,5,10.08,setembro/2026
+Palmas,407 Sul,apartamento,venda,9144.9,8073.3,9696.8,12,,setembro/2026
+Palmas,504 Norte,apartamento,venda,5645.2,5163.9,6065.6,5,,setembro/2026
+Palmas,504 Sul,apartamento,venda,7727.3,7456.1,8181.8,5,,setembro/2026
+Palmas,508 Norte,apartamento,venda,5266.0,4872.0,5576.2,7,,setembro/2026
+Palmas,603 Sul,apartamento,venda,8666.7,7440.5,10295.9,12,,setembro/2026
+Palmas,604 Norte,apartamento,venda,3846.9,3574.6,5042.0,6,,setembro/2026
+Palmas,605 Sul,apartamento,venda,6666.7,5726.9,7148.7,5,,setembro/2026
+Palmas,704 Sul,apartamento,aluguel,38.7,36.7,40.0,5,,setembro/2026
+Palmas,706 Sul,apartamento,venda,7750.3,6916.4,8534.9,16,6.81,setembro/2026
+Palmas,706 Sul,apartamento,aluguel,44.0,37.2,49.2,11,6.81,setembro/2026
+Palmas,804 Sul,apartamento,venda,7583.3,7344.6,7751.9,5,,setembro/2026
+Palmas,806 Sul,apartamento,venda,5362.3,4563.2,5909.1,13,8.93,setembro/2026
+Palmas,806 Sul,apartamento,aluguel,39.9,36.8,46.4,6,8.93,setembro/2026
+Palmas,902 Sul,apartamento,venda,5801.1,5140.8,7381.5,6,,setembro/2026
+Palmas,Graciosa - Orla 14,apartamento,venda,12621.4,10542.5,14972.5,184,5.93,setembro/2026
+Palmas,Graciosa - Orla 14,apartamento,aluguel,62.4,52.2,80.6,51,5.93,setembro/2026
+Palmas,Loteamento Lago Sul (Taquaralto),apartamento,venda,2857.1,2386.4,3250.0,9,,setembro/2026
+Palmas,109 Sul,terreno,venda,2077.6,2038.6,2102.9,5,,setembro/2026
+Palmas,1503 Sul,terreno,venda,777.8,699.7,819.7,7,,setembro/2026
+Palmas,1506 Sul,terreno,venda,540.0,434.7,654.5,6,,setembro/2026
+Palmas,1508 Sul,terreno,venda,996.0,800.0,1016.9,5,,setembro/2026
+Palmas,407 Sul,terreno,venda,881.8,800.8,901.1,5,,setembro/2026
+Palmas,505 Sul,terreno,venda,1006.5,793.5,1135.7,9,,setembro/2026
+Palmas,509 Sul,terreno,venda,974.5,812.4,997.5,5,,setembro/2026
+Palmas,605 Sul,terreno,venda,762.9,585.7,852.3,6,,setembro/2026
+Palmas,Bertaville,terreno,venda,347.7,311.1,367.0,8,,setembro/2026
+Palmas,Jardim Aureny III,terreno,venda,374.5,300.0,600.0,5,,setembro/2026
+Palmas,Jardim Paulista (Taquaralto),terreno,venda,340.3,313.4,358.5,11,,setembro/2026
+Palmas,Loteamento Caribe,terreno,venda,888.9,760.9,985.2,13,,setembro/2026
+Palmas,Loteamento Residencial Polinésia,terreno,venda,630.5,602.1,663.9,7,,setembro/2026
+Palmas,Morada do Sol,terreno,venda,220.0,138.4,260.8,7,,setembro/2026
+Palmas,103 Norte,sala,aluguel,70.0,37.5,83.3,9,,setembro/2026
+Palmas,104 Norte,sala,aluguel,41.7,36.9,61.0,11,,setembro/2026
+Palmas,104 Sul,sala,aluguel,50.0,32.6,62.0,16,,setembro/2026
+Palmas,106 Norte,sala,venda,11250.0,8181.8,12800.3,6,,setembro/2026
+Palmas,201 Sul,sala,venda,11451.5,10094.8,14324.3,9,,setembro/2026
+Palmas,304 Norte,sala,aluguel,52.8,45.0,54.1,5,,setembro/2026
+Palmas,Graciosa - Orla 14,sala,venda,17366.1,15533.7,18727.2,8,,setembro/2026
+Palmas,112 Sul,galpao,aluguel,16.0,14.0,17.0,5,,setembro/2026
+Palmas,812 Sul,galpao,aluguel,22.9,19.7,23.8,6,,setembro/2026
+Palmas,903 Sul,galpao,venda,2750.0,2594.5,3246.3,7,7.94,setembro/2026
+Palmas,903 Sul,galpao,aluguel,18.2,17.1,20.5,12,7.94,setembro/2026
+Palmas,912 Sul,galpao,venda,3364.4,2954.5,3750.0,7,5.1,setembro/2026
+Palmas,912 Sul,galpao,aluguel,14.3,11.2,18.3,5,5.1,setembro/2026

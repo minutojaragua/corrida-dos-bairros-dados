@@ -1,0 +1,77 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Viamão,Águas Claras,casa,venda,2469.3,1829.2,3117.8,58,,setembro/2026
+Viamão,Augusta,casa,venda,2142.9,2000.0,3494.6,9,,setembro/2026
+Viamão,Buena Vista,casa,venda,6772.7,6004.3,7028.3,9,,setembro/2026
+Viamão,Cecília,casa,venda,3457.9,2181.5,4283.0,16,,setembro/2026
+Viamão,Centro,casa,venda,3593.2,2755.0,5741.1,82,7.25,setembro/2026
+Viamão,Centro,casa,aluguel,21.7,20.0,32.2,11,7.25,setembro/2026
+Viamão,Cocão,casa,venda,5151.5,4143.3,6628.5,23,,setembro/2026
+Viamão,Condado de Castella,casa,venda,2894.7,1930.6,5405.4,9,,setembro/2026
+Viamão,Dom Feliciano,casa,venda,2766.7,2337.5,3133.7,6,,setembro/2026
+Viamão,Elsa,casa,venda,2755.9,2281.2,3496.8,14,,setembro/2026
+Viamão,Esmeralda,casa,venda,3831.7,2852.7,4170.5,6,,setembro/2026
+Viamão,Estalagem,casa,venda,2832.4,1601.7,3930.3,14,,setembro/2026
+Viamão,Fiuza,casa,venda,2640.8,2044.6,3810.6,17,,setembro/2026
+Viamão,Florescente,casa,venda,1777.8,1385.3,3700.0,15,,setembro/2026
+Viamão,Itapuã,casa,venda,1885.0,1361.6,2895.1,50,,setembro/2026
+Viamão,Jardim do Cocão,casa,venda,2044.3,1617.1,2155.0,6,,setembro/2026
+Viamão,Jardim Fiúza,casa,venda,2312.5,1666.7,3125.0,13,,setembro/2026
+Viamão,Jardim Itapema,casa,venda,3373.0,3082.7,4298.0,10,,setembro/2026
+Viamão,Jardim Krahe,casa,venda,2812.8,2000.0,4130.1,80,6.14,setembro/2026
+Viamão,Jardim Krahe,casa,aluguel,14.4,12.9,14.9,5,6.14,setembro/2026
+Viamão,Jardim Universitário,casa,venda,2395.0,1484.0,2912.9,6,,setembro/2026
+Viamão,Jardim Viamar,casa,venda,2599.6,1618.0,3137.6,16,,setembro/2026
+Viamão,Krahe,casa,venda,5484.8,3568.2,6743.9,47,,setembro/2026
+Viamão,Lomba Tarumã,casa,venda,1727.9,1337.2,3437.5,6,,setembro/2026
+Viamão,Martinica,casa,venda,1636.7,1404.1,2625.0,8,,setembro/2026
+Viamão,Morro Grande,casa,venda,1780.2,1462.7,2358.9,10,,setembro/2026
+Viamão,Nossa Senhora Aparecida,casa,venda,1638.9,1048.8,2224.3,7,,setembro/2026
+Viamão,Parque Índio Jari,casa,venda,1800.0,1447.6,2083.3,11,,setembro/2026
+Viamão,Passo do Vigário,casa,venda,2558.9,1776.4,3136.9,16,,setembro/2026
+Viamão,Planalto,casa,venda,3000.0,2465.0,3518.6,7,,setembro/2026
+Viamão,Querência,casa,venda,3315.4,2428.9,4506.3,34,,setembro/2026
+Viamão,Santa Cecília,casa,venda,2344.1,1717.6,3315.0,36,,setembro/2026
+Viamão,Santa Isabel,casa,venda,2424.2,1555.6,3336.2,73,,setembro/2026
+Viamão,Santo Onofre,casa,venda,2116.7,1586.1,3288.5,32,,setembro/2026
+Viamão,São Lucas,casa,venda,3357.6,2208.8,4783.2,78,,setembro/2026
+Viamão,São Tomé,casa,venda,2650.0,1607.1,3979.2,33,,setembro/2026
+Viamão,Sitio São José,casa,venda,2050.0,1785.7,3000.0,25,,setembro/2026
+Viamão,Tarumã,casa,venda,3277.9,2410.3,4244.3,140,,setembro/2026
+Viamão,Viamópolis,casa,venda,2903.1,2058.2,4232.3,44,,setembro/2026
+Viamão,Vila Augusta,casa,venda,4846.2,3041.7,6402.0,35,,setembro/2026
+Viamão,Vila Elsa,casa,venda,2312.5,1666.7,3577.4,90,,setembro/2026
+Viamão,Cecília,apartamento,venda,4339.2,3871.6,4809.5,14,,setembro/2026
+Viamão,Centro,apartamento,venda,4967.7,3992.5,6041.7,55,6.28,setembro/2026
+Viamão,Centro,apartamento,aluguel,26.0,19.5,31.1,11,6.28,setembro/2026
+Viamão,Jardim Krahe,apartamento,venda,4810.9,4213.2,5312.5,6,,setembro/2026
+Viamão,Querência,apartamento,venda,4592.5,3426.4,5232.0,10,,setembro/2026
+Viamão,Santa Cecília,apartamento,venda,3592.0,3147.7,4796.4,10,,setembro/2026
+Viamão,Santa Isabel,apartamento,venda,4295.3,3899.4,4502.3,7,,setembro/2026
+Viamão,Sitio São José,apartamento,venda,3912.2,3664.6,4455.6,12,,setembro/2026
+Viamão,Tarumã,apartamento,venda,4239.1,3472.2,4962.2,5,,setembro/2026
+Viamão,Águas Claras,terreno,venda,129.3,84.2,209.9,39,,setembro/2026
+Viamão,Buena Vista,terreno,venda,1160.0,1060.6,1265.8,5,,setembro/2026
+Viamão,Cecília,terreno,venda,504.2,453.1,697.9,6,,setembro/2026
+Viamão,Centro,terreno,venda,631.1,451.1,878.8,53,,setembro/2026
+Viamão,Cocão,terreno,venda,694.3,625.5,744.7,11,,setembro/2026
+Viamão,Fiuza,terreno,venda,185.0,125.2,321.6,10,,setembro/2026
+Viamão,Itapuã,terreno,venda,108.3,55.5,226.5,31,,setembro/2026
+Viamão,Jardim Krahe,terreno,venda,375.0,209.9,567.3,21,,setembro/2026
+Viamão,Krahe,terreno,venda,942.3,677.7,1139.2,16,,setembro/2026
+Viamão,Mendanha,terreno,venda,649.4,593.9,669.9,5,,setembro/2026
+Viamão,Morro Grande,terreno,venda,158.9,121.7,191.9,6,,setembro/2026
+Viamão,Passo do Vigário,terreno,venda,682.0,225.0,781.4,11,,setembro/2026
+Viamão,Querência,terreno,venda,627.5,560.7,873.6,12,,setembro/2026
+Viamão,Santa Cecília,terreno,venda,313.5,229.3,425.1,12,,setembro/2026
+Viamão,Santa Isabel,terreno,venda,383.4,254.1,800.0,35,,setembro/2026
+Viamão,Santo Onofre,terreno,venda,593.3,230.8,836.5,11,,setembro/2026
+Viamão,São Lucas,terreno,venda,431.1,288.4,693.9,34,,setembro/2026
+Viamão,São Tomé,terreno,venda,292.3,200.5,414.2,8,,setembro/2026
+Viamão,Sitio São José,terreno,venda,153.1,97.2,341.9,13,,setembro/2026
+Viamão,Tarumã,terreno,venda,383.1,196.7,552.1,70,,setembro/2026
+Viamão,Viamópolis,terreno,venda,287.4,151.5,595.2,13,,setembro/2026
+Viamão,Vila Augusta,terreno,venda,800.0,630.1,847.2,19,,setembro/2026
+Viamão,Vila Elsa,terreno,venda,249.3,166.4,306.1,14,,setembro/2026
+Viamão,Centro,sala,venda,5500.0,3312.5,6817.2,6,6.28,setembro/2026
+Viamão,Centro,sala,aluguel,28.8,25.1,47.6,19,6.28,setembro/2026
+Viamão,Viamópolis,sala,aluguel,60.0,44.4,80.3,7,,setembro/2026

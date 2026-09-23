@@ -1,0 +1,57 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Vila Velha,Ataíde,casa,venda,4814.8,2996.0,5312.5,9,,setembro/2026
+Vila Velha,Balneário Ponta da Fruta,casa,venda,4165.0,2881.9,5213.6,10,,setembro/2026
+Vila Velha,Barra do Jucu,casa,venda,6740.0,5441.1,8504.2,10,,setembro/2026
+Vila Velha,Centro,casa,venda,19523.7,12344.4,21263.4,32,,setembro/2026
+Vila Velha,Guaranhuns,casa,venda,3533.3,2830.0,3658.0,5,,setembro/2026
+Vila Velha,Ibes,casa,venda,5158.3,4634.1,5703.3,6,,setembro/2026
+Vila Velha,Interlagos,casa,venda,7432.4,5516.7,9791.7,51,,setembro/2026
+Vila Velha,Jardim Asteca,casa,venda,6676.0,5266.2,7410.7,6,,setembro/2026
+Vila Velha,Jardim Colorado,casa,venda,4000.0,3702.4,5266.7,7,,setembro/2026
+Vila Velha,Morada do Sol,casa,venda,6969.0,5529.8,8965.3,22,,setembro/2026
+Vila Velha,Novo México,casa,venda,4000.0,3800.0,5000.0,9,,setembro/2026
+Vila Velha,Ponta da Fruta,casa,venda,5071.0,3416.0,6439.1,14,,setembro/2026
+Vila Velha,Pontal das Garças,casa,venda,7000.0,6545.5,7368.4,5,,setembro/2026
+Vila Velha,Praia da Costa,casa,venda,10881.0,9101.7,13107.1,12,,setembro/2026
+Vila Velha,Praia de Itaparica,casa,venda,7000.0,6742.4,10666.7,5,,setembro/2026
+Vila Velha,Prainha,casa,venda,18917.8,11032.3,19553.2,5,,setembro/2026
+Vila Velha,Riviera da Barra,casa,venda,7444.4,5966.3,8305.8,7,,setembro/2026
+Vila Velha,Santa Paula I,casa,venda,9149.9,7707.1,11452.0,20,,setembro/2026
+Vila Velha,Santa Paula II,casa,venda,6111.4,4037.5,7896.6,6,,setembro/2026
+Vila Velha,Santos Dumont,casa,venda,4250.0,3231.9,4285.1,5,,setembro/2026
+Vila Velha,Vale Encantado,casa,venda,7916.7,7608.3,9616.5,7,,setembro/2026
+Vila Velha,Aribiri,apartamento,venda,7398.9,6073.9,7593.7,7,,setembro/2026
+Vila Velha,Ataíde,apartamento,venda,6990.0,6274.6,7909.3,19,,setembro/2026
+Vila Velha,Barra do Jucu,apartamento,venda,19015.9,16307.0,22457.3,16,,setembro/2026
+Vila Velha,Centro,apartamento,venda,6923.1,5400.0,7142.9,13,,setembro/2026
+Vila Velha,Cocal,apartamento,venda,9417.8,8852.7,10357.8,16,,setembro/2026
+Vila Velha,Coqueiral de Itaparica,apartamento,venda,9794.8,6921.5,12419.9,52,,setembro/2026
+Vila Velha,Itaparica,apartamento,venda,12705.0,10372.0,14279.3,23,,setembro/2026
+Vila Velha,Itapoa,apartamento,venda,13769.2,10500.0,21031.0,9,,setembro/2026
+Vila Velha,Itapuã,apartamento,venda,12492.7,10190.9,16306.9,162,5.65,setembro/2026
+Vila Velha,Itapuã,apartamento,aluguel,58.8,53.6,67.7,8,5.65,setembro/2026
+Vila Velha,Jockey de Itaparica,apartamento,venda,12855.3,10373.0,15940.6,110,,setembro/2026
+Vila Velha,Nossa Senhora da Penha,apartamento,venda,6999.5,6722.2,7491.8,6,,setembro/2026
+Vila Velha,Praia da Costa,apartamento,venda,12840.1,9949.1,17199.2,407,4.12,setembro/2026
+Vila Velha,Praia da Costa,apartamento,aluguel,44.1,35.2,60.0,17,4.12,setembro/2026
+Vila Velha,Praia das Gaivotas,apartamento,venda,11775.9,8888.9,14082.5,53,,setembro/2026
+Vila Velha,Praia de Itaparica,apartamento,venda,14324.3,11606.5,17772.0,403,4.43,setembro/2026
+Vila Velha,Praia de Itaparica,apartamento,aluguel,52.9,45.5,57.4,23,4.43,setembro/2026
+Vila Velha,Praia de Itapoã,apartamento,venda,12500.0,10194.8,14197.9,119,,setembro/2026
+Vila Velha,Praia dos Recifes,apartamento,venda,5066.4,4631.6,5226.2,5,,setembro/2026
+Vila Velha,Residencial Coqueiral,apartamento,venda,7685.2,6453.0,8378.6,11,,setembro/2026
+Vila Velha,Santa Inês,apartamento,venda,6942.4,5847.6,7502.9,11,,setembro/2026
+Vila Velha,Santa Paula I,apartamento,venda,8572.8,8055.5,9608.0,7,,setembro/2026
+Vila Velha,São Conrado,apartamento,venda,17359.5,13966.5,18188.0,16,,setembro/2026
+Vila Velha,Vale Encantado,apartamento,venda,6890.4,5444.5,7205.6,11,,setembro/2026
+Vila Velha,Interlagos,terreno,venda,1030.3,896.7,1161.7,23,,setembro/2026
+Vila Velha,Morada da Barra,terreno,venda,388.9,375.0,630.2,7,,setembro/2026
+Vila Velha,Ponta da Fruta,terreno,venda,886.2,597.2,1472.1,8,,setembro/2026
+Vila Velha,Pontal das Garças,terreno,venda,962.5,912.5,1043.1,8,,setembro/2026
+Vila Velha,Santa Paula I,terreno,venda,1283.9,1146.7,1458.0,22,,setembro/2026
+Vila Velha,Centro,sala,venda,4059.5,3414.3,7570.3,7,,setembro/2026
+Vila Velha,Coqueiral de Itaparica,sala,venda,15470.7,15091.5,17441.8,11,,setembro/2026
+Vila Velha,Divino Espírito Santo,sala,venda,7688.5,6415.0,8090.9,7,,setembro/2026
+Vila Velha,Jockey de Itaparica,sala,venda,13801.9,13341.1,15140.7,11,,setembro/2026
+Vila Velha,Praia da Costa,sala,venda,13030.3,10959.8,14717.6,15,,setembro/2026
+Vila Velha,Praia de Itaparica,sala,venda,15827.4,14263.8,18315.2,18,,setembro/2026

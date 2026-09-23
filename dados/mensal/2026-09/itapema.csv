@@ -1,0 +1,45 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Itapema,Alto São Bento,apartamento,venda,12057.2,9369.7,12903.2,17,4.81,setembro/2026
+Itapema,Alto São Bento,apartamento,aluguel,48.3,43.8,54.6,8,4.81,setembro/2026
+Itapema,Andorinha,apartamento,venda,17272.7,13750.0,23596.5,13,,setembro/2026
+Itapema,Canto da Praia,apartamento,venda,17716.2,15523.2,22532.5,30,,setembro/2026
+Itapema,Casa Branca,apartamento,venda,8824.2,7713.8,11501.2,38,,setembro/2026
+Itapema,Castelo Branco,apartamento,venda,14438.8,12142.9,18730.4,29,,setembro/2026
+Itapema,Centro,apartamento,venda,18407.8,14569.0,22581.4,366,3.04,setembro/2026
+Itapema,Centro,apartamento,aluguel,46.6,36.9,59.4,42,3.04,setembro/2026
+Itapema,Ilhota,apartamento,venda,18590.9,17036.7,24160.9,27,,setembro/2026
+Itapema,Jardim Praia Mar,apartamento,venda,11961.0,10534.8,13688.8,34,,setembro/2026
+Itapema,Meia Praia,apartamento,venda,16089.1,12581.8,20602.1,1008,3.54,setembro/2026
+Itapema,Meia Praia,apartamento,aluguel,47.4,38.4,56.5,188,3.54,setembro/2026
+Itapema,Morretes,apartamento,venda,12136.7,9498.5,15141.3,155,5.08,setembro/2026
+Itapema,Morretes,apartamento,aluguel,51.4,43.4,60.8,34,5.08,setembro/2026
+Itapema,Morretes - Zona 3,apartamento,venda,14546.4,11315.1,20194.8,8,,setembro/2026
+Itapema,Tabuleiro dos Oliveiras,apartamento,venda,12075.9,10417.4,13830.2,34,5.82,setembro/2026
+Itapema,Tabuleiro dos Oliveiras,apartamento,aluguel,58.6,52.5,80.0,13,5.82,setembro/2026
+Itapema,Várzea,apartamento,venda,13506.4,10267.9,14310.5,18,,setembro/2026
+Itapema,Alto São Bento,casa,venda,6896.3,4683.3,8570.5,24,,setembro/2026
+Itapema,Canto da Praia,casa,venda,14527.0,13419.3,16197.0,14,,setembro/2026
+Itapema,Casa Branca,casa,venda,15384.6,5600.0,19166.7,21,,setembro/2026
+Itapema,Centro,casa,venda,10924.4,9661.0,12416.7,9,,setembro/2026
+Itapema,Ilhota,casa,venda,12857.1,8000.0,14310.2,9,,setembro/2026
+Itapema,Meia Praia,casa,venda,11904.8,7438.2,15080.4,36,,setembro/2026
+Itapema,Morretes,casa,venda,7427.1,5682.4,8817.9,90,6.62,setembro/2026
+Itapema,Morretes,casa,aluguel,41.0,38.6,55.9,7,6.62,setembro/2026
+Itapema,Residenciais Fazenda,casa,venda,9375.0,8129.0,9956.7,11,,setembro/2026
+Itapema,Sertão do Trombudo,casa,venda,8034.2,4354.2,11727.3,14,,setembro/2026
+Itapema,Tabuleiro dos Oliveiras,casa,venda,8148.1,7210.1,8695.7,5,,setembro/2026
+Itapema,Várzea,casa,venda,6450.0,4062.8,8543.6,14,,setembro/2026
+Itapema,Alto São Bento,terreno,venda,1544.8,1298.0,1691.7,8,,setembro/2026
+Itapema,Casa Branca,terreno,venda,2000.0,1413.6,2316.7,13,,setembro/2026
+Itapema,Ilhota,terreno,venda,5645.8,1263.3,7419.4,16,,setembro/2026
+Itapema,Meia Praia,terreno,venda,7159.5,4130.0,9767.9,16,,setembro/2026
+Itapema,Morretes,terreno,venda,3170.6,2351.2,4751.5,29,,setembro/2026
+Itapema,Sertão do Trombudo,terreno,venda,1417.2,1124.9,1833.3,15,,setembro/2026
+Itapema,Tabuleiro dos Oliveiras,terreno,venda,2667.4,2276.9,3208.8,6,,setembro/2026
+Itapema,Várzea,terreno,venda,2285.7,1785.0,3328.6,7,,setembro/2026
+Itapema,Centro,sala,venda,21674.9,19669.6,22417.9,6,4.38,setembro/2026
+Itapema,Centro,sala,aluguel,79.2,68.9,100.9,20,4.38,setembro/2026
+Itapema,Meia Praia,sala,venda,15543.3,11422.3,18875.0,52,4.86,setembro/2026
+Itapema,Meia Praia,sala,aluguel,63.0,50.0,90.9,75,4.86,setembro/2026
+Itapema,Morretes,sala,venda,14150.9,11564.3,24229.2,23,5.1,setembro/2026
+Itapema,Morretes,sala,aluguel,60.2,53.3,68.2,13,5.1,setembro/2026

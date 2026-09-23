@@ -1,0 +1,16 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Marechal Deodoro,Barra Nova,casa,venda,6741.6,4719.9,8352.4,51,,setembro/2026
+Marechal Deodoro,Centro,casa,venda,5442.6,5011.5,5959.9,14,,setembro/2026
+Marechal Deodoro,Francês,casa,venda,5138.9,4651.2,5332.7,17,,setembro/2026
+Marechal Deodoro,Marechal Deodoro,casa,venda,5357.1,3888.9,5970.1,21,,setembro/2026
+Marechal Deodoro,Massagueira,casa,venda,5234.6,3942.2,6147.2,16,,setembro/2026
+Marechal Deodoro,Massagueira de Baixo,casa,venda,5522.1,4963.5,6066.2,5,,setembro/2026
+Marechal Deodoro,Povoado Barra Nova,casa,venda,4600.8,4531.2,7407.4,9,,setembro/2026
+Marechal Deodoro,Praia do Francês,casa,venda,5714.7,4979.6,6309.5,16,,setembro/2026
+Marechal Deodoro,Francês,apartamento,venda,9966.0,8706.7,11124.7,8,,setembro/2026
+Marechal Deodoro,Praia do Francês,apartamento,venda,11511.9,8149.7,16750.0,16,,setembro/2026
+Marechal Deodoro,Barra Nova,terreno,venda,1157.7,1070.6,1264.6,45,,setembro/2026
+Marechal Deodoro,Centro,terreno,venda,724.4,533.8,912.2,6,,setembro/2026
+Marechal Deodoro,Marechal Deodoro,terreno,venda,546.9,502.6,662.5,8,,setembro/2026
+Marechal Deodoro,Massagueira,terreno,venda,723.9,596.7,1020.2,15,,setembro/2026
+Marechal Deodoro,Praia do Francês,terreno,venda,1104.2,1041.7,1374.4,5,,setembro/2026

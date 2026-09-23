@@ -1,0 +1,30 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Campo Bom,Bela Vista,casa,venda,5506.9,4958.7,6036.7,10,,setembro/2026
+Campo Bom,Benevento,casa,venda,6635.7,5612.5,7142.9,9,,setembro/2026
+Campo Bom,Blumenburg,casa,venda,4710.2,3636.1,5255.3,8,,setembro/2026
+Campo Bom,Celeste,casa,venda,4021.6,2649.4,4349.1,6,,setembro/2026
+Campo Bom,Centro,casa,venda,6385.0,4916.7,7386.1,37,,setembro/2026
+Campo Bom,Colina Deuner,casa,venda,7117.7,4268.3,7666.1,13,,setembro/2026
+Campo Bom,Firenze,casa,venda,6108.8,5464.1,7466.7,33,,setembro/2026
+Campo Bom,Genuíno Sampaio,casa,venda,6340.1,5356.2,7638.9,9,,setembro/2026
+Campo Bom,Imigrante,casa,venda,4216.7,3616.1,5209.1,24,,setembro/2026
+Campo Bom,Imigrante Norte,casa,venda,4819.3,4173.2,5198.2,14,,setembro/2026
+Campo Bom,Imigrante Sul,casa,venda,5376.5,4537.1,6458.3,10,,setembro/2026
+Campo Bom,Ipiranga,casa,venda,5013.8,4698.0,6182.3,6,,setembro/2026
+Campo Bom,Jardim do Sol,casa,venda,5593.9,4152.8,7278.5,20,,setembro/2026
+Campo Bom,Metzler,casa,venda,5787.6,5299.1,7084.2,23,,setembro/2026
+Campo Bom,Paulista,casa,venda,5666.7,4796.8,6301.9,7,,setembro/2026
+Campo Bom,Santa Lucia,casa,venda,5215.4,4342.1,6078.4,13,,setembro/2026
+Campo Bom,Santo Antônio,casa,venda,4475.6,3445.5,5071.7,8,,setembro/2026
+Campo Bom,Solar do Campo,casa,venda,5583.3,4788.4,6776.8,28,,setembro/2026
+Campo Bom,Vila Velha,casa,venda,6738.3,6040.9,7386.5,10,,setembro/2026
+Campo Bom,25 de Julho,apartamento,venda,5633.5,5452.5,5818.1,8,,setembro/2026
+Campo Bom,Blumenburg,apartamento,venda,5500.0,5500.0,6076.4,5,,setembro/2026
+Campo Bom,Centro,apartamento,venda,6546.9,5289.6,7945.8,59,,setembro/2026
+Campo Bom,Centro,terreno,venda,1162.6,952.4,1396.6,10,,setembro/2026
+Campo Bom,Firenze,terreno,venda,721.4,649.3,797.6,8,,setembro/2026
+Campo Bom,Imigrante,terreno,venda,582.4,479.9,684.3,15,,setembro/2026
+Campo Bom,Imigrante Norte,terreno,venda,506.7,468.6,645.8,10,,setembro/2026
+Campo Bom,Metzler,terreno,venda,710.0,628.4,732.6,5,,setembro/2026
+Campo Bom,Quatro Colônias,terreno,venda,695.0,571.1,826.2,17,,setembro/2026
+Campo Bom,Santa Lucia,terreno,venda,540.2,520.8,551.9,5,,setembro/2026

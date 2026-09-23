@@ -1,0 +1,13 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Nova Santa Rita,Berto Círio,casa,venda,4547.3,3333.3,5650.0,13,,setembro/2026
+Nova Santa Rita,Cajú,casa,venda,3000.0,2812.5,4478.8,5,,setembro/2026
+Nova Santa Rita,Califórnia,casa,venda,3210.8,2512.5,4697.4,10,,setembro/2026
+Nova Santa Rita,Centro,casa,venda,6177.0,4939.1,7667.9,28,,setembro/2026
+Nova Santa Rita,Cidade,casa,venda,8139.5,7102.7,9260.3,19,,setembro/2026
+Nova Santa Rita,Legano Bairro Cidade,casa,venda,9325.7,9233.4,10043.7,5,,setembro/2026
+Nova Santa Rita,Sanga Funda,casa,venda,7897.2,6794.9,8367.4,21,,setembro/2026
+Nova Santa Rita,Berto Círio,terreno,venda,455.9,358.3,733.3,25,,setembro/2026
+Nova Santa Rita,Califórnia,terreno,venda,463.2,369.2,539.8,10,,setembro/2026
+Nova Santa Rita,Centro,terreno,venda,712.5,532.5,1040.2,23,,setembro/2026
+Nova Santa Rita,Legano Reserva,terreno,venda,1060.4,1010.7,1101.9,5,,setembro/2026
+Nova Santa Rita,Sanga Funda,terreno,venda,762.2,688.6,817.5,14,,setembro/2026

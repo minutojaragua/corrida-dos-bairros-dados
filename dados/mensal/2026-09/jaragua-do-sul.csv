@@ -1,0 +1,179 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Jaraguá do Sul,Água Verde,apartamento,venda,5957.4,5068.8,6522.3,19,6.0,setembro/2026
+Jaraguá do Sul,Água Verde,apartamento,aluguel,29.8,26.2,33.7,15,6.0,setembro/2026
+Jaraguá do Sul,Amizade,apartamento,venda,5453.4,4594.3,6491.0,92,6.8,setembro/2026
+Jaraguá do Sul,Amizade,apartamento,aluguel,30.9,27.2,34.9,33,6.8,setembro/2026
+Jaraguá do Sul,Baependi,apartamento,venda,5990.1,4912.1,7500.0,121,7.69,setembro/2026
+Jaraguá do Sul,Baependi,apartamento,aluguel,38.4,31.3,47.1,46,7.69,setembro/2026
+Jaraguá do Sul,Barra do Rio Cerro,apartamento,venda,5316.5,4564.3,6451.6,61,7.02,setembro/2026
+Jaraguá do Sul,Barra do Rio Cerro,apartamento,aluguel,31.1,27.5,39.3,29,7.02,setembro/2026
+Jaraguá do Sul,Barra do Rio Molha,apartamento,venda,5964.5,5357.6,8339.4,32,7.91,setembro/2026
+Jaraguá do Sul,Barra do Rio Molha,apartamento,aluguel,39.3,36.7,47.4,5,7.91,setembro/2026
+Jaraguá do Sul,Centenário,apartamento,venda,6408.1,5473.9,7310.2,16,5.77,setembro/2026
+Jaraguá do Sul,Centenário,apartamento,aluguel,30.8,27.5,32.5,14,5.77,setembro/2026
+Jaraguá do Sul,Centro,apartamento,venda,7247.9,5303.2,9771.5,459,5.73,setembro/2026
+Jaraguá do Sul,Centro,apartamento,aluguel,34.6,27.1,46.7,108,5.73,setembro/2026
+Jaraguá do Sul,Chico de Paula,apartamento,venda,5660.7,5000.0,6384.5,26,6.55,setembro/2026
+Jaraguá do Sul,Chico de Paula,apartamento,aluguel,30.9,24.8,34.9,6,6.55,setembro/2026
+Jaraguá do Sul,Czerniewicz,apartamento,venda,5939.4,5056.0,7281.6,113,6.57,setembro/2026
+Jaraguá do Sul,Czerniewicz,apartamento,aluguel,32.5,26.7,37.8,29,6.57,setembro/2026
+Jaraguá do Sul,Estrada Nova,apartamento,venda,5048.1,4727.3,5645.2,25,,setembro/2026
+Jaraguá do Sul,Ilha da Figueira,apartamento,venda,5650.3,4911.8,6375.5,56,6.8,setembro/2026
+Jaraguá do Sul,Ilha da Figueira,apartamento,aluguel,32.0,26.4,40.8,33,6.8,setembro/2026
+Jaraguá do Sul,Jaraguá 84,apartamento,venda,4301.7,3345.4,4660.0,8,,setembro/2026
+Jaraguá do Sul,Jaraguá 99,apartamento,venda,5335.3,4791.1,6097.5,28,6.93,setembro/2026
+Jaraguá do Sul,Jaraguá 99,apartamento,aluguel,30.8,27.0,36.4,30,6.93,setembro/2026
+Jaraguá do Sul,Jaraguá Esquerdo,apartamento,venda,6544.5,5390.2,7631.2,148,6.34,setembro/2026
+Jaraguá do Sul,Jaraguá Esquerdo,apartamento,aluguel,34.6,27.6,39.5,49,6.34,setembro/2026
+Jaraguá do Sul,João Pessoa,apartamento,venda,5375.0,4511.9,6116.5,46,7.39,setembro/2026
+Jaraguá do Sul,João Pessoa,apartamento,aluguel,33.1,29.2,37.1,31,7.39,setembro/2026
+Jaraguá do Sul,Nereu Ramos,apartamento,venda,4794.2,4318.1,5426.3,38,7.21,setembro/2026
+Jaraguá do Sul,Nereu Ramos,apartamento,aluguel,28.8,25.2,31.0,26,7.21,setembro/2026
+Jaraguá do Sul,Nova Brasília,apartamento,venda,7553.1,5568.7,10326.8,84,4.45,setembro/2026
+Jaraguá do Sul,Nova Brasília,apartamento,aluguel,28.0,24.4,58.3,17,4.45,setembro/2026
+Jaraguá do Sul,Rau,apartamento,venda,6011.4,5174.6,6720.1,72,7.33,setembro/2026
+Jaraguá do Sul,Rau,apartamento,aluguel,36.7,30.0,46.7,29,7.33,setembro/2026
+Jaraguá do Sul,Ribeirão Cavalo,apartamento,venda,4274.4,3951.4,4866.2,22,6.04,setembro/2026
+Jaraguá do Sul,Ribeirão Cavalo,apartamento,aluguel,21.5,18.7,27.1,6,6.04,setembro/2026
+Jaraguá do Sul,Rio da Luz,apartamento,venda,4047.7,3778.4,4596.6,7,,setembro/2026
+Jaraguá do Sul,Santa Luzia,apartamento,venda,3813.8,3382.6,4533.3,12,,setembro/2026
+Jaraguá do Sul,Santo Antônio,apartamento,venda,4140.1,3750.0,4932.0,6,,setembro/2026
+Jaraguá do Sul,São Luís,apartamento,venda,5745.4,5219.3,6669.7,40,8.04,setembro/2026
+Jaraguá do Sul,São Luís,apartamento,aluguel,38.5,33.7,42.0,16,8.04,setembro/2026
+Jaraguá do Sul,Tifa Martins,apartamento,venda,4745.8,3578.1,5479.2,19,7.23,setembro/2026
+Jaraguá do Sul,Tifa Martins,apartamento,aluguel,28.6,23.1,30.6,9,7.23,setembro/2026
+Jaraguá do Sul,Três Rios do Norte,apartamento,venda,5230.8,4397.0,5789.5,33,,setembro/2026
+Jaraguá do Sul,Três Rios do Sul,apartamento,venda,5319.1,4627.5,6123.5,55,7.4,setembro/2026
+Jaraguá do Sul,Três Rios do Sul,apartamento,aluguel,32.8,26.2,36.6,16,7.4,setembro/2026
+Jaraguá do Sul,Vieira,apartamento,venda,5043.9,4356.6,6395.4,58,7.14,setembro/2026
+Jaraguá do Sul,Vieira,apartamento,aluguel,30.0,25.4,32.9,9,7.14,setembro/2026
+Jaraguá do Sul,Vila Lalau,apartamento,venda,6711.9,5719.8,8480.4,62,6.26,setembro/2026
+Jaraguá do Sul,Vila Lalau,apartamento,aluguel,35.0,27.5,41.6,32,6.26,setembro/2026
+Jaraguá do Sul,Vila Lenzi,apartamento,venda,5846.5,5188.4,6431.2,60,6.94,setembro/2026
+Jaraguá do Sul,Vila Lenzi,apartamento,aluguel,33.8,30.1,37.5,19,6.94,setembro/2026
+Jaraguá do Sul,Vila Nova,apartamento,venda,7625.0,6096.0,11090.8,195,4.97,setembro/2026
+Jaraguá do Sul,Vila Nova,apartamento,aluguel,31.6,27.0,35.8,49,4.97,setembro/2026
+Jaraguá do Sul,Água Verde,casa,venda,5357.1,3975.5,6956.5,45,5.44,setembro/2026
+Jaraguá do Sul,Água Verde,casa,aluguel,24.3,24.0,28.7,6,5.44,setembro/2026
+Jaraguá do Sul,Amizade,casa,venda,6161.4,5060.5,7572.4,244,5.71,setembro/2026
+Jaraguá do Sul,Amizade,casa,aluguel,29.3,27.3,36.7,17,5.71,setembro/2026
+Jaraguá do Sul,Baependi,casa,venda,6917.3,5153.8,8252.3,46,6.0,setembro/2026
+Jaraguá do Sul,Baependi,casa,aluguel,34.6,24.1,48.7,11,6.0,setembro/2026
+Jaraguá do Sul,Barra do Rio Cerro,casa,venda,5900.0,4459.0,7260.5,163,6.24,setembro/2026
+Jaraguá do Sul,Barra do Rio Cerro,casa,aluguel,30.7,23.4,36.6,34,6.24,setembro/2026
+Jaraguá do Sul,Barra do Rio Cerro I,casa,venda,6000.0,5803.4,6660.1,5,,setembro/2026
+Jaraguá do Sul,Barra do Rio Molha,casa,venda,4680.9,3703.7,6368.2,21,7.1,setembro/2026
+Jaraguá do Sul,Barra do Rio Molha,casa,aluguel,27.7,27.0,32.7,12,7.1,setembro/2026
+Jaraguá do Sul,Braço do Ribeirão Cavalo,casa,venda,5416.7,4221.7,5793.6,11,5.54,setembro/2026
+Jaraguá do Sul,Braço do Ribeirão Cavalo,casa,aluguel,25.0,22.8,30.3,7,5.54,setembro/2026
+Jaraguá do Sul,Centenário,casa,venda,6956.5,4045.1,7843.1,9,,setembro/2026
+Jaraguá do Sul,Centro,casa,venda,6185.6,4729.5,8555.6,95,7.0,setembro/2026
+Jaraguá do Sul,Centro,casa,aluguel,36.1,27.4,45.6,30,7.0,setembro/2026
+Jaraguá do Sul,Chico de Paula,casa,venda,5283.7,3990.3,7358.2,90,,setembro/2026
+Jaraguá do Sul,Czerniewicz,casa,venda,5447.8,4129.6,6490.4,76,6.72,setembro/2026
+Jaraguá do Sul,Czerniewicz,casa,aluguel,30.5,28.0,36.9,11,6.72,setembro/2026
+Jaraguá do Sul,Estrada Nova,casa,venda,5158.7,4230.8,6383.0,73,,setembro/2026
+Jaraguá do Sul,Ilha da Figueira,casa,venda,5217.4,3975.0,6666.7,133,6.83,setembro/2026
+Jaraguá do Sul,Ilha da Figueira,casa,aluguel,29.7,26.1,33.1,19,6.83,setembro/2026
+Jaraguá do Sul,Jaraguá 84,casa,venda,4968.6,4247.0,5783.3,47,8.91,setembro/2026
+Jaraguá do Sul,Jaraguá 84,casa,aluguel,36.9,33.3,37.5,5,8.91,setembro/2026
+Jaraguá do Sul,Jaraguá 99,casa,venda,5333.3,4588.2,6220.8,125,6.17,setembro/2026
+Jaraguá do Sul,Jaraguá 99,casa,aluguel,27.4,22.8,33.9,11,6.17,setembro/2026
+Jaraguá do Sul,Jaraguá Esquerdo,casa,venda,6643.0,5252.1,8217.4,145,6.99,setembro/2026
+Jaraguá do Sul,Jaraguá Esquerdo,casa,aluguel,38.7,24.6,46.5,12,6.99,setembro/2026
+Jaraguá do Sul,João Pessoa,casa,venda,5101.2,4025.6,5970.6,98,7.2,setembro/2026
+Jaraguá do Sul,João Pessoa,casa,aluguel,30.6,23.4,35.0,6,7.2,setembro/2026
+Jaraguá do Sul,Nereu Ramos,casa,venda,5428.6,4593.9,6517.8,83,6.65,setembro/2026
+Jaraguá do Sul,Nereu Ramos,casa,aluguel,30.1,22.0,47.1,8,6.65,setembro/2026
+Jaraguá do Sul,Nova Brasília,casa,venda,7142.9,4953.6,9782.6,49,5.04,setembro/2026
+Jaraguá do Sul,Nova Brasília,casa,aluguel,30.0,19.8,37.7,11,5.04,setembro/2026
+Jaraguá do Sul,Rau,casa,venda,5345.8,4000.8,6353.3,91,6.94,setembro/2026
+Jaraguá do Sul,Rau,casa,aluguel,30.9,26.2,38.0,6,6.94,setembro/2026
+Jaraguá do Sul,Ribeirão Cavalo,casa,venda,4848.5,4230.8,5545.3,13,6.46,setembro/2026
+Jaraguá do Sul,Ribeirão Cavalo,casa,aluguel,26.1,24.8,27.5,8,6.46,setembro/2026
+Jaraguá do Sul,Rio Cerro I,casa,venda,5712.0,5061.4,6347.6,16,,setembro/2026
+Jaraguá do Sul,Rio Cerro II,casa,venda,4534.0,3858.0,6185.7,6,,setembro/2026
+Jaraguá do Sul,Rio da Luz,casa,venda,5327.7,4475.0,6584.6,30,,setembro/2026
+Jaraguá do Sul,Santa Luzia,casa,venda,3500.0,2071.4,5361.1,21,,setembro/2026
+Jaraguá do Sul,Santo Antônio,casa,venda,4666.7,3530.5,5749.1,30,,setembro/2026
+Jaraguá do Sul,São Luís,casa,venda,5088.4,4072.8,6347.8,103,8.14,setembro/2026
+Jaraguá do Sul,São Luís,casa,aluguel,34.5,32.1,40.9,6,8.14,setembro/2026
+Jaraguá do Sul,Tifa Martins,casa,venda,4905.3,3984.5,5989.7,122,,setembro/2026
+Jaraguá do Sul,Três Rios do Norte,casa,venda,5197.2,4493.6,6173.4,258,7.8,setembro/2026
+Jaraguá do Sul,Três Rios do Norte,casa,aluguel,33.8,28.4,37.1,18,7.8,setembro/2026
+Jaraguá do Sul,Três Rios do Sul,casa,venda,5664.5,4926.2,6698.2,143,7.2,setembro/2026
+Jaraguá do Sul,Três Rios do Sul,casa,aluguel,34.0,27.8,38.6,6,7.2,setembro/2026
+Jaraguá do Sul,Vieira,casa,venda,5787.8,5170.2,7174.6,18,,setembro/2026
+Jaraguá do Sul,Vila Chartres,casa,venda,7787.5,7717.5,9137.8,7,,setembro/2026
+Jaraguá do Sul,Vila Lalau,casa,venda,5605.1,5153.7,7500.7,55,,setembro/2026
+Jaraguá do Sul,Vila Lenzi,casa,venda,5281.7,4120.0,6670.8,125,7.09,setembro/2026
+Jaraguá do Sul,Vila Lenzi,casa,aluguel,31.2,29.3,35.3,15,7.09,setembro/2026
+Jaraguá do Sul,Vila Nova,casa,venda,6708.6,4942.4,10207.6,62,6.39,setembro/2026
+Jaraguá do Sul,Vila Nova,casa,aluguel,35.7,28.4,38.3,8,6.39,setembro/2026
+Jaraguá do Sul,Água Verde,terreno,venda,1068.9,906.7,1192.0,14,,setembro/2026
+Jaraguá do Sul,Amizade,terreno,venda,1259.3,1000.0,1502.1,89,,setembro/2026
+Jaraguá do Sul,Baependi,terreno,venda,1229.4,831.6,1561.3,18,,setembro/2026
+Jaraguá do Sul,Barra do Rio Cerro,terreno,venda,800.8,391.0,1163.1,90,,setembro/2026
+Jaraguá do Sul,Barra do Rio Molha,terreno,venda,1265.0,1043.3,1500.2,12,,setembro/2026
+Jaraguá do Sul,Braço do Ribeirão Cavalo,terreno,venda,585.8,523.1,602.5,9,,setembro/2026
+Jaraguá do Sul,Centenário,terreno,venda,1314.3,1218.2,1326.9,7,,setembro/2026
+Jaraguá do Sul,Centro,terreno,venda,1830.1,1432.3,2491.3,46,,setembro/2026
+Jaraguá do Sul,Chico de Paula,terreno,venda,901.3,658.2,1197.7,29,,setembro/2026
+Jaraguá do Sul,Czerniewicz,terreno,venda,1224.9,999.8,1577.6,14,,setembro/2026
+Jaraguá do Sul,Estrada Nova,terreno,venda,504.1,423.4,671.1,12,,setembro/2026
+Jaraguá do Sul,Ilha da Figueira,terreno,venda,750.0,415.5,1200.0,49,,setembro/2026
+Jaraguá do Sul,Jaraguá 84,terreno,venda,625.0,219.9,702.1,12,,setembro/2026
+Jaraguá do Sul,Jaraguá 99,terreno,venda,717.6,380.5,856.6,28,,setembro/2026
+Jaraguá do Sul,Jaraguá Esquerdo,terreno,venda,1171.6,938.2,1316.9,60,,setembro/2026
+Jaraguá do Sul,João Pessoa,terreno,venda,827.2,431.6,921.2,43,,setembro/2026
+Jaraguá do Sul,Nereu Ramos,terreno,venda,552.5,342.3,686.1,27,,setembro/2026
+Jaraguá do Sul,Nova Brasília,terreno,venda,1287.6,1136.0,1586.4,14,,setembro/2026
+Jaraguá do Sul,Rau,terreno,venda,965.3,808.6,1184.6,53,,setembro/2026
+Jaraguá do Sul,Ribeirão Cavalo,terreno,venda,564.2,400.0,585.8,9,,setembro/2026
+Jaraguá do Sul,Rio Cerro I,terreno,venda,683.0,577.7,698.2,38,,setembro/2026
+Jaraguá do Sul,Rio Cerro II,terreno,venda,341.9,251.6,613.7,12,,setembro/2026
+Jaraguá do Sul,Rio da Luz,terreno,venda,625.2,499.5,736.4,51,,setembro/2026
+Jaraguá do Sul,Santa Luzia,terreno,venda,600.0,149.4,862.1,31,,setembro/2026
+Jaraguá do Sul,Santo Antônio,terreno,venda,615.4,577.8,722.2,9,,setembro/2026
+Jaraguá do Sul,São Luís,terreno,venda,976.3,607.8,1330.0,17,,setembro/2026
+Jaraguá do Sul,Tifa Martins,terreno,venda,1019.1,745.1,1189.7,25,,setembro/2026
+Jaraguá do Sul,Três Rios do Norte,terreno,venda,718.6,608.6,855.3,115,,setembro/2026
+Jaraguá do Sul,Três Rios do Sul,terreno,venda,876.2,660.1,946.9,26,,setembro/2026
+Jaraguá do Sul,Vieira,terreno,venda,384.5,280.1,1194.0,13,,setembro/2026
+Jaraguá do Sul,Vila Chartres,terreno,venda,923.2,856.4,1000.2,16,,setembro/2026
+Jaraguá do Sul,Vila Lalau,terreno,venda,1567.4,903.6,1908.7,18,,setembro/2026
+Jaraguá do Sul,Vila Lenzi,terreno,venda,1056.6,835.6,1323.3,42,,setembro/2026
+Jaraguá do Sul,Vila Nova,terreno,venda,1399.7,750.0,1814.5,33,,setembro/2026
+Jaraguá do Sul,Amizade,sala,aluguel,35.0,29.2,45.2,13,,setembro/2026
+Jaraguá do Sul,Baependi,sala,aluguel,41.7,31.9,52.8,11,,setembro/2026
+Jaraguá do Sul,Barra do Rio Cerro,sala,aluguel,34.6,31.1,41.7,25,,setembro/2026
+Jaraguá do Sul,Barra do Rio Molha,sala,aluguel,46.0,32.6,48.3,24,,setembro/2026
+Jaraguá do Sul,Centro,sala,venda,7677.5,5663.5,9576.3,31,7.22,setembro/2026
+Jaraguá do Sul,Centro,sala,aluguel,46.2,35.0,63.2,146,7.22,setembro/2026
+Jaraguá do Sul,Chico de Paula,sala,aluguel,45.5,39.8,54.9,13,,setembro/2026
+Jaraguá do Sul,Czerniewicz,sala,aluguel,40.0,27.7,52.6,15,,setembro/2026
+Jaraguá do Sul,Ilha da Figueira,sala,aluguel,38.3,33.0,45.2,18,,setembro/2026
+Jaraguá do Sul,Jaraguá Esquerdo,sala,aluguel,38.8,34.7,46.7,19,,setembro/2026
+Jaraguá do Sul,Nereu Ramos,sala,aluguel,31.4,30.0,35.5,12,,setembro/2026
+Jaraguá do Sul,Nova Brasília,sala,aluguel,38.9,28.4,71.4,24,,setembro/2026
+Jaraguá do Sul,São Luís,sala,aluguel,34.1,32.7,35.2,6,,setembro/2026
+Jaraguá do Sul,Tifa Martins,sala,aluguel,41.7,35.9,50.6,7,,setembro/2026
+Jaraguá do Sul,Vieira,sala,aluguel,56.5,52.2,63.6,5,,setembro/2026
+Jaraguá do Sul,Vila Lalau,sala,aluguel,27.2,24.4,37.7,10,,setembro/2026
+Jaraguá do Sul,Vila Lenzi,sala,aluguel,50.9,38.3,63.3,11,,setembro/2026
+Jaraguá do Sul,Vila Nova,sala,aluguel,47.7,39.0,62.4,44,,setembro/2026
+Jaraguá do Sul,Água Verde,galpao,aluguel,20.0,17.2,20.2,8,,setembro/2026
+Jaraguá do Sul,Amizade,galpao,aluguel,24.0,16.9,27.5,6,,setembro/2026
+Jaraguá do Sul,Barra do Rio Cerro,galpao,venda,3027.5,2012.5,3763.4,9,8.05,setembro/2026
+Jaraguá do Sul,Barra do Rio Cerro,galpao,aluguel,20.3,17.4,26.1,11,8.05,setembro/2026
+Jaraguá do Sul,Czerniewicz,galpao,aluguel,16.2,12.3,19.4,8,,setembro/2026
+Jaraguá do Sul,Ilha da Figueira,galpao,aluguel,22.5,16.4,39.1,14,,setembro/2026
+Jaraguá do Sul,Jaraguá Esquerdo,galpao,venda,5952.4,3188.3,6190.5,5,3.23,setembro/2026
+Jaraguá do Sul,Jaraguá Esquerdo,galpao,aluguel,16.0,12.3,18.9,6,3.23,setembro/2026
+Jaraguá do Sul,João Pessoa,galpao,aluguel,17.6,17.1,20.5,5,,setembro/2026
+Jaraguá do Sul,Nereu Ramos,galpao,aluguel,18.1,14.6,20.8,22,,setembro/2026
+Jaraguá do Sul,Rio Cerro I,galpao,aluguel,11.1,9.0,15.1,7,,setembro/2026
+Jaraguá do Sul,Rio da Luz,galpao,aluguel,21.7,20.0,22.0,5,,setembro/2026
+Jaraguá do Sul,Três Rios do Norte,galpao,aluguel,24.0,21.1,24.0,5,,setembro/2026
+Jaraguá do Sul,Vieira,galpao,aluguel,22.0,20.9,24.4,8,,setembro/2026
+Jaraguá do Sul,Vila Nova,galpao,venda,7716.0,3049.7,10320.8,5,,setembro/2026

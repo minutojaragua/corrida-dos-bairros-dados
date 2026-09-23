@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+dados/brutos/
+dados/r3_tipos.csv
+.DS_Store

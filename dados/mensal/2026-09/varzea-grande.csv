@@ -1,0 +1,40 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Várzea Grande,23 de Setembro,casa,venda,6031.9,5136.1,7236.1,26,,setembro/2026
+Várzea Grande,Canelas,casa,venda,3125.0,2132.7,4263.8,17,,setembro/2026
+Várzea Grande,Centro-Norte,casa,venda,3564.7,2857.9,4821.0,6,,setembro/2026
+Várzea Grande,Centro-Sul,casa,venda,3247.2,2311.2,4636.0,32,,setembro/2026
+Várzea Grande,Chapéu do Sol,casa,venda,7783.9,3728.7,10888.5,16,,setembro/2026
+Várzea Grande,Costa Verde,casa,venda,2779.6,1944.4,4155.8,13,,setembro/2026
+Várzea Grande,Cristo Rei,casa,venda,2400.0,1885.4,3636.4,33,,setembro/2026
+Várzea Grande,Florais da Mata,casa,venda,11161.0,10608.4,12241.7,20,,setembro/2026
+Várzea Grande,Ikaray,casa,venda,1969.7,1749.9,4514.3,10,,setembro/2026
+Várzea Grande,Jardim Aeroporto,casa,venda,4900.0,2350.0,5538.5,5,,setembro/2026
+Várzea Grande,Jardim Costa Verde,casa,venda,4083.3,3392.7,4331.4,16,,setembro/2026
+Várzea Grande,Jardim dos Estados,casa,venda,2769.2,2350.7,5333.3,13,,setembro/2026
+Várzea Grande,Jardim Paula I,casa,venda,2045.5,1538.5,4020.7,5,,setembro/2026
+Várzea Grande,Mapim,casa,venda,1950.0,1733.3,3254.5,5,,setembro/2026
+Várzea Grande,Marajoara,casa,venda,1805.6,1666.7,2931.0,9,,setembro/2026
+Várzea Grande,Nova Várzea Grande,casa,venda,3347.9,2693.7,4625.0,6,,setembro/2026
+Várzea Grande,Novo Mundo,casa,venda,3265.3,2777.8,6415.2,17,,setembro/2026
+Várzea Grande,Paiaguás,casa,venda,2333.3,1652.2,4461.5,5,,setembro/2026
+Várzea Grande,Parque do Lago,casa,venda,1958.3,1687.5,2388.7,6,,setembro/2026
+Várzea Grande,Petrópolis,casa,venda,5120.1,3661.9,6517.3,36,,setembro/2026
+Várzea Grande,Ponte Nova,casa,venda,2121.6,1536.0,4176.0,12,,setembro/2026
+Várzea Grande,Santa Isabel,casa,venda,2574.9,1717.9,3721.2,7,,setembro/2026
+Várzea Grande,Alameda,apartamento,venda,4807.7,4302.3,5192.3,5,,setembro/2026
+Várzea Grande,Centro-Norte,apartamento,venda,5333.3,3281.6,5706.3,7,,setembro/2026
+Várzea Grande,Centro-Sul,apartamento,venda,5125.0,4502.8,5756.9,20,,setembro/2026
+Várzea Grande,Cristo Rei,apartamento,venda,4188.7,2171.7,4818.2,5,,setembro/2026
+Várzea Grande,Glória,apartamento,venda,5115.1,4080.1,5446.4,8,,setembro/2026
+Várzea Grande,Mapim,apartamento,venda,4847.4,4489.6,5113.6,6,,setembro/2026
+Várzea Grande,Ponte Nova,apartamento,venda,4833.3,4183.0,5656.2,24,,setembro/2026
+Várzea Grande,Centro-Norte,terreno,venda,846.2,500.8,1123.7,8,,setembro/2026
+Várzea Grande,Centro-Sul,terreno,venda,1099.9,713.7,1160.1,11,,setembro/2026
+Várzea Grande,Chapéu do Sol,terreno,venda,1099.7,1000.0,1177.1,30,,setembro/2026
+Várzea Grande,Florais da Mata,terreno,venda,1200.2,1114.7,1361.8,40,,setembro/2026
+Várzea Grande,Jardim dos Estados,terreno,venda,1081.6,760.0,1364.0,7,,setembro/2026
+Várzea Grande,Novo Mundo,terreno,venda,760.0,620.0,900.0,6,,setembro/2026
+Várzea Grande,Parque das Águas,terreno,venda,368.0,299.0,395.0,6,,setembro/2026
+Várzea Grande,Passagem da Conceição,terreno,venda,464.0,380.0,1141.7,11,,setembro/2026
+Várzea Grande,Petrópolis,terreno,venda,667.2,395.8,1000.0,14,,setembro/2026
+Várzea Grande,Ponte Nova,terreno,venda,496.8,287.5,747.6,7,,setembro/2026

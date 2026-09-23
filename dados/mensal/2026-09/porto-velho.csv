@@ -1,0 +1,146 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Porto Velho,Aeroclube,casa,venda,5465.3,3310.2,6678.2,82,,setembro/2026
+Porto Velho,Agenor de Carvalho,casa,venda,2716.1,2048.8,3706.6,38,7.38,setembro/2026
+Porto Velho,Agenor de Carvalho,casa,aluguel,16.7,14.0,20.0,5,7.38,setembro/2026
+Porto Velho,Agenor M. de Carvalho,casa,venda,2517.3,2183.8,3042.8,18,,setembro/2026
+Porto Velho,Alphaville,casa,venda,6986.9,6022.7,7357.8,7,,setembro/2026
+Porto Velho,Aponiã,casa,venda,3560.0,2166.7,6562.5,125,,setembro/2026
+Porto Velho,Areal,casa,venda,1842.1,1408.6,3021.3,15,,setembro/2026
+Porto Velho,Bairro Industrial,casa,venda,5360.4,4821.4,6567.3,12,,setembro/2026
+Porto Velho,Bairro Novo,casa,venda,4444.4,3500.0,5416.7,33,,setembro/2026
+Porto Velho,Baixa União,casa,venda,2500.0,1782.1,3552.8,7,,setembro/2026
+Porto Velho,Caiari,casa,venda,2759.7,1660.8,3718.8,8,,setembro/2026
+Porto Velho,Caladinho,casa,venda,1771.6,1369.6,2250.0,9,,setembro/2026
+Porto Velho,Castanheira,casa,venda,1888.7,1616.7,3272.6,26,,setembro/2026
+Porto Velho,Centro,casa,venda,2500.0,1771.2,3615.2,15,,setembro/2026
+Porto Velho,Cidade Jardim,casa,venda,6303.5,5200.7,7414.8,28,,setembro/2026
+Porto Velho,Cidade Nova,casa,venda,2053.7,1282.1,2328.1,6,,setembro/2026
+Porto Velho,Cohab,casa,venda,2449.7,2154.4,3622.7,20,,setembro/2026
+Porto Velho,Conceição,casa,venda,2072.9,1600.0,3010.9,24,,setembro/2026
+Porto Velho,Costa e Silva,casa,venda,5825.2,3582.6,7444.0,43,,setembro/2026
+Porto Velho,Cuniã,casa,venda,2303.0,1880.0,3090.9,34,,setembro/2026
+Porto Velho,Eldorado,casa,venda,2352.9,1750.0,5530.8,25,,setembro/2026
+Porto Velho,Eletronorte,casa,venda,3203.5,1778.2,3915.8,11,,setembro/2026
+Porto Velho,Embratel,casa,venda,2806.3,2216.0,4862.0,34,6.88,setembro/2026
+Porto Velho,Embratel,casa,aluguel,16.1,12.5,39.8,8,6.88,setembro/2026
+Porto Velho,Escola de Polícia,casa,venda,1533.3,1266.7,2777.8,5,,setembro/2026
+Porto Velho,Esperança da Comunidade,casa,venda,2000.0,1585.1,2708.3,19,,setembro/2026
+Porto Velho,Flodoaldo Pontes Pinto,casa,venda,3490.2,2538.3,4944.4,71,6.88,setembro/2026
+Porto Velho,Flodoaldo Pontes Pinto,casa,aluguel,20.0,17.0,25.0,7,6.88,setembro/2026
+Porto Velho,Floresta,casa,venda,2250.0,1911.6,3126.2,19,,setembro/2026
+Porto Velho,Greenville,casa,venda,3692.1,2815.3,4180.4,6,,setembro/2026
+Porto Velho,Igarapé,casa,venda,2402.4,1714.3,3441.4,45,,setembro/2026
+Porto Velho,Industrial,casa,venda,5632.2,5013.9,6281.6,12,,setembro/2026
+Porto Velho,Jardim Santana,casa,venda,1350.0,1247.3,2101.7,7,,setembro/2026
+Porto Velho,Juscelino Kubitschek,casa,venda,2167.0,1736.4,3142.9,12,,setembro/2026
+Porto Velho,Lagoa,casa,venda,4364.4,2933.5,5691.0,52,,setembro/2026
+Porto Velho,Lagoinha,casa,venda,2250.0,1605.6,2638.9,19,,setembro/2026
+Porto Velho,Liberdade,casa,venda,3166.1,2465.3,4610.3,16,,setembro/2026
+Porto Velho,Mariana,casa,venda,1600.0,1509.8,3078.0,6,,setembro/2026
+Porto Velho,Nossa Senhora das Graças,casa,venda,3057.7,2633.3,3832.8,21,,setembro/2026
+Porto Velho,Nova Esperança,casa,venda,4387.8,3067.1,5706.5,157,7.03,setembro/2026
+Porto Velho,Nova Esperança,casa,aluguel,25.7,18.3,29.7,9,7.03,setembro/2026
+Porto Velho,Nova Floresta,casa,venda,2525.3,2029.4,3527.0,19,,setembro/2026
+Porto Velho,Nova Porto Velho,casa,venda,2590.5,2000.0,5028.1,35,,setembro/2026
+Porto Velho,Novo Horizonte,casa,venda,3363.6,2350.0,5571.4,41,,setembro/2026
+Porto Velho,Olaria,casa,venda,2692.3,2105.3,3360.0,17,,setembro/2026
+Porto Velho,Panair,casa,venda,3205.1,2000.0,5591.6,16,,setembro/2026
+Porto Velho,Pedrinhas,casa,venda,3210.1,1836.7,6580.7,22,,setembro/2026
+Porto Velho,Planalto,casa,venda,4491.5,2296.6,5385.6,20,,setembro/2026
+Porto Velho,Rio Madeira,casa,venda,5624.6,4027.1,6982.1,108,5.33,setembro/2026
+Porto Velho,Rio Madeira,casa,aluguel,25.0,21.9,30.0,7,5.33,setembro/2026
+Porto Velho,São Cristóvão,casa,venda,4024.5,2916.7,5265.4,16,,setembro/2026
+Porto Velho,São João Bosco,casa,venda,2786.8,2109.1,4799.0,34,,setembro/2026
+Porto Velho,São Sebastião,casa,venda,2783.3,1666.7,3000.0,5,,setembro/2026
+Porto Velho,Socialista,casa,venda,1625.0,1466.7,1750.0,5,,setembro/2026
+Porto Velho,Tancredo Neves,casa,venda,1250.0,1058.8,1737.7,13,,setembro/2026
+Porto Velho,Teixeirão,casa,venda,2833.3,2546.3,3083.0,5,,setembro/2026
+Porto Velho,Tiradentes,casa,venda,3280.0,2687.5,4653.5,15,,setembro/2026
+Porto Velho,Três Marias,casa,venda,1881.9,1205.4,2942.0,24,,setembro/2026
+Porto Velho,Triângulo,casa,venda,6198.3,5531.0,6764.5,49,,setembro/2026
+Porto Velho,Vila Eletronorte,casa,venda,2703.0,1107.1,5288.7,5,,setembro/2026
+Porto Velho,Aeroclube,apartamento,venda,3784.5,2893.9,4111.1,7,,setembro/2026
+Porto Velho,Agenor de Carvalho,apartamento,venda,4833.3,4455.4,5592.1,21,,setembro/2026
+Porto Velho,Agenor M. de Carvalho,apartamento,venda,4318.2,3903.4,4924.4,7,,setembro/2026
+Porto Velho,Aponiã,apartamento,venda,6491.2,5579.7,7115.4,11,,setembro/2026
+Porto Velho,Bairro Industrial,apartamento,venda,5000.0,4703.7,5769.2,13,,setembro/2026
+Porto Velho,Bairro Novo,apartamento,venda,3690.5,2562.4,3963.7,7,,setembro/2026
+Porto Velho,Baixa União,apartamento,venda,6964.3,5271.6,7667.7,5,,setembro/2026
+Porto Velho,Costa e Silva,apartamento,venda,5416.7,4734.0,8897.8,7,,setembro/2026
+Porto Velho,Eldorado,apartamento,venda,2500.0,1552.1,2912.6,5,,setembro/2026
+Porto Velho,Embratel,apartamento,venda,6312.9,3937.9,7941.7,34,,setembro/2026
+Porto Velho,Esperança da Comunidade,apartamento,venda,5907.5,5157.3,6463.2,8,,setembro/2026
+Porto Velho,Flodoaldo Pontes Pinto,apartamento,venda,6591.0,5560.6,7166.2,15,7.85,setembro/2026
+Porto Velho,Flodoaldo Pontes Pinto,apartamento,aluguel,43.1,36.4,55.1,7,7.85,setembro/2026
+Porto Velho,Floresta,apartamento,venda,3663.0,3454.5,4565.2,13,,setembro/2026
+Porto Velho,Igarapé,apartamento,venda,5921.1,5044.8,6346.2,17,,setembro/2026
+Porto Velho,Industrial,apartamento,venda,5413.8,4798.4,6166.7,23,,setembro/2026
+Porto Velho,Lagoa,apartamento,venda,6547.6,5255.3,7381.0,33,,setembro/2026
+Porto Velho,Lagoinha,apartamento,venda,5151.5,3887.8,5455.8,10,,setembro/2026
+Porto Velho,Liberdade,apartamento,venda,5242.9,4288.2,5767.8,14,,setembro/2026
+Porto Velho,Nossa Senhora das Graças,apartamento,venda,6666.7,5038.5,8578.4,15,7.43,setembro/2026
+Porto Velho,Nossa Senhora das Graças,apartamento,aluguel,41.3,36.8,43.9,6,7.43,setembro/2026
+Porto Velho,Nova Esperança,apartamento,venda,5156.2,4816.7,6165.1,19,8.7,setembro/2026
+Porto Velho,Nova Esperança,apartamento,aluguel,37.4,35.0,40.2,6,8.7,setembro/2026
+Porto Velho,Nova Porto Velho,apartamento,venda,6216.2,5254.7,7656.8,19,,setembro/2026
+Porto Velho,Olaria,apartamento,venda,6727.3,5020.8,8798.6,60,6.15,setembro/2026
+Porto Velho,Olaria,apartamento,aluguel,34.5,27.9,43.6,17,6.15,setembro/2026
+Porto Velho,Pedrinhas,apartamento,venda,5248.8,4324.1,6990.0,28,8.64,setembro/2026
+Porto Velho,Pedrinhas,apartamento,aluguel,37.8,31.2,41.4,14,8.64,setembro/2026
+Porto Velho,Residencial Brisas do Madeira,apartamento,venda,7171.1,6306.5,7335.5,6,,setembro/2026
+Porto Velho,Residencial Garden Club,apartamento,aluguel,40.5,38.7,42.0,5,,setembro/2026
+Porto Velho,Rio Madeira,apartamento,venda,6387.6,5059.7,7370.1,74,8.17,setembro/2026
+Porto Velho,Rio Madeira,apartamento,aluguel,43.5,37.8,53.6,23,8.17,setembro/2026
+Porto Velho,São Cristóvão,apartamento,aluguel,32.5,31.8,35.7,5,,setembro/2026
+Porto Velho,São João Bosco,apartamento,venda,6914.8,5495.4,8825.6,22,7.55,setembro/2026
+Porto Velho,São João Bosco,apartamento,aluguel,43.5,37.0,51.1,7,7.55,setembro/2026
+Porto Velho,Tiradentes,apartamento,venda,7172.4,5801.2,8564.0,10,,setembro/2026
+Porto Velho,Triângulo,apartamento,venda,4675.3,4385.3,5362.6,23,6.88,setembro/2026
+Porto Velho,Triângulo,apartamento,aluguel,26.8,24.3,29.8,9,6.88,setembro/2026
+Porto Velho,Aeroclube,terreno,venda,516.9,372.9,613.9,32,,setembro/2026
+Porto Velho,Agenor de Carvalho,terreno,venda,650.0,600.0,712.6,7,,setembro/2026
+Porto Velho,Alphaville,terreno,venda,603.1,578.1,638.5,7,,setembro/2026
+Porto Velho,Aponiã,terreno,venda,854.4,433.3,1347.9,33,,setembro/2026
+Porto Velho,Areal,terreno,venda,633.2,514.9,710.0,6,,setembro/2026
+Porto Velho,Caiari,terreno,venda,595.7,549.6,833.3,5,,setembro/2026
+Porto Velho,Castanheira,terreno,venda,330.0,254.5,382.1,7,,setembro/2026
+Porto Velho,Centro,terreno,venda,990.1,826.1,1320.0,13,,setembro/2026
+Porto Velho,Cidade Jardim,terreno,venda,400.0,90.0,550.0,9,,setembro/2026
+Porto Velho,Conjunto Alphaville,terreno,venda,583.0,574.7,620.2,5,,setembro/2026
+Porto Velho,Cuniã,terreno,venda,572.4,522.3,683.1,6,,setembro/2026
+Porto Velho,Eldorado,terreno,venda,473.1,402.8,641.2,10,,setembro/2026
+Porto Velho,Embratel,terreno,venda,1061.1,980.1,1485.7,10,,setembro/2026
+Porto Velho,Flodoaldo Pontes Pinto,terreno,venda,858.6,666.7,1053.9,9,,setembro/2026
+Porto Velho,Floresta,terreno,venda,311.6,284.8,493.3,6,,setembro/2026
+Porto Velho,Greenville,terreno,venda,347.8,333.3,400.0,5,,setembro/2026
+Porto Velho,Igarapé,terreno,venda,744.8,589.7,1062.5,10,,setembro/2026
+Porto Velho,Lagoa,terreno,venda,475.0,312.5,587.5,14,,setembro/2026
+Porto Velho,Lagoinha,terreno,venda,510.5,271.6,553.4,11,,setembro/2026
+Porto Velho,Liberdade,terreno,venda,942.5,788.8,960.0,5,,setembro/2026
+Porto Velho,Nossa Senhora das Graças,terreno,venda,1219.4,1159.4,1250.0,5,,setembro/2026
+Porto Velho,Nova Esperança,terreno,venda,365.9,202.8,720.3,24,,setembro/2026
+Porto Velho,Nova Porto Velho,terreno,venda,948.6,770.0,1116.6,6,,setembro/2026
+Porto Velho,Novo Horizonte,terreno,venda,170.0,120.0,361.3,5,,setembro/2026
+Porto Velho,Olaria,terreno,venda,1333.3,1059.5,1515.2,13,,setembro/2026
+Porto Velho,Panair,terreno,venda,574.7,525.0,1116.9,5,,setembro/2026
+Porto Velho,Pedrinhas,terreno,venda,787.6,683.9,849.5,12,,setembro/2026
+Porto Velho,Planalto,terreno,venda,103.3,78.8,186.4,8,,setembro/2026
+Porto Velho,Residencial Viena,terreno,venda,266.7,83.3,383.3,5,,setembro/2026
+Porto Velho,Rio Madeira,terreno,venda,700.0,399.7,1321.9,11,,setembro/2026
+Porto Velho,São Cristóvão,terreno,venda,1371.4,1200.0,1597.8,7,,setembro/2026
+Porto Velho,São João Bosco,terreno,venda,796.2,620.1,924.8,7,,setembro/2026
+Porto Velho,Socialista,terreno,venda,250.9,150.6,488.5,10,,setembro/2026
+Porto Velho,Teixeirão,terreno,venda,200.0,117.6,220.0,9,,setembro/2026
+Porto Velho,Triângulo,terreno,venda,432.8,386.3,492.3,36,,setembro/2026
+Porto Velho,Caiari,sala,aluguel,62.2,59.4,80.2,7,,setembro/2026
+Porto Velho,Castanheira,sala,aluguel,20.0,15.0,25.0,5,,setembro/2026
+Porto Velho,Centro,sala,aluguel,40.0,26.7,58.9,23,,setembro/2026
+Porto Velho,Embratel,sala,aluguel,55.2,44.4,111.1,5,,setembro/2026
+Porto Velho,Olaria,sala,aluguel,55.2,40.0,85.3,16,,setembro/2026
+Porto Velho,São Cristóvão,sala,venda,7555.6,6919.4,8333.3,5,8.18,setembro/2026
+Porto Velho,São Cristóvão,sala,aluguel,51.5,40.0,63.5,11,8.18,setembro/2026
+Porto Velho,São João Bosco,sala,aluguel,66.7,44.4,73.3,5,,setembro/2026
+Porto Velho,Centro,galpao,aluguel,15.2,11.9,22.5,12,,setembro/2026
+Porto Velho,Eldorado,galpao,aluguel,14.0,13.3,14.2,5,,setembro/2026
+Porto Velho,Nova Porto Velho,galpao,aluguel,24.0,20.5,27.1,7,,setembro/2026
+Porto Velho,São Cristóvão,galpao,aluguel,18.9,9.7,23.8,5,,setembro/2026
