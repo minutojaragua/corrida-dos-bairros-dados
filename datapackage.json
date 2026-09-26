@@ -1,0 +1,2250 @@
+{
+  "profile": "tabular-data-package",
+  "name": "corrida-dos-bairros-dados",
+  "title": "A Corrida dos Bairros: mediana do preço pedido por m² por bairro",
+  "description": "Mediana do preço pedido por m² em cada bairro de 109 cidades brasileiras, calculada todo mês a partir de anúncios públicos de portais e sites de imobiliárias. Traz também o percentil 25, o percentil 75, o número de anúncios válidos e o rendimento bruto do aluguel por bairro, tipo de imóvel e modo (venda ou aluguel). São preços pedidos em anúncios, não preços de transação; não é avaliação de imóvel nem recomendação de investimento. Um projeto do Minuto Jaraguá.",
+  "version": "2026.09",
+  "created": "2026-09-01T00:00:00Z",
+  "homepage": "https://acorridadosbairros.com.br",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Atribuição 4.0 Internacional",
+      "path": "https://creativecommons.org/licenses/by/4.0/legalcode.pt"
+    }
+  ],
+  "sources": [
+    {
+      "title": "A Corrida dos Bairros — Minuto Jaraguá",
+      "path": "https://acorridadosbairros.com.br"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Minuto Jaraguá",
+      "role": "author",
+      "email": "minutojaragua@gmail.com"
+    }
+  ],
+  "keywords": [
+    "mercado imobiliário",
+    "preço do metro quadrado",
+    "bairros",
+    "brasil",
+    "dados abertos",
+    "real estate",
+    "price per square meter",
+    "neighborhoods",
+    "brazil",
+    "open data"
+  ],
+  "resources": [
+    {
+      "name": "dados-atual-brasil",
+      "title": "Edição corrente — Brasil, todas as cidades (setembro/2026)",
+      "description": "A edição corrente (todas as 109 cidades num arquivo só), a mesma publicada no site.",
+      "path": "dados/atual/dados-brasil.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "cidade_id",
+            "type": "string",
+            "description": "Identificador da cidade (slug), igual ao nome do arquivo em dados/mensal/ (ex.: 'sao-jose-do-rio-preto.csv' -> 'sao-jose-do-rio-preto'). Campo inferido dos dados, não documentado explicitamente na metodologia.",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "cidade",
+            "type": "string",
+            "description": "Nome do município.",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "bairro",
+            "type": "string",
+            "description": "Nome do bairro, como publicado no site. Pode conter vírgula, parênteses ou variações de grafia (ver ERRATAS.md para unificações).",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "tipo",
+            "type": "string",
+            "description": "Tipo de imóvel.",
+            "constraints": {
+              "required": true,
+              "enum": [
+                "apartamento",
+                "casa",
+                "terreno",
+                "sala",
+                "galpao"
+              ]
+            }
+          },
+          {
+            "name": "modo",
+            "type": "string",
+            "description": "Modo do anúncio.",
+            "constraints": {
+              "required": true,
+              "enum": [
+                "venda",
+                "aluguel"
+              ]
+            }
+          },
+          {
+            "name": "mediana_rs_m2",
+            "type": "number",
+            "decimalChar": ".",
+            "description": "Mediana do preço pedido por m² (R$), sobre os anúncios válidos do bairro/tipo/modo na edição. Preço pedido em anúncio, não preço de transação.",
+            "constraints": {
+              "required": true,
+              "minimum": 0
+            }
+          },
+          {
+            "name": "p25",
+            "type": "number",
+            "decimalChar": ".",
+            "description": "Percentil 25 do preço pedido por m² (R$): 25% dos anúncios pedem menos que esse valor.",
+            "constraints": {
+              "required": true,
+              "minimum": 0
+            }
+          },
+          {
+            "name": "p75",
+            "type": "number",
+            "decimalChar": ".",
+            "description": "Percentil 75 do preço pedido por m² (R$): 75% dos anúncios pedem menos que esse valor.",
+            "constraints": {
+              "required": true,
+              "minimum": 0
+            }
+          },
+          {
+            "name": "n_anuncios",
+            "type": "integer",
+            "description": "Número de anúncios válidos usados no cálculo. Bairros com menos de 5 anúncios não recebem mediana e não aparecem no arquivo (corte mínimo da metodologia).",
+            "constraints": {
+              "required": true,
+              "minimum": 5
+            }
+          },
+          {
+            "name": "yield_anual_pct",
+            "type": "number",
+            "decimalChar": ".",
+            "description": "Rendimento bruto anual do aluguel (%): aluguel mediano anualizado dividido pelo preço mediano de venda do mesmo bairro/tipo, sem descontar condomínio, IPTU, vacância, manutenção ou imposto de renda. Vazio quando não há par venda/aluguel suficiente para o cálculo (critério mínimo exato não documentado na metodologia — a confirmar).",
+            "constraints": {
+              "minimum": 0
+            }
+          },
+          {
+            "name": "coleta",
+            "type": "string",
+            "description": "Mês da edição/coleta, em português, no formato 'mês/ano' (ex.: 'setembro/2026'). Modelado como string, não como yearmonth, porque o mês vem por extenso em português e não em formato ISO.",
+            "constraints": {
+              "required": true
+            }
+          }
+        ],
+        "primaryKey": [
+          "cidade_id",
+          "bairro",
+          "tipo",
+          "modo"
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "mensal-2026-08-corupa",
+      "title": "Corupá — edição agosto/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Corupá, edição agosto/2026.",
+      "path": "dados/mensal/2026-08/corupa.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-08-guaramirim",
+      "title": "Guaramirim — edição agosto/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Guaramirim, edição agosto/2026.",
+      "path": "dados/mensal/2026-08/guaramirim.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-08-jaragua-do-sul",
+      "title": "Jaraguá do Sul — edição agosto/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Jaraguá do Sul, edição agosto/2026.",
+      "path": "dados/mensal/2026-08/jaragua-do-sul.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-08-joinville",
+      "title": "Joinville — edição agosto/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Joinville, edição agosto/2026.",
+      "path": "dados/mensal/2026-08/joinville.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-08-massaranduba",
+      "title": "Massaranduba — edição agosto/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Massaranduba, edição agosto/2026.",
+      "path": "dados/mensal/2026-08/massaranduba.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-08-schroeder",
+      "title": "Schroeder — edição agosto/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Schroeder, edição agosto/2026.",
+      "path": "dados/mensal/2026-08/schroeder.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-ananindeua",
+      "title": "Ananindeua — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Ananindeua, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/ananindeua.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-aparecida-de-goiania",
+      "title": "Aparecida de Goiânia — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Aparecida de Goiânia, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/aparecida-de-goiania.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-aquiraz",
+      "title": "Aquiraz — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Aquiraz, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/aquiraz.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-aracaju",
+      "title": "Aracaju — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Aracaju, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/aracaju.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-araquari",
+      "title": "Araquari — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Araquari, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/araquari.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-aruja",
+      "title": "Arujá — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Arujá, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/aruja.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-atibaia",
+      "title": "Atibaia — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Atibaia, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/atibaia.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-balneario-camboriu",
+      "title": "Balneário Camboriú — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Balneário Camboriú, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/balneario-camboriu.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-balneario-picarras",
+      "title": "Balneário Piçarras — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Balneário Piçarras, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/balneario-picarras.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-barra-dos-coqueiros",
+      "title": "Barra dos Coqueiros — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Barra dos Coqueiros, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/barra-dos-coqueiros.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-barra-velha",
+      "title": "Barra Velha — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Barra Velha, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/barra-velha.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-belem",
+      "title": "Belém — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Belém, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/belem.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-belford-roxo",
+      "title": "Belford Roxo — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Belford Roxo, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/belford-roxo.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-belo-horizonte",
+      "title": "Belo Horizonte — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Belo Horizonte, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/belo-horizonte.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-biguacu",
+      "title": "Biguaçu — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Biguaçu, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/biguacu.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-blumenau",
+      "title": "Blumenau — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Blumenau, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/blumenau.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-boa-vista",
+      "title": "Boa Vista — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Boa Vista, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/boa-vista.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-brasilia",
+      "title": "Brasília — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Brasília, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/brasilia.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-brusque",
+      "title": "Brusque — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Brusque, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/brusque.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-cabedelo",
+      "title": "Cabedelo — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Cabedelo, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/cabedelo.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-cacapava",
+      "title": "Caçapava — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Caçapava, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/cacapava.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-cachoeirinha",
+      "title": "Cachoeirinha — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Cachoeirinha, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/cachoeirinha.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-camacari",
+      "title": "Camaçari — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Camaçari, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/camacari.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-campinas",
+      "title": "Campinas — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Campinas, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/campinas.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-campo-bom",
+      "title": "Campo Bom — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Campo Bom, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/campo-bom.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-campo-grande",
+      "title": "Campo Grande — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Campo Grande, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/campo-grande.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-canoas",
+      "title": "Canoas — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Canoas, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/canoas.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-cascavel",
+      "title": "Cascavel — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Cascavel, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/cascavel.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-caucaia",
+      "title": "Caucaia — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Caucaia, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/caucaia.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-chapada-dos-guimaraes",
+      "title": "Chapada dos Guimarães — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Chapada dos Guimarães, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/chapada-dos-guimaraes.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-chapeco",
+      "title": "Chapecó — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Chapecó, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/chapeco.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-corupa",
+      "title": "Corupá — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Corupá, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/corupa.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-criciuma",
+      "title": "Criciúma — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Criciúma, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/criciuma.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-cuiaba",
+      "title": "Cuiabá — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Cuiabá, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/cuiaba.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-curitiba",
+      "title": "Curitiba — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Curitiba, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/curitiba.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-duque-de-caxias",
+      "title": "Duque de Caxias — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Duque de Caxias, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/duque-de-caxias.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-estancia-velha",
+      "title": "Estância Velha — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Estância Velha, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/estancia-velha.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-eusebio",
+      "title": "Eusébio — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Eusébio, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/eusebio.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-florianopolis",
+      "title": "Florianópolis — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Florianópolis, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/florianopolis.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-fortaleza",
+      "title": "Fortaleza — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Fortaleza, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/fortaleza.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-goiania",
+      "title": "Goiânia — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Goiânia, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/goiania.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-gravatai",
+      "title": "Gravataí — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Gravataí, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/gravatai.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-guabiruba",
+      "title": "Guabiruba — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Guabiruba, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/guabiruba.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-guaramirim",
+      "title": "Guaramirim — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Guaramirim, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/guaramirim.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-guarulhos",
+      "title": "Guarulhos — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Guarulhos, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/guarulhos.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-ipojuca",
+      "title": "Ipojuca — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Ipojuca, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/ipojuca.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-itajai",
+      "title": "Itajaí — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Itajaí, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/itajai.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-itapema",
+      "title": "Itapema — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Itapema, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/itapema.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-itapoa",
+      "title": "Itapoá — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Itapoá, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/itapoa.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-jaboatao-dos-guararapes",
+      "title": "Jaboatão dos Guararapes — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Jaboatão dos Guararapes, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/jaboatao-dos-guararapes.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-jacarei",
+      "title": "Jacareí — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Jacareí, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/jacarei.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-jaragua-do-sul",
+      "title": "Jaraguá do Sul — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Jaraguá do Sul, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/jaragua-do-sul.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-joao-pessoa",
+      "title": "João Pessoa — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em João Pessoa, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/joao-pessoa.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-joinville",
+      "title": "Joinville — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Joinville, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/joinville.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-jundiai",
+      "title": "Jundiaí — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Jundiaí, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/jundiai.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-lages",
+      "title": "Lages — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Lages, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/lages.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-lauro-de-freitas",
+      "title": "Lauro de Freitas — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Lauro de Freitas, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/lauro-de-freitas.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-limeira",
+      "title": "Limeira — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Limeira, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/limeira.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-macapa",
+      "title": "Macapá — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Macapá, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/macapa.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-maceio",
+      "title": "Maceió — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Maceió, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/maceio.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-manaus",
+      "title": "Manaus — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Manaus, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/manaus.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-marechal-deodoro",
+      "title": "Marechal Deodoro — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Marechal Deodoro, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/marechal-deodoro.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-marica",
+      "title": "Maricá — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Maricá, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/marica.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-massaranduba",
+      "title": "Massaranduba — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Massaranduba, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/massaranduba.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-mesquita",
+      "title": "Mesquita — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Mesquita, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/mesquita.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-mirassol",
+      "title": "Mirassol — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Mirassol, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/mirassol.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-natal",
+      "title": "Natal — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Natal, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/natal.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-navegantes",
+      "title": "Navegantes — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Navegantes, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/navegantes.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-niteroi",
+      "title": "Niterói — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Niterói, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/niteroi.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-nova-iguacu",
+      "title": "Nova Iguaçu — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Nova Iguaçu, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/nova-iguacu.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-nova-santa-rita",
+      "title": "Nova Santa Rita — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Nova Santa Rita, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/nova-santa-rita.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-novo-hamburgo",
+      "title": "Novo Hamburgo — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Novo Hamburgo, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/novo-hamburgo.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-palhoca",
+      "title": "Palhoça — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Palhoça, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/palhoca.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-palmas",
+      "title": "Palmas — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Palmas, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/palmas.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-parnamirim",
+      "title": "Parnamirim — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Parnamirim, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/parnamirim.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-penha",
+      "title": "Penha — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Penha, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/penha.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-piracicaba",
+      "title": "Piracicaba — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Piracicaba, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/piracicaba.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-pomerode",
+      "title": "Pomerode — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Pomerode, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/pomerode.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-ponta-grossa",
+      "title": "Ponta Grossa — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Ponta Grossa, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/ponta-grossa.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-porto-alegre",
+      "title": "Porto Alegre — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Porto Alegre, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/porto-alegre.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-porto-belo",
+      "title": "Porto Belo — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Porto Belo, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/porto-belo.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-porto-velho",
+      "title": "Porto Velho — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Porto Velho, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/porto-velho.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-recife",
+      "title": "Recife — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Recife, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/recife.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-rio-branco",
+      "title": "Rio Branco — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Rio Branco, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/rio-branco.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-rio-de-janeiro",
+      "title": "Rio de Janeiro — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Rio de Janeiro, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/rio-de-janeiro.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-salvador",
+      "title": "Salvador — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Salvador, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/salvador.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-santo-andre",
+      "title": "Santo André — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Santo André, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/santo-andre.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-santos",
+      "title": "Santos — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Santos, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/santos.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-sao-bento-do-sul",
+      "title": "São Bento do Sul — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em São Bento do Sul, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/sao-bento-do-sul.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-sao-bernardo-do-campo",
+      "title": "São Bernardo do Campo — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em São Bernardo do Campo, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/sao-bernardo-do-campo.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-sao-caetano-do-sul",
+      "title": "São Caetano do Sul — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em São Caetano do Sul, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/sao-caetano-do-sul.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-sao-francisco-do-sul",
+      "title": "São Francisco do Sul — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em São Francisco do Sul, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/sao-francisco-do-sul.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-sao-goncalo",
+      "title": "São Gonçalo — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em São Gonçalo, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/sao-goncalo.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-sao-jose-do-rio-preto",
+      "title": "São José do Rio Preto — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em São José do Rio Preto, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/sao-jose-do-rio-preto.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-sao-jose-dos-campos",
+      "title": "São José dos Campos — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em São José dos Campos, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/sao-jose-dos-campos.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-sao-jose",
+      "title": "São José — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em São José, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/sao-jose.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-sao-luis",
+      "title": "São Luís — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em São Luís, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/sao-luis.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-sao-paulo",
+      "title": "São Paulo — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em São Paulo, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/sao-paulo.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-schroeder",
+      "title": "Schroeder — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Schroeder, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/schroeder.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-senador-canedo",
+      "title": "Senador Canedo — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Senador Canedo, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/senador-canedo.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-serra",
+      "title": "Serra — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Serra, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/serra.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-teresina",
+      "title": "Teresina — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Teresina, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/teresina.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-timon",
+      "title": "Timon — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Timon, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/timon.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-ubatuba",
+      "title": "Ubatuba — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Ubatuba, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/ubatuba.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-uberaba",
+      "title": "Uberaba — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Uberaba, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/uberaba.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-varzea-grande",
+      "title": "Várzea Grande — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Várzea Grande, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/varzea-grande.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-viamao",
+      "title": "Viamão — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Viamão, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/viamao.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-vila-velha",
+      "title": "Vila Velha — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Vila Velha, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/vila-velha.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    },
+    {
+      "name": "mensal-2026-09-vitoria",
+      "title": "Vitória — edição setembro/2026",
+      "description": "Medianas de preço pedido por m² por bairro em Vitória, edição setembro/2026.",
+      "path": "dados/mensal/2026-09/vitoria.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\"",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "header": true
+      },
+      "schema": "ferramentas/schemas/esquema-mensal.json"
+    }
+  ]
+}
