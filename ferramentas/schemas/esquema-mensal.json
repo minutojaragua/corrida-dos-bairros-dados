@@ -1,0 +1,111 @@
+{
+  "fields": [
+    {
+      "name": "cidade",
+      "type": "string",
+      "description": "Nome do município.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "bairro",
+      "type": "string",
+      "description": "Nome do bairro, como publicado no site. Pode conter vírgula, parênteses ou variações de grafia (ver ERRATAS.md para unificações).",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "tipo",
+      "type": "string",
+      "description": "Tipo de imóvel.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "apartamento",
+          "casa",
+          "terreno",
+          "sala",
+          "galpao"
+        ]
+      }
+    },
+    {
+      "name": "modo",
+      "type": "string",
+      "description": "Modo do anúncio.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "venda",
+          "aluguel"
+        ]
+      }
+    },
+    {
+      "name": "mediana_rs_m2",
+      "type": "number",
+      "decimalChar": ".",
+      "description": "Mediana do preço pedido por m² (R$), sobre os anúncios válidos do bairro/tipo/modo na edição. Preço pedido em anúncio, não preço de transação.",
+      "constraints": {
+        "required": true,
+        "minimum": 0
+      }
+    },
+    {
+      "name": "p25",
+      "type": "number",
+      "decimalChar": ".",
+      "description": "Percentil 25 do preço pedido por m² (R$): 25% dos anúncios pedem menos que esse valor.",
+      "constraints": {
+        "required": true,
+        "minimum": 0
+      }
+    },
+    {
+      "name": "p75",
+      "type": "number",
+      "decimalChar": ".",
+      "description": "Percentil 75 do preço pedido por m² (R$): 75% dos anúncios pedem menos que esse valor.",
+      "constraints": {
+        "required": true,
+        "minimum": 0
+      }
+    },
+    {
+      "name": "n_anuncios",
+      "type": "integer",
+      "description": "Número de anúncios válidos usados no cálculo. Bairros com menos de 5 anúncios não recebem mediana e não aparecem no arquivo (corte mínimo da metodologia).",
+      "constraints": {
+        "required": true,
+        "minimum": 5
+      }
+    },
+    {
+      "name": "yield_anual_pct",
+      "type": "number",
+      "decimalChar": ".",
+      "description": "Rendimento bruto anual do aluguel (%): aluguel mediano anualizado dividido pelo preço mediano de venda do mesmo bairro/tipo, sem descontar condomínio, IPTU, vacância, manutenção ou imposto de renda. Vazio quando não há par venda/aluguel suficiente para o cálculo (critério mínimo exato não documentado na metodologia — a confirmar).",
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "coleta",
+      "type": "string",
+      "description": "Mês da edição/coleta, em português, no formato 'mês/ano' (ex.: 'setembro/2026'). Modelado como string, não como yearmonth, porque o mês vem por extenso em português e não em formato ISO.",
+      "constraints": {
+        "required": true
+      }
+    }
+  ],
+  "primaryKey": [
+    "bairro",
+    "tipo",
+    "modo"
+  ],
+  "missingValues": [
+    ""
+  ]
+}
