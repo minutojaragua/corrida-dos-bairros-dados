@@ -35,3 +35,13 @@ Os valores são **preços pedidos em anúncios**, não preços de transação. N
 ## Retirada de fonte
 
 Portal ou imobiliária que não queira ter os anúncios públicos lidos escreve para minutojaragua@gmail.com e sai na rodada seguinte, com registro em `ERRATAS.md`.
+
+## Descrição legível por máquina
+
+O arquivo `datapackage.json`, na raiz, descreve todos os CSVs de `dados/` no
+padrão [Frictionless Data Package](https://specs.frictionlessdata.io/data-package/):
+nome e tipo de cada campo, unidade, valores possíveis e chave de cada
+tabela. É o que Google Dataset Search, Zenodo e ferramentas de dados e IA
+leem para entender o conjunto sem precisar deste README. Ele é gerado por
+`ferramentas/gera_datapackage.py`; depois de uma edição mensal nova, rode
+`python3.12 ferramentas/gera_datapackage.py` para regravá-lo.
