@@ -1,0 +1,43 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Ubatuba,Acarau,apartamento,venda,10937.5,9121.2,12773.0,19,,outubro/2026
+Ubatuba,Barra da Lagoa,apartamento,venda,8980.0,6666.7,9900.0,9,,outubro/2026
+Ubatuba,Centro,apartamento,venda,9928.6,8225.8,12000.0,41,7.02,outubro/2026
+Ubatuba,Centro,apartamento,aluguel,58.1,46.3,63.8,6,7.02,outubro/2026
+Ubatuba,Estufa I,apartamento,aluguel,38.1,35.3,39.6,7,,outubro/2026
+Ubatuba,Itaguá,apartamento,venda,10099.2,8273.1,11806.5,124,4.71,outubro/2026
+Ubatuba,Itaguá,apartamento,aluguel,39.6,28.2,51.6,6,4.71,outubro/2026
+Ubatuba,Jardim Carolina,apartamento,venda,9068.9,9068.9,9185.8,10,,outubro/2026
+Ubatuba,Lagoinha,apartamento,venda,9318.2,8571.4,10241.0,5,,outubro/2026
+Ubatuba,Maranduba,apartamento,venda,6470.6,5718.4,8421.5,30,,outubro/2026
+Ubatuba,Perequê-Açu,apartamento,venda,9152.6,8132.4,10000.0,18,,outubro/2026
+Ubatuba,Perequê-Mirim,apartamento,venda,7446.8,6988.0,8454.5,9,,outubro/2026
+Ubatuba,Praia das Toninhas,apartamento,venda,12821.4,9408.2,14843.8,12,5.15,outubro/2026
+Ubatuba,Praia das Toninhas,apartamento,aluguel,55.0,44.3,80.0,5,5.15,outubro/2026
+Ubatuba,Praia de Itaguá,apartamento,venda,11998.3,10112.0,12904.5,11,,outubro/2026
+Ubatuba,Praia do Sapê,apartamento,venda,8504.8,6270.8,11183.3,12,,outubro/2026
+Ubatuba,Praia do Tenório,apartamento,venda,13219.2,10750.5,14128.1,5,,outubro/2026
+Ubatuba,Praia Grande,apartamento,venda,11042.9,8780.0,13285.7,65,,outubro/2026
+Ubatuba,Praia Maranduba,apartamento,venda,7332.0,6375.9,7962.5,8,,outubro/2026
+Ubatuba,Saco da Ribeira,apartamento,venda,6601.6,5882.5,11895.9,12,,outubro/2026
+Ubatuba,Sapé,apartamento,venda,6581.1,6251.9,7782.2,6,,outubro/2026
+Ubatuba,Tenório,apartamento,venda,8788.1,8201.2,9165.9,6,,outubro/2026
+Ubatuba,Toninhas,apartamento,venda,11023.2,8616.2,12761.0,66,5.62,outubro/2026
+Ubatuba,Toninhas,apartamento,aluguel,51.6,38.0,84.0,7,5.62,outubro/2026
+Ubatuba,Umuarama,apartamento,venda,7951.7,7545.3,8836.4,6,,outubro/2026
+Ubatuba,Centro,casa,venda,4933.4,3975.5,6500.0,13,,outubro/2026
+Ubatuba,Enseada,casa,venda,5263.2,3378.8,6265.1,5,,outubro/2026
+Ubatuba,Horto Florestal,casa,venda,7619.0,5714.3,7833.3,17,,outubro/2026
+Ubatuba,Itaguá,casa,venda,9000.0,6666.7,11333.3,13,,outubro/2026
+Ubatuba,Lagoinha,casa,venda,8490.7,7361.9,12165.9,24,,outubro/2026
+Ubatuba,Maranduba,casa,venda,5512.2,4586.5,6722.6,16,,outubro/2026
+Ubatuba,Pedra Verde (Domingas Dias),casa,venda,12407.8,9000.0,13599.0,7,,outubro/2026
+Ubatuba,Perequê-Açu,casa,venda,6426.0,5111.7,7550.8,18,,outubro/2026
+Ubatuba,Perequê-Mirim,casa,venda,5263.2,4487.2,5555.6,5,,outubro/2026
+Ubatuba,Praia do Itamambuca,casa,venda,7964.9,5008.1,12556.8,6,,outubro/2026
+Ubatuba,Praia do Sapê,casa,venda,7125.0,4595.9,17233.8,6,,outubro/2026
+Ubatuba,Praia Dura,casa,venda,8000.0,4955.4,11098.0,15,,outubro/2026
+Ubatuba,Praia Grande,casa,venda,10000.0,8922.2,11904.8,5,,outubro/2026
+Ubatuba,Toninhas,casa,venda,6503.1,5525.6,8409.5,15,,outubro/2026
+Ubatuba,Ubatumirim,casa,venda,4664.8,4148.4,6638.9,7,,outubro/2026
+Ubatuba,Ubatumirim,terreno,venda,466.4,187.5,944.4,5,,outubro/2026
+Ubatuba,Centro,sala,aluguel,70.0,64.0,90.9,9,,outubro/2026

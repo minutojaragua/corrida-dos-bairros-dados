@@ -1,0 +1,121 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Santos,Aparecida,apartamento,venda,9287.3,6250.0,12782.5,235,7.39,outubro/2026
+Santos,Aparecida,apartamento,aluguel,57.2,47.2,80.7,92,7.39,outubro/2026
+Santos,Areia Branca,apartamento,venda,6644.4,6235.6,7772.9,5,,outubro/2026
+Santos,Boqueirão,apartamento,venda,9861.8,7070.2,13174.2,424,7.68,outubro/2026
+Santos,Boqueirão,apartamento,aluguel,63.1,46.4,83.8,166,7.68,outubro/2026
+Santos,Campo Grande,apartamento,venda,6445.8,5343.8,8860.0,119,9.49,outubro/2026
+Santos,Campo Grande,apartamento,aluguel,51.0,37.8,67.7,38,9.49,outubro/2026
+Santos,Castelo,apartamento,venda,4200.0,4042.6,5333.3,5,,outubro/2026
+Santos,Embaré,apartamento,venda,9019.8,6769.2,12890.6,269,7.73,outubro/2026
+Santos,Embaré,apartamento,aluguel,58.1,45.0,79.9,95,7.73,outubro/2026
+Santos,Encruzilhada,apartamento,venda,6375.0,4843.1,8707.9,63,12.39,outubro/2026
+Santos,Encruzilhada,apartamento,aluguel,65.8,55.9,70.8,18,12.39,outubro/2026
+Santos,Estuário,apartamento,venda,9375.0,5782.6,10000.0,37,8.86,outubro/2026
+Santos,Estuário,apartamento,aluguel,69.2,51.1,73.3,9,8.86,outubro/2026
+Santos,Gonzaga,apartamento,venda,9166.7,6569.3,13069.2,409,9.09,outubro/2026
+Santos,Gonzaga,apartamento,aluguel,69.4,50.6,88.6,167,9.09,outubro/2026
+Santos,Jabaquara,apartamento,venda,8641.1,4782.6,9285.7,5,,outubro/2026
+Santos,José Menino,apartamento,venda,8214.3,6188.2,12136.3,227,8.44,outubro/2026
+Santos,José Menino,apartamento,aluguel,57.8,48.5,75.0,73,8.44,outubro/2026
+Santos,Macuco,apartamento,venda,8224.1,5844.2,9845.9,69,9.67,outubro/2026
+Santos,Macuco,apartamento,aluguel,66.3,35.6,86.0,24,9.67,outubro/2026
+Santos,Marapé,apartamento,venda,7200.0,5529.8,9621.4,139,9.63,outubro/2026
+Santos,Marapé,apartamento,aluguel,57.8,43.7,69.8,43,9.63,outubro/2026
+Santos,Morro de Nova Cintra,apartamento,venda,6633.3,6101.2,7508.2,16,,outubro/2026
+Santos,Pompéia,apartamento,venda,8250.0,6784.4,11438.6,159,9.89,outubro/2026
+Santos,Pompéia,apartamento,aluguel,68.0,54.2,87.5,45,9.89,outubro/2026
+Santos,Ponta da Praia,apartamento,venda,10000.0,7125.4,13811.2,255,7.22,outubro/2026
+Santos,Ponta da Praia,apartamento,aluguel,60.2,48.4,73.6,92,7.22,outubro/2026
+Santos,Saboó,apartamento,venda,4307.7,3951.6,5192.3,5,,outubro/2026
+Santos,Vila Belmiro,apartamento,venda,6396.1,5333.3,9286.8,44,9.46,outubro/2026
+Santos,Vila Belmiro,apartamento,aluguel,50.4,38.3,74.1,14,9.46,outubro/2026
+Santos,Vila Matias,apartamento,venda,5689.5,4762.2,7742.9,64,12.02,outubro/2026
+Santos,Vila Matias,apartamento,aluguel,57.0,42.2,70.2,32,12.02,outubro/2026
+Santos,Vila Rica,apartamento,venda,11151.5,7978.8,13902.6,23,,outubro/2026
+Santos,Aparecida,casa,venda,8295.9,6435.3,9694.3,78,7.22,outubro/2026
+Santos,Aparecida,casa,aluguel,49.9,40.0,57.1,22,7.22,outubro/2026
+Santos,Areia Branca,casa,venda,4928.8,4319.8,6097.5,10,,outubro/2026
+Santos,Bom Retiro,casa,venda,3030.3,2578.2,3854.1,11,,outubro/2026
+Santos,Boqueirão,casa,venda,7180.3,6408.2,8535.0,71,8.41,outubro/2026
+Santos,Boqueirão,casa,aluguel,50.3,35.4,71.4,25,8.41,outubro/2026
+Santos,Campo Grande,casa,venda,6802.8,5767.1,8410.6,74,9.03,outubro/2026
+Santos,Campo Grande,casa,aluguel,51.2,45.4,70.6,24,9.03,outubro/2026
+Santos,Caneleira,casa,venda,3037.5,2495.6,3990.0,5,,outubro/2026
+Santos,Castelo,casa,venda,3140.6,2843.8,3798.6,18,,outubro/2026
+Santos,Embaré,casa,venda,8095.2,6365.2,9845.2,99,7.09,outubro/2026
+Santos,Embaré,casa,aluguel,47.8,38.0,55.6,38,7.09,outubro/2026
+Santos,Encruzilhada,casa,venda,5387.9,4772.7,8425.0,25,10.65,outubro/2026
+Santos,Encruzilhada,casa,aluguel,47.8,32.4,65.5,6,10.65,outubro/2026
+Santos,Estuário,casa,venda,5830.0,5070.3,6583.2,31,13.03,outubro/2026
+Santos,Estuário,casa,aluguel,63.3,49.7,69.6,12,13.03,outubro/2026
+Santos,Gonzaga,casa,venda,9933.3,7446.2,10565.1,23,6.41,outubro/2026
+Santos,Gonzaga,casa,aluguel,53.1,45.0,75.0,49,6.41,outubro/2026
+Santos,José Menino,casa,venda,7865.9,6488.5,8953.2,15,7.11,outubro/2026
+Santos,José Menino,casa,aluguel,46.6,43.6,49.8,6,7.11,outubro/2026
+Santos,Macuco,casa,venda,5334.1,4267.3,6285.3,40,8.44,outubro/2026
+Santos,Macuco,casa,aluguel,37.5,30.9,44.3,12,8.44,outubro/2026
+Santos,Marapé,casa,venda,6385.5,5151.9,8094.3,79,6.92,outubro/2026
+Santos,Marapé,casa,aluguel,36.8,29.9,42.6,20,6.92,outubro/2026
+Santos,Morro de Nova Cintra,casa,venda,5615.4,4621.1,6000.0,17,,outubro/2026
+Santos,Morro Santa Terezinha,casa,venda,12263.2,8838.4,16558.4,5,,outubro/2026
+Santos,Pompéia,casa,venda,6278.0,5472.4,7566.1,10,12.75,outubro/2026
+Santos,Pompéia,casa,aluguel,66.7,46.1,80.9,15,12.75,outubro/2026
+Santos,Ponta da Praia,casa,venda,9971.6,8301.1,11481.9,36,5.66,outubro/2026
+Santos,Ponta da Praia,casa,aluguel,47.0,39.1,57.3,32,5.66,outubro/2026
+Santos,Rádio Club,casa,venda,4302.4,2201.4,5944.6,6,,outubro/2026
+Santos,Rádio Clube,casa,venda,5821.3,4331.7,6500.0,8,,outubro/2026
+Santos,Santa Maria,casa,venda,3778.5,2828.1,4760.5,36,,outubro/2026
+Santos,São Jorge,casa,venda,3169.6,3000.0,3555.6,13,,outubro/2026
+Santos,Vila Belmiro,casa,venda,6409.7,4722.5,8363.0,42,6.8,outubro/2026
+Santos,Vila Belmiro,casa,aluguel,36.3,31.5,41.8,18,6.8,outubro/2026
+Santos,Vila Matias,casa,venda,5000.0,3953.1,6325.0,47,8.69,outubro/2026
+Santos,Vila Matias,casa,aluguel,36.2,28.5,44.9,16,8.69,outubro/2026
+Santos,Vila São Jorge,casa,venda,4590.6,4198.7,4941.9,5,,outubro/2026
+Santos,Aparecida,terreno,venda,4666.7,3907.5,5126.1,19,,outubro/2026
+Santos,Boqueirão,terreno,venda,4545.9,4305.6,5422.2,5,,outubro/2026
+Santos,Campo Grande,terreno,venda,3142.9,2887.3,5654.9,11,,outubro/2026
+Santos,Centro,terreno,venda,3177.3,2635.0,3595.9,6,,outubro/2026
+Santos,Encruzilhada,terreno,venda,3980.0,3600.0,4063.0,9,,outubro/2026
+Santos,Estuário,terreno,venda,2738.4,2070.3,3278.9,16,,outubro/2026
+Santos,José Menino,terreno,venda,8749.1,8192.2,11792.5,9,,outubro/2026
+Santos,Macuco,terreno,venda,3191.5,2610.8,4812.5,24,,outubro/2026
+Santos,Marapé,terreno,venda,3687.3,3000.0,4326.5,17,,outubro/2026
+Santos,Morro de Nova Cintra,terreno,venda,963.6,771.9,1710.4,10,,outubro/2026
+Santos,Paquetá,terreno,venda,2000.0,1653.5,2416.7,9,,outubro/2026
+Santos,Ponta da Praia,terreno,venda,3979.7,3487.2,4666.4,8,,outubro/2026
+Santos,Vila Belmiro,terreno,venda,3571.4,2884.6,4500.0,17,,outubro/2026
+Santos,Vila Matias,terreno,venda,3896.1,2885.7,5396.5,23,,outubro/2026
+Santos,Aparecida,sala,venda,5802.0,4825.1,9386.3,8,12.51,outubro/2026
+Santos,Aparecida,sala,aluguel,60.5,56.3,70.4,30,12.51,outubro/2026
+Santos,Boqueirão,sala,venda,7279.4,5574.5,11167.0,31,10.68,outubro/2026
+Santos,Boqueirão,sala,aluguel,64.8,49.4,91.5,26,10.68,outubro/2026
+Santos,Centro,sala,venda,3754.1,3061.2,5933.3,77,12.79,outubro/2026
+Santos,Centro,sala,aluguel,40.0,25.7,54.1,66,12.79,outubro/2026
+Santos,Embaré,sala,venda,5850.0,4091.5,6927.7,12,12.41,outubro/2026
+Santos,Embaré,sala,aluguel,60.5,52.8,74.8,14,12.41,outubro/2026
+Santos,Encruzilhada,sala,venda,7608.7,6730.8,8928.6,33,9.27,outubro/2026
+Santos,Encruzilhada,sala,aluguel,58.8,52.1,78.7,26,9.27,outubro/2026
+Santos,Gonzaga,sala,venda,7017.5,4578.8,10908.2,27,9.95,outubro/2026
+Santos,Gonzaga,sala,aluguel,58.2,42.9,81.6,27,9.95,outubro/2026
+Santos,Macuco,sala,venda,5444.4,5212.8,6511.6,13,,outubro/2026
+Santos,Marapé,sala,venda,8264.3,6229.1,8625.0,8,9.77,outubro/2026
+Santos,Marapé,sala,aluguel,67.3,57.3,80.4,11,9.77,outubro/2026
+Santos,Ponta da Praia,sala,venda,9899.4,9230.8,9900.0,13,9.84,outubro/2026
+Santos,Ponta da Praia,sala,aluguel,81.2,61.3,91.6,14,9.84,outubro/2026
+Santos,Valongo,sala,venda,6068.2,4337.0,7138.9,31,11.57,outubro/2026
+Santos,Valongo,sala,aluguel,58.5,47.7,71.6,24,11.57,outubro/2026
+Santos,Vila Belmiro,sala,venda,4487.2,4039.0,7422.9,7,14.33,outubro/2026
+Santos,Vila Belmiro,sala,aluguel,53.6,47.0,70.5,6,14.33,outubro/2026
+Santos,Vila Matias,sala,venda,6067.7,4831.6,7664.7,48,9.99,outubro/2026
+Santos,Vila Matias,sala,aluguel,50.5,42.9,68.0,67,9.99,outubro/2026
+Santos,Vila Nova,sala,venda,3583.3,2400.0,3951.8,9,10.31,outubro/2026
+Santos,Vila Nova,sala,aluguel,30.8,25.4,37.0,6,10.31,outubro/2026
+Santos,Centro,galpao,venda,3844.0,2875.2,5008.0,6,6.62,outubro/2026
+Santos,Centro,galpao,aluguel,21.2,18.7,23.3,5,6.62,outubro/2026
+Santos,Macuco,galpao,venda,3750.0,2941.2,6944.4,5,13.34,outubro/2026
+Santos,Macuco,galpao,aluguel,41.7,40.0,46.0,9,13.34,outubro/2026
+Santos,Paquetá,galpao,venda,5625.0,5454.5,6041.7,5,7.34,outubro/2026
+Santos,Paquetá,galpao,aluguel,34.4,23.5,35.4,5,7.34,outubro/2026
+Santos,Vila Matias,galpao,venda,5625.0,4344.2,6782.8,7,8.43,outubro/2026
+Santos,Vila Matias,galpao,aluguel,39.5,35.5,43.4,6,8.43,outubro/2026

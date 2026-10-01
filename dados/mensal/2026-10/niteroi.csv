@@ -1,0 +1,79 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Niterói,Badu,casa,venda,4230.8,3130.6,5591.6,35,,outubro/2026
+Niterói,Baldeador,casa,venda,2761.9,2029.1,3106.0,10,,outubro/2026
+Niterói,Barreto,casa,venda,3258.4,2550.0,4043.8,11,,outubro/2026
+Niterói,Cafubá,casa,venda,5164.3,3193.5,6719.4,9,,outubro/2026
+Niterói,Camboinhas,casa,venda,9128.8,7644.0,12457.4,68,,outubro/2026
+Niterói,Centro,casa,venda,3418.1,2679.2,4338.4,10,,outubro/2026
+Niterói,Charitas,casa,venda,5347.6,4950.0,6000.0,9,,outubro/2026
+Niterói,Engenho do Mato,casa,venda,4600.0,3717.9,6185.6,55,,outubro/2026
+Niterói,Fonseca,casa,venda,3319.3,2146.8,4410.8,38,,outubro/2026
+Niterói,Icaraí,casa,venda,6750.0,5626.3,9150.0,11,,outubro/2026
+Niterói,Ingá,casa,venda,9164.3,6781.6,10446.4,10,,outubro/2026
+Niterói,Itacoatiara,casa,venda,6441.9,5182.4,9554.6,32,,outubro/2026
+Niterói,Itaipu,casa,venda,5338.4,3986.2,6758.3,286,,outubro/2026
+Niterói,Largo do Barradas,casa,venda,3773.6,3400.0,4333.3,5,,outubro/2026
+Niterói,Maravista,casa,venda,5000.0,4000.0,6030.5,69,,outubro/2026
+Niterói,Maria Paula,casa,venda,3437.5,2777.8,4220.8,33,,outubro/2026
+Niterói,Mata Paca,casa,venda,4268.2,3736.0,5247.2,26,,outubro/2026
+Niterói,Pendotiba,casa,venda,4000.0,3000.0,5103.7,33,,outubro/2026
+Niterói,Piratininga,casa,venda,5531.9,4345.6,7070.1,163,,outubro/2026
+Niterói,Rio do Ouro,casa,venda,3750.0,3107.1,4437.0,11,,outubro/2026
+Niterói,Santa Rosa,casa,venda,3920.0,2689.9,5676.9,27,,outubro/2026
+Niterói,Santo Antônio,casa,venda,6049.8,4616.7,7316.2,12,,outubro/2026
+Niterói,São Francisco,casa,venda,6459.3,4697.4,8000.0,72,,outubro/2026
+Niterói,Sape,casa,venda,3744.2,3214.3,4453.8,29,,outubro/2026
+Niterói,Serra Grande,casa,venda,5000.0,3838.5,5958.3,74,,outubro/2026
+Niterói,Várzea das Moças,casa,venda,4045.0,3038.4,5314.8,43,,outubro/2026
+Niterói,Vila Progresso,casa,venda,3939.3,3047.0,4812.1,30,,outubro/2026
+Niterói,Badu,apartamento,venda,5714.3,5285.7,7105.3,25,,outubro/2026
+Niterói,Barreto,apartamento,venda,5687.5,4800.0,6538.5,41,,outubro/2026
+Niterói,Boa Viagem,apartamento,venda,8457.6,7267.1,12670.9,23,,outubro/2026
+Niterói,Camboinhas,apartamento,venda,13025.7,10853.5,16529.5,44,,outubro/2026
+Niterói,Centro,apartamento,venda,5736.8,4540.2,7539.9,70,,outubro/2026
+Niterói,Charitas,apartamento,venda,11375.0,10210.5,12777.8,41,,outubro/2026
+Niterói,Engenho do Mato,apartamento,venda,6475.0,5406.9,6666.7,9,,outubro/2026
+Niterói,Fátima,apartamento,venda,5954.5,5000.0,6718.8,9,,outubro/2026
+Niterói,Fonseca,apartamento,venda,3989.8,3255.7,4822.2,98,,outubro/2026
+Niterói,Gragoatá,apartamento,venda,11266.7,9929.9,12203.3,7,,outubro/2026
+Niterói,Icaraí,apartamento,venda,8652.6,6744.6,11347.6,410,,outubro/2026
+Niterói,Ingá,apartamento,venda,7412.5,6033.6,9020.4,96,,outubro/2026
+Niterói,Itacoatiara,apartamento,venda,9323.9,8670.1,11316.7,20,,outubro/2026
+Niterói,Itaipu,apartamento,venda,6849.7,5208.8,8481.2,42,,outubro/2026
+Niterói,Jardim Icaraí,apartamento,venda,8881.5,7072.9,10504.6,14,,outubro/2026
+Niterói,Largo da Batalha,apartamento,venda,6769.2,5500.0,7435.5,7,,outubro/2026
+Niterói,Largo do Barradas,apartamento,venda,4338.2,3692.3,4578.3,13,,outubro/2026
+Niterói,Maceió,apartamento,venda,5559.5,4966.3,6250.0,14,,outubro/2026
+Niterói,Maria Paula,apartamento,venda,4983.9,3979.5,5638.9,22,,outubro/2026
+Niterói,Pendotiba,apartamento,venda,6183.9,5900.0,6725.2,8,,outubro/2026
+Niterói,Piratininga,apartamento,venda,10767.1,9038.7,12727.3,97,,outubro/2026
+Niterói,Praia de Piratininga,apartamento,venda,10650.2,10210.3,13217.4,8,,outubro/2026
+Niterói,Rio do Ouro,apartamento,venda,2650.8,2509.9,4725.9,14,,outubro/2026
+Niterói,Santa Bárbara,apartamento,venda,3000.0,2696.9,3529.4,7,,outubro/2026
+Niterói,Santa Rosa,apartamento,venda,7281.2,5128.2,8823.5,113,,outubro/2026
+Niterói,Santana,apartamento,venda,4000.0,3538.5,4061.5,5,,outubro/2026
+Niterói,São Domingos,apartamento,venda,6154.5,5720.4,6904.1,11,,outubro/2026
+Niterói,São Francisco,apartamento,venda,9851.1,8437.5,11510.6,45,,outubro/2026
+Niterói,São Lourenço,apartamento,venda,4307.7,4000.0,6521.7,5,,outubro/2026
+Niterói,Sape,apartamento,venda,4300.0,3922.0,4602.3,7,,outubro/2026
+Niterói,Várzea das Moças,apartamento,venda,5105.5,5019.8,5300.8,6,,outubro/2026
+Niterói,Vital Brasil,apartamento,venda,8438.6,7404.6,8946.1,6,,outubro/2026
+Niterói,Vital Brazil,apartamento,venda,6439.4,5777.8,8189.7,5,,outubro/2026
+Niterói,Badu,terreno,venda,320.5,191.7,548.3,9,,outubro/2026
+Niterói,Camboinhas,terreno,venda,972.2,888.9,1055.6,5,,outubro/2026
+Niterói,Engenho do Mato,terreno,venda,619.8,417.0,783.3,12,,outubro/2026
+Niterói,Itaipu,terreno,venda,1125.0,819.3,1516.1,29,,outubro/2026
+Niterói,Maravista,terreno,venda,754.9,565.9,1187.5,8,,outubro/2026
+Niterói,Maria Paula,terreno,venda,446.6,279.0,674.7,8,,outubro/2026
+Niterói,Pendotiba,terreno,venda,375.9,284.1,472.2,10,,outubro/2026
+Niterói,Piratininga,terreno,venda,1066.7,538.4,1653.6,31,,outubro/2026
+Niterói,Rio do Ouro,terreno,venda,370.8,217.9,462.2,13,,outubro/2026
+Niterói,São Francisco,terreno,venda,1130.4,468.8,1688.3,9,,outubro/2026
+Niterói,Serra Grande,terreno,venda,698.7,383.3,1083.3,12,,outubro/2026
+Niterói,Várzea das Moças,terreno,venda,382.7,121.0,739.8,15,,outubro/2026
+Niterói,Vila Progresso,terreno,venda,368.4,238.8,543.5,9,,outubro/2026
+Niterói,Centro,sala,venda,5229.8,3608.8,7321.7,54,6.29,outubro/2026
+Niterói,Centro,sala,aluguel,27.4,21.9,33.0,7,6.29,outubro/2026
+Niterói,Icaraí,sala,venda,13437.5,10350.0,14437.5,11,,outubro/2026
+Niterói,Piratininga,sala,venda,10000.0,9038.6,12608.4,5,,outubro/2026
+Niterói,Santa Rosa,sala,venda,5525.8,5358.6,5696.2,22,,outubro/2026

@@ -1,0 +1,56 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Serra,Alphaville Jacuhy,casa,venda,9633.3,8553.3,10606.1,49,,outubro/2026
+Serra,Balneário de Carapebus,casa,venda,6223.6,1894.6,7158.5,7,,outubro/2026
+Serra,Bicanga,casa,venda,6818.2,4166.7,11538.5,5,,outubro/2026
+Serra,Boulevard Lagoa,casa,venda,9636.2,8606.6,11199.1,50,,outubro/2026
+Serra,Centro,casa,venda,4440.3,4346.3,4614.5,6,,outubro/2026
+Serra,Colina de Laranjeiras,casa,venda,8027.8,6950.7,9916.0,30,,outubro/2026
+Serra,Das Laranjeiras,casa,venda,5469.5,4035.7,6579.5,16,,outubro/2026
+Serra,Enseada de Jacaraípe,casa,venda,2522.7,2395.8,5059.4,6,,outubro/2026
+Serra,Eurico Salles,casa,venda,5429.9,5277.8,5876.8,5,,outubro/2026
+Serra,Jacaraípe,casa,venda,5500.0,2617.8,6250.0,9,,outubro/2026
+Serra,Jacuhy,casa,venda,9221.0,7937.5,10163.4,39,,outubro/2026
+Serra,Jardim Atlântico,casa,venda,3798.1,2475.2,4498.3,5,,outubro/2026
+Serra,Manguinhos,casa,venda,8193.4,7215.1,9725.5,43,,outubro/2026
+Serra,Morada de Laranjeiras,casa,venda,8480.0,7049.2,9517.0,39,,outubro/2026
+Serra,Parque Jacaraípe,casa,venda,4466.5,3212.4,5503.6,8,,outubro/2026
+Serra,Parque Residencial Laranjeiras,casa,venda,5277.8,3820.2,7057.8,27,,outubro/2026
+Serra,Planície,casa,venda,5777.8,5447.2,6067.4,13,,outubro/2026
+Serra,Residencial Jacaraípe,casa,venda,5848.7,4932.4,6052.7,6,,outubro/2026
+Serra,São Francisco,casa,venda,5833.3,4285.7,6250.0,9,,outubro/2026
+Serra,Alphaville Jacuhy,apartamento,venda,9622.6,9473.7,10000.0,5,,outubro/2026
+Serra,Bicanga,apartamento,venda,5503.5,4574.7,6523.3,24,,outubro/2026
+Serra,Campinho da Serra II,apartamento,venda,6054.2,5845.0,6172.1,6,,outubro/2026
+Serra,Chácara Parreiral,apartamento,venda,6098.5,5853.5,6250.0,5,,outubro/2026
+Serra,Cidade Continental-Setor America,apartamento,venda,4090.3,3534.1,4173.8,5,,outubro/2026
+Serra,Colina de Laranjeiras,apartamento,venda,7400.0,6595.5,8600.8,39,,outubro/2026
+Serra,De Fátima,apartamento,venda,9473.1,7176.6,10446.1,28,,outubro/2026
+Serra,Jacuhy,apartamento,venda,10468.9,9500.0,11002.5,7,,outubro/2026
+Serra,Jardim Limoeiro,apartamento,venda,6719.8,5222.5,7415.1,38,6.64,outubro/2026
+Serra,Jardim Limoeiro,apartamento,aluguel,37.2,31.0,42.4,6,6.64,outubro/2026
+Serra,Manguinhos,apartamento,venda,7452.8,5970.0,11051.7,9,,outubro/2026
+Serra,Maringá,apartamento,venda,6568.1,5985.7,7944.4,6,,outubro/2026
+Serra,Morada de Laranjeiras,apartamento,venda,8486.7,7098.2,9435.0,30,7.08,outubro/2026
+Serra,Morada de Laranjeiras,apartamento,aluguel,50.1,47.0,53.1,6,7.08,outubro/2026
+Serra,Parque Residencial Laranjeiras,apartamento,venda,7333.3,6333.3,8615.1,15,,outubro/2026
+Serra,Planalto de Carapina,apartamento,venda,6902.5,5042.1,7938.5,18,,outubro/2026
+Serra,Porto Canoa,apartamento,venda,6566.6,5785.1,7232.6,8,,outubro/2026
+Serra,Praia da Baleia,apartamento,venda,5980.0,5609.5,6250.6,11,,outubro/2026
+Serra,Santa Luzia,apartamento,venda,8675.9,8326.0,9092.9,8,,outubro/2026
+Serra,São Diogo II,apartamento,venda,5642.5,5176.4,6481.8,8,,outubro/2026
+Serra,Valparaíso,apartamento,venda,8021.4,7478.7,8681.9,22,4.92,outubro/2026
+Serra,Valparaíso,apartamento,aluguel,32.9,27.3,37.2,6,4.92,outubro/2026
+Serra,Alphaville Jacuhy,terreno,venda,1261.4,1200.1,1424.0,7,,outubro/2026
+Serra,Boulevard Lagoa,terreno,venda,1746.8,1626.8,2067.5,12,,outubro/2026
+Serra,Jacuhy,terreno,venda,1057.6,988.5,1216.6,8,,outubro/2026
+Serra,Jardim Limoeiro,terreno,venda,946.4,574.2,1373.1,6,,outubro/2026
+Serra,Manguinhos,terreno,venda,1632.7,1127.5,2059.8,7,,outubro/2026
+Serra,Morada de Laranjeiras,terreno,venda,1911.7,1890.4,2008.1,7,,outubro/2026
+Serra,De Fátima,sala,venda,10035.9,9101.5,10441.8,6,,outubro/2026
+Serra,Eurico Salles,sala,venda,8769.8,8272.1,9247.8,5,,outubro/2026
+Serra,Parque Residencial Laranjeiras,sala,venda,7118.1,6211.7,8031.2,6,8.01,outubro/2026
+Serra,Parque Residencial Laranjeiras,sala,aluguel,47.5,42.9,60.9,9,8.01,outubro/2026
+Serra,Alterosas,galpao,aluguel,28.0,20.3,28.1,5,,outubro/2026
+Serra,Civit I,galpao,aluguel,18.4,17.0,23.0,5,,outubro/2026
+Serra,Civit II,galpao,aluguel,23.4,19.5,30.0,12,,outubro/2026
+Serra,Jardim Limoeiro,galpao,aluguel,24.1,20.3,28.8,11,,outubro/2026

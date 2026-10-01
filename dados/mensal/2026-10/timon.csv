@@ -1,0 +1,21 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Timon,Boa Esperança,casa,venda,2754.7,2558.6,3022.0,6,,outubro/2026
+Timon,Centro,casa,venda,3500.0,2708.2,3832.0,15,,outubro/2026
+Timon,Cidade Nova,casa,venda,3166.7,2307.7,3692.3,5,,outubro/2026
+Timon,Flores,casa,venda,2547.7,2383.0,2816.4,8,,outubro/2026
+Timon,Jóia,casa,venda,3888.9,2842.8,4600.0,53,4.04,outubro/2026
+Timon,Jóia,casa,aluguel,13.1,12.5,21.5,9,4.04,outubro/2026
+Timon,Parque Alvorada,casa,venda,2522.2,1506.6,3153.9,14,6.19,outubro/2026
+Timon,Parque Alvorada,casa,aluguel,13.0,10.7,17.1,5,6.19,outubro/2026
+Timon,Parque Piauí,casa,venda,2465.5,1765.7,3161.8,38,,outubro/2026
+Timon,Planalto Boa Esperança,casa,venda,2571.4,1407.1,2729.8,7,,outubro/2026
+Timon,São Benedito,casa,venda,1886.0,1471.9,2921.1,8,,outubro/2026
+Timon,Sete Estrelas,casa,venda,2565.8,2171.1,2672.1,5,,outubro/2026
+Timon,Mateuzinho,apartamento,venda,3007.5,2857.1,3830.0,6,,outubro/2026
+Timon,Centro,terreno,venda,389.5,283.3,447.9,8,,outubro/2026
+Timon,Jóia,terreno,venda,506.5,127.3,548.4,12,,outubro/2026
+Timon,Mateuzinho,terreno,venda,332.8,225.2,551.5,8,,outubro/2026
+Timon,Parque Alvorada,terreno,venda,388.9,100.0,555.6,5,,outubro/2026
+Timon,Parque Piauí,terreno,venda,316.7,197.9,494.7,12,,outubro/2026
+Timon,Pedro Patrício,terreno,venda,125.0,100.0,180.2,5,,outubro/2026
+Timon,Reserva das Flores,terreno,venda,360.0,200.0,520.0,5,,outubro/2026

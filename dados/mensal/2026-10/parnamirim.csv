@@ -1,0 +1,39 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Parnamirim,Cajupiranga,casa,venda,4352.1,2587.5,4885.5,44,,outubro/2026
+Parnamirim,Cotovelo (Distrito Litoral),casa,venda,4193.5,2204.6,4697.4,9,,outubro/2026
+Parnamirim,Emaús,casa,venda,3257.2,2707.6,3618.9,20,,outubro/2026
+Parnamirim,Liberdade,casa,venda,4410.0,3006.8,5840.5,8,,outubro/2026
+Parnamirim,Nova Esperança,casa,venda,3338.6,2948.7,4014.6,12,,outubro/2026
+Parnamirim,Nova Parnamirim,casa,venda,3000.0,2295.2,3999.5,79,,outubro/2026
+Parnamirim,Parque das Árvores,casa,venda,4579.7,3468.9,5265.2,7,,outubro/2026
+Parnamirim,Parque das Nações,casa,venda,4583.3,3730.9,5434.2,95,,outubro/2026
+Parnamirim,Parque do Jiqui,casa,venda,6065.6,5309.7,7125.0,33,,outubro/2026
+Parnamirim,Passagem de Areia,casa,venda,4470.7,4097.7,4716.5,5,,outubro/2026
+Parnamirim,Pirangi do Norte (Distrito Litoral),casa,venda,4525.5,2749.1,5140.5,10,,outubro/2026
+Parnamirim,Pium (Distrito Litoral),casa,venda,6274.7,5373.5,8022.7,22,,outubro/2026
+Parnamirim,Vale do Sol,casa,venda,2590.4,2000.0,2986.3,5,,outubro/2026
+Parnamirim,Cajupiranga,apartamento,venda,6182.1,3201.5,7578.2,10,,outubro/2026
+Parnamirim,Cotovelo (Distrito Litoral),apartamento,venda,9260.7,6613.0,10956.6,22,,outubro/2026
+Parnamirim,Emaús,apartamento,venda,4767.4,3602.3,7439.6,10,,outubro/2026
+Parnamirim,Nova Parnamirim,apartamento,venda,4970.6,3826.9,6330.8,72,7.75,outubro/2026
+Parnamirim,Nova Parnamirim,apartamento,aluguel,32.1,25.6,37.8,15,7.75,outubro/2026
+Parnamirim,Parque das Árvores,apartamento,venda,4328.3,3997.4,4609.0,8,,outubro/2026
+Parnamirim,Parque das Nações,apartamento,venda,6197.2,3459.8,9128.4,41,,outubro/2026
+Parnamirim,Parque do Jiqui,apartamento,venda,7559.0,5587.0,10581.1,11,,outubro/2026
+Parnamirim,Pirangi do Norte,apartamento,venda,14630.5,13326.1,16166.7,10,,outubro/2026
+Parnamirim,Pirangi do Norte (Distrito Litoral),apartamento,venda,8418.4,6892.8,12375.8,15,,outubro/2026
+Parnamirim,Pium (Distrito Litoral),apartamento,venda,7622.0,5615.8,10309.2,23,6.39,outubro/2026
+Parnamirim,Pium (Distrito Litoral),apartamento,aluguel,40.6,34.9,41.8,8,6.39,outubro/2026
+Parnamirim,Vida Nova,apartamento,venda,3599.5,3580.0,4775.4,5,,outubro/2026
+Parnamirim,Cajupiranga,terreno,venda,702.3,505.8,862.1,20,,outubro/2026
+Parnamirim,Cotovelo (Distrito Litoral),terreno,venda,937.5,883.4,1031.2,9,,outubro/2026
+Parnamirim,Emaús,terreno,venda,730.5,578.7,1000.0,9,,outubro/2026
+Parnamirim,Nova Esperança,terreno,venda,457.6,166.7,732.1,5,,outubro/2026
+Parnamirim,Nova Parnamirim,terreno,venda,725.4,560.4,1350.2,32,,outubro/2026
+Parnamirim,Parque das Árvores,terreno,venda,618.9,265.5,980.6,8,,outubro/2026
+Parnamirim,Parque das Nações,terreno,venda,738.5,589.7,953.7,37,,outubro/2026
+Parnamirim,Parque do Jiqui,terreno,venda,357.4,310.8,630.3,7,,outubro/2026
+Parnamirim,Pirangi do Norte (Distrito Litoral),terreno,venda,652.6,534.4,766.7,9,,outubro/2026
+Parnamirim,Pium (Distrito Litoral),terreno,venda,1032.9,996.5,1098.2,12,,outubro/2026
+Parnamirim,Santa Tereza,terreno,venda,364.5,305.6,429.7,5,,outubro/2026
+Parnamirim,Vida Nova,terreno,venda,423.7,400.0,700.0,5,,outubro/2026

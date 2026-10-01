@@ -1,0 +1,194 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+João Pessoa,Água Fria,casa,venda,4147.8,1809.2,5283.3,8,,outubro/2026
+João Pessoa,Altiplano,casa,venda,8506.0,6151.0,9871.9,16,,outubro/2026
+João Pessoa,Altiplano Cabo Branco,casa,venda,7616.3,4440.3,8892.0,46,7.37,outubro/2026
+João Pessoa,Altiplano Cabo Branco,casa,aluguel,46.8,38.8,48.9,6,7.37,outubro/2026
+João Pessoa,Amazônia Park,casa,venda,8361.6,7056.3,9459.0,6,,outubro/2026
+João Pessoa,Anatólia,casa,venda,2525.0,2116.7,3108.3,6,,outubro/2026
+João Pessoa,Bairro dos Estados,casa,venda,3845.1,2951.2,4864.0,26,7.55,outubro/2026
+João Pessoa,Bairro dos Estados,casa,aluguel,24.2,19.7,50.2,12,7.55,outubro/2026
+João Pessoa,Bancários,casa,venda,5655.0,2969.4,10657.5,34,7.07,outubro/2026
+João Pessoa,Bancários,casa,aluguel,33.3,31.8,41.7,5,7.07,outubro/2026
+João Pessoa,Barra de Gramame,casa,venda,8823.5,3333.3,9047.6,13,,outubro/2026
+João Pessoa,Bessa,casa,venda,5420.2,4723.3,6341.9,42,8.86,outubro/2026
+João Pessoa,Bessa,casa,aluguel,40.0,23.4,46.1,7,8.86,outubro/2026
+João Pessoa,Brisamar,casa,venda,2812.5,2500.0,4326.9,17,8.15,outubro/2026
+João Pessoa,Brisamar,casa,aluguel,19.1,17.3,20.2,8,8.15,outubro/2026
+João Pessoa,Cabo Branco,casa,venda,7938.2,6342.7,11428.6,17,,outubro/2026
+João Pessoa,Castelo Branco,casa,venda,2200.0,1560.0,2250.0,5,,outubro/2026
+João Pessoa,Centro,casa,venda,2040.8,1536.6,3368.8,30,,outubro/2026
+João Pessoa,Cidade dos Colibris,casa,venda,3942.5,2637.2,5276.1,16,,outubro/2026
+João Pessoa,Colinas do Sul,casa,venda,2250.0,2090.9,3180.0,9,,outubro/2026
+João Pessoa,Costa e Silva,casa,venda,1542.9,1258.9,2325.0,6,,outubro/2026
+João Pessoa,Cristo Redentor,casa,venda,2605.6,1651.8,4251.9,65,,outubro/2026
+João Pessoa,Cruz das Armas,casa,venda,2500.0,2041.7,3374.1,14,,outubro/2026
+João Pessoa,Cuiá,casa,venda,2375.0,1853.6,4310.7,23,,outubro/2026
+João Pessoa,Ernani Sátiro,casa,venda,2645.8,2476.6,3666.7,6,,outubro/2026
+João Pessoa,Ernesto Geisel,casa,venda,3200.0,2362.5,4518.0,50,,outubro/2026
+João Pessoa,Expedicionários,casa,venda,3703.7,2581.0,5049.2,27,,outubro/2026
+João Pessoa,Funcionários,casa,venda,2107.1,1333.3,2849.8,15,,outubro/2026
+João Pessoa,Gramame,casa,venda,3511.9,2196.4,4364.0,67,,outubro/2026
+João Pessoa,Indústrias,casa,venda,2758.4,986.8,3106.8,12,,outubro/2026
+João Pessoa,Intermares,casa,venda,9219.5,7058.8,11428.6,13,,outubro/2026
+João Pessoa,Jaguaribe,casa,venda,2299.7,1931.6,3175.0,36,9.6,outubro/2026
+João Pessoa,Jaguaribe,casa,aluguel,18.4,14.6,22.7,6,9.6,outubro/2026
+João Pessoa,Jardim Cidade Universitária,casa,venda,4522.7,3029.3,7372.3,60,,outubro/2026
+João Pessoa,Jardim Oceania,casa,venda,5777.8,3888.9,9677.4,21,9.45,outubro/2026
+João Pessoa,Jardim Oceania,casa,aluguel,45.5,34.2,53.5,13,9.45,outubro/2026
+João Pessoa,Jardim São Paulo,casa,venda,2689.4,2375.0,4237.5,10,,outubro/2026
+João Pessoa,João Paulo II,casa,venda,3696.7,2500.0,4782.6,29,,outubro/2026
+João Pessoa,José Américo de Almeida,casa,venda,3984.0,2656.9,5158.1,79,,outubro/2026
+João Pessoa,Manaíra,casa,venda,5080.7,3958.3,6396.1,32,8.74,outubro/2026
+João Pessoa,Manaíra,casa,aluguel,37.0,28.6,46.9,13,8.74,outubro/2026
+João Pessoa,Mangabeira,casa,venda,3000.0,2010.8,4428.6,65,,outubro/2026
+João Pessoa,Miramar,casa,venda,4314.7,3024.7,4865.0,15,6.67,outubro/2026
+João Pessoa,Miramar,casa,aluguel,24.0,19.9,57.7,6,6.67,outubro/2026
+João Pessoa,Muçumagro,casa,venda,6800.0,5051.0,8029.2,153,,outubro/2026
+João Pessoa,Paratibe,casa,venda,3480.3,2416.7,4138.9,32,,outubro/2026
+João Pessoa,Pedro Gondim,casa,venda,2981.5,2851.4,3756.1,8,,outubro/2026
+João Pessoa,Planalto Boa Esperança,casa,venda,3500.0,2845.7,4211.9,7,,outubro/2026
+João Pessoa,Ponta do Seixas,casa,venda,9440.6,8489.4,11866.7,5,,outubro/2026
+João Pessoa,Portal do Sol,casa,venda,7531.7,5292.7,9157.5,116,6.29,outubro/2026
+João Pessoa,Portal do Sol,casa,aluguel,39.5,25.0,50.0,17,6.29,outubro/2026
+João Pessoa,Tambaú,casa,venda,7826.1,6923.1,9180.3,5,5.26,outubro/2026
+João Pessoa,Tambaú,casa,aluguel,34.3,30.4,45.5,5,5.26,outubro/2026
+João Pessoa,Tambauzinho,casa,venda,3615.0,2925.7,5097.5,28,,outubro/2026
+João Pessoa,Torre,casa,venda,2669.2,2264.3,3611.4,32,6.25,outubro/2026
+João Pessoa,Torre,casa,aluguel,13.9,12.5,17.1,5,6.25,outubro/2026
+João Pessoa,Treze de Maio,casa,venda,2681.8,1640.7,4307.1,15,,outubro/2026
+João Pessoa,Valentina de Figueiredo,casa,venda,2650.0,1608.7,4232.1,43,,outubro/2026
+João Pessoa,Varjão,casa,venda,4861.1,1862.6,5250.0,7,,outubro/2026
+João Pessoa,Aeroclube,apartamento,venda,8869.9,6760.0,10973.8,303,6.99,outubro/2026
+João Pessoa,Aeroclube,apartamento,aluguel,51.7,40.7,58.9,51,6.99,outubro/2026
+João Pessoa,Água Fria,apartamento,venda,6028.4,4480.3,6594.5,36,11.8,outubro/2026
+João Pessoa,Água Fria,apartamento,aluguel,59.3,41.4,63.7,11,11.8,outubro/2026
+João Pessoa,Altiplano,apartamento,venda,10936.0,7310.2,13617.9,64,,outubro/2026
+João Pessoa,Altiplano Cabo Branco,apartamento,venda,10674.2,7400.0,13974.7,417,6.25,outubro/2026
+João Pessoa,Altiplano Cabo Branco,apartamento,aluguel,55.6,47.1,70.4,45,6.25,outubro/2026
+João Pessoa,Alto do Céu,apartamento,venda,4256.2,4077.5,4736.7,10,,outubro/2026
+João Pessoa,Alto do Mateus,apartamento,venda,3348.0,3022.7,3611.9,10,,outubro/2026
+João Pessoa,Anatólia,apartamento,venda,5288.4,4349.3,6999.0,19,,outubro/2026
+João Pessoa,Bairro dos Estados,apartamento,venda,7324.4,5825.0,9507.9,177,9.83,outubro/2026
+João Pessoa,Bairro dos Estados,apartamento,aluguel,60.0,48.4,72.1,16,9.83,outubro/2026
+João Pessoa,Bancários,apartamento,venda,6364.9,5030.8,7737.2,196,6.52,outubro/2026
+João Pessoa,Bancários,apartamento,aluguel,34.6,29.2,44.1,20,6.52,outubro/2026
+João Pessoa,Bessa,apartamento,venda,9721.3,6804.5,13758.7,688,6.81,outubro/2026
+João Pessoa,Bessa,apartamento,aluguel,55.2,45.1,70.6,121,6.81,outubro/2026
+João Pessoa,Brisamar,apartamento,venda,8848.2,7076.4,10342.7,166,7.68,outubro/2026
+João Pessoa,Brisamar,apartamento,aluguel,56.6,50.2,66.6,22,7.68,outubro/2026
+João Pessoa,Cabo Branco,apartamento,venda,13770.6,9413.1,18234.0,620,5.81,outubro/2026
+João Pessoa,Cabo Branco,apartamento,aluguel,66.7,48.8,83.4,136,5.81,outubro/2026
+João Pessoa,Camboinha,apartamento,venda,10493.8,9116.4,13841.5,9,,outubro/2026
+João Pessoa,Castelo Branco,apartamento,venda,5465.1,4658.9,7738.4,15,,outubro/2026
+João Pessoa,Centro,apartamento,venda,3928.6,2600.0,4313.7,5,,outubro/2026
+João Pessoa,Cidade dos Colibris,apartamento,venda,4642.3,3598.0,5544.3,67,,outubro/2026
+João Pessoa,Colinas do Sul,apartamento,venda,3626.4,3527.3,3770.6,5,,outubro/2026
+João Pessoa,Conjunto Pedro Gondim,apartamento,venda,8624.7,7332.0,9453.3,8,,outubro/2026
+João Pessoa,Cristo Redentor,apartamento,venda,4395.3,3616.5,5101.0,83,,outubro/2026
+João Pessoa,Cruz das Armas,apartamento,venda,3999.9,3658.3,4208.3,6,,outubro/2026
+João Pessoa,Cuiá,apartamento,venda,3629.8,3181.8,4227.3,21,9.88,outubro/2026
+João Pessoa,Cuiá,apartamento,aluguel,29.9,20.8,71.9,6,9.88,outubro/2026
+João Pessoa,Ernani Sátiro,apartamento,venda,2704.5,2444.4,3095.2,9,,outubro/2026
+João Pessoa,Ernesto Geisel,apartamento,venda,4300.0,3545.5,4977.2,45,,outubro/2026
+João Pessoa,Expedicionários,apartamento,venda,6153.8,4912.6,7511.2,51,8.03,outubro/2026
+João Pessoa,Expedicionários,apartamento,aluguel,41.2,28.4,44.7,7,8.03,outubro/2026
+João Pessoa,Funcionários,apartamento,venda,3446.8,3058.0,3730.5,7,,outubro/2026
+João Pessoa,Gramame,apartamento,venda,3517.1,2781.5,4044.6,82,6.18,outubro/2026
+João Pessoa,Gramame,apartamento,aluguel,18.1,15.9,22.5,16,6.18,outubro/2026
+João Pessoa,Gramame - Novo Geisel,apartamento,venda,3640.0,2900.0,4084.5,9,,outubro/2026
+João Pessoa,Gramame - Parque do Sol,apartamento,venda,2700.0,2413.8,2900.0,5,,outubro/2026
+João Pessoa,Indústrias,apartamento,venda,3126.1,2591.8,3862.3,10,,outubro/2026
+João Pessoa,Intermares,apartamento,venda,9700.3,7750.0,12062.5,25,,outubro/2026
+João Pessoa,Ipês,apartamento,venda,4435.5,3615.5,5086.2,11,,outubro/2026
+João Pessoa,Jaguaribe,apartamento,venda,4372.1,3857.1,5067.1,29,,outubro/2026
+João Pessoa,Jardim Cidade Universitária,apartamento,venda,6000.0,4507.0,7142.9,197,5.64,outubro/2026
+João Pessoa,Jardim Cidade Universitária,apartamento,aluguel,28.2,25.7,43.4,18,5.64,outubro/2026
+João Pessoa,Jardim Luna,apartamento,venda,9246.5,7433.3,10148.2,63,,outubro/2026
+João Pessoa,Jardim Oceania,apartamento,venda,11433.3,8657.2,15644.8,859,6.56,outubro/2026
+João Pessoa,Jardim Oceania,apartamento,aluguel,62.5,46.7,76.3,129,6.56,outubro/2026
+João Pessoa,Jardim São Paulo,apartamento,venda,6086.9,4014.0,7783.3,68,,outubro/2026
+João Pessoa,Jardim Veneza,apartamento,venda,3367.3,3215.9,3791.7,5,,outubro/2026
+João Pessoa,João Agripino,apartamento,venda,8958.6,8053.6,10140.8,28,6.7,outubro/2026
+João Pessoa,João Agripino,apartamento,aluguel,50.0,48.9,53.8,5,6.7,outubro/2026
+João Pessoa,João Paulo II,apartamento,venda,3877.1,3087.2,4376.9,32,,outubro/2026
+João Pessoa,José Américo de Almeida,apartamento,venda,4000.0,3315.4,4707.4,50,,outubro/2026
+João Pessoa,Manaíra,apartamento,venda,8333.3,5756.8,11563.8,640,7.85,outubro/2026
+João Pessoa,Manaíra,apartamento,aluguel,54.5,40.7,67.3,183,7.85,outubro/2026
+João Pessoa,Mandacaru,apartamento,venda,4255.3,3612.3,4674.5,9,,outubro/2026
+João Pessoa,Mangabeira,apartamento,venda,4204.5,3725.9,4948.5,79,,outubro/2026
+João Pessoa,Miramar,apartamento,venda,9444.4,7019.6,12802.3,223,6.1,outubro/2026
+João Pessoa,Miramar,apartamento,aluguel,48.0,37.8,57.9,23,6.1,outubro/2026
+João Pessoa,Muçumagro,apartamento,venda,3023.8,2674.4,3702.9,33,,outubro/2026
+João Pessoa,Novo Geisel,apartamento,venda,3645.8,3462.7,4050.8,11,,outubro/2026
+João Pessoa,Novo Milênio,apartamento,venda,3518.9,3142.7,3729.2,5,,outubro/2026
+João Pessoa,Paratibe,apartamento,venda,3437.5,2931.8,4057.7,47,,outubro/2026
+João Pessoa,Pedro Gondim,apartamento,venda,8141.3,6567.2,9769.7,29,,outubro/2026
+João Pessoa,Planalto Boa Esperança,apartamento,venda,3404.5,2869.1,3907.6,44,,outubro/2026
+João Pessoa,Ponta de Campina,apartamento,venda,11456.6,10043.9,13575.3,8,,outubro/2026
+João Pessoa,Ponta do Seixas,apartamento,venda,15779.6,13598.3,17602.3,56,5.05,outubro/2026
+João Pessoa,Ponta do Seixas,apartamento,aluguel,66.4,56.9,76.5,10,5.05,outubro/2026
+João Pessoa,Portal do Sol,apartamento,venda,6298.0,5150.4,7910.4,95,8.78,outubro/2026
+João Pessoa,Portal do Sol,apartamento,aluguel,46.1,39.6,61.4,12,8.78,outubro/2026
+João Pessoa,Praia Formosa,apartamento,venda,9158.9,8642.7,9390.3,5,,outubro/2026
+João Pessoa,Tambaú,apartamento,venda,10951.2,6987.9,14440.3,403,6.71,outubro/2026
+João Pessoa,Tambaú,apartamento,aluguel,61.2,44.3,79.7,138,6.71,outubro/2026
+João Pessoa,Tambauzinho,apartamento,venda,8050.8,6433.1,10104.5,103,6.62,outubro/2026
+João Pessoa,Tambauzinho,apartamento,aluguel,44.4,34.4,55.9,27,6.62,outubro/2026
+João Pessoa,Tambiá,apartamento,venda,5038.9,3020.3,5612.3,20,,outubro/2026
+João Pessoa,Torre,apartamento,venda,5959.0,5063.3,6440.3,41,7.47,outubro/2026
+João Pessoa,Torre,apartamento,aluguel,37.1,30.4,40.0,9,7.47,outubro/2026
+João Pessoa,Treze de Maio,apartamento,venda,6320.0,4497.7,7207.4,22,,outubro/2026
+João Pessoa,Valentina de Figueiredo,apartamento,venda,3780.8,3232.1,4403.4,55,,outubro/2026
+João Pessoa,Varjão,apartamento,venda,4276.1,4029.2,5125.0,10,,outubro/2026
+João Pessoa,Altiplano Cabo Branco,terreno,venda,3554.3,2361.1,4600.0,25,,outubro/2026
+João Pessoa,Bairro dos Estados,terreno,venda,2213.7,1611.3,2844.5,20,,outubro/2026
+João Pessoa,Bancários,terreno,venda,2291.7,1702.5,2472.5,8,,outubro/2026
+João Pessoa,Barra de Gramame,terreno,venda,1250.0,820.9,1440.9,17,,outubro/2026
+João Pessoa,Bessa,terreno,venda,2551.0,1750.0,2733.0,15,,outubro/2026
+João Pessoa,Centro,terreno,venda,1674.7,1553.0,2034.2,12,,outubro/2026
+João Pessoa,Cristo Redentor,terreno,venda,1000.0,745.8,1621.9,10,,outubro/2026
+João Pessoa,Cuiá,terreno,venda,1151.2,917.7,1367.8,7,,outubro/2026
+João Pessoa,Distrito Industrial,terreno,venda,300.0,202.8,312.5,5,,outubro/2026
+João Pessoa,Ernesto Geisel,terreno,venda,1231.1,1158.4,2921.5,10,,outubro/2026
+João Pessoa,Gramame,terreno,venda,970.8,794.2,1414.4,8,,outubro/2026
+João Pessoa,Indústrias,terreno,venda,387.5,340.6,517.5,8,,outubro/2026
+João Pessoa,Jaguaribe,terreno,venda,1000.0,949.1,1243.3,10,,outubro/2026
+João Pessoa,Jardim Cidade Universitária,terreno,venda,1250.0,833.3,1562.5,5,,outubro/2026
+João Pessoa,Manaíra,terreno,venda,3571.4,2638.9,4588.2,13,,outubro/2026
+João Pessoa,Mangabeira,terreno,venda,1948.3,1116.7,4833.3,14,,outubro/2026
+João Pessoa,Muçumagro,terreno,venda,1247.9,667.5,1338.6,16,,outubro/2026
+João Pessoa,Paratibe,terreno,venda,721.8,423.4,871.9,6,,outubro/2026
+João Pessoa,Portal do Sol,terreno,venda,1367.5,1171.9,2666.7,41,,outubro/2026
+João Pessoa,Tambauzinho,terreno,venda,3866.7,1666.7,4375.0,5,,outubro/2026
+João Pessoa,Torre,terreno,venda,1839.4,1443.3,2782.0,20,,outubro/2026
+João Pessoa,Valentina de Figueiredo,terreno,venda,906.2,645.9,939.4,9,,outubro/2026
+João Pessoa,Altiplano Cabo Branco,sala,venda,12426.0,11575.0,15288.5,26,10.3,outubro/2026
+João Pessoa,Altiplano Cabo Branco,sala,aluguel,106.7,104.0,139.2,7,10.3,outubro/2026
+João Pessoa,Bairro dos Estados,sala,venda,5555.6,4595.2,7462.1,19,16.05,outubro/2026
+João Pessoa,Bairro dos Estados,sala,aluguel,74.3,59.3,85.3,14,16.05,outubro/2026
+João Pessoa,Bancários,sala,venda,10619.8,10269.9,13812.5,11,8.83,outubro/2026
+João Pessoa,Bancários,sala,aluguel,78.1,59.2,91.7,9,8.83,outubro/2026
+João Pessoa,Bessa,sala,venda,11525.4,9907.5,13737.0,7,12.72,outubro/2026
+João Pessoa,Bessa,sala,aluguel,122.2,101.6,137.9,5,12.72,outubro/2026
+João Pessoa,Brisamar,sala,venda,15233.1,10243.1,16367.7,8,9.26,outubro/2026
+João Pessoa,Brisamar,sala,aluguel,117.6,100.0,140.0,41,9.26,outubro/2026
+João Pessoa,Cabo Branco,sala,venda,15960.9,13541.7,19345.7,20,5.44,outubro/2026
+João Pessoa,Cabo Branco,sala,aluguel,72.3,41.2,123.1,8,5.44,outubro/2026
+João Pessoa,Centro,sala,venda,3428.6,2812.5,4818.2,53,12.95,outubro/2026
+João Pessoa,Centro,sala,aluguel,37.0,28.4,46.7,31,12.95,outubro/2026
+João Pessoa,Ipês,sala,aluguel,54.8,34.5,71.4,6,,outubro/2026
+João Pessoa,Jardim Oceania,sala,venda,15673.6,10872.2,18486.3,32,7.13,outubro/2026
+João Pessoa,Jardim Oceania,sala,aluguel,93.1,80.2,101.3,12,7.13,outubro/2026
+João Pessoa,Manaíra,sala,venda,13441.8,7942.7,18016.3,54,7.65,outubro/2026
+João Pessoa,Manaíra,sala,aluguel,85.7,70.6,114.3,73,7.65,outubro/2026
+João Pessoa,Miramar,sala,venda,11213.0,9062.5,16169.0,11,11.41,outubro/2026
+João Pessoa,Miramar,sala,aluguel,106.6,93.9,114.3,19,11.41,outubro/2026
+João Pessoa,Tambaú,sala,venda,10370.4,8806.6,14022.6,19,12.49,outubro/2026
+João Pessoa,Tambaú,sala,aluguel,107.9,76.7,131.0,32,12.49,outubro/2026
+João Pessoa,Tambauzinho,sala,venda,13278.0,7450.1,16129.6,7,,outubro/2026
+João Pessoa,Torre,sala,venda,4200.0,3232.1,5312.5,15,11.57,outubro/2026
+João Pessoa,Torre,sala,aluguel,40.5,32.1,63.0,30,11.57,outubro/2026
+João Pessoa,Centro,galpao,aluguel,17.1,16.7,20.9,5,,outubro/2026
+João Pessoa,Costa e Silva,galpao,aluguel,25.0,25.0,25.0,5,,outubro/2026
+João Pessoa,Distrito Industrial,galpao,aluguel,15.0,13.5,16.9,32,,outubro/2026
+João Pessoa,Indústrias,galpao,aluguel,12.6,11.0,14.2,16,,outubro/2026

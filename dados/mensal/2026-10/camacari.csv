@@ -1,0 +1,38 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Camaçari,Abrantes,casa,venda,5544.2,2065.6,6136.1,23,,outubro/2026
+Camaçari,Alphaville,casa,venda,6657.1,6087.8,7524.5,10,,outubro/2026
+Camaçari,Alphaville (Abrantes),casa,venda,5021.1,3982.1,6280.2,65,,outubro/2026
+Camaçari,Barra do Jacuípe,casa,venda,3444.9,2089.9,4202.6,24,,outubro/2026
+Camaçari,Barra do Jacuípe (Monte Gordo),casa,venda,3200.0,2044.9,5200.5,7,,outubro/2026
+Camaçari,Busca Vida,casa,venda,9230.8,4899.1,12777.8,17,,outubro/2026
+Camaçari,Busca Vida (Abrantes),casa,venda,4718.9,2681.0,7203.0,12,,outubro/2026
+Camaçari,Catu de Abrantes,casa,venda,4700.0,4268.3,5605.4,9,,outubro/2026
+Camaçari,Catu de Abrantes (Abrantes),casa,venda,6236.3,5148.0,8158.0,32,,outubro/2026
+Camaçari,Guarajuba,casa,venda,9332.1,6160.5,11426.4,18,,outubro/2026
+Camaçari,Guarajuba (Monte Gordo),casa,venda,7254.0,4728.6,9077.2,30,,outubro/2026
+Camaçari,Interlagos (Abrantes),casa,venda,8121.8,3950.0,9935.9,6,,outubro/2026
+Camaçari,Itacimirim,casa,venda,7657.9,4625.0,11234.4,18,,outubro/2026
+Camaçari,Itacimirim (Monte Gordo),casa,venda,8055.6,4845.8,10259.7,45,,outubro/2026
+Camaçari,Jardim Limoeiro,casa,venda,4460.6,4200.0,4678.1,10,,outubro/2026
+Camaçari,Jauá,casa,venda,1716.7,1567.5,2208.2,8,,outubro/2026
+Camaçari,Jauá (Abrantes),casa,venda,2814.8,2034.2,3378.6,7,,outubro/2026
+Camaçari,Monte Gordo,casa,venda,3134.4,1960.0,8312.9,6,,outubro/2026
+Camaçari,Vila de Abrantes (Abrantes),casa,venda,4600.0,3501.4,5600.0,21,,outubro/2026
+Camaçari,Abrantes,apartamento,venda,4482.8,4111.1,5486.1,17,,outubro/2026
+Camaçari,Alphaville (Abrantes),apartamento,venda,7742.7,3685.8,11897.0,6,,outubro/2026
+Camaçari,Catu de Abrantes,apartamento,venda,3673.9,3068.2,4300.0,5,,outubro/2026
+Camaçari,Catu de Abrantes (Abrantes),apartamento,venda,7853.9,6543.2,10229.9,13,,outubro/2026
+Camaçari,Guarajuba,apartamento,venda,9645.3,9196.4,11421.3,10,,outubro/2026
+Camaçari,Guarajuba (Monte Gordo),apartamento,venda,11250.0,8381.0,12816.8,15,,outubro/2026
+Camaçari,Itacimirim,apartamento,venda,10739.4,9275.2,14654.0,32,,outubro/2026
+Camaçari,Itacimirim (Monte Gordo),apartamento,venda,10903.6,8133.8,13321.4,63,,outubro/2026
+Camaçari,Vila de Abrantes (Abrantes),apartamento,venda,9872.1,8746.6,13565.0,7,,outubro/2026
+Camaçari,Abrantes,terreno,venda,952.4,321.6,1119.7,7,,outubro/2026
+Camaçari,Alphaville (Abrantes),terreno,venda,1082.5,1001.5,1314.7,6,,outubro/2026
+Camaçari,Alphaville Litoral Norte I,terreno,venda,1478.7,1349.2,1540.4,28,,outubro/2026
+Camaçari,Arembepe,terreno,venda,473.7,235.0,570.9,7,,outubro/2026
+Camaçari,Barra do Jacuípe,terreno,venda,400.0,125.0,510.0,5,,outubro/2026
+Camaçari,Busca Vida,terreno,venda,783.9,677.3,835.0,6,,outubro/2026
+Camaçari,Guarajuba,terreno,venda,2296.6,2047.2,3746.4,5,,outubro/2026
+Camaçari,Guarajuba (Monte Gordo),terreno,venda,1247.7,1156.2,2111.9,10,,outubro/2026
+Camaçari,Itacimirim (Monte Gordo),terreno,venda,1040.4,745.5,1391.6,10,,outubro/2026

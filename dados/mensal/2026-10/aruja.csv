@@ -1,0 +1,183 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Arujá,Aruja,casa,venda,8300.0,5068.1,11832.2,11,,outubro/2026
+Arujá,Aruja 5,casa,venda,9808.9,7756.4,11357.1,64,5.91,outubro/2026
+Arujá,Aruja 5,casa,aluguel,48.3,35.9,55.8,15,5.91,outubro/2026
+Arujá,Arujá América,casa,venda,6235.5,5446.3,7238.5,8,,outubro/2026
+Arujá,Arujá Center Ville,casa,venda,5660.2,4027.0,7362.4,15,4.11,outubro/2026
+Arujá,Arujá Center Ville,casa,aluguel,19.4,16.8,45.7,6,4.11,outubro/2026
+Arujá,Arujá Country Club,casa,venda,6616.6,5495.9,7796.2,42,5.19,outubro/2026
+Arujá,Arujá Country Club,casa,aluguel,28.6,19.5,31.9,7,5.19,outubro/2026
+Arujá,Arujá Hills I,casa,venda,8649.7,7258.9,9036.5,6,,outubro/2026
+Arujá,Arujá Hills III,casa,venda,7668.9,6521.9,8477.7,16,,outubro/2026
+Arujá,Arujá Hills-3,casa,venda,8285.6,6053.6,9824.8,8,,outubro/2026
+Arujá,Arujá Lagos Residencial,casa,venda,9709.4,8518.4,10011.9,8,,outubro/2026
+Arujá,Arujá V,casa,venda,8000.0,5833.3,10606.1,17,,outubro/2026
+Arujá,Arujamérica,casa,venda,4875.0,3578.6,6742.2,30,6.15,outubro/2026
+Arujá,Arujamérica,casa,aluguel,25.0,15.1,30.9,7,6.15,outubro/2026
+Arujá,Arujazinho I,casa,venda,6250.0,4578.6,8514.3,21,,outubro/2026
+Arujá,"Arujázinho I, II e III",casa,venda,6363.6,4492.4,8666.7,81,5.83,outubro/2026
+Arujá,"Arujázinho I, II e III",casa,aluguel,30.9,22.0,36.7,9,5.83,outubro/2026
+Arujá,Arujazinho II,casa,venda,5000.0,4545.5,5600.0,5,,outubro/2026
+Arujá,Arujázinho IV,casa,venda,7911.0,5500.0,10000.0,41,6.2,outubro/2026
+Arujá,Arujázinho IV,casa,aluguel,40.9,35.0,46.5,8,6.2,outubro/2026
+Arujá,Barbosas,casa,venda,4583.3,3912.1,5309.5,6,,outubro/2026
+Arujá,Canjicas,casa,venda,5821.9,3088.0,5833.3,5,,outubro/2026
+Arujá,Caputera,casa,venda,6333.3,5245.9,8920.6,73,5.25,outubro/2026
+Arujá,Caputera,casa,aluguel,27.7,21.7,33.8,12,5.25,outubro/2026
+Arujá,Center Ville,casa,venda,4476.4,3639.7,6611.8,26,,outubro/2026
+Arujá,Centro,casa,venda,5500.0,4485.6,7313.9,79,6.11,outubro/2026
+Arujá,Centro,casa,aluguel,28.0,19.3,53.9,18,6.11,outubro/2026
+Arujá,Chácara São José,casa,venda,4464.3,3894.2,5405.0,19,,outubro/2026
+Arujá,Chácaras Copaco,casa,venda,6345.5,3772.7,8246.2,6,,outubro/2026
+Arujá,Cidade Nova,casa,venda,4593.6,3125.4,5238.9,31,,outubro/2026
+Arujá,Cond. Aruja 5,casa,venda,4833.3,4035.9,6479.1,6,,outubro/2026
+Arujá,Copaco,casa,venda,5000.0,4666.7,7500.0,5,,outubro/2026
+Arujá,Fontes,casa,venda,4761.9,4475.5,5714.3,6,,outubro/2026
+Arujá,Hills III,casa,venda,7000.0,5195.0,8827.9,7,,outubro/2026
+Arujá,II e III,casa,venda,6588.5,4874.7,9137.6,172,4.83,outubro/2026
+Arujá,II e III,casa,aluguel,26.5,23.0,34.9,26,4.83,outubro/2026
+Arujá,Jardim Ângelo,casa,venda,4000.0,3935.8,4941.7,7,,outubro/2026
+Arujá,Jardim Arujá,casa,venda,4888.9,3055.9,7000.0,5,,outubro/2026
+Arujá,Jardim das Cerejeiras,casa,venda,8675.4,5490.9,10000.0,26,5.67,outubro/2026
+Arujá,Jardim das Cerejeiras,casa,aluguel,41.0,26.9,54.4,6,5.67,outubro/2026
+Arujá,Jardim Fazenda Rincão,casa,venda,7935.1,4461.1,10147.1,76,7.06,outubro/2026
+Arujá,Jardim Fazenda Rincão,casa,aluguel,46.7,30.0,67.6,5,7.06,outubro/2026
+Arujá,Jardim Fazenda Rincao - Aruja V,casa,venda,9878.4,7166.7,11419.1,26,3.78,outubro/2026
+Arujá,Jardim Fazenda Rincao - Aruja V,casa,aluguel,31.1,24.5,33.3,5,3.78,outubro/2026
+Arujá,Jardim Imperial,casa,venda,7332.0,4459.7,8794.1,17,,outubro/2026
+Arujá,Jardim Imperial Hills III,casa,venda,7500.0,6264.2,9301.2,47,5.89,outubro/2026
+Arujá,Jardim Imperial Hills III,casa,aluguel,36.8,32.0,43.9,10,5.89,outubro/2026
+Arujá,Jardim Jóia,casa,venda,3007.1,2495.8,5084.6,10,,outubro/2026
+Arujá,Jardim Pinheiro,casa,venda,5236.4,3569.6,5568.2,6,,outubro/2026
+Arujá,Jardim Planalto,casa,venda,5645.2,4930.6,6802.4,19,6.12,outubro/2026
+Arujá,Jardim Planalto,casa,aluguel,28.8,19.6,36.2,8,6.12,outubro/2026
+Arujá,Jardim Renata,casa,venda,5105.5,3599.2,6833.6,20,,outubro/2026
+Arujá,Jardim Rincão,casa,venda,5618.0,4109.6,7083.3,29,7.11,outubro/2026
+Arujá,Jardim Rincão,casa,aluguel,33.3,23.9,39.4,10,7.11,outubro/2026
+Arujá,Jardim São José,casa,venda,5454.5,4941.9,5571.4,5,,outubro/2026
+Arujá,Jordanópolis,casa,venda,4894.5,3623.5,5913.3,64,7.38,outubro/2026
+Arujá,Jordanópolis,casa,aluguel,30.1,30.0,31.9,5,7.38,outubro/2026
+Arujá,Mirante,casa,venda,3200.0,2250.0,4761.9,29,,outubro/2026
+Arujá,Nossa Senhora do Carmo,casa,venda,5174.7,3306.8,5648.5,12,,outubro/2026
+Arujá,Nova Arujá,casa,venda,4466.8,3270.8,6027.9,30,,outubro/2026
+Arujá,Novo Horizonte Hills I e II,casa,venda,7477.5,4800.0,8165.8,8,4.38,outubro/2026
+Arujá,Novo Horizonte Hills I e II,casa,aluguel,27.3,20.9,28.2,5,4.38,outubro/2026
+Arujá,Parque Maringá,casa,venda,9857.1,3111.1,10476.2,9,,outubro/2026
+Arujá,Parque Nossa Senhora do Carmo,casa,venda,5325.4,4462.5,6208.6,11,8.09,outubro/2026
+Arujá,Parque Nossa Senhora do Carmo,casa,aluguel,35.9,35.6,44.8,5,8.09,outubro/2026
+Arujá,Parque Rodrigo Barreto,casa,venda,2873.3,2333.3,4545.5,33,8.06,outubro/2026
+Arujá,Parque Rodrigo Barreto,casa,aluguel,19.3,17.8,27.5,6,8.06,outubro/2026
+Arujá,Pedreira,casa,venda,3200.0,2459.0,4166.7,5,,outubro/2026
+Arujá,Perobal,casa,venda,5188.1,3708.3,8223.2,14,,outubro/2026
+Arujá,Perová,casa,venda,8330.0,5670.0,10471.0,35,6.25,outubro/2026
+Arujá,Perová,casa,aluguel,43.4,38.2,48.4,9,6.25,outubro/2026
+Arujá,Pirituba,casa,venda,5827.2,4198.2,6474.3,10,,outubro/2026
+Arujá,Portão,casa,venda,4266.7,3597.9,5652.2,13,,outubro/2026
+Arujá,Real Park,casa,venda,10661.5,10241.7,11207.8,10,,outubro/2026
+Arujá,Recanto Primavera,casa,venda,3354.7,3091.7,3571.4,5,,outubro/2026
+Arujá,Residencial Real Park,casa,venda,10434.8,9053.3,11943.2,103,6.18,outubro/2026
+Arujá,Residencial Real Park,casa,aluguel,53.7,45.8,61.4,24,6.18,outubro/2026
+Arujá,São Bento,casa,venda,8076.9,7400.0,10833.3,17,,outubro/2026
+Arujá,Vila Pilar,casa,venda,3150.0,2241.5,4324.3,8,,outubro/2026
+Arujá,Vila Riman,casa,venda,3499.2,2766.7,5328.0,12,,outubro/2026
+Arujá,Amarilis Condominium Club,apartamento,venda,10609.8,10121.8,11404.7,7,6.55,outubro/2026
+Arujá,Amarilis Condominium Club,apartamento,aluguel,57.9,51.3,60.0,8,6.55,outubro/2026
+Arujá,Aruja,apartamento,venda,11875.0,11627.9,12121.2,5,,outubro/2026
+Arujá,Bairro do Limoeiro,apartamento,venda,11153.8,10726.4,11362.9,7,,outubro/2026
+Arujá,Center Ville,apartamento,venda,8775.5,8151.6,10212.8,9,9.18,outubro/2026
+Arujá,Center Ville,apartamento,aluguel,67.1,53.7,68.2,7,9.18,outubro/2026
+Arujá,Centro,apartamento,venda,9623.0,8960.0,12856.7,32,6.87,outubro/2026
+Arujá,Centro,apartamento,aluguel,55.1,40.7,73.2,11,6.87,outubro/2026
+Arujá,Chácara São José,apartamento,venda,11805.6,8550.7,12953.1,21,6.78,outubro/2026
+Arujá,Chácara São José,apartamento,aluguel,66.7,55.8,76.5,7,6.78,outubro/2026
+Arujá,Cidade Nova,apartamento,venda,9454.5,8534.5,11000.0,13,9.06,outubro/2026
+Arujá,Cidade Nova,apartamento,aluguel,71.4,59.6,122.7,7,9.06,outubro/2026
+Arujá,Edifício Sorrento,apartamento,venda,10526.3,9984.2,11275.6,7,,outubro/2026
+Arujá,Eko Parque Varandas,apartamento,venda,8933.3,8440.7,10198.0,7,,outubro/2026
+Arujá,Fatto,apartamento,venda,10181.8,8501.6,11998.4,11,,outubro/2026
+Arujá,Horizontes Eko,apartamento,venda,9473.7,9114.1,10415.6,7,,outubro/2026
+Arujá,Jardim Ângelo,apartamento,venda,7111.2,6791.4,7546.0,6,8.99,outubro/2026
+Arujá,Jardim Ângelo,apartamento,aluguel,53.3,52.5,68.6,5,8.99,outubro/2026
+Arujá,Jardim Limoeiro,apartamento,venda,11333.3,11015.6,11889.0,7,,outubro/2026
+Arujá,Jardim Renata,apartamento,venda,11504.2,10301.6,12659.2,14,6.33,outubro/2026
+Arujá,Jardim Renata,apartamento,aluguel,60.7,42.3,65.8,10,6.33,outubro/2026
+Arujá,Jardim Rincão,apartamento,venda,13032.7,8196.4,14870.7,6,3.13,outubro/2026
+Arujá,Jardim Rincão,apartamento,aluguel,34.0,31.0,49.9,6,3.13,outubro/2026
+Arujá,Jordanópolis,apartamento,venda,9060.7,7341.8,10588.2,65,7.67,outubro/2026
+Arujá,Jordanópolis,apartamento,aluguel,57.9,49.7,70.2,23,7.67,outubro/2026
+Arujá,Neo Life,apartamento,venda,14655.2,12848.5,17147.1,9,7.67,outubro/2026
+Arujá,Neo Life,apartamento,aluguel,93.7,85.4,104.0,8,7.67,outubro/2026
+Arujá,Nova Arujá,apartamento,venda,8706.9,8096.0,10696.5,11,7.66,outubro/2026
+Arujá,Nova Arujá,apartamento,aluguel,55.6,51.7,87.1,5,7.66,outubro/2026
+Arujá,Parque Rodrigo Barreto,apartamento,venda,6000.0,4622.2,7142.9,5,9.62,outubro/2026
+Arujá,Parque Rodrigo Barreto,apartamento,aluguel,48.1,25.0,60.0,5,9.62,outubro/2026
+Arujá,Piazza Navona Residence,apartamento,venda,10855.5,9545.2,12758.7,10,,outubro/2026
+Arujá,Plaza Valencia,apartamento,venda,9852.9,9338.2,10456.6,5,,outubro/2026
+Arujá,Portão,apartamento,venda,8715.5,5865.4,10241.3,26,7.1,outubro/2026
+Arujá,Portão,apartamento,aluguel,51.6,37.2,55.4,7,7.1,outubro/2026
+Arujá,Residencial Viver,apartamento,venda,10588.2,10000.0,11226.4,7,,outubro/2026
+Arujá,Splendya,apartamento,venda,11173.2,10533.3,13857.3,16,7.45,outubro/2026
+Arujá,Splendya,apartamento,aluguel,69.4,55.7,83.2,10,7.45,outubro/2026
+Arujá,Vila Pilar,apartamento,venda,8375.0,7118.6,9482.8,5,,outubro/2026
+Arujá,Arujamérica,terreno,venda,1200.0,854.4,1315.4,7,,outubro/2026
+Arujá,Arujazinho I,terreno,venda,865.2,679.7,880.8,7,,outubro/2026
+Arujá,"Arujázinho I, II e III",terreno,venda,625.0,558.5,989.3,27,,outubro/2026
+Arujá,Arujázinho IV,terreno,venda,1646.0,966.2,3958.3,5,,outubro/2026
+Arujá,Bairro do Limoeiro,terreno,venda,1285.4,1062.6,1720.5,7,,outubro/2026
+Arujá,Barreto,terreno,venda,478.1,300.0,1166.0,7,,outubro/2026
+Arujá,Canjicas,terreno,venda,423.1,275.2,605.0,6,,outubro/2026
+Arujá,Caputera,terreno,venda,700.8,366.8,1048.9,27,,outubro/2026
+Arujá,Centro,terreno,venda,1811.4,1587.5,2500.0,32,,outubro/2026
+Arujá,Centro Industrial,terreno,venda,1300.0,1200.0,1500.0,13,,outubro/2026
+Arujá,Chácara São José,terreno,venda,1201.2,1110.3,1375.7,6,,outubro/2026
+Arujá,Chácaras Copaco,terreno,venda,180.8,161.0,642.2,20,,outubro/2026
+Arujá,Cidade Nova,terreno,venda,1000.0,500.0,1137.1,9,,outubro/2026
+Arujá,Copaco,terreno,venda,192.5,156.8,275.5,6,,outubro/2026
+Arujá,Fontes,terreno,venda,734.3,621.1,1000.0,5,,outubro/2026
+Arujá,II e III,terreno,venda,705.9,569.1,960.0,73,,outubro/2026
+Arujá,Jardim das Cerejeiras,terreno,venda,600.0,243.4,920.0,9,,outubro/2026
+Arujá,Jardim Fazenda Rincão,terreno,venda,2378.8,1459.9,2491.4,10,,outubro/2026
+Arujá,Jardim Imperial,terreno,venda,1031.5,891.4,1267.9,8,,outubro/2026
+Arujá,Jardim Imperial Hills III,terreno,venda,1520.6,1487.3,1560.0,6,,outubro/2026
+Arujá,Jardim Pinheiro,terreno,venda,1066.7,816.3,1416.7,7,,outubro/2026
+Arujá,Jardim Planalto,terreno,venda,2000.0,1438.4,2063.5,5,,outubro/2026
+Arujá,Jardim Renata,terreno,venda,1600.0,1201.6,1800.0,5,,outubro/2026
+Arujá,Jardim Rincão,terreno,venda,1915.3,1385.9,2643.5,10,,outubro/2026
+Arujá,Jardim São Jorge,terreno,venda,538.6,379.1,710.0,8,,outubro/2026
+Arujá,Jordanópolis,terreno,venda,1250.1,1224.4,1515.3,31,,outubro/2026
+Arujá,Mirante,terreno,venda,961.7,354.8,1750.0,12,,outubro/2026
+Arujá,Nova Arujá,terreno,venda,1318.2,1034.1,1688.1,10,,outubro/2026
+Arujá,Parque dos Jacarandás,terreno,venda,350.3,212.7,725.5,8,,outubro/2026
+Arujá,Parque Maringá,terreno,venda,648.6,284.3,1150.0,11,,outubro/2026
+Arujá,Parque Rodrigo Barreto,terreno,venda,549.5,263.3,1216.0,14,,outubro/2026
+Arujá,Pedreira,terreno,venda,413.8,281.2,480.7,6,,outubro/2026
+Arujá,Penhinha,terreno,venda,400.0,176.7,550.0,5,,outubro/2026
+Arujá,Perobal,terreno,venda,780.0,500.0,1085.4,16,,outubro/2026
+Arujá,Perová,terreno,venda,750.0,642.4,850.0,9,,outubro/2026
+Arujá,Portão,terreno,venda,1466.0,1209.7,1870.6,39,,outubro/2026
+Arujá,Residencial Real Park,terreno,venda,3297.7,3156.2,3953.9,8,,outubro/2026
+Arujá,São Bento,terreno,venda,541.9,195.0,1569.2,21,,outubro/2026
+Arujá,Bairro do Limoeiro,sala,aluguel,95.0,95.0,105.0,7,,outubro/2026
+Arujá,Caputera,sala,aluguel,90.1,69.8,95.0,20,,outubro/2026
+Arujá,Centro,sala,venda,13125.0,11299.8,15216.1,8,5.72,outubro/2026
+Arujá,Centro,sala,aluguel,62.6,46.0,84.0,41,5.72,outubro/2026
+Arujá,Cidade Nova,sala,venda,10363.6,8181.8,10384.6,5,,outubro/2026
+Arujá,Jardim Fazenda Rincão,sala,aluguel,63.7,46.6,91.6,10,,outubro/2026
+Arujá,Jardim Limoeiro,sala,aluguel,92.1,57.6,95.0,5,,outubro/2026
+Arujá,Jardim Planalto,sala,aluguel,62.1,59.0,104.2,5,,outubro/2026
+Arujá,Jm 600,sala,aluguel,84.0,74.3,99.0,11,,outubro/2026
+Arujá,Jordanópolis,sala,aluguel,62.5,50.0,85.9,5,,outubro/2026
+Arujá,Nova Arujá,sala,venda,8707.8,8145.0,9333.9,6,8.27,outubro/2026
+Arujá,Nova Arujá,sala,aluguel,60.0,60.0,78.1,5,8.27,outubro/2026
+Arujá,Perová,sala,aluguel,40.0,35.0,54.3,5,,outubro/2026
+Arujá,Portão,sala,venda,10000.0,8437.5,10937.5,5,,outubro/2026
+Arujá,Vila Flora Regina,sala,aluguel,66.7,37.5,85.0,10,,outubro/2026
+Arujá,Centro,galpao,aluguel,41.1,32.5,50.0,9,,outubro/2026
+Arujá,Centro Industrial,galpao,venda,4661.7,3426.8,6083.3,11,8.57,outubro/2026
+Arujá,Centro Industrial,galpao,aluguel,33.3,29.4,36.0,8,8.57,outubro/2026
+Arujá,Jardim Jóia,galpao,aluguel,30.0,23.9,31.2,9,,outubro/2026
+Arujá,Jordanópolis,galpao,aluguel,23.5,21.0,26.4,12,,outubro/2026
+Arujá,Perobal,galpao,aluguel,30.2,28.5,31.8,6,,outubro/2026
+Arujá,Perová,galpao,aluguel,28.8,23.7,34.2,10,,outubro/2026
+Arujá,Portão,galpao,venda,4852.9,3811.9,5503.3,14,8.65,outubro/2026
+Arujá,Portão,galpao,aluguel,35.0,24.0,37.6,25,8.65,outubro/2026

@@ -1,0 +1,590 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Jundiaí,Agapeama,casa,venda,4843.8,3740.1,6196.5,55,,outubro/2026
+Jundiaí,Água Doce,casa,venda,3116.3,2896.6,4911.1,14,,outubro/2026
+Jundiaí,Anhangabaú,casa,venda,4945.7,4010.3,6704.0,74,7.38,outubro/2026
+Jundiaí,Anhangabaú,casa,aluguel,30.4,27.2,38.2,27,7.38,outubro/2026
+Jundiaí,Bela Vista,casa,venda,4471.2,3559.5,5438.8,58,8.94,outubro/2026
+Jundiaí,Bela Vista,casa,aluguel,33.3,27.6,39.9,24,8.94,outubro/2026
+Jundiaí,Bella Vittà,casa,venda,9750.0,8865.2,10000.0,9,,outubro/2026
+Jundiaí,Brisas da Mata,casa,venda,10429.3,9085.1,11104.6,6,,outubro/2026
+Jundiaí,Castanho,casa,venda,4658.0,3038.3,4975.2,7,,outubro/2026
+Jundiaí,Caxambu,casa,venda,5822.9,4389.2,8000.0,94,6.64,outubro/2026
+Jundiaí,Caxambu,casa,aluguel,32.2,28.5,41.7,12,6.64,outubro/2026
+Jundiaí,Cecap,casa,venda,7131.4,5747.4,8185.9,8,,outubro/2026
+Jundiaí,Centro,casa,venda,4450.3,3691.3,6159.7,121,7.98,outubro/2026
+Jundiaí,Centro,casa,aluguel,29.6,24.9,37.2,28,7.98,outubro/2026
+Jundiaí,Chácara Malota,casa,venda,7426.9,5450.0,9207.7,66,6.09,outubro/2026
+Jundiaí,Chácara Malota,casa,aluguel,37.7,34.0,46.9,11,6.09,outubro/2026
+Jundiaí,Chácara Morada Mediterrânea,casa,venda,8118.2,6281.9,8974.2,48,,outubro/2026
+Jundiaí,Chácara Planalto,casa,venda,7856.6,7171.2,8496.5,6,,outubro/2026
+Jundiaí,Chácara Terra Nova,casa,venda,11000.0,8476.4,12358.0,29,,outubro/2026
+Jundiaí,Chácara Urbana,casa,venda,7330.8,6063.7,10376.1,47,5.11,outubro/2026
+Jundiaí,Chácara Urbana,casa,aluguel,31.2,28.2,43.5,12,5.11,outubro/2026
+Jundiaí,Chácaras Saudáveis e Encantadoras,casa,venda,8557.7,7690.0,8992.1,12,,outubro/2026
+Jundiaí,Cidade Luiza,casa,venda,4074.1,3400.0,5319.1,25,,outubro/2026
+Jundiaí,Cidade Nova,casa,venda,4864.0,3536.8,8337.4,64,4.98,outubro/2026
+Jundiaí,Cidade Nova,casa,aluguel,20.2,19.4,35.7,6,4.98,outubro/2026
+Jundiaí,Cidade Santos Dumont,casa,venda,10140.4,4736.8,15000.0,33,5.54,outubro/2026
+Jundiaí,Cidade Santos Dumont,casa,aluguel,46.8,39.8,59.4,11,5.54,outubro/2026
+Jundiaí,Colônia,casa,venda,4336.3,3681.1,5378.5,24,5.53,outubro/2026
+Jundiaí,Colônia,casa,aluguel,20.0,18.7,23.1,5,5.53,outubro/2026
+Jundiaí,Corrupira,casa,venda,8666.7,7103.6,10343.0,23,,outubro/2026
+Jundiaí,Currupira,casa,venda,5736.5,3239.9,9128.6,24,,outubro/2026
+Jundiaí,Distrito Industrial,casa,venda,4912.4,2883.2,9591.4,10,,outubro/2026
+Jundiaí,Eloy Chaves,casa,venda,8303.2,6201.6,9727.3,54,,outubro/2026
+Jundiaí,Engordadouro,casa,venda,8640.8,7120.0,10194.2,57,8.21,outubro/2026
+Jundiaí,Engordadouro,casa,aluguel,59.1,55.8,66.7,8,8.21,outubro/2026
+Jundiaí,Ermida,casa,venda,9212.0,8125.0,10000.0,37,,outubro/2026
+Jundiaí,Fazenda Campo Verde,casa,venda,5345.9,4615.4,5963.0,18,,outubro/2026
+Jundiaí,Fazenda Grande,casa,venda,4390.9,3644.3,5043.9,48,6.12,outubro/2026
+Jundiaí,Fazenda Grande,casa,aluguel,22.4,20.0,26.4,9,6.12,outubro/2026
+Jundiaí,Gramadão,casa,venda,8684.2,7563.3,11000.0,17,,outubro/2026
+Jundiaí,Horto Florestal,casa,venda,9782.6,4486.9,10820.4,18,,outubro/2026
+Jundiaí,Horto Santo Antonio,casa,venda,4946.2,4324.0,5719.1,23,,outubro/2026
+Jundiaí,Ivoturucaia,casa,venda,5058.4,3790.8,6871.6,11,,outubro/2026
+Jundiaí,Jardim Alice,casa,venda,7042.8,5025.4,9021.8,18,,outubro/2026
+Jundiaí,Jardim Ana Maria,casa,venda,6850.2,5945.8,7871.9,24,8.18,outubro/2026
+Jundiaí,Jardim Ana Maria,casa,aluguel,46.7,38.6,52.0,17,8.18,outubro/2026
+Jundiaí,Jardim Bizarro,casa,venda,3850.9,3189.0,5146.1,20,,outubro/2026
+Jundiaí,Jardim Bonfiglioli,casa,venda,4573.1,3790.5,5159.2,24,9.84,outubro/2026
+Jundiaí,Jardim Bonfiglioli,casa,aluguel,37.5,30.0,45.0,9,9.84,outubro/2026
+Jundiaí,Jardim Brasil,casa,venda,5943.9,4567.5,6980.7,38,,outubro/2026
+Jundiaí,Jardim Caçula,casa,venda,3686.1,3322.6,4354.8,28,,outubro/2026
+Jundiaí,Jardim Califórnia,casa,venda,3267.7,2500.0,3925.9,14,,outubro/2026
+Jundiaí,Jardim Campos Elísios,casa,venda,5093.0,4060.7,5980.9,6,,outubro/2026
+Jundiaí,Jardim Carlos Gomes,casa,venda,3365.1,2551.0,4800.0,13,,outubro/2026
+Jundiaí,Jardim Carolina,casa,venda,7142.9,6080.0,8063.1,25,,outubro/2026
+Jundiaí,Jardim Caxambu,casa,venda,6153.8,4319.9,7474.1,67,,outubro/2026
+Jundiaí,Jardim Celeste,casa,venda,8677.7,5841.5,9964.3,39,,outubro/2026
+Jundiaí,Jardim Cica,casa,venda,4044.4,3642.6,5847.6,6,,outubro/2026
+Jundiaí,Jardim Colônia,casa,venda,7118.6,4887.9,8285.4,66,7.11,outubro/2026
+Jundiaí,Jardim Colônia,casa,aluguel,42.2,31.0,45.0,5,7.11,outubro/2026
+Jundiaí,Jardim Colonial,casa,venda,5900.0,3160.0,7083.3,37,,outubro/2026
+Jundiaí,Jardim Copacabana,casa,venda,4602.8,3648.1,6019.6,32,,outubro/2026
+Jundiaí,Jardim Cristina,casa,venda,4912.6,3142.9,5191.3,9,,outubro/2026
+Jundiaí,Jardim da Fonte,casa,venda,3653.8,2925.6,4473.6,67,9.23,outubro/2026
+Jundiaí,Jardim da Fonte,casa,aluguel,28.1,27.8,28.9,5,9.23,outubro/2026
+Jundiaí,Jardim da Serra,casa,venda,3076.9,2544.0,4508.4,47,,outubro/2026
+Jundiaí,Jardim Danúbio,casa,venda,4687.5,3912.2,5317.3,30,,outubro/2026
+Jundiaí,Jardim das Carpas,casa,venda,7278.8,6220.8,8004.9,28,,outubro/2026
+Jundiaí,Jardim das Samambaias,casa,venda,8291.9,4633.0,11777.3,77,9.09,outubro/2026
+Jundiaí,Jardim das Samambaias,casa,aluguel,62.8,57.7,88.2,8,9.09,outubro/2026
+Jundiaí,Jardim das Tulipas,casa,venda,3751.4,2992.9,4475.0,52,,outubro/2026
+Jundiaí,Jardim do Lago,casa,venda,3595.9,2831.1,4366.1,58,,outubro/2026
+Jundiaí,Jardim do Lírio,casa,venda,3274.0,2911.0,3879.5,6,,outubro/2026
+Jundiaí,Jardim Dona Donata,casa,venda,6251.4,4116.4,7410.8,8,,outubro/2026
+Jundiaí,Jardim Ermida I,casa,venda,9135.2,7995.9,10265.3,32,6.31,outubro/2026
+Jundiaí,Jardim Ermida I,casa,aluguel,48.0,46.0,51.1,7,6.31,outubro/2026
+Jundiaí,Jardim Ermida II,casa,venda,6873.3,4779.9,8710.2,20,,outubro/2026
+Jundiaí,Jardim Esplanada,casa,venda,3992.0,3372.7,4795.6,32,7.67,outubro/2026
+Jundiaí,Jardim Esplanada,casa,aluguel,25.5,24.1,28.0,7,7.67,outubro/2026
+Jundiaí,Jardim Estádio,casa,venda,3714.3,3211.7,4651.2,33,,outubro/2026
+Jundiaí,Jardim Europa,casa,venda,5430.4,4581.5,5982.7,16,,outubro/2026
+Jundiaí,Jardim Florestal,casa,venda,4926.1,4057.6,6625.3,61,6.6,outubro/2026
+Jundiaí,Jardim Florestal,casa,aluguel,27.1,21.7,34.9,12,6.6,outubro/2026
+Jundiaí,Jardim Gramadão I,casa,venda,9736.8,7955.6,10227.3,9,,outubro/2026
+Jundiaí,Jardim Guanabara,casa,venda,2800.0,2205.1,4800.0,21,,outubro/2026
+Jundiaí,Jardim Ipanema,casa,venda,5740.3,5220.6,6530.6,28,,outubro/2026
+Jundiaí,Jardim Itália,casa,venda,4260.1,3501.2,5736.7,42,,outubro/2026
+Jundiaí,Jardim Liberdade,casa,venda,4642.4,3910.0,5435.4,32,,outubro/2026
+Jundiaí,Jardim Marabambaia II (Jardim Santa Gertrudes),casa,venda,4815.4,4276.3,6708.9,8,,outubro/2026
+Jundiaí,Jardim Marambaia,casa,venda,5238.4,4913.0,5948.3,44,,outubro/2026
+Jundiaí,Jardim Marambaia II,casa,venda,6383.0,4760.2,7774.2,35,,outubro/2026
+Jundiaí,Jardim Marco Leite,casa,venda,10125.0,4876.8,15358.4,57,,outubro/2026
+Jundiaí,Jardim Martins,casa,venda,4536.8,3788.9,5270.6,22,,outubro/2026
+Jundiaí,Jardim Merci I,casa,venda,3634.1,2739.8,4463.8,8,,outubro/2026
+Jundiaí,Jardim Merci II,casa,venda,4834.6,3647.4,5201.5,12,,outubro/2026
+Jundiaí,Jardim Messina,casa,venda,4500.0,3888.9,5615.9,33,7.04,outubro/2026
+Jundiaí,Jardim Messina,casa,aluguel,26.4,23.6,30.3,8,7.04,outubro/2026
+Jundiaí,Jardim Morumbi,casa,venda,5232.6,3750.0,6309.1,13,,outubro/2026
+Jundiaí,Jardim Nogueira,casa,venda,3919.2,3067.4,4667.1,12,,outubro/2026
+Jundiaí,Jardim Novo Mundo,casa,venda,7589.4,6253.7,9482.0,42,8.08,outubro/2026
+Jundiaí,Jardim Novo Mundo,casa,aluguel,51.1,34.7,56.9,14,8.08,outubro/2026
+Jundiaí,Jardim Pacaembu,casa,venda,3504.5,2656.2,4203.0,75,7.91,outubro/2026
+Jundiaí,Jardim Pacaembu,casa,aluguel,23.1,15.7,29.7,7,7.91,outubro/2026
+Jundiaí,Jardim Paris,casa,venda,5480.0,4320.9,6104.8,8,9.48,outubro/2026
+Jundiaí,Jardim Paris,casa,aluguel,43.3,42.8,44.1,5,9.48,outubro/2026
+Jundiaí,Jardim Paulista I,casa,venda,4855.1,3874.3,6165.1,79,,outubro/2026
+Jundiaí,Jardim Paulista II,casa,venda,4973.8,4259.0,5606.2,78,,outubro/2026
+Jundiaí,Jardim Petrópolis,casa,venda,5022.8,4666.7,6742.1,9,,outubro/2026
+Jundiaí,Jardim Pitangueiras I,casa,venda,5093.2,3490.9,6714.6,7,,outubro/2026
+Jundiaí,Jardim Pitangueiras II,casa,venda,3599.5,3006.5,5281.0,10,,outubro/2026
+Jundiaí,Jardim Planalto,casa,venda,4000.0,3292.2,4680.1,23,,outubro/2026
+Jundiaí,Jardim Primavera,casa,venda,4651.2,3833.3,5531.0,11,,outubro/2026
+Jundiaí,Jardim Quintas das Videiras,casa,venda,5598.7,4244.8,8023.7,22,,outubro/2026
+Jundiaí,Jardim Roma,casa,venda,4044.9,3920.0,4292.9,9,,outubro/2026
+Jundiaí,Jardim Sagrado Coração de Jesus,casa,venda,4690.3,4072.0,5198.7,17,,outubro/2026
+Jundiaí,Jardim Santa Adelaide,casa,venda,4980.8,4776.1,5933.3,9,,outubro/2026
+Jundiaí,Jardim Santa Gertrudes,casa,venda,3743.3,2522.3,5703.4,28,,outubro/2026
+Jundiaí,Jardim Santa Júlia,casa,venda,5642.9,4660.0,5857.1,9,,outubro/2026
+Jundiaí,Jardim Santa Teresa,casa,venda,8280.0,7346.0,10050.3,32,,outubro/2026
+Jundiaí,Jardim São Bento,casa,aluguel,29.4,24.6,37.6,8,,outubro/2026
+Jundiaí,Jardim São Camilo,casa,venda,3168.4,2417.5,3881.1,10,,outubro/2026
+Jundiaí,Jardim São Camilo Novo,casa,venda,2812.5,1681.3,3112.0,5,,outubro/2026
+Jundiaí,Jardim São Marcus,casa,venda,3445.7,3246.3,3604.4,6,,outubro/2026
+Jundiaí,Jardim São Paulo,casa,venda,3125.0,2798.3,3401.6,7,,outubro/2026
+Jundiaí,Jardim São Vicente,casa,venda,4187.2,3631.8,4882.8,17,,outubro/2026
+Jundiaí,Jardim Sarapiranga,casa,venda,5654.0,5167.2,6037.7,20,,outubro/2026
+Jundiaí,Jardim Shangai,casa,venda,8488.6,7478.1,9892.3,42,6.56,outubro/2026
+Jundiaí,Jardim Shangai,casa,aluguel,46.4,45.9,52.1,7,6.56,outubro/2026
+Jundiaí,Jardim Tamoio,casa,venda,3371.1,2538.5,3973.5,25,,outubro/2026
+Jundiaí,Jardim Tannus,casa,venda,4200.8,3724.9,5457.2,46,,outubro/2026
+Jundiaí,Jardim Tarumã,casa,venda,4238.1,2747.3,6001.0,22,,outubro/2026
+Jundiaí,Jardim Tereza Cristina,casa,venda,7992.3,5774.4,9857.8,50,,outubro/2026
+Jundiaí,Jardim Torres São José,casa,venda,4347.8,3600.0,6808.5,13,,outubro/2026
+Jundiaí,Jardim Trevo,casa,venda,3741.5,2940.0,5130.9,9,,outubro/2026
+Jundiaí,Jardim Vale Verde,casa,venda,5854.7,5000.0,7575.8,49,,outubro/2026
+Jundiaí,Jardim Vera Cruz,casa,venda,3277.8,2738.1,4011.6,5,,outubro/2026
+Jundiaí,Jundiaí Mirim,casa,venda,6829.9,5851.2,7428.6,25,,outubro/2026
+Jundiaí,Loteamento Brisas do Lago,casa,venda,12187.5,10588.2,13230.1,13,,outubro/2026
+Jundiaí,Loteamento Capital Ville,casa,venda,5600.0,4528.8,7176.3,82,,outubro/2026
+Jundiaí,Loteamento Ermida,casa,venda,7229.2,4838.9,7583.3,6,,outubro/2026
+Jundiaí,Loteamento Jardim Ipanema,casa,venda,3600.0,3180.0,3720.0,5,,outubro/2026
+Jundiaí,Loteamento Portal da Colina,casa,venda,5675.0,4834.7,6635.2,14,,outubro/2026
+Jundiaí,Loteamento Portal do Paraiso,casa,venda,6829.3,6823.5,7004.3,5,,outubro/2026
+Jundiaí,Loteamento Reserva da Mata,casa,venda,8940.0,8118.3,9701.7,6,,outubro/2026
+Jundiaí,Loteamento Reserva da Serra,casa,venda,8515.3,7611.1,9361.7,25,,outubro/2026
+Jundiaí,Loteamento Reserva Ermida,casa,venda,8308.6,5225.9,9827.4,67,,outubro/2026
+Jundiaí,Loteamento Vale Azul I,casa,venda,9229.4,8527.5,9638.9,6,,outubro/2026
+Jundiaí,Loteamento Villaggio Di San Francisco,casa,venda,6956.5,6241.6,7516.3,9,,outubro/2026
+Jundiaí,Loteamento Vivenda Centenário,casa,venda,6553.8,5982.6,8038.5,11,,outubro/2026
+Jundiaí,Malota,casa,venda,7227.0,6197.0,10220.2,58,,outubro/2026
+Jundiaí,Marco Leite,casa,venda,11221.5,9710.1,15764.2,8,,outubro/2026
+Jundiaí,Medeiros,casa,venda,8008.6,6500.0,9518.7,150,5.96,outubro/2026
+Jundiaí,Medeiros,casa,aluguel,39.8,31.5,46.9,22,5.96,outubro/2026
+Jundiaí,Mirante,casa,venda,5200.0,4860.2,5862.6,15,,outubro/2026
+Jundiaí,Mirante da Colonia,casa,venda,5455.4,4793.9,6291.7,32,,outubro/2026
+Jundiaí,Novo Horizonte,casa,venda,2782.6,2120.0,3466.7,21,,outubro/2026
+Jundiaí,Parque Almerinda Chaves,casa,venda,4701.5,3655.5,5333.3,9,,outubro/2026
+Jundiaí,Parque Almerinda Pereira Chaves,casa,venda,3946.7,3305.5,4610.6,60,8.18,outubro/2026
+Jundiaí,Parque Almerinda Pereira Chaves,casa,aluguel,26.9,26.1,28.0,9,8.18,outubro/2026
+Jundiaí,Parque Brasília,casa,venda,3842.1,2921.4,4996.0,11,,outubro/2026
+Jundiaí,Parque Cecap,casa,venda,8451.1,6124.8,9455.6,46,,outubro/2026
+Jundiaí,Parque Centenário,casa,venda,5338.0,3619.6,6466.5,20,,outubro/2026
+Jundiaí,Parque Cidade Jardim,casa,venda,3840.0,3402.9,4829.7,19,,outubro/2026
+Jundiaí,Parque Cidade Jardim II,casa,venda,4653.3,3940.7,5464.5,76,,outubro/2026
+Jundiaí,Parque da Colônia,casa,venda,6329.4,4977.3,7171.0,10,,outubro/2026
+Jundiaí,Parque da Represa,casa,venda,4731.2,3700.0,5800.0,49,,outubro/2026
+Jundiaí,Parque do Colégio,casa,venda,6358.4,5355.3,7447.2,42,6.04,outubro/2026
+Jundiaí,Parque do Colégio,casa,aluguel,32.0,28.8,34.3,18,6.04,outubro/2026
+Jundiaí,Parque Portal do Paraíso,casa,venda,5658.1,4753.2,6312.9,6,,outubro/2026
+Jundiaí,Parque Quinta da Boa Vista,casa,venda,6346.2,3526.4,7219.3,17,,outubro/2026
+Jundiaí,Parque Residencial,casa,venda,3842.1,3060.7,4800.0,85,6.75,outubro/2026
+Jundiaí,Parque Residencial,casa,aluguel,21.6,20.0,30.0,9,6.75,outubro/2026
+Jundiaí,Parque Residencial Eloy Chaves,casa,venda,4617.9,3457.5,7097.8,67,9.41,outubro/2026
+Jundiaí,Parque Residencial Eloy Chaves,casa,aluguel,36.2,29.1,40.0,7,9.41,outubro/2026
+Jundiaí,Parque Residencial Jundiaí II,casa,venda,4405.5,3591.2,4969.7,17,,outubro/2026
+Jundiaí,Parque Residencial Nove de Julho,casa,venda,5861.5,5516.0,8007.7,6,,outubro/2026
+Jundiaí,Parque São Luiz,casa,venda,2138.9,1908.4,3463.1,6,,outubro/2026
+Jundiaí,Ponte de Campinas,casa,venda,3148.1,2671.0,4330.6,23,,outubro/2026
+Jundiaí,Ponte de São João,casa,venda,3438.8,2944.7,4911.6,66,,outubro/2026
+Jundiaí,Portal do Paraíso I,casa,venda,6764.7,5769.5,7420.1,19,,outubro/2026
+Jundiaí,Portal do Paraíso II,casa,venda,7567.0,6000.0,8856.3,60,7.04,outubro/2026
+Jundiaí,Portal do Paraíso II,casa,aluguel,44.4,37.4,56.7,6,7.04,outubro/2026
+Jundiaí,Poste,casa,venda,3911.8,3463.5,5043.1,8,,outubro/2026
+Jundiaí,Quinta das Paineiras,casa,venda,10941.5,10350.0,12367.0,7,,outubro/2026
+Jundiaí,Recanto Quarto Centenário,casa,venda,9186.4,7435.4,11085.6,60,5.58,outubro/2026
+Jundiaí,Recanto Quarto Centenário,casa,aluguel,42.7,36.2,59.3,12,5.58,outubro/2026
+Jundiaí,Reserva da Serra,casa,venda,9366.0,8110.7,10216.5,97,,outubro/2026
+Jundiaí,Residencial Santa Giovana,casa,venda,6122.3,4708.3,7091.3,54,,outubro/2026
+Jundiaí,Retiro,casa,venda,4958.7,3485.9,5500.0,9,,outubro/2026
+Jundiaí,Roseira,casa,venda,2957.0,2007.8,5100.0,15,,outubro/2026
+Jundiaí,Terras de Gênova,casa,venda,9179.0,8685.2,10592.8,6,,outubro/2026
+Jundiaí,Terras de São Carlos,casa,venda,6824.0,5739.4,7891.9,32,,outubro/2026
+Jundiaí,Torres de São Jose,casa,venda,4558.8,3884.6,5279.4,6,,outubro/2026
+Jundiaí,Tulipas,casa,venda,3785.0,2947.0,4579.9,22,,outubro/2026
+Jundiaí,Vale Azul,casa,venda,7654.3,5720.4,10098.0,11,,outubro/2026
+Jundiaí,Vale Azul II,casa,venda,8166.7,7664.1,9697.6,7,,outubro/2026
+Jundiaí,Vianelo Bonfiglioli,casa,venda,4151.6,3650.8,4931.5,5,,outubro/2026
+Jundiaí,Vila Agostinho Zambom,casa,venda,4024.4,3714.3,4608.7,5,,outubro/2026
+Jundiaí,Vila Anchieta,casa,venda,4142.9,3541.8,4777.0,7,,outubro/2026
+Jundiaí,Vila Aparecida,casa,venda,3722.2,2635.4,5098.8,22,,outubro/2026
+Jundiaí,Vila Arens,casa,venda,4749.0,3697.3,5887.0,20,,outubro/2026
+Jundiaí,Vila Arens I,casa,venda,3757.8,3375.2,4213.2,12,,outubro/2026
+Jundiaí,Vila Arens II,casa,venda,4262.5,3264.2,5211.1,66,10.59,outubro/2026
+Jundiaí,Vila Arens II,casa,aluguel,37.6,29.3,47.2,11,10.59,outubro/2026
+Jundiaí,Vila Argos Nova,casa,venda,5000.0,4508.1,5733.5,15,7.78,outubro/2026
+Jundiaí,Vila Argos Nova,casa,aluguel,32.4,28.2,34.4,8,7.78,outubro/2026
+Jundiaí,Vila Bela I,casa,venda,4826.4,3945.3,5453.5,7,,outubro/2026
+Jundiaí,Vila Bela II,casa,venda,7483.0,6903.8,12000.0,5,,outubro/2026
+Jundiaí,Vila Boaventura,casa,venda,4982.4,4025.0,7057.8,18,,outubro/2026
+Jundiaí,Vila Cacilda,casa,venda,4083.3,3814.0,6029.2,6,,outubro/2026
+Jundiaí,Vila Comercial,casa,venda,4714.3,4608.7,5076.9,5,,outubro/2026
+Jundiaí,Vila das Hortências,casa,venda,5364.6,4130.2,7177.8,18,,outubro/2026
+Jundiaí,Vila de Vecchi,casa,venda,4636.4,4350.0,5225.0,17,,outubro/2026
+Jundiaí,Vila de Vito,casa,venda,3787.9,3308.8,4455.1,5,,outubro/2026
+Jundiaí,Vila Della Piazza,casa,venda,3988.4,3808.4,4000.0,5,,outubro/2026
+Jundiaí,Vila Didi,casa,venda,3512.3,2782.8,4292.5,48,,outubro/2026
+Jundiaí,Vila Esperança,casa,venda,2147.4,2004.4,3406.5,22,,outubro/2026
+Jundiaí,Vila Formosa,casa,venda,3508.3,2691.0,4438.2,7,,outubro/2026
+Jundiaí,Vila Galvão,casa,venda,4649.6,3853.7,5291.1,22,6.17,outubro/2026
+Jundiaí,Vila Galvão,casa,aluguel,23.9,21.8,26.2,7,6.17,outubro/2026
+Jundiaí,Vila Garcia,casa,venda,4602.9,2690.4,5079.4,9,,outubro/2026
+Jundiaí,Vila Graff,casa,venda,3850.6,3497.8,4322.4,14,,outubro/2026
+Jundiaí,Vila Guarani,casa,venda,5714.3,5197.3,6579.4,15,,outubro/2026
+Jundiaí,Vila Helena,casa,venda,3847.5,3001.0,4941.3,34,,outubro/2026
+Jundiaí,Vila Hortolândia,casa,venda,4520.0,3331.4,5216.7,27,,outubro/2026
+Jundiaí,Vila Inhamupe,casa,venda,4626.8,3310.2,5114.5,6,,outubro/2026
+Jundiaí,Vila Isabel Eber,casa,venda,3716.7,2827.6,4440.3,46,,outubro/2026
+Jundiaí,Vila Joana,casa,venda,3605.9,2869.5,4519.4,74,,outubro/2026
+Jundiaí,Vila Josefina,casa,venda,4263.4,3350.0,4732.9,12,,outubro/2026
+Jundiaí,Vila Lacerda,casa,venda,3066.7,2373.4,4302.3,9,,outubro/2026
+Jundiaí,Vila Liberdade,casa,venda,4832.5,4144.4,6220.8,26,,outubro/2026
+Jundiaí,Vila Loyola,casa,venda,4833.3,3662.9,6586.8,18,8.94,outubro/2026
+Jundiaí,Vila Loyola,casa,aluguel,36.0,21.8,37.3,5,8.94,outubro/2026
+Jundiaí,Vila M Genoveva,casa,venda,4154.2,3114.1,4285.8,15,,outubro/2026
+Jundiaí,Vila Mafalda,casa,venda,6600.0,5391.3,7088.9,13,,outubro/2026
+Jundiaí,Vila Margarida,casa,venda,4230.8,3809.5,5203.1,5,,outubro/2026
+Jundiaí,Vila Maria Luiza,casa,venda,5456.4,4043.4,6757.1,12,8.42,outubro/2026
+Jundiaí,Vila Maria Luiza,casa,aluguel,38.3,29.9,38.6,6,8.42,outubro/2026
+Jundiaí,Vila Maringá,casa,venda,4336.7,3183.6,6750.6,30,,outubro/2026
+Jundiaí,Vila Marlene,casa,venda,3113.2,2607.9,4097.8,14,,outubro/2026
+Jundiaí,Vila Municipal,casa,venda,3892.0,3468.2,5310.5,42,7.71,outubro/2026
+Jundiaí,Vila Municipal,casa,aluguel,25.0,23.5,30.7,5,7.71,outubro/2026
+Jundiaí,Vila Nova Esperia,casa,venda,4622.5,3297.5,6882.1,20,,outubro/2026
+Jundiaí,Vila Nova Jundiainópolis,casa,venda,3920.0,3259.7,4642.9,29,,outubro/2026
+Jundiaí,Vila Nova Medeiros,casa,venda,4421.9,4272.3,5970.6,8,,outubro/2026
+Jundiaí,Vila Progresso,casa,venda,4114.6,3504.6,5174.8,106,7.32,outubro/2026
+Jundiaí,Vila Progresso,casa,aluguel,25.1,21.8,27.3,6,7.32,outubro/2026
+Jundiaí,Vila Rafael de Oliveira,casa,venda,3843.2,3374.4,4834.2,22,9.62,outubro/2026
+Jundiaí,Vila Rafael de Oliveira,casa,aluguel,30.8,24.7,35.8,6,9.62,outubro/2026
+Jundiaí,Vila Rami,casa,venda,4797.3,4282.5,5252.1,14,,outubro/2026
+Jundiaí,Vila Rica,casa,venda,3200.0,3150.0,3356.2,5,,outubro/2026
+Jundiaí,Vila Rio Branco,casa,venda,4031.9,3202.4,5468.8,40,6.46,outubro/2026
+Jundiaí,Vila Rio Branco,casa,aluguel,21.7,16.3,27.5,8,6.46,outubro/2026
+Jundiaí,Vila Salermo,casa,venda,3655.9,3009.6,5461.2,8,,outubro/2026
+Jundiaí,Vila Santa Rosa,casa,venda,4649.5,4021.5,5352.2,8,,outubro/2026
+Jundiaí,Vila Santana I,casa,venda,4078.0,3809.8,4471.5,6,,outubro/2026
+Jundiaí,Vila Santana II,casa,venda,4679.8,3175.4,5156.2,9,,outubro/2026
+Jundiaí,Vila São Paulo,casa,venda,3982.8,3190.9,4578.7,50,,outubro/2026
+Jundiaí,Vila Vianelo,casa,venda,4619.6,4005.7,5736.5,66,7.53,outubro/2026
+Jundiaí,Vila Vianelo,casa,aluguel,29.0,25.0,36.2,9,7.53,outubro/2026
+Jundiaí,Vila Viotto,casa,venda,4662.6,4201.6,5576.1,10,,outubro/2026
+Jundiaí,Vila Virgínia,casa,venda,5400.6,4029.3,9028.5,12,11.18,outubro/2026
+Jundiaí,Vila Virgínia,casa,aluguel,50.3,31.2,75.0,6,11.18,outubro/2026
+Jundiaí,Villaggio San Marco,casa,venda,10500.0,7300.0,12028.1,5,,outubro/2026
+Jundiaí,Vivenda,casa,venda,2334.9,1785.2,3199.1,8,,outubro/2026
+Jundiaí,Agapeama,apartamento,venda,6458.3,5360.4,7747.8,15,,outubro/2026
+Jundiaí,Alta Vista,apartamento,aluguel,64.8,62.5,67.8,8,,outubro/2026
+Jundiaí,Anhangabaú,apartamento,venda,12022.5,7358.5,14607.1,113,4.99,outubro/2026
+Jundiaí,Anhangabaú,apartamento,aluguel,50.0,36.7,61.0,97,4.99,outubro/2026
+Jundiaí,Atmosphera,apartamento,venda,9387.2,8983.7,9761.3,14,,outubro/2026
+Jundiaí,Bela Vista,apartamento,venda,5703.3,4867.4,14376.2,22,9.7,outubro/2026
+Jundiaí,Bela Vista,apartamento,aluguel,46.1,27.8,66.1,6,9.7,outubro/2026
+Jundiaí,Bosque dos Jacarandás,apartamento,venda,8576.3,7770.2,9172.2,24,6.73,outubro/2026
+Jundiaí,Bosque dos Jacarandás,apartamento,aluguel,48.1,45.0,53.6,7,6.73,outubro/2026
+Jundiaí,Caxambu,apartamento,venda,6424.4,5921.3,6759.3,10,,outubro/2026
+Jundiaí,Centro,apartamento,venda,6065.7,4733.3,8717.7,154,7.68,outubro/2026
+Jundiaí,Centro,apartamento,aluguel,38.8,25.9,60.8,106,7.68,outubro/2026
+Jundiaí,Chácara Urbana,apartamento,venda,9663.9,7490.2,11886.4,23,,outubro/2026
+Jundiaí,Chácaras Saudáveis e Encantadoras,apartamento,venda,9352.9,9137.8,9491.5,5,,outubro/2026
+Jundiaí,Cidade Luiza,apartamento,venda,9444.4,8888.9,10438.6,25,6.35,outubro/2026
+Jundiaí,Cidade Luiza,apartamento,aluguel,50.0,48.5,51.0,8,6.35,outubro/2026
+Jundiaí,Cidade Nova,apartamento,venda,7173.9,6716.3,7863.6,11,7.43,outubro/2026
+Jundiaí,Cidade Nova,apartamento,aluguel,44.4,38.4,49.4,15,7.43,outubro/2026
+Jundiaí,Colônia,apartamento,aluguel,47.7,43.9,48.0,5,,outubro/2026
+Jundiaí,Distrito Industrial,apartamento,aluguel,59.3,49.8,63.0,5,,outubro/2026
+Jundiaí,Eloy Chaves,apartamento,venda,9159.7,7725.5,10774.7,27,5.57,outubro/2026
+Jundiaí,Eloy Chaves,apartamento,aluguel,42.5,31.3,61.1,10,5.57,outubro/2026
+Jundiaí,Engordadouro,apartamento,venda,9558.8,8563.4,10519.4,75,6.28,outubro/2026
+Jundiaí,Engordadouro,apartamento,aluguel,50.0,45.2,59.2,68,6.28,outubro/2026
+Jundiaí,Ermida,apartamento,venda,9573.6,9042.7,9920.5,20,,outubro/2026
+Jundiaí,Horto Florestal,apartamento,venda,9767.9,8842.8,10734.1,42,6.39,outubro/2026
+Jundiaí,Horto Florestal,apartamento,aluguel,52.0,50.4,57.0,20,6.39,outubro/2026
+Jundiaí,Jardim Ana Maria,apartamento,venda,10483.9,8914.5,12500.0,93,6.14,outubro/2026
+Jundiaí,Jardim Ana Maria,apartamento,aluguel,53.6,41.6,61.2,40,6.14,outubro/2026
+Jundiaí,Jardim Bizarro,apartamento,venda,5555.6,4802.0,5638.3,5,,outubro/2026
+Jundiaí,Jardim Bonfiglioli,apartamento,venda,9933.3,7671.2,11875.0,37,5.62,outubro/2026
+Jundiaí,Jardim Bonfiglioli,apartamento,aluguel,46.5,37.1,52.0,37,5.62,outubro/2026
+Jundiaí,Jardim Búfalo,apartamento,venda,6730.8,6136.2,7433.1,15,,outubro/2026
+Jundiaí,Jardim Campos Elísios,apartamento,venda,12804.9,11483.3,14517.7,15,4.96,outubro/2026
+Jundiaí,Jardim Campos Elísios,apartamento,aluguel,52.9,51.0,60.3,9,4.96,outubro/2026
+Jundiaí,Jardim Carlos Gomes,apartamento,venda,7981.5,7809.2,8577.4,12,6.93,outubro/2026
+Jundiaí,Jardim Carlos Gomes,apartamento,aluguel,46.1,41.6,48.8,8,6.93,outubro/2026
+Jundiaí,Jardim Carolina,apartamento,venda,7200.0,6890.1,7372.5,11,8.03,outubro/2026
+Jundiaí,Jardim Carolina,apartamento,aluguel,48.2,41.4,52.1,20,8.03,outubro/2026
+Jundiaí,Jardim Colônia,apartamento,venda,7727.3,5857.1,8524.6,21,7.16,outubro/2026
+Jundiaí,Jardim Colônia,apartamento,aluguel,46.1,42.5,48.4,8,7.16,outubro/2026
+Jundiaí,Jardim Colonial,apartamento,venda,8170.0,7868.3,8375.1,8,,outubro/2026
+Jundiaí,Jardim da Fonte,apartamento,venda,7614.6,6827.8,8004.5,10,,outubro/2026
+Jundiaí,Jardim das Samambaias,apartamento,venda,12112.7,10200.0,13731.8,39,5.56,outubro/2026
+Jundiaí,Jardim das Samambaias,apartamento,aluguel,56.1,50.8,63.7,24,5.56,outubro/2026
+Jundiaí,Jardim das Tulipas,apartamento,venda,7416.2,6602.3,9089.6,8,,outubro/2026
+Jundiaí,Jardim do Lago,apartamento,venda,9482.8,8476.4,10230.8,33,6.81,outubro/2026
+Jundiaí,Jardim do Lago,apartamento,aluguel,53.8,48.3,60.0,19,6.81,outubro/2026
+Jundiaí,Jardim Ermida I,apartamento,venda,9717.4,8809.5,10218.4,18,6.34,outubro/2026
+Jundiaí,Jardim Ermida I,apartamento,aluguel,51.3,45.1,60.2,15,6.34,outubro/2026
+Jundiaí,Jardim Florestal,apartamento,venda,10594.1,9693.9,11538.5,21,,outubro/2026
+Jundiaí,Jardim Flórida,apartamento,venda,10377.3,9406.0,10795.5,18,5.78,outubro/2026
+Jundiaí,Jardim Flórida,apartamento,aluguel,50.0,45.0,67.4,17,5.78,outubro/2026
+Jundiaí,Jardim Guanabara,apartamento,venda,7281.2,5560.0,8721.5,37,7.93,outubro/2026
+Jundiaí,Jardim Guanabara,apartamento,aluguel,48.1,48.0,50.0,5,7.93,outubro/2026
+Jundiaí,Jardim Guarani,apartamento,venda,7497.1,7241.7,8002.3,11,6.27,outubro/2026
+Jundiaí,Jardim Guarani,apartamento,aluguel,39.2,35.4,41.7,5,6.27,outubro/2026
+Jundiaí,Jardim Messina,apartamento,venda,9166.7,8546.7,10631.3,32,5.51,outubro/2026
+Jundiaí,Jardim Messina,apartamento,aluguel,42.1,35.2,50.6,16,5.51,outubro/2026
+Jundiaí,Jardim Pacaembu,apartamento,aluguel,34.4,30.6,42.2,9,,outubro/2026
+Jundiaí,Jardim Paris,apartamento,venda,8555.6,6675.8,9245.7,15,5.47,outubro/2026
+Jundiaí,Jardim Paris,apartamento,aluguel,39.0,34.9,49.7,8,5.47,outubro/2026
+Jundiaí,Jardim Paulista I,apartamento,venda,9165.0,8070.8,10161.5,20,6.93,outubro/2026
+Jundiaí,Jardim Paulista I,apartamento,aluguel,52.9,44.2,54.5,11,6.93,outubro/2026
+Jundiaí,Jardim Pitangueiras I,apartamento,venda,6769.8,6371.0,7000.0,9,5.69,outubro/2026
+Jundiaí,Jardim Pitangueiras I,apartamento,aluguel,32.1,29.5,41.5,15,5.69,outubro/2026
+Jundiaí,Jardim Pitangueiras II,apartamento,venda,8235.3,7348.5,8914.6,19,6.12,outubro/2026
+Jundiaí,Jardim Pitangueiras II,apartamento,aluguel,42.0,38.1,57.7,5,6.12,outubro/2026
+Jundiaí,Jardim Santa Teresa,apartamento,venda,6625.0,6216.0,7195.9,20,7.5,outubro/2026
+Jundiaí,Jardim Santa Teresa,apartamento,aluguel,41.4,37.1,47.0,21,7.5,outubro/2026
+Jundiaí,Jardim São Bento,apartamento,venda,11500.0,10893.0,12186.2,15,5.55,outubro/2026
+Jundiaí,Jardim São Bento,apartamento,aluguel,53.2,49.1,58.4,13,5.55,outubro/2026
+Jundiaí,Jardim Shangai,apartamento,venda,6435.9,5373.8,7780.5,10,8.78,outubro/2026
+Jundiaí,Jardim Shangai,apartamento,aluguel,47.1,40.7,48.5,5,8.78,outubro/2026
+Jundiaí,Jardim Tamoio,apartamento,venda,6416.2,5718.0,7248.6,22,7.39,outubro/2026
+Jundiaí,Jardim Tamoio,apartamento,aluguel,39.5,31.1,49.3,20,7.39,outubro/2026
+Jundiaí,Jardim Tereza Cristina,apartamento,venda,8808.8,8101.7,9275.4,21,6.66,outubro/2026
+Jundiaí,Jardim Tereza Cristina,apartamento,aluguel,48.9,46.3,53.2,7,6.66,outubro/2026
+Jundiaí,Jardim Torres São José,apartamento,venda,9577.2,9032.0,10190.5,15,6.73,outubro/2026
+Jundiaí,Jardim Torres São José,apartamento,aluguel,53.7,46.0,67.1,10,6.73,outubro/2026
+Jundiaí,Jardim Trevo,apartamento,venda,11158.5,10155.1,11970.1,14,6.46,outubro/2026
+Jundiaí,Jardim Trevo,apartamento,aluguel,60.1,55.2,63.1,12,6.46,outubro/2026
+Jundiaí,Loteamento Parque Industrial,apartamento,aluguel,57.1,36.1,61.1,7,,outubro/2026
+Jundiaí,Loteamento Reserva Ermida,apartamento,venda,9890.8,9290.9,10650.4,14,,outubro/2026
+Jundiaí,Medeiros,apartamento,venda,8020.8,6968.8,9190.5,71,7.21,outubro/2026
+Jundiaí,Medeiros,apartamento,aluguel,48.2,44.2,57.3,52,7.21,outubro/2026
+Jundiaí,Morada das Vinhas,apartamento,venda,4973.9,4197.4,5388.5,30,,outubro/2026
+Jundiaí,Nova Cidade Jardim,apartamento,venda,7222.2,6145.8,7734.7,21,7.34,outubro/2026
+Jundiaí,Nova Cidade Jardim,apartamento,aluguel,44.2,41.3,49.0,6,7.34,outubro/2026
+Jundiaí,Novo Horizonte,apartamento,venda,5208.6,4716.2,5380.2,8,,outubro/2026
+Jundiaí,Parque Cecap,apartamento,venda,6371.0,5144.2,8119.0,27,,outubro/2026
+Jundiaí,Parque Centenário,apartamento,venda,4545.5,4261.2,5828.9,6,,outubro/2026
+Jundiaí,Parque Cidade Jardim II,apartamento,venda,7884.8,7282.4,8828.9,8,,outubro/2026
+Jundiaí,Parque da Colônia,apartamento,venda,6458.3,6280.4,7150.0,7,,outubro/2026
+Jundiaí,Parque da Represa,apartamento,venda,6924.7,6329.1,9599.4,18,7.8,outubro/2026
+Jundiaí,Parque da Represa,apartamento,aluguel,45.0,38.4,48.2,14,7.8,outubro/2026
+Jundiaí,Parque do Colégio,apartamento,venda,9166.7,7500.0,11111.1,49,6.15,outubro/2026
+Jundiaí,Parque do Colégio,apartamento,aluguel,47.0,39.3,63.2,8,6.15,outubro/2026
+Jundiaí,Parque Industrial,apartamento,venda,5769.2,5407.4,6261.4,19,,outubro/2026
+Jundiaí,Parque Residencial,apartamento,venda,6353.9,6001.0,6570.4,6,,outubro/2026
+Jundiaí,Parque Residencial Eloy Chaves,apartamento,venda,7530.8,6451.1,9573.7,38,5.78,outubro/2026
+Jundiaí,Parque Residencial Eloy Chaves,apartamento,aluguel,36.3,31.2,44.0,17,5.78,outubro/2026
+Jundiaí,Parque Residencial Nove de Julho,apartamento,venda,9376.8,8000.0,9987.1,15,7.37,outubro/2026
+Jundiaí,Parque Residencial Nove de Julho,apartamento,aluguel,57.6,47.7,64.2,10,7.37,outubro/2026
+Jundiaí,Parque União,apartamento,venda,9411.8,8122.9,10078.1,15,6.22,outubro/2026
+Jundiaí,Parque União,apartamento,aluguel,48.8,41.0,50.9,22,6.22,outubro/2026
+Jundiaí,Ponte de Campinas,apartamento,venda,9230.8,6773.9,11534.4,15,,outubro/2026
+Jundiaí,Ponte de São João,apartamento,venda,6375.7,5748.1,8012.8,46,8.32,outubro/2026
+Jundiaí,Ponte de São João,apartamento,aluguel,44.2,38.9,53.1,54,8.32,outubro/2026
+Jundiaí,Portal do Paraíso II,apartamento,venda,11709.7,10267.9,14107.1,13,,outubro/2026
+Jundiaí,Poste,apartamento,venda,6965.1,6319.2,7583.3,10,,outubro/2026
+Jundiaí,Recanto Quarto Centenário,apartamento,venda,6778.8,5656.1,10012.9,48,7.1,outubro/2026
+Jundiaí,Recanto Quarto Centenário,apartamento,aluguel,40.1,35.9,51.9,42,7.1,outubro/2026
+Jundiaí,Residencial Santa Giovana,apartamento,venda,7587.0,6730.8,7941.2,9,6.96,outubro/2026
+Jundiaí,Residencial Santa Giovana,apartamento,aluguel,44.0,41.7,48.9,9,6.96,outubro/2026
+Jundiaí,Residencial Terra da Uva,apartamento,venda,5023.8,4729.7,5449.9,34,,outubro/2026
+Jundiaí,Retiro,apartamento,venda,9457.8,7428.6,10454.5,21,5.85,outubro/2026
+Jundiaí,Retiro,apartamento,aluguel,46.1,38.2,49.1,15,5.85,outubro/2026
+Jundiaí,Rio Abaixo,apartamento,venda,7025.3,6744.2,7066.7,5,,outubro/2026
+Jundiaí,Tulipas,apartamento,aluguel,55.8,46.8,58.4,6,,outubro/2026
+Jundiaí,Vianelo Bonfiglioli,apartamento,venda,7118.6,6735.6,7358.5,5,7.23,outubro/2026
+Jundiaí,Vianelo Bonfiglioli,apartamento,aluguel,42.9,37.3,54.4,27,7.23,outubro/2026
+Jundiaí,Vila Alvorada,apartamento,aluguel,41.8,35.7,45.0,5,,outubro/2026
+Jundiaí,Vila Aparecida,apartamento,venda,5000.0,4500.0,5061.0,5,,outubro/2026
+Jundiaí,Vila Arens,apartamento,venda,10050.0,6209.7,11742.3,45,,outubro/2026
+Jundiaí,Vila Arens I,apartamento,venda,11170.0,6076.4,11500.0,5,5.66,outubro/2026
+Jundiaí,Vila Arens I,apartamento,aluguel,52.7,38.2,64.6,28,5.66,outubro/2026
+Jundiaí,Vila Arens II,apartamento,venda,7406.8,6267.0,11024.0,24,9.54,outubro/2026
+Jundiaí,Vila Arens II,apartamento,aluguel,58.9,42.5,61.9,8,9.54,outubro/2026
+Jundiaí,Vila Argos Nova,apartamento,venda,5250.0,4941.9,5303.0,5,,outubro/2026
+Jundiaí,Vila Bela I,apartamento,venda,13617.0,10546.6,14432.6,7,,outubro/2026
+Jundiaí,Vila Boaventura,apartamento,venda,7000.0,6000.0,9523.8,13,7.06,outubro/2026
+Jundiaí,Vila Boaventura,apartamento,aluguel,41.2,37.5,50.9,9,7.06,outubro/2026
+Jundiaí,Vila Cacilda,apartamento,venda,8571.4,7406.1,8928.6,7,,outubro/2026
+Jundiaí,Vila das Hortências,apartamento,venda,8888.9,7593.8,10120.5,25,6.18,outubro/2026
+Jundiaí,Vila das Hortências,apartamento,aluguel,45.8,41.0,48.6,25,6.18,outubro/2026
+Jundiaí,Vila Della Piazza,apartamento,venda,7019.7,6668.3,7539.1,6,,outubro/2026
+Jundiaí,Vila Didi,apartamento,venda,5114.8,4753.7,5498.9,10,,outubro/2026
+Jundiaí,Vila Esperança,apartamento,venda,6770.8,5898.0,7142.9,9,,outubro/2026
+Jundiaí,Vila Formosa,apartamento,venda,5147.1,4806.9,5844.5,14,,outubro/2026
+Jundiaí,Vila Galvão,apartamento,venda,10594.1,9732.1,11122.4,13,,outubro/2026
+Jundiaí,Vila Guarani,apartamento,venda,8552.6,7800.0,9000.0,9,5.68,outubro/2026
+Jundiaí,Vila Guarani,apartamento,aluguel,40.5,36.8,47.1,7,5.68,outubro/2026
+Jundiaí,Vila Hortolândia,apartamento,venda,8269.2,6333.3,10769.2,37,7.85,outubro/2026
+Jundiaí,Vila Hortolândia,apartamento,aluguel,54.1,50.2,60.7,14,7.85,outubro/2026
+Jundiaí,Vila Inhamupe,apartamento,venda,5663.3,5597.8,5989.0,9,,outubro/2026
+Jundiaí,Vila Isabel Eber,apartamento,venda,5927.8,5377.7,7563.2,15,,outubro/2026
+Jundiaí,Vila Joana,apartamento,venda,5811.7,4874.3,7906.4,14,,outubro/2026
+Jundiaí,Vila Lacerda,apartamento,venda,11735.7,9848.5,12623.8,9,5.89,outubro/2026
+Jundiaí,Vila Lacerda,apartamento,aluguel,57.6,50.3,64.2,22,5.89,outubro/2026
+Jundiaí,Vila Mafalda,apartamento,venda,5516.6,4243.1,5879.7,8,7.68,outubro/2026
+Jundiaí,Vila Mafalda,apartamento,aluguel,35.3,30.2,38.4,6,7.68,outubro/2026
+Jundiaí,Vila Marlene,apartamento,venda,10163.2,7387.5,11000.3,6,,outubro/2026
+Jundiaí,Vila Municipal,apartamento,venda,9909.1,7447.9,10443.2,16,5.61,outubro/2026
+Jundiaí,Vila Municipal,apartamento,aluguel,46.3,35.9,64.4,7,5.61,outubro/2026
+Jundiaí,Vila Nambi,apartamento,venda,7746.5,7000.0,8688.6,19,7.54,outubro/2026
+Jundiaí,Vila Nambi,apartamento,aluguel,48.7,44.8,54.6,26,7.54,outubro/2026
+Jundiaí,Vila Nova Esperia,apartamento,venda,7463.0,6750.0,7701.4,11,,outubro/2026
+Jundiaí,Vila Nova Jundiainópolis,apartamento,venda,6946.4,6392.9,7678.6,25,7.07,outubro/2026
+Jundiaí,Vila Nova Jundiainópolis,apartamento,aluguel,40.9,35.0,48.1,18,7.07,outubro/2026
+Jundiaí,Vila Progresso,apartamento,venda,7478.3,6484.4,10769.2,37,6.1,outubro/2026
+Jundiaí,Vila Progresso,apartamento,aluguel,38.0,31.4,44.6,17,6.1,outubro/2026
+Jundiaí,Vila Rafael de Oliveira,apartamento,venda,5887.5,5671.1,6686.4,8,,outubro/2026
+Jundiaí,Vila Rami,apartamento,venda,5833.3,5255.1,6666.7,9,7.84,outubro/2026
+Jundiaí,Vila Rami,apartamento,aluguel,38.1,33.5,44.0,6,7.84,outubro/2026
+Jundiaí,Vila Rica,apartamento,venda,6444.1,5830.0,7520.5,10,,outubro/2026
+Jundiaí,Vila Rio Branco,apartamento,venda,8425.9,7448.7,9190.3,14,7.25,outubro/2026
+Jundiaí,Vila Rio Branco,apartamento,aluguel,50.9,44.3,55.4,14,7.25,outubro/2026
+Jundiaí,Vila Santa Maria,apartamento,venda,7028.2,5956.1,7615.5,27,,outubro/2026
+Jundiaí,Vila Vianelo,apartamento,venda,7184.6,5113.3,8431.8,10,4.54,outubro/2026
+Jundiaí,Vila Vianelo,apartamento,aluguel,27.2,26.9,46.9,5,4.54,outubro/2026
+Jundiaí,Vila Viotto,apartamento,venda,9489.1,9042.6,10467.2,5,,outubro/2026
+Jundiaí,Vila Virgínia,apartamento,venda,8510.6,6833.3,12650.6,25,7.28,outubro/2026
+Jundiaí,Vila Virgínia,apartamento,aluguel,51.6,37.8,60.3,13,7.28,outubro/2026
+Jundiaí,Agapeama,terreno,venda,1540.3,1252.2,1744.0,20,,outubro/2026
+Jundiaí,Água Doce,terreno,venda,737.1,521.6,1191.2,24,,outubro/2026
+Jundiaí,Alphaville,terreno,venda,1752.2,1613.1,1927.1,20,,outubro/2026
+Jundiaí,Anhangabaú,terreno,venda,2857.1,2291.7,3220.6,7,,outubro/2026
+Jundiaí,Caxambu,terreno,venda,581.6,427.9,1048.5,65,,outubro/2026
+Jundiaí,Centro,terreno,venda,2339.2,2028.0,3367.0,17,,outubro/2026
+Jundiaí,Chácara Malota,terreno,venda,1041.2,913.9,1213.8,30,,outubro/2026
+Jundiaí,Chácara Morada Mediterrânea,terreno,venda,1480.0,1378.8,1690.9,27,,outubro/2026
+Jundiaí,Chácara Terra Nova,terreno,venda,1647.4,1427.5,1801.8,76,,outubro/2026
+Jundiaí,Cidade Nova,terreno,venda,1064.0,860.0,1160.0,13,,outubro/2026
+Jundiaí,Corrupira,terreno,venda,1441.5,1283.9,1757.5,30,,outubro/2026
+Jundiaí,Currupira,terreno,venda,1438.6,1253.1,1603.2,40,,outubro/2026
+Jundiaí,Distrito Industrial,terreno,venda,1745.9,1272.2,1997.0,38,,outubro/2026
+Jundiaí,Eloy Chaves,terreno,venda,2160.0,2090.0,2950.0,6,,outubro/2026
+Jundiaí,Engordadouro,terreno,venda,1680.5,1291.2,2170.0,15,,outubro/2026
+Jundiaí,Gramadão,terreno,venda,1783.3,1637.4,2055.7,11,,outubro/2026
+Jundiaí,Horto Florestal,terreno,venda,1656.3,1538.0,1904.0,29,,outubro/2026
+Jundiaí,Horto Santo Antonio,terreno,venda,1222.2,1141.5,1292.5,8,,outubro/2026
+Jundiaí,Ivoturucaia,terreno,venda,899.0,423.9,1290.0,41,,outubro/2026
+Jundiaí,Jardim Brasil,terreno,venda,1298.9,1056.2,1637.5,18,,outubro/2026
+Jundiaí,Jardim Caxambu,terreno,venda,589.2,472.5,670.0,40,,outubro/2026
+Jundiaí,Jardim Celeste,terreno,venda,1356.4,1179.8,1547.0,26,,outubro/2026
+Jundiaí,Jardim Colônia,terreno,venda,945.4,600.0,1148.1,9,,outubro/2026
+Jundiaí,Jardim Copacabana,terreno,venda,1035.9,36.4,1284.0,20,,outubro/2026
+Jundiaí,Jardim da Serra,terreno,venda,1103.1,1016.0,1211.2,6,,outubro/2026
+Jundiaí,Jardim das Carpas,terreno,venda,921.1,739.5,1125.0,9,,outubro/2026
+Jundiaí,Jardim das Samambaias,terreno,venda,2403.4,2274.8,2666.2,20,,outubro/2026
+Jundiaí,Jardim das Tulipas,terreno,venda,1237.4,1004.7,1255.6,5,,outubro/2026
+Jundiaí,Jardim do Lago,terreno,venda,1333.3,1266.7,1420.0,5,,outubro/2026
+Jundiaí,Jardim do Lírio,terreno,venda,896.5,825.3,1026.8,6,,outubro/2026
+Jundiaí,Jardim Florestal,terreno,venda,1627.5,1446.8,1834.9,44,,outubro/2026
+Jundiaí,Jardim Ipanema,terreno,venda,1192.0,1081.1,1360.0,17,,outubro/2026
+Jundiaí,Jardim Itália,terreno,venda,1159.1,844.9,1301.2,15,,outubro/2026
+Jundiaí,Jardim Marambaia II,terreno,venda,1316.0,1290.3,1422.9,6,,outubro/2026
+Jundiaí,Jardim Marco Leite,terreno,venda,2000.0,1398.6,2045.5,5,,outubro/2026
+Jundiaí,Jardim Novo Mundo,terreno,venda,1731.2,1604.3,2431.2,9,,outubro/2026
+Jundiaí,Jardim Paulista II,terreno,venda,1152.8,1050.6,1320.8,6,,outubro/2026
+Jundiaí,Jardim Quintas das Videiras,terreno,venda,1562.5,1188.8,1800.8,13,,outubro/2026
+Jundiaí,Jardim Rosaura,terreno,venda,793.7,674.1,860.0,5,,outubro/2026
+Jundiaí,Jardim Sagrado Coração de Jesus,terreno,venda,1157.1,875.0,1251.5,29,,outubro/2026
+Jundiaí,Jardim Santa Adelaide,terreno,venda,1761.4,1323.2,2053.1,6,,outubro/2026
+Jundiaí,Jardim Santa Gertrudes,terreno,venda,688.2,462.5,1128.0,9,,outubro/2026
+Jundiaí,Jardim Santa Teresa,terreno,venda,2140.4,1822.6,2404.3,7,,outubro/2026
+Jundiaí,Jardim Tannus,terreno,venda,2656.0,2218.0,2935.0,6,,outubro/2026
+Jundiaí,Jardim Tarumã,terreno,venda,374.0,294.7,433.6,19,,outubro/2026
+Jundiaí,Jardim Tereza Cristina,terreno,venda,1287.7,1224.7,1528.3,8,,outubro/2026
+Jundiaí,Jardim Vale Verde,terreno,venda,1263.6,1026.7,1353.0,18,,outubro/2026
+Jundiaí,Jardim Vera Cruz,terreno,venda,537.3,530.4,900.0,5,,outubro/2026
+Jundiaí,Jundiaí Mirim,terreno,venda,1051.4,1017.0,1075.6,15,,outubro/2026
+Jundiaí,Loteamento Alphaville Jundiaí Fase 01,terreno,venda,1755.1,1722.1,1797.9,9,,outubro/2026
+Jundiaí,Loteamento Capital Ville,terreno,venda,250.9,240.9,282.4,33,,outubro/2026
+Jundiaí,Loteamento Portal da Colina,terreno,venda,700.0,642.9,780.0,13,,outubro/2026
+Jundiaí,Loteamento Reserva da Serra,terreno,venda,1419.8,1219.4,1573.2,7,,outubro/2026
+Jundiaí,Loteamento Residencial e Comercial Horto Florestal,terreno,venda,1650.0,1617.6,1854.4,15,,outubro/2026
+Jundiaí,Loteamento Vale Azul I,terreno,venda,604.0,443.6,861.1,8,,outubro/2026
+Jundiaí,Malota,terreno,venda,1176.5,716.0,1712.1,27,,outubro/2026
+Jundiaí,Medeiros,terreno,venda,750.1,677.4,1373.4,63,,outubro/2026
+Jundiaí,Parque Centenário,terreno,venda,721.6,568.0,1190.7,7,,outubro/2026
+Jundiaí,Parque Industrial,terreno,venda,1052.6,800.0,1200.0,5,,outubro/2026
+Jundiaí,Parque Industrial III (Fazenda Grande),terreno,venda,977.3,876.8,1002.7,5,,outubro/2026
+Jundiaí,Parque Quinta da Boa Vista,terreno,venda,1297.7,1069.0,2126.7,18,,outubro/2026
+Jundiaí,Parque Residencial,terreno,venda,1569.9,1496.4,1638.7,8,,outubro/2026
+Jundiaí,Ponte de Campinas,terreno,venda,2565.1,2182.2,3785.7,5,,outubro/2026
+Jundiaí,Ponte de São João,terreno,venda,647.1,304.3,1372.8,5,,outubro/2026
+Jundiaí,Portal do Sol,terreno,venda,352.0,302.1,382.9,16,,outubro/2026
+Jundiaí,Poste,terreno,venda,1500.7,1050.0,1773.6,22,,outubro/2026
+Jundiaí,Recanto Quarto Centenário,terreno,venda,1836.0,1620.0,1898.0,11,,outubro/2026
+Jundiaí,Reserva da Serra,terreno,venda,1428.6,1244.2,1598.2,13,,outubro/2026
+Jundiaí,Residencial Santa Giovana,terreno,venda,1571.4,1489.4,1674.1,14,,outubro/2026
+Jundiaí,Rio Acima,terreno,venda,59.4,56.0,90.3,6,,outubro/2026
+Jundiaí,Roseira,terreno,venda,539.2,375.0,833.1,15,,outubro/2026
+Jundiaí,Terras de São Carlos,terreno,venda,1162.8,1038.3,1202.5,7,,outubro/2026
+Jundiaí,Vale Azul,terreno,venda,843.4,826.1,1064.3,5,,outubro/2026
+Jundiaí,Vale Azul II,terreno,venda,437.3,410.4,732.6,8,,outubro/2026
+Jundiaí,Vale dos Cebrantes,terreno,venda,406.1,382.2,464.5,12,,outubro/2026
+Jundiaí,Vila Arens II,terreno,venda,2191.7,1702.5,2855.5,6,,outubro/2026
+Jundiaí,Vila Boaventura,terreno,venda,1888.9,1580.4,2219.4,7,,outubro/2026
+Jundiaí,Vila Joana,terreno,venda,1239.7,1105.6,1858.0,7,,outubro/2026
+Jundiaí,Vila Maringá,terreno,venda,1585.8,1494.7,1736.7,32,,outubro/2026
+Jundiaí,Vila Marlene,terreno,venda,1280.0,1015.2,1500.0,5,,outubro/2026
+Jundiaí,Vila Nova Esperia,terreno,venda,1768.2,1553.7,1931.0,14,,outubro/2026
+Jundiaí,Vila Vianelo,terreno,venda,2507.8,1786.1,2730.6,6,,outubro/2026
+Jundiaí,Vivenda,terreno,venda,488.2,268.4,733.0,8,,outubro/2026
+Jundiaí,Anhangabaú,sala,venda,13250.0,11509.2,15057.1,13,8.27,outubro/2026
+Jundiaí,Anhangabaú,sala,aluguel,91.3,71.2,109.0,55,8.27,outubro/2026
+Jundiaí,Centro,sala,venda,5615.3,4214.6,7973.7,42,9.17,outubro/2026
+Jundiaí,Centro,sala,aluguel,42.9,30.3,62.5,190,9.17,outubro/2026
+Jundiaí,Chácara Urbana,sala,venda,11796.3,10874.1,12139.4,8,7.63,outubro/2026
+Jundiaí,Chácara Urbana,sala,aluguel,75.0,65.6,95.2,28,7.63,outubro/2026
+Jundiaí,Cidade Luiza,sala,aluguel,55.1,45.8,69.7,20,,outubro/2026
+Jundiaí,Cidade Nova,sala,aluguel,41.9,30.4,50.0,8,,outubro/2026
+Jundiaí,Cidade Santos Dumont,sala,aluguel,52.2,42.0,61.2,14,,outubro/2026
+Jundiaí,Eloy Chaves,sala,aluguel,88.2,65.0,129.6,9,,outubro/2026
+Jundiaí,Fazenda Grande,sala,aluguel,72.7,41.7,87.5,9,,outubro/2026
+Jundiaí,Jardim Ana Maria,sala,aluguel,74.7,64.2,82.5,6,,outubro/2026
+Jundiaí,Jardim Bonfiglioli,sala,aluguel,76.1,42.3,83.3,5,,outubro/2026
+Jundiaí,Jardim Ermida II,sala,aluguel,66.7,62.5,75.0,13,,outubro/2026
+Jundiaí,Jardim Flórida,sala,aluguel,77.8,74.5,88.9,5,,outubro/2026
+Jundiaí,Jardim Messina,sala,aluguel,72.7,66.7,87.5,5,,outubro/2026
+Jundiaí,Jardim Paris,sala,aluguel,70.6,43.8,75.0,13,,outubro/2026
+Jundiaí,Jardim Pitangueiras I,sala,aluguel,33.0,25.8,61.2,7,,outubro/2026
+Jundiaí,Jardim São Bento,sala,aluguel,57.5,39.3,66.7,13,,outubro/2026
+Jundiaí,Medeiros,sala,aluguel,55.0,50.3,77.5,7,,outubro/2026
+Jundiaí,Parque do Colégio,sala,aluguel,88.6,67.1,96.6,6,,outubro/2026
+Jundiaí,Parque Eloy Chaves,sala,aluguel,69.0,60.5,76.7,8,,outubro/2026
+Jundiaí,Parque Residencial Eloy Chaves,sala,aluguel,69.6,56.7,82.8,38,,outubro/2026
+Jundiaí,Ponte de Campinas,sala,aluguel,69.2,37.2,74.6,11,,outubro/2026
+Jundiaí,Ponte de São João,sala,aluguel,59.3,49.4,86.7,7,,outubro/2026
+Jundiaí,Vila Arens I,sala,aluguel,53.6,42.5,67.5,17,,outubro/2026
+Jundiaí,Vila Arens II,sala,aluguel,49.3,35.8,62.2,26,,outubro/2026
+Jundiaí,Vila Boaventura,sala,venda,6153.8,6000.0,7886.2,5,8.72,outubro/2026
+Jundiaí,Vila Boaventura,sala,aluguel,44.7,33.3,52.9,15,8.72,outubro/2026
+Jundiaí,Vila Hortolândia,sala,aluguel,55.3,43.8,74.2,11,,outubro/2026
+Jundiaí,Vila Isabel Eber,sala,aluguel,50.0,48.7,72.2,5,,outubro/2026
+Jundiaí,Vila Joana,sala,aluguel,48.2,33.8,73.2,6,,outubro/2026
+Jundiaí,Vila Municipal,sala,aluguel,37.5,25.0,60.0,5,,outubro/2026
+Jundiaí,Vila Nambi,sala,aluguel,120.0,100.0,122.5,12,,outubro/2026
+Jundiaí,Vila Rami,sala,aluguel,57.1,38.9,60.0,9,,outubro/2026
+Jundiaí,Vila Vianelo,sala,aluguel,58.1,41.1,66.2,36,,outubro/2026
+Jundiaí,Vila Virgínia,sala,aluguel,50.0,38.6,90.0,25,,outubro/2026
+Jundiaí,Aeroporto,galpao,aluguel,23.0,20.9,23.0,12,,outubro/2026
+Jundiaí,Bairro dos Fernandes,galpao,aluguel,22.4,11.6,23.2,7,,outubro/2026
+Jundiaí,Centro,galpao,venda,8333.3,6111.1,8750.0,5,3.83,outubro/2026
+Jundiaí,Centro,galpao,aluguel,26.6,20.9,31.2,20,3.83,outubro/2026
+Jundiaí,Chácara Aeroporto,galpao,aluguel,23.0,11.0,23.0,6,,outubro/2026
+Jundiaí,Distrito Industrial,galpao,venda,5229.3,4672.8,5867.9,6,5.28,outubro/2026
+Jundiaí,Distrito Industrial,galpao,aluguel,23.0,18.0,27.9,89,5.28,outubro/2026
+Jundiaí,Fazenda Grande,galpao,aluguel,24.8,15.3,28.0,11,,outubro/2026
+Jundiaí,Jardim das Tulipas,galpao,aluguel,17.5,17.3,19.6,5,,outubro/2026
+Jundiaí,Jardim Guanabara,galpao,aluguel,15.6,7.0,20.4,5,,outubro/2026
+Jundiaí,Jardim Shangai,galpao,aluguel,25.5,19.6,34.2,8,,outubro/2026
+Jundiaí,Loteamento Parque Industrial,galpao,aluguel,19.3,16.8,23.5,15,,outubro/2026
+Jundiaí,Medeiros,galpao,venda,6025.6,5063.3,8430.7,6,4.72,outubro/2026
+Jundiaí,Medeiros,galpao,aluguel,23.7,19.7,31.7,29,4.72,outubro/2026
+Jundiaí,Parque Almerinda Pereira Chaves,galpao,aluguel,22.0,18.0,29.7,6,,outubro/2026
+Jundiaí,Parque Industrial III (Fazenda Grande),galpao,aluguel,24.2,20.5,25.6,5,,outubro/2026
+Jundiaí,Parque Residencial,galpao,aluguel,26.0,25.9,30.0,5,,outubro/2026
+Jundiaí,Parque Residencial Jundiaí II,galpao,aluguel,30.0,12.0,32.4,5,,outubro/2026
+Jundiaí,Parque União,galpao,aluguel,32.5,17.4,42.2,6,,outubro/2026
+Jundiaí,Ponte de São João,galpao,venda,2956.5,2745.4,4436.3,12,7.96,outubro/2026
+Jundiaí,Ponte de São João,galpao,aluguel,19.6,15.8,24.4,17,7.96,outubro/2026
+Jundiaí,Retiro,galpao,aluguel,22.5,17.3,32.0,10,,outubro/2026
+Jundiaí,Vila Arens II,galpao,aluguel,43.5,33.5,51.0,8,,outubro/2026
+Jundiaí,Vila das Hortências,galpao,aluguel,31.9,31.0,32.0,13,,outubro/2026
+Jundiaí,Vila Garcia,galpao,aluguel,25.8,22.7,33.5,5,,outubro/2026
+Jundiaí,Vila Hortolândia,galpao,aluguel,21.0,13.4,21.6,8,,outubro/2026
+Jundiaí,Vila Maringá,galpao,aluguel,43.4,23.5,71.2,6,,outubro/2026
+Jundiaí,Vila Nova Jundiainópolis,galpao,aluguel,20.8,18.5,24.1,10,,outubro/2026
+Jundiaí,Vila Rami,galpao,aluguel,31.2,25.0,33.2,10,,outubro/2026
+Jundiaí,Vila Viotto,galpao,aluguel,14.7,13.0,24.1,9,,outubro/2026

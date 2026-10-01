@@ -1,0 +1,38 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Navegantes,Centro,apartamento,venda,9460.8,7418.6,11899.4,410,4.76,outubro/2026
+Navegantes,Centro,apartamento,aluguel,37.5,31.3,48.0,53,4.76,outubro/2026
+Navegantes,Gravatá,apartamento,venda,9372.3,7490.8,12608.0,647,4.9,outubro/2026
+Navegantes,Gravatá,apartamento,aluguel,38.3,34.0,45.5,76,4.9,outubro/2026
+Navegantes,Machados,apartamento,venda,6818.2,6333.3,7272.7,5,6.65,outubro/2026
+Navegantes,Machados,apartamento,aluguel,37.8,35.7,41.2,7,6.65,outubro/2026
+Navegantes,Meia Praia,apartamento,venda,8035.7,6659.4,9829.8,179,5.47,outubro/2026
+Navegantes,Meia Praia,apartamento,aluguel,36.6,31.7,43.9,18,5.47,outubro/2026
+Navegantes,São Domingos,apartamento,venda,6625.0,5522.4,6964.3,13,6.03,outubro/2026
+Navegantes,São Domingos,apartamento,aluguel,33.3,29.7,40.0,5,6.03,outubro/2026
+Navegantes,São Pedro,apartamento,venda,9889.6,7665.2,12314.8,34,,outubro/2026
+Navegantes,Volta Grande,apartamento,venda,5955.7,5082.0,6783.9,13,6.87,outubro/2026
+Navegantes,Volta Grande,apartamento,aluguel,34.1,30.4,39.2,6,6.87,outubro/2026
+Navegantes,Centro,casa,venda,7109.0,5645.8,8988.3,123,4.59,outubro/2026
+Navegantes,Centro,casa,aluguel,27.2,24.4,28.5,9,4.59,outubro/2026
+Navegantes,Escalvados,casa,venda,4444.2,4250.0,5882.4,5,,outubro/2026
+Navegantes,Gravatá,casa,venda,6763.7,4614.6,8293.4,146,5.85,outubro/2026
+Navegantes,Gravatá,casa,aluguel,33.0,25.7,37.9,16,5.85,outubro/2026
+Navegantes,Machados,casa,venda,3000.0,2672.6,5290.3,19,,outubro/2026
+Navegantes,Meia Praia,casa,venda,6985.7,5224.1,8214.2,77,,outubro/2026
+Navegantes,Nossa Senhora das Graças,casa,venda,3790.7,2725.0,7450.9,8,,outubro/2026
+Navegantes,São Domingos,casa,venda,4500.0,2894.6,5827.9,24,,outubro/2026
+Navegantes,Centro,terreno,venda,2177.9,1920.7,2576.9,28,,outubro/2026
+Navegantes,Escalvados,terreno,venda,297.6,264.6,658.9,7,,outubro/2026
+Navegantes,Gravatá,terreno,venda,2320.0,1656.2,2916.7,26,,outubro/2026
+Navegantes,Meia Praia,terreno,venda,2307.7,1891.7,2971.4,15,,outubro/2026
+Navegantes,São Domingos,terreno,venda,1528.2,963.1,1821.2,6,,outubro/2026
+Navegantes,Volta Grande,terreno,venda,923.0,760.0,998.3,9,,outubro/2026
+Navegantes,Centro,sala,venda,9166.7,7983.5,13380.8,6,7.36,outubro/2026
+Navegantes,Centro,sala,aluguel,56.2,41.1,79.3,31,7.36,outubro/2026
+Navegantes,Gravatá,sala,venda,10504.3,7643.5,14644.3,6,6.96,outubro/2026
+Navegantes,Gravatá,sala,aluguel,60.9,56.9,73.0,16,6.96,outubro/2026
+Navegantes,Meia Praia,sala,aluguel,53.6,47.6,60.0,5,,outubro/2026
+Navegantes,Centro,galpao,aluguel,38.4,30.1,46.4,8,,outubro/2026
+Navegantes,Escalvados,galpao,aluguel,18.7,14.0,25.2,19,,outubro/2026
+Navegantes,Machados,galpao,aluguel,10.6,7.2,14.0,10,,outubro/2026
+Navegantes,Volta Grande,galpao,aluguel,30.5,25.0,35.5,32,,outubro/2026

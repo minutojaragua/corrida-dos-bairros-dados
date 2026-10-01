@@ -1,0 +1,29 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Boa Vista,Asa Branca,casa,venda,4100.7,3769.2,4173.9,5,,outubro/2026
+Boa Vista,Caçari,casa,venda,6845.1,6191.4,8322.2,38,,outubro/2026
+Boa Vista,Caimbé,casa,venda,2900.0,1836.7,3149.4,7,,outubro/2026
+Boa Vista,Calungá,casa,venda,4375.0,4223.7,5652.2,5,,outubro/2026
+Boa Vista,Canarinho,casa,venda,9574.5,7818.2,10170.2,5,,outubro/2026
+Boa Vista,Caranã,casa,venda,6125.0,4955.9,6461.7,7,,outubro/2026
+Boa Vista,Cauamé,casa,venda,4739.4,4381.0,5969.5,6,,outubro/2026
+Boa Vista,Centenário,casa,venda,4497.3,3452.3,5166.3,8,,outubro/2026
+Boa Vista,Centro,casa,venda,3860.4,3274.6,6120.4,8,,outubro/2026
+Boa Vista,Cidade Satélite,casa,venda,3350.9,1812.8,4787.2,18,,outubro/2026
+Boa Vista,Cinturão Verde,casa,venda,2913.5,2388.7,3728.3,6,,outubro/2026
+Boa Vista,Jardim Floresta,casa,venda,4214.3,3019.1,5765.9,8,,outubro/2026
+Boa Vista,Jóquei Clube,casa,venda,2343.0,1967.0,4744.5,6,,outubro/2026
+Boa Vista,Mecejana,casa,venda,4918.0,3007.4,5297.1,11,,outubro/2026
+Boa Vista,Nossa Senhora Aparecida,casa,venda,5917.4,5629.3,6751.3,6,,outubro/2026
+Boa Vista,Paraviana,casa,venda,6585.4,5455.4,8238.8,39,,outubro/2026
+Boa Vista,Pricumã,casa,venda,4119.5,2394.5,5448.4,8,,outubro/2026
+Boa Vista,São Francisco,casa,venda,4900.0,3645.2,6263.5,7,,outubro/2026
+Boa Vista,São Vicente,casa,venda,4333.3,4086.5,4634.1,7,,outubro/2026
+Boa Vista,Caçari,apartamento,venda,8731.9,8441.7,9362.9,7,,outubro/2026
+Boa Vista,Caçari,terreno,venda,1100.0,731.2,1182.2,19,,outubro/2026
+Boa Vista,Centro,terreno,venda,1176.5,988.4,1176.6,5,,outubro/2026
+Boa Vista,Cidade Satélite,terreno,venda,500.0,440.0,792.6,5,,outubro/2026
+Boa Vista,Mecejana,terreno,venda,806.9,690.7,956.8,5,,outubro/2026
+Boa Vista,Paraviana,terreno,venda,924.7,800.0,1000.0,13,,outubro/2026
+Boa Vista,Said Salomão,terreno,venda,135.8,98.5,208.3,5,,outubro/2026
+Boa Vista,São Francisco,terreno,venda,1132.1,1107.0,1453.3,5,,outubro/2026
+Boa Vista,Caçari,sala,aluguel,53.9,39.3,77.7,6,,outubro/2026

@@ -1,0 +1,43 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Cabedelo,Amazônia Park,apartamento,venda,8326.2,7659.6,10810.8,5,,outubro/2026
+Cabedelo,Areia Dourada,apartamento,venda,13464.3,11091.4,16692.7,46,5.94,outubro/2026
+Cabedelo,Areia Dourada,apartamento,aluguel,66.7,59.5,68.0,5,5.94,outubro/2026
+Cabedelo,Camalaú,apartamento,venda,11705.4,9140.6,14280.3,5,,outubro/2026
+Cabedelo,Camboinha,apartamento,venda,10444.7,8430.1,12525.0,216,,outubro/2026
+Cabedelo,Camboinha III,apartamento,venda,8040.5,5921.1,8981.8,5,,outubro/2026
+Cabedelo,Formosa,apartamento,venda,12590.9,9425.4,15865.0,72,,outubro/2026
+Cabedelo,Intermares,apartamento,venda,9492.1,7188.6,13010.7,444,7.9,outubro/2026
+Cabedelo,Intermares,apartamento,aluguel,62.5,47.4,87.9,41,7.9,outubro/2026
+Cabedelo,Jardim Atlantica,apartamento,venda,10381.8,9469.4,11809.2,7,,outubro/2026
+Cabedelo,Jardim Brasília,apartamento,venda,10332.4,8676.5,13961.3,8,,outubro/2026
+Cabedelo,Jardim Camboinha,apartamento,venda,4365.2,3964.0,4909.1,9,,outubro/2026
+Cabedelo,Loteamento Bela Vista,apartamento,venda,8941.5,7888.3,9497.1,18,,outubro/2026
+Cabedelo,Monte Castelo,apartamento,venda,11414.7,9673.2,16558.3,12,,outubro/2026
+Cabedelo,P. Areia Dourada,apartamento,venda,12421.3,10825.7,14617.0,6,,outubro/2026
+Cabedelo,Poço,apartamento,venda,9318.4,6966.6,11548.0,121,,outubro/2026
+Cabedelo,Ponta de Campina,apartamento,venda,12294.3,8589.9,16438.4,217,6.04,outubro/2026
+Cabedelo,Ponta de Campina,apartamento,aluguel,61.9,52.4,82.8,15,6.04,outubro/2026
+Cabedelo,Ponta de Matos,apartamento,venda,11366.8,7802.0,15793.5,55,,outubro/2026
+Cabedelo,Praia do Poço,apartamento,venda,8913.2,7395.0,16930.7,11,,outubro/2026
+Cabedelo,Praia Formosa,apartamento,venda,14915.7,12181.1,17473.9,63,,outubro/2026
+Cabedelo,Santa Catarina,apartamento,venda,10836.2,9166.7,13657.8,9,,outubro/2026
+Cabedelo,Vila Sao Joao,apartamento,venda,11512.7,10057.7,13392.3,23,,outubro/2026
+Cabedelo,Amazônia Park,casa,venda,8757.1,7156.2,10381.6,16,7.7,outubro/2026
+Cabedelo,Amazônia Park,casa,aluguel,56.2,50.4,61.6,7,7.7,outubro/2026
+Cabedelo,Camboinha,casa,venda,6639.8,5621.8,10180.7,18,3.38,outubro/2026
+Cabedelo,Camboinha,casa,aluguel,18.7,11.5,43.0,8,3.38,outubro/2026
+Cabedelo,Intermares,casa,venda,7746.5,5991.7,9652.2,72,6.75,outubro/2026
+Cabedelo,Intermares,casa,aluguel,43.6,36.8,48.7,6,6.75,outubro/2026
+Cabedelo,Jacaré,casa,venda,7993.4,6007.8,11643.3,12,,outubro/2026
+Cabedelo,Poço,casa,venda,6552.4,4187.9,9550.3,16,,outubro/2026
+Cabedelo,Ponta de Campina,casa,venda,9343.6,6532.3,11125.0,20,,outubro/2026
+Cabedelo,Portal do Poço,casa,venda,7378.0,6214.1,7696.6,7,,outubro/2026
+Cabedelo,Amazônia Park,terreno,venda,2037.0,1687.2,2151.8,7,,outubro/2026
+Cabedelo,Intermares,terreno,venda,2222.2,1881.7,2666.7,21,,outubro/2026
+Cabedelo,Jacaré,terreno,venda,2851.6,2785.0,3108.4,5,,outubro/2026
+Cabedelo,Morada Nova,terreno,venda,2398.8,2087.1,2683.8,8,,outubro/2026
+Cabedelo,Poço,terreno,venda,3483.8,2908.7,3684.4,7,,outubro/2026
+Cabedelo,Ponta de Campina,terreno,venda,2972.0,1657.4,3872.0,6,,outubro/2026
+Cabedelo,Portal do Poço,terreno,venda,3744.4,2939.7,3873.5,12,,outubro/2026
+Cabedelo,Intermares,galpao,aluguel,31.0,25.9,40.5,6,,outubro/2026
+Cabedelo,Renascer,galpao,aluguel,16.7,16.3,18.0,5,,outubro/2026

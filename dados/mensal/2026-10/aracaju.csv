@@ -1,0 +1,146 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Aracaju,17 de Março,apartamento,aluguel,28.9,27.8,31.8,5,,outubro/2026
+Aracaju,Aeroporto,apartamento,venda,4722.2,4259.3,5644.7,33,7.55,outubro/2026
+Aracaju,Aeroporto,apartamento,aluguel,29.7,26.1,34.8,11,7.55,outubro/2026
+Aracaju,Aruana,apartamento,venda,5762.7,4459.5,7829.4,121,6.46,outubro/2026
+Aracaju,Aruana,apartamento,aluguel,31.0,26.0,34.6,29,6.46,outubro/2026
+Aracaju,Atalaia,apartamento,venda,8237.7,6300.0,10000.0,240,6.83,outubro/2026
+Aracaju,Atalaia,apartamento,aluguel,46.9,33.0,65.0,35,6.83,outubro/2026
+Aracaju,Bugio,apartamento,venda,2186.3,2114.2,2361.8,6,,outubro/2026
+Aracaju,Capucho,apartamento,venda,4772.5,4380.0,5435.9,5,,outubro/2026
+Aracaju,Centro,apartamento,venda,2857.1,2280.8,3255.5,47,10.5,outubro/2026
+Aracaju,Centro,apartamento,aluguel,25.0,20.0,46.0,9,10.5,outubro/2026
+Aracaju,Cidade Nova,apartamento,venda,2329.4,2029.3,2510.3,6,,outubro/2026
+Aracaju,Coroa do Meio,apartamento,venda,7301.6,5336.9,11024.0,139,8.22,outubro/2026
+Aracaju,Coroa do Meio,apartamento,aluguel,50.0,29.7,85.4,36,8.22,outubro/2026
+Aracaju,Dezoito do Forte,apartamento,venda,3846.2,2500.0,4181.8,13,,outubro/2026
+Aracaju,Dom Luciano,apartamento,venda,3725.0,2960.1,3979.3,10,,outubro/2026
+Aracaju,Farolândia,apartamento,venda,6266.7,5068.3,7524.0,208,7.79,outubro/2026
+Aracaju,Farolândia,apartamento,aluguel,40.7,30.5,50.2,36,7.79,outubro/2026
+Aracaju,Grageru,apartamento,venda,5100.0,4000.0,6190.5,141,6.96,outubro/2026
+Aracaju,Grageru,apartamento,aluguel,29.6,25.8,37.9,6,6.96,outubro/2026
+Aracaju,Inácio Barbosa,apartamento,venda,4912.3,4387.0,5792.5,54,8.57,outubro/2026
+Aracaju,Inácio Barbosa,apartamento,aluguel,35.1,28.6,41.0,23,8.57,outubro/2026
+Aracaju,Industrial,apartamento,venda,3265.3,3074.2,4785.8,7,,outubro/2026
+Aracaju,Jabotiana,apartamento,venda,4748.5,3889.6,5714.3,132,6.32,outubro/2026
+Aracaju,Jabotiana,apartamento,aluguel,25.0,22.0,31.3,29,6.32,outubro/2026
+Aracaju,Japãozinho,apartamento,venda,2321.4,2109.1,2457.6,5,,outubro/2026
+Aracaju,Jardim Centenário,apartamento,venda,3674.2,3409.1,3859.8,6,,outubro/2026
+Aracaju,Jardins,apartamento,venda,8860.8,6741.6,10810.8,237,7.56,outubro/2026
+Aracaju,Jardins,apartamento,aluguel,55.8,40.6,65.6,19,7.56,outubro/2026
+Aracaju,Lamarão,apartamento,venda,2780.0,2462.7,2853.8,6,,outubro/2026
+Aracaju,Luzia,apartamento,venda,5857.1,4056.6,7090.9,165,5.98,outubro/2026
+Aracaju,Luzia,apartamento,aluguel,29.2,21.7,36.8,28,5.98,outubro/2026
+Aracaju,Marivan,apartamento,venda,4256.0,3657.4,4822.2,50,,outubro/2026
+Aracaju,Mosqueiro,apartamento,venda,4084.9,3065.6,4757.5,10,,outubro/2026
+Aracaju,Olaria,apartamento,venda,2817.4,2803.1,2840.2,6,,outubro/2026
+Aracaju,Pereira Lobo,apartamento,venda,2377.0,2311.5,2444.4,5,,outubro/2026
+Aracaju,Ponto Novo,apartamento,venda,4745.6,3037.1,6164.6,70,5.74,outubro/2026
+Aracaju,Ponto Novo,apartamento,aluguel,22.7,18.1,27.0,6,5.74,outubro/2026
+Aracaju,Porto Dantas,apartamento,venda,3061.2,2300.0,3703.7,25,,outubro/2026
+Aracaju,Robalo,apartamento,venda,5377.8,4522.7,5768.9,15,,outubro/2026
+Aracaju,Salgado Filho,apartamento,venda,3857.1,3210.5,4707.9,31,,outubro/2026
+Aracaju,Santa Maria,apartamento,venda,3673.5,2826.1,4338.6,9,,outubro/2026
+Aracaju,Santo Antônio,apartamento,venda,3535.7,3333.3,4131.4,18,,outubro/2026
+Aracaju,Santos Dumont,apartamento,venda,2653.1,2153.9,3462.4,7,,outubro/2026
+Aracaju,São Conrado,apartamento,venda,3387.1,2923.9,3850.4,27,,outubro/2026
+Aracaju,São José,apartamento,venda,2916.7,2509.5,3629.1,55,11.11,outubro/2026
+Aracaju,São José,apartamento,aluguel,27.0,21.1,31.2,9,11.11,outubro/2026
+Aracaju,Siqueira Campos,apartamento,venda,4912.3,4803.9,5261.0,8,,outubro/2026
+Aracaju,Soledade,apartamento,venda,4759.8,4153.0,4999.4,8,,outubro/2026
+Aracaju,Suíça,apartamento,venda,3000.0,2460.1,3545.4,7,,outubro/2026
+Aracaju,Suíssa,apartamento,venda,3177.4,2798.0,4281.2,42,,outubro/2026
+Aracaju,Treze de Julho,apartamento,venda,4581.6,3691.2,5958.2,118,6.34,outubro/2026
+Aracaju,Treze de Julho,apartamento,aluguel,24.2,20.3,45.5,7,6.34,outubro/2026
+Aracaju,Zona de Expansão (Aruana),apartamento,venda,4409.8,4048.4,4894.5,14,,outubro/2026
+Aracaju,Aeroporto,casa,venda,2857.5,2000.0,4545.5,66,,outubro/2026
+Aracaju,América,casa,venda,2248.9,1758.9,3229.7,14,,outubro/2026
+Aracaju,Areia Branca,casa,venda,2425.2,1787.5,3622.4,20,,outubro/2026
+Aracaju,Aruana,casa,venda,4162.5,2856.5,5441.6,146,8.3,outubro/2026
+Aracaju,Aruana,casa,aluguel,28.8,16.7,34.7,19,8.3,outubro/2026
+Aracaju,Atalaia,casa,venda,3500.0,2500.0,4500.0,65,7.2,outubro/2026
+Aracaju,Atalaia,casa,aluguel,21.0,15.0,26.5,8,7.2,outubro/2026
+Aracaju,Bugio,casa,venda,1944.4,1438.4,2718.8,39,,outubro/2026
+Aracaju,Centro,casa,venda,2260.9,1720.7,3192.5,64,,outubro/2026
+Aracaju,Cidade Nova,casa,venda,1850.0,1291.7,2130.4,21,,outubro/2026
+Aracaju,Cirurgia,casa,venda,2196.1,1645.8,2976.2,37,,outubro/2026
+Aracaju,Coroa do Meio,casa,venda,3250.0,2061.1,4264.1,59,6.72,outubro/2026
+Aracaju,Coroa do Meio,casa,aluguel,18.2,16.5,20.6,6,6.72,outubro/2026
+Aracaju,Dezoito do Forte,casa,venda,2300.0,1421.7,2839.5,35,,outubro/2026
+Aracaju,Dom Luciano,casa,venda,1422.6,1046.1,1545.6,8,,outubro/2026
+Aracaju,Farolândia,casa,venda,2969.9,2311.6,3739.3,70,5.5,outubro/2026
+Aracaju,Farolândia,casa,aluguel,13.6,12.4,19.8,8,5.5,outubro/2026
+Aracaju,Getúlio Vargas,casa,venda,2093.5,1432.5,2632.0,30,,outubro/2026
+Aracaju,Grageru,casa,venda,2878.6,2400.8,4491.9,32,,outubro/2026
+Aracaju,Inácio Barbosa,casa,venda,2720.0,2110.9,3341.7,47,8.87,outubro/2026
+Aracaju,Inácio Barbosa,casa,aluguel,20.1,14.7,27.9,6,8.87,outubro/2026
+Aracaju,Industrial,casa,venda,1900.0,1533.3,2523.8,21,,outubro/2026
+Aracaju,Jabotiana,casa,venda,2894.7,2000.0,3554.5,45,8.0,outubro/2026
+Aracaju,Jabotiana,casa,aluguel,19.3,14.6,22.9,10,8.0,outubro/2026
+Aracaju,Jardim Centenário,casa,venda,1307.7,1062.5,1688.3,5,,outubro/2026
+Aracaju,José Conrado de Araújo,casa,venda,1833.3,1527.8,2229.3,25,,outubro/2026
+Aracaju,Lamarão,casa,venda,2000.0,1685.0,2320.7,11,,outubro/2026
+Aracaju,Luzia,casa,venda,3133.8,2239.2,3916.9,52,,outubro/2026
+Aracaju,Matapoã,casa,venda,2714.3,1882.8,3676.5,5,,outubro/2026
+Aracaju,Mosqueiro,casa,venda,4137.9,2580.9,5688.8,118,6.15,outubro/2026
+Aracaju,Mosqueiro,casa,aluguel,21.2,13.5,35.2,18,6.15,outubro/2026
+Aracaju,Novo Paraíso,casa,venda,1893.9,1166.7,2424.2,25,,outubro/2026
+Aracaju,Olaria,casa,venda,1942.0,1633.3,2512.5,18,,outubro/2026
+Aracaju,Orlando Dantas,casa,venda,2870.4,2083.3,2990.7,6,,outubro/2026
+Aracaju,Palestina,casa,venda,1918.5,1612.2,2573.4,12,,outubro/2026
+Aracaju,Pereira Lobo,casa,venda,2325.5,1877.9,2890.7,40,,outubro/2026
+Aracaju,Ponto Novo,casa,venda,2500.0,1956.5,3754.9,49,,outubro/2026
+Aracaju,Robalo,casa,venda,4444.4,3000.0,6136.4,65,8.72,outubro/2026
+Aracaju,Robalo,casa,aluguel,32.3,27.8,38.2,5,8.72,outubro/2026
+Aracaju,Salgado Filho,casa,venda,2777.8,2190.5,3231.7,41,13.69,outubro/2026
+Aracaju,Salgado Filho,casa,aluguel,31.7,18.5,35.0,5,13.69,outubro/2026
+Aracaju,Santa Maria,casa,venda,1777.5,1341.1,3018.7,40,,outubro/2026
+Aracaju,Santo Antônio,casa,venda,1955.4,1497.0,2529.8,42,,outubro/2026
+Aracaju,Santos Dumont,casa,venda,1809.1,1384.4,2557.9,36,,outubro/2026
+Aracaju,São Conrado,casa,venda,2359.6,1968.8,2901.8,50,,outubro/2026
+Aracaju,São José,casa,venda,2466.1,1799.4,3019.2,50,8.13,outubro/2026
+Aracaju,São José,casa,aluguel,16.7,14.3,17.7,9,8.13,outubro/2026
+Aracaju,São José dos Náufragos,casa,venda,3297.1,2687.5,4495.1,14,,outubro/2026
+Aracaju,Siqueira Campos,casa,venda,2518.5,1956.3,3416.7,63,8.96,outubro/2026
+Aracaju,Siqueira Campos,casa,aluguel,18.8,16.3,30.8,7,8.96,outubro/2026
+Aracaju,Soledade,casa,venda,2500.0,1658.7,3034.2,19,,outubro/2026
+Aracaju,Suíça,casa,venda,2718.7,2087.5,3211.6,14,,outubro/2026
+Aracaju,Suíssa,casa,venda,2478.6,1835.3,3268.8,60,10.02,outubro/2026
+Aracaju,Suíssa,casa,aluguel,20.7,17.1,28.1,6,10.02,outubro/2026
+Aracaju,Treze de Julho,casa,venda,2619.0,2142.9,3214.3,37,,outubro/2026
+Aracaju,Zona de Expansão (Aruana),casa,venda,5678.2,5020.2,5937.5,5,,outubro/2026
+Aracaju,Zona de Expansão (Mosqueiro),casa,venda,4500.0,3102.6,6317.7,11,,outubro/2026
+Aracaju,Aeroporto,terreno,venda,892.9,833.3,1227.7,9,,outubro/2026
+Aracaju,Areia Branca,terreno,venda,300.0,146.8,520.6,15,,outubro/2026
+Aracaju,Aruana,terreno,venda,1104.3,831.9,1844.0,55,,outubro/2026
+Aracaju,Atalaia,terreno,venda,1272.6,1059.1,1426.4,18,,outubro/2026
+Aracaju,Centro,terreno,venda,1264.4,1179.2,1587.2,9,,outubro/2026
+Aracaju,Coroa do Meio,terreno,venda,1348.5,1330.2,1628.9,7,,outubro/2026
+Aracaju,Farolândia,terreno,venda,1500.0,906.2,1693.2,7,,outubro/2026
+Aracaju,Jabotiana,terreno,venda,550.0,462.1,799.0,7,,outubro/2026
+Aracaju,Matapoã,terreno,venda,227.3,177.8,439.8,9,,outubro/2026
+Aracaju,Mosqueiro,terreno,venda,474.1,264.4,771.2,92,,outubro/2026
+Aracaju,Robalo,terreno,venda,819.7,348.8,1292.0,61,,outubro/2026
+Aracaju,Santa Maria,terreno,venda,125.0,105.0,384.1,6,,outubro/2026
+Aracaju,São José,terreno,venda,1805.6,1644.7,2200.0,5,,outubro/2026
+Aracaju,São José dos Náufragos,terreno,venda,503.0,353.2,673.7,12,,outubro/2026
+Aracaju,Siqueira Campos,terreno,venda,927.8,795.5,1331.2,7,,outubro/2026
+Aracaju,Treze de Julho,terreno,venda,1612.9,1481.5,1750.0,5,,outubro/2026
+Aracaju,Atalaia,sala,aluguel,84.2,82.1,100.1,8,,outubro/2026
+Aracaju,Centro,sala,venda,2777.5,2530.1,3912.3,14,15.6,outubro/2026
+Aracaju,Centro,sala,aluguel,36.1,24.3,58.5,46,15.6,outubro/2026
+Aracaju,Coroa do Meio,sala,aluguel,78.9,69.3,88.7,23,,outubro/2026
+Aracaju,Grageru,sala,aluguel,73.8,62.5,110.4,12,,outubro/2026
+Aracaju,Jabotiana,sala,aluguel,58.7,47.3,64.4,6,,outubro/2026
+Aracaju,Jardins,sala,venda,10666.7,9787.1,12072.0,15,9.39,outubro/2026
+Aracaju,Jardins,sala,aluguel,83.5,71.8,109.0,68,9.39,outubro/2026
+Aracaju,Luzia,sala,aluguel,76.7,50.0,100.0,9,,outubro/2026
+Aracaju,Salgado Filho,sala,venda,6110.9,5354.2,7414.5,7,15.95,outubro/2026
+Aracaju,Salgado Filho,sala,aluguel,81.2,55.6,96.9,32,15.95,outubro/2026
+Aracaju,São José,sala,venda,5463.0,3823.5,7272.7,13,10.87,outubro/2026
+Aracaju,São José,sala,aluguel,49.5,37.0,64.0,34,10.87,outubro/2026
+Aracaju,Siqueira Campos,sala,aluguel,46.7,33.3,55.6,5,,outubro/2026
+Aracaju,Treze de Julho,sala,aluguel,53.2,39.4,62.1,12,,outubro/2026
+Aracaju,Aruana,galpao,aluguel,33.3,22.7,33.3,5,,outubro/2026
+Aracaju,Santos Dumont,galpao,aluguel,9.1,8.3,11.0,5,,outubro/2026
+Aracaju,Siqueira Campos,galpao,aluguel,20.8,18.3,23.3,7,,outubro/2026

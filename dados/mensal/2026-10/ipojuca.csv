@@ -1,0 +1,15 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Ipojuca,Centro,apartamento,venda,16116.4,14863.6,19174.0,14,,outubro/2026
+Ipojuca,Cupe,apartamento,venda,9366.0,7919.2,11277.4,6,,outubro/2026
+Ipojuca,Merepe,apartamento,venda,11250.0,10000.0,11304.3,5,,outubro/2026
+Ipojuca,Muro Alto,apartamento,venda,14421.3,9357.1,17988.0,76,6.42,outubro/2026
+Ipojuca,Muro Alto,apartamento,aluguel,77.1,66.2,107.7,27,6.42,outubro/2026
+Ipojuca,Nossa Senhora do Ó,apartamento,venda,14323.0,13891.6,18319.4,7,,outubro/2026
+Ipojuca,Porto de Galinhas,apartamento,venda,14000.0,11055.5,18571.4,143,8.85,outubro/2026
+Ipojuca,Porto de Galinhas,apartamento,aluguel,103.3,91.8,117.0,12,8.85,outubro/2026
+Ipojuca,Praia Muro Alto,apartamento,venda,10857.1,8656.7,13591.6,17,,outubro/2026
+Ipojuca,Enseada de Serrambi,casa,venda,9900.0,7650.0,11163.9,6,,outubro/2026
+Ipojuca,Muro Alto,casa,venda,18000.0,15702.8,23618.1,23,0.68,outubro/2026
+Ipojuca,Muro Alto,casa,aluguel,10.2,6.6,12.3,8,0.68,outubro/2026
+Ipojuca,Porto de Galinhas,casa,venda,7391.2,5437.5,9895.0,26,,outubro/2026
+Ipojuca,Serrambi,casa,venda,9714.3,9054.1,11299.4,8,,outubro/2026

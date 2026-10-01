@@ -1,0 +1,30 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Araquari,Areias Pequenas,casa,venda,2489.6,2137.5,3356.6,18,,outubro/2026
+Araquari,Barra do Itapocú,casa,venda,2951.1,2256.2,4531.8,27,,outubro/2026
+Araquari,Centro,casa,venda,3955.2,2300.0,5090.9,37,,outubro/2026
+Araquari,Colégio Agrícola,casa,venda,2102.7,1468.5,2973.1,12,,outubro/2026
+Araquari,Itapocu,casa,venda,2200.0,1623.9,2977.5,5,,outubro/2026
+Araquari,Itinga,casa,venda,4156.2,2991.7,5281.7,165,7.71,outubro/2026
+Araquari,Itinga,casa,aluguel,26.7,22.4,31.2,32,7.71,outubro/2026
+Araquari,Porto Grande,casa,venda,4169.0,2795.5,4744.6,23,,outubro/2026
+Araquari,Volta Redonda,casa,venda,2745.0,1486.5,4715.4,10,8.61,outubro/2026
+Araquari,Volta Redonda,casa,aluguel,19.7,18.9,21.9,6,8.61,outubro/2026
+Araquari,Itinga,apartamento,venda,4375.0,3850.6,5322.8,19,7.63,outubro/2026
+Araquari,Itinga,apartamento,aluguel,27.8,23.3,33.1,13,7.63,outubro/2026
+Araquari,Rainha,apartamento,aluguel,17.9,16.7,20.0,5,,outubro/2026
+Araquari,Areias Pequenas,terreno,venda,416.7,239.5,584.9,23,,outubro/2026
+Araquari,Barra do Itapocú,terreno,venda,902.8,621.3,1748.4,67,,outubro/2026
+Araquari,Centro,terreno,venda,640.7,432.1,859.0,42,,outubro/2026
+Araquari,Colégio Agrícola,terreno,venda,540.2,454.2,671.6,14,,outubro/2026
+Araquari,Corveta,terreno,venda,277.8,206.5,423.7,15,,outubro/2026
+Araquari,Itapocu,terreno,venda,955.2,513.5,1663.9,22,,outubro/2026
+Araquari,Itinga,terreno,venda,690.4,533.4,902.8,92,,outubro/2026
+Araquari,Porto Grande,terreno,venda,380.0,281.6,568.6,47,,outubro/2026
+Araquari,Volta Redonda,terreno,venda,442.8,396.9,594.9,30,,outubro/2026
+Araquari,Itinga,sala,aluguel,39.1,30.0,43.8,17,,outubro/2026
+Araquari,Corveta,galpao,aluguel,24.2,22.3,29.0,18,,outubro/2026
+Araquari,Itinga,galpao,venda,2708.3,900.5,3877.8,7,8.86,outubro/2026
+Araquari,Itinga,galpao,aluguel,20.0,15.4,26.4,11,8.86,outubro/2026
+Araquari,Porto Grande,galpao,aluguel,20.0,14.7,22.2,19,,outubro/2026
+Araquari,Volta Redonda,galpao,venda,2700.9,1988.8,2867.6,6,8.53,outubro/2026
+Araquari,Volta Redonda,galpao,aluguel,19.2,16.7,23.6,7,8.53,outubro/2026

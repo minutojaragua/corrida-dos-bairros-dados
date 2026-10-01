@@ -1,0 +1,17 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Mesquita,Banco de Areia,casa,venda,2714.3,1666.7,3000.0,5,,outubro/2026
+Mesquita,Bnh,casa,venda,2550.0,2083.3,3583.3,10,,outubro/2026
+Mesquita,Centro,casa,venda,2583.3,1881.0,3395.1,17,,outubro/2026
+Mesquita,Coréia,casa,venda,2385.7,1533.6,3564.0,6,,outubro/2026
+Mesquita,Cosmorama,casa,venda,4461.5,2993.5,5833.3,11,,outubro/2026
+Mesquita,Edson Passos,casa,venda,2923.2,1724.2,4502.8,6,,outubro/2026
+Mesquita,Juscelino,casa,venda,2375.0,2250.0,2381.0,5,,outubro/2026
+Mesquita,Rocha Sobrinho,casa,venda,3000.8,3000.0,4500.0,5,,outubro/2026
+Mesquita,Santa Terezinha,casa,venda,1777.8,1237.5,3192.4,8,,outubro/2026
+Mesquita,Santo Elias,casa,venda,3666.7,1975.0,4266.7,5,,outubro/2026
+Mesquita,Vila Emil,casa,venda,2575.0,1917.5,3469.3,12,,outubro/2026
+Mesquita,Centro,apartamento,venda,3731.7,3000.0,4300.0,9,,outubro/2026
+Mesquita,Cosmorama,apartamento,venda,2569.3,2403.7,2690.5,6,,outubro/2026
+Mesquita,Centro,terreno,venda,1000.0,950.0,1111.1,5,,outubro/2026
+Mesquita,Edson Passos,terreno,venda,1111.1,1020.4,1250.0,5,,outubro/2026
+Mesquita,Centro,sala,aluguel,41.7,34.5,50.6,8,,outubro/2026

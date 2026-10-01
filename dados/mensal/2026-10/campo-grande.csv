@@ -1,0 +1,364 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Campo Grande,Aero Rancho,casa,venda,4588.9,1700.6,5138.9,8,,outubro/2026
+Campo Grande,Água Limpa Park,casa,venda,4590.0,2990.7,5678.6,52,,outubro/2026
+Campo Grande,Alphaville,casa,venda,10516.9,8946.7,11786.9,15,,outubro/2026
+Campo Grande,Alphaville 2,casa,venda,11500.0,10686.6,12265.0,11,,outubro/2026
+Campo Grande,Alphaville 4,casa,venda,11358.8,11034.1,11895.3,6,,outubro/2026
+Campo Grande,Alphaville Campo Grande 3,casa,venda,11309.5,10746.0,13360.6,10,,outubro/2026
+Campo Grande,Alphaville Campo Grande 4,casa,venda,11402.3,11193.8,12017.2,7,,outubro/2026
+Campo Grande,Alphaville II,casa,venda,12371.1,11612.9,13170.1,5,,outubro/2026
+Campo Grande,Altos do Panamá,casa,venda,6115.9,5888.9,6666.7,5,,outubro/2026
+Campo Grande,Alves Pereira,casa,venda,3532.1,2383.3,3987.2,8,,outubro/2026
+Campo Grande,Amambaí,casa,venda,3712.1,2888.0,4659.1,20,5.24,outubro/2026
+Campo Grande,Amambaí,casa,aluguel,16.2,10.5,30.4,6,5.24,outubro/2026
+Campo Grande,Arnaldo Estevão Figueiredo,casa,venda,3200.0,3007.9,3571.4,5,,outubro/2026
+Campo Grande,Bairro Seminário,casa,venda,3555.6,2739.4,5059.1,35,,outubro/2026
+Campo Grande,Bom Retiro,casa,venda,2725.0,2588.0,3748.9,8,,outubro/2026
+Campo Grande,Cabreúva,casa,venda,3105.4,2366.9,4330.7,13,,outubro/2026
+Campo Grande,Caiçara,casa,venda,2815.2,2623.5,3574.4,20,,outubro/2026
+Campo Grande,Carandá Bosque,casa,venda,5939.4,4494.4,7656.2,105,4.4,outubro/2026
+Campo Grande,Carandá Bosque,casa,aluguel,21.8,20.1,28.5,8,4.4,outubro/2026
+Campo Grande,Centenário,casa,venda,4062.5,2000.0,4772.7,5,,outubro/2026
+Campo Grande,Centro,casa,venda,5207.6,3384.0,7027.2,36,5.62,outubro/2026
+Campo Grande,Centro,casa,aluguel,24.4,18.3,29.5,15,5.62,outubro/2026
+Campo Grande,Chácara Cachoeira,casa,venda,7066.4,5229.4,8488.8,52,6.79,outubro/2026
+Campo Grande,Chácara Cachoeira,casa,aluguel,40.0,32.6,47.1,11,6.79,outubro/2026
+Campo Grande,Cidade Jardim,casa,venda,6858.6,5540.7,7661.9,16,,outubro/2026
+Campo Grande,Conjunto Aero Rancho,casa,venda,2217.8,1982.8,4196.7,20,,outubro/2026
+Campo Grande,Conjunto Habitacional Estrela d'Alva I,casa,venda,4216.9,3061.2,4304.3,5,,outubro/2026
+Campo Grande,Conjunto José Abrão,casa,venda,2594.3,2397.8,3307.7,5,,outubro/2026
+Campo Grande,Conjunto Parati II,casa,venda,2240.0,2083.3,2381.0,5,,outubro/2026
+Campo Grande,Conjunto Residencial Estrela do Sul,casa,venda,2384.4,2143.8,3495.0,10,,outubro/2026
+Campo Grande,Conjunto Residencial Octavio Pécora,casa,venda,2635.0,1675.0,3986.6,8,,outubro/2026
+Campo Grande,Conjunto Residencial Recanto dos Rouxinóis,casa,venda,2277.8,2050.7,3769.4,6,,outubro/2026
+Campo Grande,Conjunto União II,casa,venda,2150.0,1980.0,2946.4,5,,outubro/2026
+Campo Grande,Coophafé,casa,venda,5514.8,3432.2,8187.4,6,,outubro/2026
+Campo Grande,Coopharádio,casa,venda,3997.7,3037.5,5072.5,6,,outubro/2026
+Campo Grande,Coophasul,casa,venda,3071.4,2600.0,3583.3,9,,outubro/2026
+Campo Grande,Coophatrabalho,casa,venda,2200.0,1680.0,3123.6,17,,outubro/2026
+Campo Grande,Coophavila II,casa,venda,3746.8,2194.0,5179.3,10,,outubro/2026
+Campo Grande,Coronel Antonino,casa,venda,4400.0,2743.1,5178.6,53,,outubro/2026
+Campo Grande,Figueiras do Parque,casa,venda,4464.6,4062.2,4644.0,6,,outubro/2026
+Campo Grande,Guanandi,casa,venda,4166.7,2245.8,4953.5,35,,outubro/2026
+Campo Grande,Guanandi II,casa,venda,3304.3,2230.0,4371.4,14,,outubro/2026
+Campo Grande,Itanhangá Park,casa,venda,6726.9,5204.2,7516.6,10,,outubro/2026
+Campo Grande,Jardim Aero Rancho,casa,venda,3055.6,2178.8,4372.0,47,,outubro/2026
+Campo Grande,Jardim Aeroporto,casa,venda,2800.0,2266.7,4166.7,13,,outubro/2026
+Campo Grande,Jardim Alto São Francisco,casa,venda,3727.3,3555.6,4760.0,13,,outubro/2026
+Campo Grande,Jardim Anache,casa,venda,3200.0,2283.9,4363.3,31,,outubro/2026
+Campo Grande,Jardim Autonomista,casa,venda,5268.2,4165.9,5957.8,30,,outubro/2026
+Campo Grande,Jardim Auxiliadora,casa,venda,4889.7,3575.0,5979.9,10,,outubro/2026
+Campo Grande,Jardim Batistão,casa,venda,2419.4,2188.9,4562.0,7,,outubro/2026
+Campo Grande,Jardim Bela Vista,casa,venda,4802.3,4497.5,6679.4,17,,outubro/2026
+Campo Grande,Jardim Campo Alto,casa,venda,2644.8,2469.7,5163.0,8,,outubro/2026
+Campo Grande,Jardim Canguru,casa,venda,1605.2,1270.8,3164.2,8,,outubro/2026
+Campo Grande,Jardim Centenário,casa,venda,3636.4,3055.6,4355.1,13,,outubro/2026
+Campo Grande,Jardim Centro Oeste,casa,venda,2162.2,1583.3,3536.2,11,,outubro/2026
+Campo Grande,Jardim Colibrí,casa,venda,2534.4,1986.1,2969.2,12,,outubro/2026
+Campo Grande,Jardim Colúmbia,casa,venda,2581.2,1500.0,4054.9,34,,outubro/2026
+Campo Grande,Jardim das Cerejeiras,casa,venda,2800.0,2470.7,4324.1,14,,outubro/2026
+Campo Grande,Jardim das Nações,casa,venda,4477.6,3411.0,5786.3,31,,outubro/2026
+Campo Grande,Jardim das Virtudes,casa,venda,3200.0,2285.7,3222.2,5,,outubro/2026
+Campo Grande,Jardim dos Estados,casa,venda,8881.3,5865.9,10107.1,12,,outubro/2026
+Campo Grande,Jardim Imá,casa,venda,3573.1,2441.7,4604.2,10,,outubro/2026
+Campo Grande,Jardim Itália,casa,venda,1979.2,1374.2,3709.2,8,,outubro/2026
+Campo Grande,Jardim Itamaracá,casa,venda,3428.6,2408.4,4520.0,41,,outubro/2026
+Campo Grande,Jardim Itatiaia,casa,venda,3333.3,2601.9,5772.2,31,,outubro/2026
+Campo Grande,Jardim Jacy,casa,venda,4789.4,2806.7,5733.8,18,,outubro/2026
+Campo Grande,Jardim Jerusalem,casa,venda,2549.0,1592.0,2745.1,5,,outubro/2026
+Campo Grande,Jardim Jóquei Club,casa,venda,3576.6,2580.9,4950.0,13,,outubro/2026
+Campo Grande,Jardim Leblon,casa,venda,3076.9,2465.4,4108.0,19,,outubro/2026
+Campo Grande,Jardim Los Angeles,casa,venda,2083.3,1798.7,3426.1,23,,outubro/2026
+Campo Grande,Jardim Mansur,casa,venda,4230.1,3006.9,5958.7,7,,outubro/2026
+Campo Grande,Jardim Moema,casa,venda,4333.3,2600.0,5172.4,9,,outubro/2026
+Campo Grande,Jardim Monte Alegre,casa,venda,3928.6,2666.0,4193.5,5,,outubro/2026
+Campo Grande,Jardim Monte Líbano,casa,venda,4323.1,3623.6,5826.2,22,,outubro/2026
+Campo Grande,Jardim Montevidéu,casa,venda,5613.1,3831.5,9318.2,82,,outubro/2026
+Campo Grande,Jardim Monumento,casa,venda,3695.7,2666.7,4444.4,9,,outubro/2026
+Campo Grande,Jardim Morenão,casa,venda,2500.0,2232.1,4500.0,21,,outubro/2026
+Campo Grande,Jardim Nhanhá,casa,venda,1930.5,1750.0,2822.0,5,,outubro/2026
+Campo Grande,Jardim Noroeste,casa,venda,3183.3,2041.7,5131.9,32,,outubro/2026
+Campo Grande,Jardim Nossa Senhora do Perpétuo Socorro,casa,venda,3333.3,2494.4,5591.4,9,,outubro/2026
+Campo Grande,Jardim Panamá,casa,venda,3540.2,2988.5,4941.1,24,,outubro/2026
+Campo Grande,Jardim Parati,casa,venda,3166.7,2570.0,5055.6,16,7.58,outubro/2026
+Campo Grande,Jardim Parati,casa,aluguel,20.0,12.5,24.4,5,7.58,outubro/2026
+Campo Grande,Jardim Paulista,casa,venda,4888.6,3717.4,6587.1,14,8.3,outubro/2026
+Campo Grande,Jardim Paulista,casa,aluguel,33.8,29.1,39.2,6,8.3,outubro/2026
+Campo Grande,Jardim Presidente,casa,venda,2920.6,2376.8,4003.5,32,,outubro/2026
+Campo Grande,Jardim Samambaia,casa,venda,3000.0,2166.7,3846.2,9,,outubro/2026
+Campo Grande,Jardim Santa Emília,casa,venda,2684.0,1973.2,4033.4,14,,outubro/2026
+Campo Grande,Jardim São Bento,casa,venda,5474.0,3730.2,7097.2,22,,outubro/2026
+Campo Grande,Jardim São Conrado,casa,venda,2996.6,2400.9,4264.0,48,,outubro/2026
+Campo Grande,Jardim São Lourenço,casa,venda,4383.8,3854.7,5158.5,8,,outubro/2026
+Campo Grande,Jardim Seminário,casa,venda,3561.0,2916.7,5065.3,19,,outubro/2026
+Campo Grande,Jardim Tarumã,casa,venda,2500.0,2000.0,4591.8,13,,outubro/2026
+Campo Grande,Jardim Tijuca,casa,venda,3161.7,2472.9,4557.4,78,6.41,outubro/2026
+Campo Grande,Jardim Tijuca,casa,aluguel,16.9,15.5,21.6,7,6.41,outubro/2026
+Campo Grande,Jardim Tv Morena,casa,venda,7427.6,5277.9,9295.4,24,,outubro/2026
+Campo Grande,Jardim Veraneio,casa,venda,6969.7,4951.6,8934.4,23,,outubro/2026
+Campo Grande,Jardim Vida Nova,casa,venda,1852.3,1313.6,2900.4,8,,outubro/2026
+Campo Grande,Lagoa Dourada,casa,venda,3333.3,2549.0,3666.7,5,,outubro/2026
+Campo Grande,Los Angeles,casa,venda,3595.6,2633.6,4441.8,12,,outubro/2026
+Campo Grande,Loteamento Bela Laguna,casa,venda,2111.1,1854.2,2779.3,23,,outubro/2026
+Campo Grande,Loteamento Praia da Urca,casa,venda,3700.0,3075.0,6098.7,16,,outubro/2026
+Campo Grande,Maria Aparecida Pedrossian,casa,venda,4666.7,3338.8,12551.9,7,,outubro/2026
+Campo Grande,Mata do Jacinto,casa,venda,3431.4,2690.0,4686.4,58,,outubro/2026
+Campo Grande,Mata do Segredo,casa,venda,3387.1,2475.2,4902.0,9,,outubro/2026
+Campo Grande,Monte Carlo,casa,venda,4722.2,4000.0,5402.8,5,,outubro/2026
+Campo Grande,Monte Castelo,casa,venda,4809.7,3049.6,6089.7,91,6.74,outubro/2026
+Campo Grande,Monte Castelo,casa,aluguel,27.0,24.4,31.2,7,6.74,outubro/2026
+Campo Grande,Morada dos Deuses,casa,venda,3100.0,2566.3,4384.1,10,,outubro/2026
+Campo Grande,Morada Verde,casa,venda,2622.8,2150.0,4446.6,19,,outubro/2026
+Campo Grande,North Park,casa,venda,2572.3,2060.0,4019.5,20,,outubro/2026
+Campo Grande,Nova Lima,casa,venda,3864.1,2576.2,4898.0,152,,outubro/2026
+Campo Grande,Núcleo Habitacional Buriti,casa,venda,2533.3,1906.2,3323.6,11,,outubro/2026
+Campo Grande,Núcleo Habitacional Universitárias,casa,venda,3503.1,2687.5,4600.0,13,,outubro/2026
+Campo Grande,Panamá,casa,venda,3157.9,2083.3,5023.0,21,,outubro/2026
+Campo Grande,Panorama,casa,venda,3116.8,2574.9,4617.1,19,,outubro/2026
+Campo Grande,Parque Dallas,casa,venda,5181.8,3642.4,6600.0,9,,outubro/2026
+Campo Grande,Parque dos Laranjais,casa,venda,4411.8,2682.1,5089.9,11,,outubro/2026
+Campo Grande,Parque dos Novos Estados,casa,venda,4542.7,2847.9,7167.8,99,,outubro/2026
+Campo Grande,Parque Iguatemi,casa,venda,2500.0,2365.6,3804.3,7,,outubro/2026
+Campo Grande,Parque Residencial Azaléia,casa,venda,2640.0,2451.1,3400.0,7,,outubro/2026
+Campo Grande,Parque Residencial Damha IV,casa,venda,12889.1,11897.6,14318.9,8,,outubro/2026
+Campo Grande,Parque Residencial dos Girassóis,casa,venda,3563.2,2476.0,4894.5,15,,outubro/2026
+Campo Grande,Parque Residencial Iracy Coelho Netto,casa,venda,4000.0,2166.7,4419.9,9,,outubro/2026
+Campo Grande,Parque Residencial Rita Vieira,casa,venda,4389.1,3286.2,6134.4,96,,outubro/2026
+Campo Grande,Parque Residencial União,casa,venda,2388.9,1742.6,4291.7,15,,outubro/2026
+Campo Grande,Pioneiros,casa,venda,3333.3,2666.7,5245.2,37,,outubro/2026
+Campo Grande,Portal Caiobá,casa,venda,2828.9,2002.7,3833.3,20,,outubro/2026
+Campo Grande,Portal Caiobá II,casa,venda,2275.0,1954.3,3134.4,10,,outubro/2026
+Campo Grande,Portal do Panamá,casa,venda,3000.0,2532.4,3907.2,15,,outubro/2026
+Campo Grande,Recanto dos Pássaros,casa,venda,3459.4,2535.5,4124.8,16,,outubro/2026
+Campo Grande,Residencial Ana Maria do Couto,casa,venda,3250.0,2718.1,3759.5,16,,outubro/2026
+Campo Grande,Residencial Aquarius I,casa,venda,3040.0,2810.0,4480.0,6,,outubro/2026
+Campo Grande,Residencial Búzios,casa,venda,2600.0,2220.0,3920.8,7,,outubro/2026
+Campo Grande,Residencial Damha,casa,venda,13714.3,11950.0,15057.5,21,,outubro/2026
+Campo Grande,Residencial Damha II,casa,venda,13089.3,12000.0,13883.9,37,,outubro/2026
+Campo Grande,Residencial Damha III,casa,venda,12453.8,9966.5,12920.5,12,,outubro/2026
+Campo Grande,Residencial Damha IV,casa,venda,12516.2,10927.3,12622.1,5,,outubro/2026
+Campo Grande,Residencial Estrela Park,casa,venda,3130.0,2120.0,4364.5,8,,outubro/2026
+Campo Grande,Residencial Figueiras do Parque,casa,venda,2454.5,2160.0,4222.2,57,,outubro/2026
+Campo Grande,Residencial Oiti,casa,venda,1666.3,1160.0,2499.5,5,,outubro/2026
+Campo Grande,Residencial Oliveira,casa,venda,2950.0,2288.9,4525.6,23,,outubro/2026
+Campo Grande,Residencial Oliveira III,casa,venda,2348.2,1950.0,3099.2,12,,outubro/2026
+Campo Grande,Residencial Sírio Libanês I,casa,venda,2853.7,2205.2,4082.1,15,,outubro/2026
+Campo Grande,Residencial Sírio Libanês II,casa,venda,2072.7,1979.9,3123.6,5,,outubro/2026
+Campo Grande,Residencial Vida Nova III,casa,venda,3142.9,2000.0,3250.0,5,,outubro/2026
+Campo Grande,Rita Vieira,casa,venda,5327.1,3412.8,6156.2,80,,outubro/2026
+Campo Grande,Santa Fé,casa,venda,7875.7,6684.6,8851.3,16,,outubro/2026
+Campo Grande,Santo Amaro,casa,venda,3007.8,2652.2,4301.1,12,,outubro/2026
+Campo Grande,Santo Antônio,casa,venda,4000.0,3161.4,5316.7,29,,outubro/2026
+Campo Grande,São Francisco,casa,venda,4896.6,3058.0,5574.1,30,,outubro/2026
+Campo Grande,Seminário,casa,venda,3797.3,3575.8,4308.2,6,,outubro/2026
+Campo Grande,Sobrinho,casa,venda,4227.3,2542.9,6250.0,13,,outubro/2026
+Campo Grande,Taquaral Bosque,casa,venda,4827.1,2911.4,5543.0,10,,outubro/2026
+Campo Grande,Terras Alpha,casa,venda,8571.4,8028.8,8918.9,9,,outubro/2026
+Campo Grande,Tijuca,casa,venda,3205.1,2270.5,4450.0,21,,outubro/2026
+Campo Grande,Tiradentes,casa,venda,5102.8,3374.4,7257.7,70,6.58,outubro/2026
+Campo Grande,Tiradentes,casa,aluguel,28.0,16.7,38.5,9,6.58,outubro/2026
+Campo Grande,União,casa,venda,2946.4,2640.0,4615.4,5,,outubro/2026
+Campo Grande,Universitário,casa,venda,3475.2,2566.7,5045.5,59,,outubro/2026
+Campo Grande,Vila Alba,casa,venda,2600.0,1600.0,3861.9,9,,outubro/2026
+Campo Grande,Vila Albuquerque,casa,venda,3761.7,3381.4,5272.0,11,,outubro/2026
+Campo Grande,Vila Almeida,casa,venda,4000.0,3180.6,4769.3,23,,outubro/2026
+Campo Grande,Vila Anahy,casa,venda,3154.1,2727.6,3707.4,12,,outubro/2026
+Campo Grande,Vila Antônio Vendas,casa,venda,7452.6,6231.9,8653.8,5,,outubro/2026
+Campo Grande,Vila Bandeirante,casa,venda,3640.8,2629.3,4403.4,31,,outubro/2026
+Campo Grande,Vila Belo Horizonte,casa,venda,3304.0,1562.5,3807.3,5,,outubro/2026
+Campo Grande,Vila Carlota,casa,venda,5458.0,3905.2,6489.3,38,,outubro/2026
+Campo Grande,Vila Carvalho,casa,venda,3082.2,2365.7,4872.2,15,,outubro/2026
+Campo Grande,Vila Cidade Morena,casa,venda,2857.1,2551.7,4727.5,11,,outubro/2026
+Campo Grande,Vila Danúbio Azul,casa,venda,5015.3,4600.4,5250.6,8,,outubro/2026
+Campo Grande,Vila do Polonês,casa,venda,7189.8,6084.7,7846.6,18,,outubro/2026
+Campo Grande,Vila Duque de Caxias,casa,venda,4109.6,3165.5,4681.6,5,,outubro/2026
+Campo Grande,Vila Flório,casa,venda,3060.0,2520.0,3991.2,6,,outubro/2026
+Campo Grande,Vila Giocondo Orsi,casa,venda,4298.8,3657.8,4960.4,16,,outubro/2026
+Campo Grande,Vila Gomes,casa,venda,5274.9,4652.2,6350.8,8,,outubro/2026
+Campo Grande,Vila Ieda,casa,venda,3658.9,2218.3,5631.7,6,,outubro/2026
+Campo Grande,Vila Ipiranga,casa,venda,4211.3,3320.6,5713.2,10,,outubro/2026
+Campo Grande,Vila Manoel Taveira,casa,venda,3055.6,2500.0,4252.9,33,,outubro/2026
+Campo Grande,Vila Marcos Roberto,casa,venda,3055.6,2333.3,3609.5,13,,outubro/2026
+Campo Grande,Vila Margarida,casa,venda,4844.8,3926.2,6312.9,30,,outubro/2026
+Campo Grande,Vila Marli,casa,venda,3888.9,3039.8,5193.6,20,,outubro/2026
+Campo Grande,Vila Moreninha II,casa,venda,1846.2,1720.0,2263.2,5,,outubro/2026
+Campo Grande,Vila Morumbi,casa,venda,5306.1,3581.1,6180.6,51,,outubro/2026
+Campo Grande,Vila Nascente,casa,venda,7071.0,5593.9,8174.3,18,,outubro/2026
+Campo Grande,Vila Nasser,casa,venda,3641.3,2506.6,4881.0,95,,outubro/2026
+Campo Grande,Vila Neusa,casa,venda,4111.1,2679.8,4792.7,7,,outubro/2026
+Campo Grande,Vila Nogueira,casa,venda,1917.7,1738.1,2794.4,7,,outubro/2026
+Campo Grande,Vila Nossa Senhora das Graças,casa,venda,4230.8,2640.0,4732.1,17,,outubro/2026
+Campo Grande,Vila Nova,casa,venda,2911.2,1771.0,4118.3,70,,outubro/2026
+Campo Grande,Vila Nova Capital,casa,venda,4285.7,2604.2,4464.3,5,,outubro/2026
+Campo Grande,Vila Palmira,casa,venda,3378.4,2453.7,4700.0,25,,outubro/2026
+Campo Grande,Vila Piratininga,casa,venda,3653.4,2942.7,4625.0,14,,outubro/2026
+Campo Grande,Vila Planalto,casa,venda,5217.1,3236.7,5937.5,33,,outubro/2026
+Campo Grande,Vila Ravenna,casa,venda,4106.4,2903.2,6111.1,6,,outubro/2026
+Campo Grande,Vila Rica,casa,venda,6800.0,4516.1,7739.1,13,,outubro/2026
+Campo Grande,Vila Rosa Pires,casa,venda,5329.4,3960.6,6470.5,8,,outubro/2026
+Campo Grande,Vila Santa Luzia,casa,venda,3166.7,2272.7,4681.8,61,,outubro/2026
+Campo Grande,Vila Santo Amaro,casa,venda,5262.2,3233.8,5816.3,9,,outubro/2026
+Campo Grande,Vila Santo Eugênio,casa,venda,3837.7,2707.5,4795.3,18,,outubro/2026
+Campo Grande,Vila São Jorge da Lagoa,casa,venda,3013.8,2109.4,3554.4,14,,outubro/2026
+Campo Grande,Vila Sílvia Regina,casa,venda,3082.2,2380.7,3716.9,11,,outubro/2026
+Campo Grande,Vila Sobrinho,casa,venda,5006.1,4375.0,5789.5,5,,outubro/2026
+Campo Grande,Vila Taquarussu,casa,venda,4180.9,2634.0,5157.3,12,,outubro/2026
+Campo Grande,Vila Taveirópolis,casa,venda,3410.2,2712.8,3844.2,28,,outubro/2026
+Campo Grande,Vila Vilas Boas,casa,venda,6121.0,4545.5,7272.7,81,4.74,outubro/2026
+Campo Grande,Vila Vilas Boas,casa,aluguel,24.2,19.7,32.3,6,4.74,outubro/2026
+Campo Grande,Vilas Boas,casa,venda,6542.1,6043.5,7272.7,9,,outubro/2026
+Campo Grande,Vivendas do Bosque,casa,venda,6166.7,5532.6,6846.4,5,,outubro/2026
+Campo Grande,Vivendas do Parque,casa,venda,2027.8,1625.0,3739.7,6,,outubro/2026
+Campo Grande,Amambaí,apartamento,venda,2907.0,2622.8,3500.0,9,,outubro/2026
+Campo Grande,Bairro Seminário,apartamento,venda,5250.0,4750.0,6545.5,13,7.57,outubro/2026
+Campo Grande,Bairro Seminário,apartamento,aluguel,33.1,30.2,38.1,8,7.57,outubro/2026
+Campo Grande,Cabreúva,apartamento,venda,3807.7,3142.9,4957.3,9,,outubro/2026
+Campo Grande,Carandá Bosque,apartamento,venda,9759.0,7883.8,11591.0,67,6.58,outubro/2026
+Campo Grande,Carandá Bosque,apartamento,aluguel,53.5,39.4,62.5,5,6.58,outubro/2026
+Campo Grande,Centro,apartamento,venda,5132.5,3830.0,8933.3,216,5.49,outubro/2026
+Campo Grande,Centro,apartamento,aluguel,23.5,17.9,42.2,40,5.49,outubro/2026
+Campo Grande,Chácara Cachoeira,apartamento,venda,9600.0,8125.9,11942.3,43,,outubro/2026
+Campo Grande,Conjunto Aero Rancho,apartamento,venda,2857.1,2777.8,3085.1,9,,outubro/2026
+Campo Grande,Coophamat,apartamento,venda,3507.5,3333.3,3718.8,5,,outubro/2026
+Campo Grande,Coopharádio,apartamento,venda,5154.9,4659.1,5452.8,6,,outubro/2026
+Campo Grande,Coronel Antonino,apartamento,venda,4700.0,4117.6,5512.8,21,7.94,outubro/2026
+Campo Grande,Coronel Antonino,apartamento,aluguel,31.1,27.7,41.0,9,7.94,outubro/2026
+Campo Grande,Guanandi,apartamento,venda,3174.6,2976.0,3320.6,7,,outubro/2026
+Campo Grande,Itanhangá Park,apartamento,venda,10988.4,9583.7,12518.2,42,5.0,outubro/2026
+Campo Grande,Itanhangá Park,apartamento,aluguel,45.8,36.9,52.1,8,5.0,outubro/2026
+Campo Grande,Jardim Alto São Francisco,apartamento,venda,8738.7,8558.6,9482.8,5,,outubro/2026
+Campo Grande,Jardim América,apartamento,venda,7802.7,7519.5,8834.3,6,,outubro/2026
+Campo Grande,Jardim Autonomista,apartamento,venda,9785.4,7855.9,11808.6,6,,outubro/2026
+Campo Grande,Jardim Bela Vista,apartamento,venda,10679.6,8669.4,11450.4,21,,outubro/2026
+Campo Grande,Jardim Carioca,apartamento,venda,2528.0,2220.3,3557.7,6,,outubro/2026
+Campo Grande,Jardim Centenário,apartamento,venda,3584.0,3275.2,3969.4,14,7.13,outubro/2026
+Campo Grande,Jardim Centenário,apartamento,aluguel,21.3,19.9,22.8,12,7.13,outubro/2026
+Campo Grande,Jardim das Nações,apartamento,venda,4750.0,4500.0,5250.0,5,,outubro/2026
+Campo Grande,Jardim dos Estados,apartamento,venda,11029.4,7709.3,13757.2,97,4.99,outubro/2026
+Campo Grande,Jardim dos Estados,apartamento,aluguel,45.9,25.1,82.1,22,4.99,outubro/2026
+Campo Grande,Jardim Leblon,apartamento,venda,4484.1,3389.7,4930.8,12,,outubro/2026
+Campo Grande,Jardim Monte Líbano,apartamento,venda,3198.7,3118.3,3918.9,9,,outubro/2026
+Campo Grande,Jardim Paradiso,apartamento,venda,4471.3,4118.9,5104.9,10,,outubro/2026
+Campo Grande,Jardim Petrópolis,apartamento,venda,3432.7,3160.8,3779.7,7,,outubro/2026
+Campo Grande,Jardim São Conrado,apartamento,venda,2857.1,2512.7,3875.0,6,,outubro/2026
+Campo Grande,Jardim São Lourenço,apartamento,venda,4164.0,3461.5,4776.4,14,,outubro/2026
+Campo Grande,Jardim Seminário,apartamento,venda,5846.2,5065.2,7270.5,17,,outubro/2026
+Campo Grande,Jardim Tijuca,apartamento,venda,3265.7,2647.3,3451.8,8,,outubro/2026
+Campo Grande,Jardim Veraneio,apartamento,venda,7367.9,5691.8,9015.2,22,,outubro/2026
+Campo Grande,Mata do Jacinto,apartamento,venda,8000.0,7000.0,9195.4,33,6.0,outubro/2026
+Campo Grande,Mata do Jacinto,apartamento,aluguel,40.0,33.6,44.6,11,6.0,outubro/2026
+Campo Grande,Mata do Segredo,apartamento,venda,5000.0,4212.1,5587.8,11,,outubro/2026
+Campo Grande,Monte Castelo,apartamento,venda,5493.2,4116.0,8085.6,116,6.66,outubro/2026
+Campo Grande,Monte Castelo,apartamento,aluguel,30.5,23.9,38.6,31,6.66,outubro/2026
+Campo Grande,Morada do Sossego,apartamento,venda,5058.1,4598.1,5285.7,7,,outubro/2026
+Campo Grande,Parque Isabel Garden'S,apartamento,venda,3555.6,3222.2,3761.9,5,,outubro/2026
+Campo Grande,Parque Residencial dos Girassóis,apartamento,venda,5250.0,5238.1,5500.0,5,,outubro/2026
+Campo Grande,Parque Residencial Maria A Pedrossian,apartamento,venda,7115.4,6009.6,7610.3,6,,outubro/2026
+Campo Grande,Parque Residencial Rita Vieira,apartamento,venda,5357.1,4507.0,6399.4,39,7.57,outubro/2026
+Campo Grande,Parque Residencial Rita Vieira,apartamento,aluguel,33.8,27.3,45.5,19,7.57,outubro/2026
+Campo Grande,Parque Residencial União,apartamento,venda,6375.0,5882.4,6750.0,5,,outubro/2026
+Campo Grande,Pioneiros,apartamento,venda,4307.1,3825.2,4968.8,34,8.53,outubro/2026
+Campo Grande,Pioneiros,apartamento,aluguel,30.6,26.1,35.2,16,8.53,outubro/2026
+Campo Grande,Residencial Novo Seminário,apartamento,venda,5697.7,5208.3,5967.7,11,,outubro/2026
+Campo Grande,Rita Vieira,apartamento,venda,5731.7,5000.0,6294.1,17,7.81,outubro/2026
+Campo Grande,Rita Vieira,apartamento,aluguel,37.3,33.9,43.1,6,7.81,outubro/2026
+Campo Grande,Royal Park,apartamento,venda,14189.2,12500.0,15426.4,37,4.76,outubro/2026
+Campo Grande,Royal Park,apartamento,aluguel,56.3,52.8,115.7,5,4.76,outubro/2026
+Campo Grande,Santa Fé,apartamento,venda,10784.3,9191.0,13600.0,39,,outubro/2026
+Campo Grande,Santo Antônio,apartamento,venda,3651.5,3115.4,4087.5,10,,outubro/2026
+Campo Grande,São Francisco,apartamento,venda,6345.5,5000.0,8189.7,77,5.82,outubro/2026
+Campo Grande,São Francisco,apartamento,aluguel,30.8,27.1,39.7,21,5.82,outubro/2026
+Campo Grande,Seminário,apartamento,venda,5200.0,4222.2,5833.3,9,8.7,outubro/2026
+Campo Grande,Seminário,apartamento,aluguel,37.7,33.2,39.5,6,8.7,outubro/2026
+Campo Grande,Tiradentes,apartamento,venda,5536.2,4436.7,7269.9,83,7.35,outubro/2026
+Campo Grande,Tiradentes,apartamento,aluguel,33.9,27.9,39.6,34,7.35,outubro/2026
+Campo Grande,Universitário,apartamento,venda,3980.0,3714.3,4200.0,5,,outubro/2026
+Campo Grande,Vila Adelina,apartamento,venda,5127.9,4975.0,5520.5,7,,outubro/2026
+Campo Grande,Vila Albuquerque,apartamento,venda,5373.1,4418.8,6111.1,15,6.79,outubro/2026
+Campo Grande,Vila Albuquerque,apartamento,aluguel,30.4,30.0,33.6,5,6.79,outubro/2026
+Campo Grande,Vila Bandeirante,apartamento,venda,3807.7,2552.1,3880.6,5,,outubro/2026
+Campo Grande,Vila Carlota,apartamento,venda,4390.6,3318.8,5446.7,10,5.47,outubro/2026
+Campo Grande,Vila Carlota,apartamento,aluguel,20.0,16.5,21.7,5,5.47,outubro/2026
+Campo Grande,Vila Cidade Morena,apartamento,venda,4407.7,4074.1,4528.3,5,,outubro/2026
+Campo Grande,Vila Glória,apartamento,venda,3375.0,2674.4,4181.8,9,,outubro/2026
+Campo Grande,Vila Gomes,apartamento,venda,6356.1,5206.1,8276.3,10,,outubro/2026
+Campo Grande,Vila Margarida,apartamento,venda,8831.2,7315.8,9508.2,53,5.15,outubro/2026
+Campo Grande,Vila Margarida,apartamento,aluguel,37.9,31.6,41.1,17,5.15,outubro/2026
+Campo Grande,Vila Nascente,apartamento,venda,10323.1,9962.1,10743.6,6,,outubro/2026
+Campo Grande,Vila Nasser,apartamento,venda,5333.3,4398.3,5883.5,11,,outubro/2026
+Campo Grande,Vila Planalto,apartamento,venda,6509.4,5798.1,7903.9,15,,outubro/2026
+Campo Grande,Vila Rica,apartamento,venda,8478.3,6514.6,9456.5,7,,outubro/2026
+Campo Grande,Vila Sobrinho,apartamento,venda,3973.7,2851.6,4174.6,10,,outubro/2026
+Campo Grande,Vila Taquarussu,apartamento,venda,3285.7,2672.7,3478.5,7,,outubro/2026
+Campo Grande,Vila Vilas Boas,apartamento,venda,7987.4,7367.3,10851.7,12,,outubro/2026
+Campo Grande,Vivendas do Bosque,apartamento,venda,10915.5,10211.3,12181.8,21,,outubro/2026
+Campo Grande,Vivendas do Parque,apartamento,venda,7199.7,6405.7,8273.4,24,6.1,outubro/2026
+Campo Grande,Vivendas do Parque,apartamento,aluguel,36.6,32.0,39.7,12,6.1,outubro/2026
+Campo Grande,Água Limpa Park,terreno,venda,688.7,630.9,716.3,16,,outubro/2026
+Campo Grande,Alphaville,terreno,venda,1432.5,1381.0,1542.4,29,,outubro/2026
+Campo Grande,Alphaville Campo Grande 3,terreno,venda,1485.7,1436.0,1570.7,9,,outubro/2026
+Campo Grande,Amambaí,terreno,venda,875.0,763.9,961.5,7,,outubro/2026
+Campo Grande,Bairro Seminário,terreno,venda,680.6,569.4,748.7,10,,outubro/2026
+Campo Grande,Bom Retiro,terreno,venda,514.3,442.4,562.5,7,,outubro/2026
+Campo Grande,Carandá Bosque,terreno,venda,1157.6,1035.4,1303.1,10,,outubro/2026
+Campo Grande,Centro,terreno,venda,1663.3,1301.1,2336.8,28,,outubro/2026
+Campo Grande,Chácara Cachoeira,terreno,venda,2500.0,1904.8,2822.7,7,,outubro/2026
+Campo Grande,Chácara dos Poderes,terreno,venda,2032.5,158.6,2350.1,19,,outubro/2026
+Campo Grande,Coronel Antonino,terreno,venda,968.8,743.8,1285.0,12,,outubro/2026
+Campo Grande,Jardim Aero Rancho,terreno,venda,513.9,444.4,1000.0,9,,outubro/2026
+Campo Grande,Jardim Bela Vista,terreno,venda,1543.2,1432.3,1666.7,5,,outubro/2026
+Campo Grande,Jardim Centenário,terreno,venda,500.0,450.8,567.9,7,,outubro/2026
+Campo Grande,Jardim Centro Oeste,terreno,venda,416.7,361.1,550.0,5,,outubro/2026
+Campo Grande,Jardim Colúmbia,terreno,venda,353.5,302.1,407.2,6,,outubro/2026
+Campo Grande,Jardim da Mooca,terreno,venda,480.0,436.4,500.0,5,,outubro/2026
+Campo Grande,Jardim dos Estados,terreno,venda,2495.5,1245.8,2916.7,5,,outubro/2026
+Campo Grande,Jardim Imá,terreno,venda,519.8,516.1,625.0,5,,outubro/2026
+Campo Grande,Jardim Inápolis,terreno,venda,110.0,105.0,120.0,5,,outubro/2026
+Campo Grande,Jardim Itamaracá,terreno,venda,585.0,472.2,739.1,9,,outubro/2026
+Campo Grande,Jardim Itatiaia,terreno,venda,786.4,680.9,815.5,6,,outubro/2026
+Campo Grande,Jardim Monte Alegre,terreno,venda,300.0,270.0,317.7,7,,outubro/2026
+Campo Grande,Jardim Montevidéu,terreno,venda,1201.1,722.2,1408.5,26,,outubro/2026
+Campo Grande,Jardim Noroeste,terreno,venda,629.6,326.4,965.2,19,,outubro/2026
+Campo Grande,Jardim São Conrado,terreno,venda,401.9,318.3,515.0,14,,outubro/2026
+Campo Grande,Jardim Tijuca,terreno,venda,475.0,416.7,590.8,13,,outubro/2026
+Campo Grande,Jardim Veraneio,terreno,venda,2014.9,1076.8,2303.6,22,,outubro/2026
+Campo Grande,Loteamento Bela Laguna,terreno,venda,361.1,347.2,444.4,5,,outubro/2026
+Campo Grande,Monte Castelo,terreno,venda,891.8,745.0,1145.8,33,,outubro/2026
+Campo Grande,Moreninha,terreno,venda,67.2,60.0,517.9,5,,outubro/2026
+Campo Grande,North Park,terreno,venda,387.9,356.9,514.0,11,,outubro/2026
+Campo Grande,Nova Lima,terreno,venda,562.5,488.4,690.8,30,,outubro/2026
+Campo Grande,Núcleo Industrial,terreno,venda,496.1,425.0,712.4,5,,outubro/2026
+Campo Grande,Panorama,terreno,venda,408.2,395.6,530.6,5,,outubro/2026
+Campo Grande,Parque dos Novos Estados,terreno,venda,1240.7,1092.0,1409.5,10,,outubro/2026
+Campo Grande,Parque Residencial Damha IV,terreno,venda,2620.0,2453.3,2626.9,9,,outubro/2026
+Campo Grande,Parque Residencial Rita Vieira,terreno,venda,733.5,550.0,789.3,7,,outubro/2026
+Campo Grande,Portal Caiobá,terreno,venda,305.6,270.8,369.4,11,,outubro/2026
+Campo Grande,Residencial Estrela Park,terreno,venda,490.9,434.8,560.0,5,,outubro/2026
+Campo Grande,Residencial Figueiras do Parque,terreno,venda,433.5,415.6,476.4,7,,outubro/2026
+Campo Grande,Residencial Shalom,terreno,venda,1123.0,1063.6,1191.7,6,,outubro/2026
+Campo Grande,Rita Vieira,terreno,venda,886.8,817.0,954.9,11,,outubro/2026
+Campo Grande,São Francisco,terreno,venda,937.8,750.0,972.8,13,,outubro/2026
+Campo Grande,Shalom,terreno,venda,1200.0,1098.2,1200.0,5,,outubro/2026
+Campo Grande,Terras Alpha,terreno,venda,1129.6,1052.3,1211.1,19,,outubro/2026
+Campo Grande,Terras do Golfe,terreno,venda,1074.7,884.5,1175.9,8,,outubro/2026
+Campo Grande,Tiradentes,terreno,venda,1289.7,791.7,1404.6,15,,outubro/2026
+Campo Grande,Vila Bandeirante,terreno,venda,775.9,725.9,1022.2,9,,outubro/2026
+Campo Grande,Vila Carvalho,terreno,venda,1650.7,1094.8,1853.8,6,,outubro/2026
+Campo Grande,Vila Glória,terreno,venda,1111.1,1096.0,1413.0,5,,outubro/2026
+Campo Grande,Vila Ipiranga,terreno,venda,737.7,625.8,1006.6,6,,outubro/2026
+Campo Grande,Vila Margarida,terreno,venda,1111.1,902.8,1242.3,7,,outubro/2026
+Campo Grande,Vila Morumbi,terreno,venda,933.3,826.3,1048.3,13,,outubro/2026
+Campo Grande,Vila Nascente,terreno,venda,1875.0,1520.8,2083.3,6,,outubro/2026
+Campo Grande,Vila Nasser,terreno,venda,575.0,486.1,698.3,21,,outubro/2026
+Campo Grande,Vila Nova,terreno,venda,262.9,241.6,331.2,16,,outubro/2026
+Campo Grande,Vila Planalto,terreno,venda,799.2,679.4,1038.9,12,,outubro/2026
+Campo Grande,Vila Taveirópolis,terreno,venda,896.0,727.3,1055.6,5,,outubro/2026
+Campo Grande,Vila Vilas Boas,terreno,venda,1009.2,895.8,1150.4,24,,outubro/2026
+Campo Grande,Vivendas do Parque,terreno,venda,379.2,208.3,402.8,9,,outubro/2026
+Campo Grande,Centro,sala,venda,3970.6,3218.1,6579.3,23,10.58,outubro/2026
+Campo Grande,Centro,sala,aluguel,35.0,23.8,47.1,37,10.58,outubro/2026
+Campo Grande,Jardim dos Estados,sala,aluguel,45.5,40.8,90.0,13,,outubro/2026
+Campo Grande,Monte Castelo,sala,aluguel,40.0,24.5,51.8,9,,outubro/2026
+Campo Grande,Santa Fé,sala,aluguel,66.7,22.7,70.0,9,,outubro/2026
+Campo Grande,Centro,galpao,aluguel,21.5,16.3,22.0,5,,outubro/2026
+Campo Grande,Vila Cidade Morena,galpao,aluguel,18.0,14.5,20.2,9,,outubro/2026

@@ -1,0 +1,53 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Mirassol,Aeroporto,casa,venda,7434.2,6391.6,7964.6,16,,outubro/2026
+Mirassol,Alphaville,casa,venda,6175.6,5309.9,6949.7,20,,outubro/2026
+Mirassol,Centro,casa,venda,3363.6,2600.0,5963.9,21,,outubro/2026
+Mirassol,Golden Park,casa,venda,8830.8,7134.2,9386.0,11,,outubro/2026
+Mirassol,Golden Park Residence,casa,venda,7714.3,6666.7,9506.7,29,,outubro/2026
+Mirassol,Jardim Alvorada,casa,venda,3666.7,2894.7,4105.3,5,,outubro/2026
+Mirassol,Jardim Laguna,casa,venda,3871.0,3187.9,4366.8,7,,outubro/2026
+Mirassol,Lot. Res. Setlife,casa,venda,7064.2,6209.2,7362.0,13,,outubro/2026
+Mirassol,Loteamento Jardim Laguna,casa,venda,3780.2,3480.0,4152.1,10,,outubro/2026
+Mirassol,Loteamento Residencial Golden Park,casa,venda,7381.0,6258.3,8123.3,10,,outubro/2026
+Mirassol,Loteamento Residencial Regissol,casa,venda,2371.2,2033.3,2595.5,6,,outubro/2026
+Mirassol,Loteamento Vila Aeroporto,casa,venda,7648.9,6644.5,7740.5,6,,outubro/2026
+Mirassol,Loteamento Village,casa,venda,5951.7,5259.1,6652.3,6,,outubro/2026
+Mirassol,Mais Parque,casa,venda,3958.3,3071.4,4588.2,13,,outubro/2026
+Mirassol,Miravista Residencial,casa,venda,4497.9,4025.2,5052.8,14,,outubro/2026
+Mirassol,Residencial Mais Parque,casa,venda,4133.3,3521.7,4476.1,19,,outubro/2026
+Mirassol,Set Life II,casa,venda,7185.6,6455.8,7853.6,31,,outubro/2026
+Mirassol,Setlife,casa,venda,6832.3,6325.3,7419.4,33,,outubro/2026
+Mirassol,Setlife 1,casa,venda,5723.6,4846.1,6208.4,6,,outubro/2026
+Mirassol,Setlife II Residence Club,casa,venda,6025.2,5333.3,7187.5,5,,outubro/2026
+Mirassol,Setlife Residence Club 1,casa,venda,6250.0,5726.5,6738.8,32,,outubro/2026
+Mirassol,Setlife Residence Club 2,casa,venda,6439.3,5844.1,6869.7,42,,outubro/2026
+Mirassol,Setlife Residence Club II,casa,venda,7187.5,6478.7,7762.2,7,,outubro/2026
+Mirassol,Terra Vista,casa,venda,7399.1,6571.4,7812.5,17,,outubro/2026
+Mirassol,Terra Vista Residence Club,casa,venda,7098.2,6000.0,7788.0,33,,outubro/2026
+Mirassol,Terras Alphaville,casa,venda,6676.1,5037.5,7071.1,12,,outubro/2026
+Mirassol,Village Damha III,casa,venda,6123.6,4835.2,8124.4,9,,outubro/2026
+Mirassol,Village Damha IV,casa,venda,6967.7,5657.1,7500.0,13,,outubro/2026
+Mirassol,Village Mirassol 4,casa,venda,6875.0,6490.4,7500.0,5,,outubro/2026
+Mirassol,Village Mirassol I,casa,venda,4777.8,4720.0,5250.0,5,,outubro/2026
+Mirassol,Village Mirassol II,casa,venda,5821.9,4965.3,6107.4,10,,outubro/2026
+Mirassol,Village Mirassol III,casa,venda,5696.7,4458.4,6347.7,18,,outubro/2026
+Mirassol,Alphaville,terreno,venda,569.0,525.5,642.2,26,,outubro/2026
+Mirassol,Centro,terreno,venda,789.5,704.8,854.5,5,,outubro/2026
+Mirassol,Golden Park Residence,terreno,venda,1218.5,1100.0,1430.8,12,,outubro/2026
+Mirassol,Jardim Girassol,terreno,venda,393.8,389.8,414.8,5,,outubro/2026
+Mirassol,Loteamento Residencial Golden Park,terreno,venda,1441.4,637.7,1533.1,7,,outubro/2026
+Mirassol,Mais Parque,terreno,venda,1052.6,729.0,1100.0,8,,outubro/2026
+Mirassol,Miravista,terreno,venda,500.8,480.7,543.8,8,,outubro/2026
+Mirassol,Miravista Residencial,terreno,venda,550.0,509.7,598.3,15,,outubro/2026
+Mirassol,Miravista Residencial e Comercial,terreno,venda,539.2,524.5,566.5,5,,outubro/2026
+Mirassol,Residencial Mais Parque,terreno,venda,523.8,500.0,575.0,9,,outubro/2026
+Mirassol,Set Life II,terreno,venda,828.1,775.7,1048.4,8,,outubro/2026
+Mirassol,Setlife,terreno,venda,770.8,750.8,869.6,13,,outubro/2026
+Mirassol,Setlife I Residence Club,terreno,venda,794.5,780.0,810.3,5,,outubro/2026
+Mirassol,Setlife Residence Club 1,terreno,venda,830.0,727.1,903.6,11,,outubro/2026
+Mirassol,Setlife Residence Club 2,terreno,venda,805.8,758.2,865.9,8,,outubro/2026
+Mirassol,Terra Vista Residence Club,terreno,venda,835.5,829.1,928.4,9,,outubro/2026
+Mirassol,Terras Alphaville,terreno,venda,644.5,558.5,682.6,24,,outubro/2026
+Mirassol,Village Damha IV,terreno,venda,692.2,690.9,784.0,5,,outubro/2026
+Mirassol,Village Mirassol 4,terreno,venda,900.0,785.1,1300.0,7,,outubro/2026
+Mirassol,Loteamento Residencial Regissol,sala,aluguel,41.9,41.2,44.2,5,,outubro/2026

@@ -1,0 +1,229 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Recife,Aflitos,apartamento,venda,5918.8,4637.2,7745.4,150,12.02,outubro/2026
+Recife,Aflitos,apartamento,aluguel,59.3,44.8,76.2,27,12.02,outubro/2026
+Recife,Afogados,apartamento,venda,4687.5,3104.4,6026.4,16,,outubro/2026
+Recife,Água Fria,apartamento,venda,4142.2,3614.6,4470.3,14,,outubro/2026
+Recife,Apipucos,apartamento,venda,9112.1,6889.0,11452.7,59,10.84,outubro/2026
+Recife,Apipucos,apartamento,aluguel,82.3,57.8,87.5,7,10.84,outubro/2026
+Recife,Areias,apartamento,venda,2857.1,2391.3,3823.5,13,,outubro/2026
+Recife,Arruda,apartamento,venda,3781.1,3194.3,4501.1,24,,outubro/2026
+Recife,Barro,apartamento,venda,6808.5,5609.4,7541.0,33,6.68,outubro/2026
+Recife,Barro,apartamento,aluguel,37.9,33.9,46.2,8,6.68,outubro/2026
+Recife,Boa Viagem,apartamento,venda,8689.4,5475.3,13297.9,1084,9.03,outubro/2026
+Recife,Boa Viagem,apartamento,aluguel,65.4,47.5,85.9,590,9.03,outubro/2026
+Recife,Boa Vista,apartamento,venda,7148.3,3912.2,11603.7,156,10.46,outubro/2026
+Recife,Boa Vista,apartamento,aluguel,62.3,32.3,91.9,73,10.46,outubro/2026
+Recife,Bongi,apartamento,venda,3373.5,2961.4,4225.5,11,,outubro/2026
+Recife,Bonji,apartamento,venda,5285.7,3658.5,5816.3,5,,outubro/2026
+Recife,Brasília Teimosa,apartamento,venda,14906.7,9701.5,15238.1,5,,outubro/2026
+Recife,Campo Grande,apartamento,venda,5806.5,3874.3,7291.7,83,9.05,outubro/2026
+Recife,Campo Grande,apartamento,aluguel,43.8,38.8,52.3,13,9.05,outubro/2026
+Recife,Casa Amarela,apartamento,venda,8059.7,6493.2,9239.1,169,8.4,outubro/2026
+Recife,Casa Amarela,apartamento,aluguel,56.4,47.1,63.0,43,8.4,outubro/2026
+Recife,Casa Forte,apartamento,venda,9028.4,6748.6,12074.4,216,7.6,outubro/2026
+Recife,Casa Forte,apartamento,aluguel,57.2,47.3,66.1,39,7.6,outubro/2026
+Recife,Caxangá,apartamento,venda,7046.9,5654.2,9275.7,62,,outubro/2026
+Recife,Centro,apartamento,venda,8595.2,7877.2,13416.6,5,,outubro/2026
+Recife,Cidade Universitária,apartamento,venda,8438.5,7282.5,9105.6,10,,outubro/2026
+Recife,Cordeiro,apartamento,venda,5500.0,3309.7,8221.2,80,6.55,outubro/2026
+Recife,Cordeiro,apartamento,aluguel,30.0,22.5,37.3,17,6.55,outubro/2026
+Recife,Derby,apartamento,venda,4151.1,2963.7,7818.6,36,,outubro/2026
+Recife,Dois Irmãos,apartamento,venda,9756.1,5447.2,12505.0,7,,outubro/2026
+Recife,Dois Unidos,apartamento,venda,6133.3,2294.1,6687.5,6,,outubro/2026
+Recife,Encruzilhada,apartamento,venda,7904.5,6088.9,9704.4,138,8.56,outubro/2026
+Recife,Encruzilhada,apartamento,aluguel,56.4,35.9,64.6,26,8.56,outubro/2026
+Recife,Engenho do Meio,apartamento,venda,3340.7,2446.4,4256.0,18,,outubro/2026
+Recife,Espinheiro,apartamento,venda,6462.9,4351.4,8878.5,200,12.74,outubro/2026
+Recife,Espinheiro,apartamento,aluguel,68.6,48.3,86.8,72,12.74,outubro/2026
+Recife,Estância,apartamento,venda,6260.9,3181.4,6828.5,7,,outubro/2026
+Recife,Graças,apartamento,venda,7142.9,4944.8,9641.6,204,10.53,outubro/2026
+Recife,Graças,apartamento,aluguel,62.7,41.7,81.5,64,10.53,outubro/2026
+Recife,Guabiraba,apartamento,venda,3846.2,3214.3,4888.9,17,,outubro/2026
+Recife,Hipódromo,apartamento,venda,7976.7,6586.5,8373.0,18,,outubro/2026
+Recife,Ilha do Leite,apartamento,venda,12099.1,8461.5,14093.4,78,9.92,outubro/2026
+Recife,Ilha do Leite,apartamento,aluguel,100.0,89.9,115.1,19,9.92,outubro/2026
+Recife,Ilha do Retiro,apartamento,venda,9285.7,8352.7,10405.1,71,7.78,outubro/2026
+Recife,Ilha do Retiro,apartamento,aluguel,60.2,55.4,66.4,20,7.78,outubro/2026
+Recife,Imbiribeira,apartamento,venda,7339.9,6000.0,9802.8,126,10.22,outubro/2026
+Recife,Imbiribeira,apartamento,aluguel,62.5,46.9,76.7,48,10.22,outubro/2026
+Recife,Iputinga,apartamento,venda,5135.1,3379.8,7148.6,91,12.81,outubro/2026
+Recife,Iputinga,apartamento,aluguel,54.8,39.8,64.5,16,12.81,outubro/2026
+Recife,Jaqueira,apartamento,venda,7795.3,6342.9,11926.7,103,12.96,outubro/2026
+Recife,Jaqueira,apartamento,aluguel,84.2,62.3,102.2,24,12.96,outubro/2026
+Recife,Jardim São Paulo,apartamento,venda,6164.1,5127.1,6967.7,34,6.48,outubro/2026
+Recife,Jardim São Paulo,apartamento,aluguel,33.3,29.4,40.6,7,6.48,outubro/2026
+Recife,Jiquiá,apartamento,venda,6857.1,6559.4,7364.7,7,,outubro/2026
+Recife,Macaxeira,apartamento,venda,9112.1,6964.3,9750.0,7,,outubro/2026
+Recife,Madalena,apartamento,venda,8968.6,6544.4,10985.9,223,8.26,outubro/2026
+Recife,Madalena,apartamento,aluguel,61.7,50.1,73.4,79,8.26,outubro/2026
+Recife,Monteiro,apartamento,venda,9310.5,7713.5,10928.6,107,8.07,outubro/2026
+Recife,Monteiro,apartamento,aluguel,62.6,50.8,92.6,18,8.07,outubro/2026
+Recife,Paissandu,apartamento,venda,9019.2,4210.5,10444.4,25,12.09,outubro/2026
+Recife,Paissandu,apartamento,aluguel,90.9,86.7,93.5,8,12.09,outubro/2026
+Recife,Parnamirim,apartamento,venda,8672.6,5909.1,11396.9,165,12.38,outubro/2026
+Recife,Parnamirim,apartamento,aluguel,89.5,67.7,106.7,67,12.38,outubro/2026
+Recife,Passarinho,apartamento,venda,5006.9,3584.7,6245.6,12,,outubro/2026
+Recife,Piedade,apartamento,venda,6363.6,4400.0,8297.9,5,,outubro/2026
+Recife,Pina,apartamento,venda,13154.8,9764.6,17055.6,180,6.86,outubro/2026
+Recife,Pina,apartamento,aluguel,75.2,58.8,92.2,80,6.86,outubro/2026
+Recife,Poço,apartamento,venda,10232.6,8998.8,12158.9,63,,outubro/2026
+Recife,Poço da Panela,apartamento,venda,10404.0,9280.5,12180.8,56,,outubro/2026
+Recife,Ponto de Parada,apartamento,venda,10912.5,8204.7,13400.2,18,,outubro/2026
+Recife,Prado,apartamento,venda,6685.6,5399.6,7733.9,60,9.75,outubro/2026
+Recife,Prado,apartamento,aluguel,54.3,51.6,60.2,7,9.75,outubro/2026
+Recife,Recife,apartamento,venda,13111.1,10134.7,14367.1,24,7.59,outubro/2026
+Recife,Recife,apartamento,aluguel,82.9,63.9,97.1,10,7.59,outubro/2026
+Recife,Rosarinho,apartamento,venda,9100.0,7500.0,10941.2,153,9.85,outubro/2026
+Recife,Rosarinho,apartamento,aluguel,74.7,64.9,85.7,17,9.85,outubro/2026
+Recife,San Martin,apartamento,venda,6027.8,4056.6,6559.1,15,,outubro/2026
+Recife,Sancho,apartamento,venda,6642.5,5666.7,7109.7,10,,outubro/2026
+Recife,Santana,apartamento,venda,10086.2,6813.3,12929.9,54,8.3,outubro/2026
+Recife,Santana,apartamento,aluguel,69.8,54.4,74.0,7,8.3,outubro/2026
+Recife,Santo Amaro,apartamento,venda,9159.6,5955.7,13426.8,96,8.21,outubro/2026
+Recife,Santo Amaro,apartamento,aluguel,62.7,51.1,69.4,29,8.21,outubro/2026
+Recife,São José,apartamento,venda,18484.4,15385.0,21708.5,106,7.25,outubro/2026
+Recife,São José,apartamento,aluguel,111.7,93.9,133.6,34,7.25,outubro/2026
+Recife,Setúbal,apartamento,venda,9963.6,7284.2,12183.9,46,,outubro/2026
+Recife,Soledade,apartamento,venda,8646.1,6581.3,10500.0,62,11.56,outubro/2026
+Recife,Soledade,apartamento,aluguel,83.3,69.1,88.5,9,11.56,outubro/2026
+Recife,Tamarineira,apartamento,venda,7241.9,5374.2,9219.3,131,11.93,outubro/2026
+Recife,Tamarineira,apartamento,aluguel,72.0,57.1,81.3,35,11.93,outubro/2026
+Recife,Tejipió,apartamento,venda,5025.0,4139.6,6541.7,20,7.95,outubro/2026
+Recife,Tejipió,apartamento,aluguel,33.3,30.0,40.4,5,7.95,outubro/2026
+Recife,Torre,apartamento,venda,8441.6,6666.7,10208.3,129,9.11,outubro/2026
+Recife,Torre,apartamento,aluguel,64.1,55.1,77.7,50,9.11,outubro/2026
+Recife,Torreão,apartamento,venda,8500.0,6549.9,9697.4,56,,outubro/2026
+Recife,Várzea,apartamento,venda,6159.8,4690.6,8211.3,110,9.51,outubro/2026
+Recife,Várzea,apartamento,aluguel,48.8,29.2,62.9,29,9.51,outubro/2026
+Recife,Vasco da Gama,apartamento,venda,6250.0,5918.0,6536.2,6,,outubro/2026
+Recife,Zumbi,apartamento,venda,8593.8,7355.9,9631.1,11,,outubro/2026
+Recife,Afogados,casa,venda,2347.7,1952.3,2846.0,26,,outubro/2026
+Recife,Água Fria,casa,venda,2391.3,1937.1,3425.0,23,,outubro/2026
+Recife,Alto José do Pinho,casa,venda,1500.0,1000.0,1999.9,5,,outubro/2026
+Recife,Apipucos,casa,venda,5777.8,3993.1,6836.7,16,,outubro/2026
+Recife,Areias,casa,venda,3000.0,2016.7,3761.2,31,6.48,outubro/2026
+Recife,Areias,casa,aluguel,16.2,14.4,26.2,6,6.48,outubro/2026
+Recife,Arruda,casa,venda,2095.9,1996.0,2735.3,20,,outubro/2026
+Recife,Barro,casa,venda,2268.5,1964.3,2611.1,5,,outubro/2026
+Recife,Beberibe,casa,venda,1956.5,1706.1,2602.1,7,,outubro/2026
+Recife,Boa Viagem,casa,venda,4986.6,3289.2,5986.8,42,11.36,outubro/2026
+Recife,Boa Viagem,casa,aluguel,47.2,40.6,58.4,10,11.36,outubro/2026
+Recife,Boa Vista,casa,venda,3409.1,2392.3,4950.0,37,7.25,outubro/2026
+Recife,Boa Vista,casa,aluguel,20.6,15.6,34.3,19,7.25,outubro/2026
+Recife,Bongi,casa,venda,3254.0,2487.8,4038.6,11,,outubro/2026
+Recife,Cajueiro,casa,venda,3021.7,2425.0,4500.0,38,,outubro/2026
+Recife,Campo Grande,casa,venda,2973.1,2398.4,3934.5,48,,outubro/2026
+Recife,Casa Amarela,casa,venda,3500.0,2933.3,4823.2,33,8.19,outubro/2026
+Recife,Casa Amarela,casa,aluguel,23.9,17.5,25.4,5,8.19,outubro/2026
+Recife,Casa Forte,casa,venda,5343.7,4124.1,6310.6,34,13.72,outubro/2026
+Recife,Casa Forte,casa,aluguel,61.1,50.0,62.0,5,13.72,outubro/2026
+Recife,Caxangá,casa,venda,4858.4,2130.5,6242.4,20,,outubro/2026
+Recife,Cohab,casa,venda,1969.7,1735.0,3105.6,7,,outubro/2026
+Recife,Cordeiro,casa,venda,2866.5,2296.7,4144.6,68,10.13,outubro/2026
+Recife,Cordeiro,casa,aluguel,24.2,20.6,26.7,10,10.13,outubro/2026
+Recife,Derby,casa,venda,7466.6,6033.5,8175.3,6,,outubro/2026
+Recife,Dois Unidos,casa,venda,1944.4,1223.1,2606.8,7,,outubro/2026
+Recife,Encruzilhada,casa,venda,3266.7,2415.0,4127.0,23,8.78,outubro/2026
+Recife,Encruzilhada,casa,aluguel,23.9,21.7,26.7,5,8.78,outubro/2026
+Recife,Engenho do Meio,casa,venda,2988.9,2095.4,4150.0,26,,outubro/2026
+Recife,Espinheiro,casa,venda,5805.7,4957.2,7422.2,14,8.66,outubro/2026
+Recife,Espinheiro,casa,aluguel,41.9,34.7,43.7,6,8.66,outubro/2026
+Recife,Estância,casa,venda,2400.0,2187.5,2738.1,5,,outubro/2026
+Recife,Graças,casa,venda,8348.8,5609.3,8911.0,7,,outubro/2026
+Recife,Guabiraba,casa,venda,3343.0,2937.5,3747.3,15,7.29,outubro/2026
+Recife,Guabiraba,casa,aluguel,20.3,16.0,24.6,5,7.29,outubro/2026
+Recife,Hipódromo,casa,venda,3862.7,3458.5,4450.7,22,,outubro/2026
+Recife,Ibura,casa,venda,1866.6,1505.0,2154.9,11,,outubro/2026
+Recife,Ilha do Leite,casa,venda,6724.1,2437.5,7490.6,5,,outubro/2026
+Recife,Ilha do Retiro,casa,venda,3955.6,2856.1,4505.6,7,,outubro/2026
+Recife,Imbiribeira,casa,venda,3145.8,2512.4,4335.9,44,7.63,outubro/2026
+Recife,Imbiribeira,casa,aluguel,20.0,17.6,38.9,7,7.63,outubro/2026
+Recife,Ipsep,casa,venda,2260.7,1752.0,3555.6,32,,outubro/2026
+Recife,Iputinga,casa,venda,3076.6,2246.8,3942.0,46,,outubro/2026
+Recife,Jardim São Paulo,casa,venda,2260.7,1606.3,3829.5,12,,outubro/2026
+Recife,Jiquiá,casa,venda,1916.7,1691.1,3271.5,11,,outubro/2026
+Recife,Macaxeira,casa,venda,2888.9,1511.6,4107.1,5,,outubro/2026
+Recife,Madalena,casa,venda,3671.4,3159.8,4950.8,30,9.45,outubro/2026
+Recife,Madalena,casa,aluguel,28.9,17.3,36.8,6,9.45,outubro/2026
+Recife,Monteiro,casa,venda,5910.2,5046.9,7291.7,13,,outubro/2026
+Recife,Parnamirim,casa,venda,3935.5,3401.4,8250.0,6,,outubro/2026
+Recife,Pina,casa,venda,5000.0,4868.4,6000.0,7,,outubro/2026
+Recife,Poço,casa,venda,6666.7,5060.0,7798.7,30,,outubro/2026
+Recife,Poço da Panela,casa,venda,6568.7,4192.0,8054.7,34,,outubro/2026
+Recife,Prado,casa,venda,3062.5,2368.0,4599.4,18,9.8,outubro/2026
+Recife,Prado,casa,aluguel,25.0,15.0,30.0,5,9.8,outubro/2026
+Recife,San Martin,casa,venda,2613.6,2149.1,3528.0,18,,outubro/2026
+Recife,Santo Amaro,casa,venda,3181.8,2256.9,3666.7,33,8.6,outubro/2026
+Recife,Santo Amaro,casa,aluguel,22.8,20.6,27.6,11,8.6,outubro/2026
+Recife,Sítio dos Pintos,casa,venda,4861.5,3312.5,5546.5,18,,outubro/2026
+Recife,Tamarineira,casa,venda,3809.5,2535.9,4687.5,21,8.76,outubro/2026
+Recife,Tamarineira,casa,aluguel,27.8,26.3,29.8,6,8.76,outubro/2026
+Recife,Tejipió,casa,venda,1900.0,1239.3,3930.6,7,,outubro/2026
+Recife,Torre,casa,venda,3475.9,2211.1,4407.9,19,9.6,outubro/2026
+Recife,Torre,casa,aluguel,27.8,15.2,41.2,9,9.6,outubro/2026
+Recife,Torrões,casa,venda,2750.0,2619.0,3500.0,13,,outubro/2026
+Recife,Várzea,casa,venda,5568.2,3035.0,7587.0,65,,outubro/2026
+Recife,Afogados,terreno,venda,1187.5,908.0,2295.8,7,,outubro/2026
+Recife,Apipucos,terreno,venda,1275.5,643.3,1308.6,7,,outubro/2026
+Recife,Boa Viagem,terreno,venda,1903.2,1844.4,3160.5,11,,outubro/2026
+Recife,Campo Grande,terreno,venda,1167.3,1160.7,1235.5,5,,outubro/2026
+Recife,Casa Forte,terreno,venda,3008.0,2881.6,3432.3,6,,outubro/2026
+Recife,Cordeiro,terreno,venda,1335.7,1216.5,2130.4,6,,outubro/2026
+Recife,Guabiraba,terreno,venda,220.0,149.0,400.0,17,,outubro/2026
+Recife,Ibura,terreno,venda,1333.3,1082.5,1333.3,5,,outubro/2026
+Recife,Iputinga,terreno,venda,1900.0,1354.2,4618.9,5,,outubro/2026
+Recife,Madalena,terreno,venda,2012.4,1936.8,2091.3,8,,outubro/2026
+Recife,Santo Amaro,terreno,venda,1646.1,1590.9,2551.0,5,,outubro/2026
+Recife,Várzea,terreno,venda,855.3,614.0,1359.4,31,,outubro/2026
+Recife,Aflitos,sala,venda,10113.6,8750.0,11306.8,6,,outubro/2026
+Recife,Boa Viagem,sala,venda,7500.0,5000.0,13927.4,112,15.92,outubro/2026
+Recife,Boa Viagem,sala,aluguel,99.5,69.8,122.2,112,15.92,outubro/2026
+Recife,Boa Vista,sala,venda,3750.0,2739.7,6315.8,49,19.74,outubro/2026
+Recife,Boa Vista,sala,aluguel,61.7,34.3,85.7,57,19.74,outubro/2026
+Recife,Casa Amarela,sala,aluguel,99.8,76.4,134.1,12,,outubro/2026
+Recife,Casa Forte,sala,venda,9000.0,8333.3,11730.8,5,13.33,outubro/2026
+Recife,Casa Forte,sala,aluguel,100.0,72.1,123.0,23,13.33,outubro/2026
+Recife,Coelhos,sala,venda,3996.4,3146.6,4749.9,10,,outubro/2026
+Recife,Cordeiro,sala,aluguel,45.8,43.5,58.3,9,,outubro/2026
+Recife,Derby,sala,aluguel,104.2,100.0,110.3,9,,outubro/2026
+Recife,Encruzilhada,sala,aluguel,61.1,49.9,70.9,8,,outubro/2026
+Recife,Espinheiro,sala,venda,6944.4,4729.7,8000.0,21,11.89,outubro/2026
+Recife,Espinheiro,sala,aluguel,68.8,44.5,87.0,29,11.89,outubro/2026
+Recife,Graças,sala,venda,8823.5,6972.2,10444.4,11,10.99,outubro/2026
+Recife,Graças,sala,aluguel,80.8,58.2,136.2,16,10.99,outubro/2026
+Recife,Ilha do Leite,sala,venda,6543.5,5135.1,8684.2,41,15.42,outubro/2026
+Recife,Ilha do Leite,sala,aluguel,84.1,68.6,100.4,47,15.42,outubro/2026
+Recife,Madalena,sala,venda,6666.7,4800.0,7333.3,9,,outubro/2026
+Recife,Paissandu,sala,venda,6456.8,5378.3,10702.9,14,16.73,outubro/2026
+Recife,Paissandu,sala,aluguel,90.0,71.9,103.3,11,16.73,outubro/2026
+Recife,Pina,sala,venda,8928.6,7108.3,13519.7,12,16.65,outubro/2026
+Recife,Pina,sala,aluguel,123.9,66.6,187.0,20,16.65,outubro/2026
+Recife,Recife,sala,aluguel,39.7,25.7,50.0,13,,outubro/2026
+Recife,Santo Amaro,sala,venda,4545.5,3666.7,6045.5,9,10.8,outubro/2026
+Recife,Santo Amaro,sala,aluguel,40.9,29.9,54.4,12,10.8,outubro/2026
+Recife,Santo Antônio,sala,venda,1942.8,1269.7,2752.1,18,11.74,outubro/2026
+Recife,Santo Antônio,sala,aluguel,19.0,11.4,46.6,10,11.74,outubro/2026
+Recife,São José,sala,venda,20731.8,20277.4,21202.9,6,2.38,outubro/2026
+Recife,São José,sala,aluguel,41.2,37.1,42.5,6,2.38,outubro/2026
+Recife,Tamarineira,sala,venda,9230.8,6230.8,11202.0,11,8.84,outubro/2026
+Recife,Tamarineira,sala,aluguel,68.0,60.0,68.0,9,8.84,outubro/2026
+Recife,Torre,sala,aluguel,50.0,46.2,52.8,7,,outubro/2026
+Recife,Afogados,galpao,venda,4250.7,3684.6,5040.7,6,7.17,outubro/2026
+Recife,Afogados,galpao,aluguel,25.4,17.2,27.9,14,7.17,outubro/2026
+Recife,Areias,galpao,aluguel,16.0,15.5,22.2,5,,outubro/2026
+Recife,Boa Viagem,galpao,aluguel,22.6,20.0,25.1,12,,outubro/2026
+Recife,Caxangá,galpao,venda,2038.5,2000.0,2307.6,5,,outubro/2026
+Recife,Cordeiro,galpao,aluguel,22.3,20.0,33.8,12,,outubro/2026
+Recife,Guabiraba,galpao,aluguel,23.1,18.6,28.3,10,,outubro/2026
+Recife,Ibura,galpao,aluguel,24.0,20.2,27.0,18,,outubro/2026
+Recife,Imbiribeira,galpao,venda,4428.9,3618.2,4971.6,8,7.32,outubro/2026
+Recife,Imbiribeira,galpao,aluguel,27.0,22.4,32.4,72,7.32,outubro/2026
+Recife,Iputinga,galpao,aluguel,29.8,20.4,41.0,8,,outubro/2026
+Recife,Jardim São Paulo,galpao,aluguel,34.6,16.7,41.4,7,,outubro/2026
+Recife,Passarinho,galpao,aluguel,18.4,16.2,24.0,6,,outubro/2026
+Recife,Recife,galpao,venda,4857.1,2000.0,5091.6,5,7.41,outubro/2026
+Recife,Recife,galpao,aluguel,30.0,16.9,34.0,5,7.41,outubro/2026
+Recife,Santo Amaro,galpao,aluguel,16.8,15.3,19.5,10,,outubro/2026
+Recife,Tamarineira,galpao,aluguel,19.2,17.5,23.1,5,,outubro/2026
+Recife,Várzea,galpao,venda,1937.5,1378.7,2333.3,6,14.86,outubro/2026
+Recife,Várzea,galpao,aluguel,24.0,17.8,27.0,15,14.86,outubro/2026

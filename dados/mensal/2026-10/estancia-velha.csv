@@ -1,0 +1,29 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Estância Velha,Bela Vista,casa,venda,5919.7,4746.4,7091.7,79,,outubro/2026
+Estância Velha,Campo Grande,casa,venda,4866.5,4325.0,5667.2,34,,outubro/2026
+Estância Velha,Centro,casa,venda,5310.3,4214.1,6520.2,31,,outubro/2026
+Estância Velha,Das Quintas,casa,venda,4649.1,4352.9,5135.0,11,,outubro/2026
+Estância Velha,Das Rosas,casa,venda,4396.3,3666.7,5984.6,9,,outubro/2026
+Estância Velha,Encosta do Sol,casa,venda,5582.1,4217.9,8384.6,133,,outubro/2026
+Estância Velha,Floresta,casa,venda,4109.9,2676.3,5194.5,24,,outubro/2026
+Estância Velha,Lago Azul,casa,venda,5142.3,3926.8,5837.5,54,,outubro/2026
+Estância Velha,Lira,casa,venda,5362.0,4501.2,5835.5,12,,outubro/2026
+Estância Velha,Rincão dos Ilhéus,casa,venda,4409.3,3260.4,4619.3,15,,outubro/2026
+Estância Velha,Rincão Gaúcho,casa,venda,2884.6,2700.0,4071.4,9,,outubro/2026
+Estância Velha,Sol Nascente,casa,venda,4317.8,3847.2,5012.3,27,,outubro/2026
+Estância Velha,União,casa,venda,4491.5,3501.6,5883.7,75,,outubro/2026
+Estância Velha,Centro,apartamento,venda,6853.1,5784.2,8536.1,71,,outubro/2026
+Estância Velha,Lira,apartamento,venda,4257.2,4139.5,5271.6,6,,outubro/2026
+Estância Velha,Sol Nascente,apartamento,venda,4403.0,4021.4,5559.8,7,,outubro/2026
+Estância Velha,União,apartamento,venda,4899.6,4187.1,6162.4,12,,outubro/2026
+Estância Velha,Bela Vista,terreno,venda,651.0,549.1,757.6,21,,outubro/2026
+Estância Velha,Centro,terreno,venda,1183.8,942.0,1441.0,8,,outubro/2026
+Estância Velha,Das Quintas,terreno,venda,573.6,553.8,698.0,5,,outubro/2026
+Estância Velha,Das Rosas,terreno,venda,580.1,489.8,712.7,11,,outubro/2026
+Estância Velha,Encosta do Sol,terreno,venda,1750.0,1017.6,2194.7,57,,outubro/2026
+Estância Velha,Encosta do Sol Horizon,terreno,venda,2061.7,2061.3,2160.2,5,,outubro/2026
+Estância Velha,Floresta,terreno,venda,583.3,517.9,685.3,14,,outubro/2026
+Estância Velha,Lago Azul,terreno,venda,610.1,528.9,709.8,14,,outubro/2026
+Estância Velha,Rincão dos Ilhéus,terreno,venda,551.6,531.3,673.9,8,,outubro/2026
+Estância Velha,Sol Nascente,terreno,venda,580.8,542.0,616.7,9,,outubro/2026
+Estância Velha,União,terreno,venda,957.1,585.7,1358.3,18,,outubro/2026

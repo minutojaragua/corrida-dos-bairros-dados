@@ -1,0 +1,38 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Atibaia,Alpes,casa,venda,10000.0,5527.8,10571.4,5,,outubro/2026
+Atibaia,Atibaia,casa,venda,6582.2,4626.2,8756.9,18,,outubro/2026
+Atibaia,Centro,casa,venda,5331.9,4634.2,6823.4,6,,outubro/2026
+Atibaia,Chácaras Maringá,casa,venda,6141.1,3793.8,7757.9,14,,outubro/2026
+Atibaia,Estancia Parque,casa,venda,9000.0,8833.9,9890.1,5,,outubro/2026
+Atibaia,Figueira Garden,casa,venda,9240.4,8946.6,9794.1,12,,outubro/2026
+Atibaia,Itapetinga,casa,venda,7560.0,4689.4,8900.5,7,,outubro/2026
+Atibaia,Jardim Alvinópolis,casa,venda,4443.0,3284.2,5909.8,6,,outubro/2026
+Atibaia,Jardim Colonial,casa,venda,6703.3,4367.8,8270.7,9,,outubro/2026
+Atibaia,Jardim das Cerejeiras,casa,venda,4166.7,3493.6,4704.5,6,,outubro/2026
+Atibaia,Jardim do Lago,casa,venda,7834.2,7001.8,8249.2,8,,outubro/2026
+Atibaia,Jardim dos Pinheiros,casa,venda,5053.8,4223.6,6712.3,9,,outubro/2026
+Atibaia,Jardim Estância Brasil,casa,venda,5714.3,4319.6,6886.3,23,,outubro/2026
+Atibaia,Jardim Imperial,casa,venda,5128.2,4035.7,6840.4,6,,outubro/2026
+Atibaia,Jardim Jaraguá,casa,venda,7169.8,6122.4,7812.5,5,,outubro/2026
+Atibaia,Jardim Maristela,casa,venda,6181.8,5488.7,8221.3,11,,outubro/2026
+Atibaia,Jardim Paraíso da Usina,casa,venda,7073.2,6146.3,8090.9,9,,outubro/2026
+Atibaia,Jardim Paulista,casa,venda,5396.0,4521.3,8152.8,18,,outubro/2026
+Atibaia,Jardim Santo Antônio,casa,venda,6150.0,6087.7,7550.0,6,,outubro/2026
+Atibaia,Jardim Suely,casa,venda,6719.5,5826.0,7665.0,7,,outubro/2026
+Atibaia,Loteamento Atibaia Park I,casa,venda,7575.8,6053.8,7772.0,5,,outubro/2026
+Atibaia,Nova Atibaia,casa,venda,5800.0,4687.5,5876.2,5,,outubro/2026
+Atibaia,Nova Cerejeira,casa,venda,4615.4,3368.5,6103.2,15,,outubro/2026
+Atibaia,Nova Gardênia,casa,venda,8438.7,7144.7,9192.3,12,,outubro/2026
+Atibaia,Rio Abaixo,casa,venda,6713.3,5131.0,7071.1,18,,outubro/2026
+Atibaia,Tanque,casa,venda,8007.8,5588.2,9413.7,25,,outubro/2026
+Atibaia,Usina,casa,venda,5415.5,4687.6,6237.0,8,,outubro/2026
+Atibaia,Vila Esperia Ou Giglio,casa,venda,8368.9,5905.5,9234.7,9,,outubro/2026
+Atibaia,Vila Santista,casa,venda,4972.4,4298.2,5581.4,5,,outubro/2026
+Atibaia,Caetetuba,apartamento,venda,10500.0,9500.0,11500.0,9,,outubro/2026
+Atibaia,Atibaia Belvedere,terreno,venda,239.0,238.3,280.2,13,,outubro/2026
+Atibaia,Jardim Estância Brasil,terreno,venda,234.7,149.6,300.0,22,,outubro/2026
+Atibaia,Jardim Paulista,terreno,venda,945.3,844.4,1039.3,7,,outubro/2026
+Atibaia,Loteamento Elementum,terreno,venda,1022.2,1000.0,1041.7,5,,outubro/2026
+Atibaia,Portão,terreno,venda,168.1,115.8,225.7,6,,outubro/2026
+Atibaia,Rio Abaixo,terreno,venda,320.7,143.9,941.1,7,,outubro/2026
+Atibaia,Vitória Régia,terreno,venda,188.1,138.4,225.0,5,,outubro/2026

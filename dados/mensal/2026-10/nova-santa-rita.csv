@@ -1,0 +1,30 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Nova Santa Rita,Berto Círio,casa,venda,3645.8,2518.9,5173.8,101,9.58,outubro/2026
+Nova Santa Rita,Berto Círio,casa,aluguel,29.1,17.5,34.0,6,9.58,outubro/2026
+Nova Santa Rita,Caju,casa,venda,2800.0,2222.2,3878.0,49,,outubro/2026
+Nova Santa Rita,California,casa,venda,4034.4,2666.7,5442.3,76,,outubro/2026
+Nova Santa Rita,Centro,casa,venda,4614.6,3453.4,6198.8,151,,outubro/2026
+Nova Santa Rita,Cidade,casa,venda,8139.5,7102.7,9260.3,19,,outubro/2026
+Nova Santa Rita,Floresta,casa,venda,4723.0,2198.3,5682.2,20,,outubro/2026
+Nova Santa Rita,Jardins Parque Residencial,casa,venda,6196.4,6080.5,6818.2,9,,outubro/2026
+Nova Santa Rita,Legano Bairro Cidade,casa,venda,10060.2,9505.2,10821.6,6,,outubro/2026
+Nova Santa Rita,Morretes,casa,venda,1809.8,1310.4,2055.2,10,,outubro/2026
+Nova Santa Rita,Pedreira,casa,venda,4000.0,2352.9,4794.5,15,,outubro/2026
+Nova Santa Rita,Recanto da Quinta,casa,venda,5357.9,4396.8,6065.5,6,,outubro/2026
+Nova Santa Rita,Reservas do Lago,casa,venda,7284.0,6949.3,7751.1,6,,outubro/2026
+Nova Santa Rita,Sanga Funda,casa,venda,7162.0,4904.8,8277.8,57,,outubro/2026
+Nova Santa Rita,Berto Círio,terreno,venda,435.4,311.8,575.8,83,,outubro/2026
+Nova Santa Rita,Br 386,terreno,venda,921.4,850.2,961.3,5,,outubro/2026
+Nova Santa Rita,Caju,terreno,venda,213.7,137.7,311.2,28,,outubro/2026
+Nova Santa Rita,California,terreno,venda,381.0,167.9,489.6,61,,outubro/2026
+Nova Santa Rita,Centro,terreno,venda,653.9,540.6,884.7,162,,outubro/2026
+Nova Santa Rita,Floresta,terreno,venda,554.1,360.2,656.1,12,,outubro/2026
+Nova Santa Rita,Jardim Santa Rita,terreno,venda,640.4,525.2,671.3,5,,outubro/2026
+Nova Santa Rita,Jardins Parque Residencial,terreno,venda,492.8,453.0,542.7,7,,outubro/2026
+Nova Santa Rita,Legano,terreno,venda,845.1,824.8,1197.0,8,,outubro/2026
+Nova Santa Rita,Legano Bairro Cidade,terreno,venda,853.8,796.0,976.2,19,,outubro/2026
+Nova Santa Rita,Legano Reserva,terreno,venda,1060.4,1010.7,1101.9,5,,outubro/2026
+Nova Santa Rita,Pedreira,terreno,venda,100.0,92.3,190.0,7,,outubro/2026
+Nova Santa Rita,Reservas do Lago,terreno,venda,731.9,664.8,843.7,7,,outubro/2026
+Nova Santa Rita,Sanga Funda,terreno,venda,762.1,630.1,872.0,48,,outubro/2026
+Nova Santa Rita,Centro,sala,aluguel,46.0,32.2,49.4,7,,outubro/2026

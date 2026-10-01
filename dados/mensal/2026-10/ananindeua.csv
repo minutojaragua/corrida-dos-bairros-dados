@@ -1,0 +1,27 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Ananindeua,Águas Brancas,casa,venda,3372.1,1825.0,7181.8,9,,outubro/2026
+Ananindeua,Águas Lindas,casa,venda,2062.5,1333.3,3823.5,9,,outubro/2026
+Ananindeua,Atalaia,casa,venda,6902.8,4987.3,7723.7,12,,outubro/2026
+Ananindeua,Centro,casa,venda,6010.9,4437.5,6806.3,39,,outubro/2026
+Ananindeua,Cidade Nova,casa,venda,2217.7,1900.0,3100.0,17,,outubro/2026
+Ananindeua,Coqueiro,casa,venda,3619.0,2864.1,4604.2,24,,outubro/2026
+Ananindeua,Guanabara,casa,venda,4994.4,3943.2,5721.4,21,,outubro/2026
+Ananindeua,Icuí-Guajará,casa,venda,1829.3,1529.4,3066.7,5,,outubro/2026
+Ananindeua,Levilândia,casa,venda,3950.0,2777.8,5250.0,13,,outubro/2026
+Ananindeua,Maguari,casa,venda,5569.3,2597.3,6470.7,10,,outubro/2026
+Ananindeua,Quarenta Horas (Coqueiro),casa,venda,5000.0,4077.9,7075.0,27,,outubro/2026
+Ananindeua,Águas Lindas,apartamento,venda,5881.2,4573.5,6259.8,8,,outubro/2026
+Ananindeua,Atalaia,apartamento,venda,6180.1,4832.1,7233.9,10,,outubro/2026
+Ananindeua,Centro,apartamento,venda,5675.7,4583.3,6245.6,17,,outubro/2026
+Ananindeua,Coqueiro,apartamento,venda,4987.7,4143.8,5902.4,22,7.67,outubro/2026
+Ananindeua,Coqueiro,apartamento,aluguel,31.9,29.4,32.0,5,7.67,outubro/2026
+Ananindeua,Guanabara,apartamento,venda,5848.1,4836.7,6926.7,10,,outubro/2026
+Ananindeua,Maguari,apartamento,venda,4563.5,3636.4,4800.0,5,,outubro/2026
+Ananindeua,Quarenta Horas (Coqueiro),apartamento,venda,5470.5,4666.7,6324.4,13,,outubro/2026
+Ananindeua,Águas Lindas,terreno,venda,1000.0,828.6,1910.0,9,,outubro/2026
+Ananindeua,Centro,terreno,venda,580.1,296.4,700.0,5,,outubro/2026
+Ananindeua,Coqueiro,terreno,venda,496.1,367.2,1666.7,10,,outubro/2026
+Ananindeua,Levilândia,terreno,venda,843.4,478.3,1000.0,5,,outubro/2026
+Ananindeua,Marituba,terreno,venda,202.7,200.5,394.5,6,,outubro/2026
+Ananindeua,Centro,galpao,aluguel,16.7,15.6,19.0,5,,outubro/2026
+Ananindeua,Guanabara,galpao,aluguel,9.3,8.1,10.6,5,,outubro/2026

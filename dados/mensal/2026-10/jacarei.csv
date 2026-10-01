@@ -1,0 +1,157 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Jacareí,Bandeira Branca,casa,venda,4457.4,3619.6,5685.4,12,,outubro/2026
+Jacareí,Bosque dos Manacas,casa,venda,7108.0,6609.9,8065.1,42,,outubro/2026
+Jacareí,Centro,casa,venda,3789.4,3085.3,4664.3,38,8.36,outubro/2026
+Jacareí,Centro,casa,aluguel,26.4,19.7,35.3,6,8.36,outubro/2026
+Jacareí,Chácaras Condomínio Recanto Pássaros II,casa,venda,8958.3,6135.3,12580.8,7,,outubro/2026
+Jacareí,Cidade Jardim,casa,venda,3662.0,3140.0,4542.5,31,,outubro/2026
+Jacareí,Cidade Nova,casa,venda,2465.1,2425.8,4360.8,9,,outubro/2026
+Jacareí,Cidade Salvador,casa,venda,4277.8,3255.4,4717.6,27,,outubro/2026
+Jacareí,Conjunto São Benedito,casa,venda,2753.1,2534.2,3777.8,5,,outubro/2026
+Jacareí,Jacareí,casa,venda,6053.6,5591.7,8031.6,16,,outubro/2026
+Jacareí,Jardim Altos de Santana I,casa,venda,5577.4,4417.6,6014.6,18,6.11,outubro/2026
+Jacareí,Jardim Altos de Santana I,casa,aluguel,28.4,25.6,30.3,6,6.11,outubro/2026
+Jacareí,Jardim Altos de Santana II,casa,venda,5457.3,4578.1,6650.6,39,,outubro/2026
+Jacareí,Jardim América,casa,venda,3297.8,2650.4,5471.1,13,,outubro/2026
+Jacareí,Jardim Bela Vista,casa,venda,3171.7,2383.3,3555.9,8,,outubro/2026
+Jacareí,Jardim Califórnia,casa,venda,5023.8,4163.3,5796.0,56,5.57,outubro/2026
+Jacareí,Jardim Califórnia,casa,aluguel,23.3,21.2,28.4,5,5.57,outubro/2026
+Jacareí,Jardim Coleginho,casa,venda,5203.5,4669.8,5779.4,22,,outubro/2026
+Jacareí,Jardim Colônia,casa,venda,3539.2,2476.6,4745.7,10,,outubro/2026
+Jacareí,Jardim Crystal Park,casa,venda,7907.9,6936.5,8572.8,19,,outubro/2026
+Jacareí,Jardim das Indústrias,casa,venda,3772.3,3325.0,4445.3,15,,outubro/2026
+Jacareí,Jardim Flórida,casa,venda,4067.1,2955.9,4841.2,14,,outubro/2026
+Jacareí,Jardim Jacinto,casa,venda,6740.0,5095.0,7974.4,83,,outubro/2026
+Jacareí,Jardim Marcondes,casa,venda,6631.2,5414.4,7515.6,12,,outubro/2026
+Jacareí,Jardim Maria Amélia,casa,venda,3338.9,2033.2,4234.6,16,,outubro/2026
+Jacareí,Jardim Mesquita,casa,venda,3730.8,3375.0,4034.6,5,,outubro/2026
+Jacareí,Jardim Nova Esperança,casa,venda,5189.7,3215.5,5871.8,10,,outubro/2026
+Jacareí,Jardim Panorama,casa,venda,7528.0,5856.3,9199.5,10,,outubro/2026
+Jacareí,Jardim Paraíba,casa,venda,6334.2,3615.0,7985.7,35,,outubro/2026
+Jacareí,Jardim Paraíso,casa,venda,3000.0,2633.5,3568.2,11,,outubro/2026
+Jacareí,Jardim Pereira do Amparo,casa,venda,4400.0,3229.7,6025.6,13,,outubro/2026
+Jacareí,Jardim Primavera,casa,venda,5378.2,4015.2,6090.2,16,,outubro/2026
+Jacareí,Jardim Residencial Golden Park,casa,venda,7000.0,5816.0,7229.5,7,,outubro/2026
+Jacareí,Jardim Rio Comprido,casa,venda,6184.2,4666.7,6285.7,5,,outubro/2026
+Jacareí,Jardim Santa Maria,casa,venda,4626.6,3682.8,6260.9,82,4.88,outubro/2026
+Jacareí,Jardim Santa Maria,casa,aluguel,18.8,14.8,20.6,8,4.88,outubro/2026
+Jacareí,Jardim Santa Marina,casa,venda,4291.6,3205.1,4753.6,14,,outubro/2026
+Jacareí,Jardim Santanna do Pedregulho,casa,venda,5799.0,3055.6,5830.8,5,,outubro/2026
+Jacareí,Jardim Santo Antônio da Boa Vista,casa,venda,3294.1,3208.3,3875.0,5,,outubro/2026
+Jacareí,Jardim Siesta,casa,venda,4181.8,3750.0,6482.1,11,,outubro/2026
+Jacareí,Jardim Terras de Santa Helena,casa,venda,4606.1,3388.4,6358.1,18,,outubro/2026
+Jacareí,Jardim Terras de São João,casa,venda,3591.8,2932.9,4212.0,23,7.05,outubro/2026
+Jacareí,Jardim Terras de São João,casa,aluguel,21.1,20.8,21.1,5,7.05,outubro/2026
+Jacareí,Loteamento Vila Romana,casa,venda,4923.1,3476.2,5384.6,9,,outubro/2026
+Jacareí,Loteamento Villa Branca,casa,venda,5367.1,4063.5,6726.3,113,7.45,outubro/2026
+Jacareí,Loteamento Villa Branca,casa,aluguel,33.3,24.3,44.5,13,7.45,outubro/2026
+Jacareí,Mirante do Vale,casa,venda,6210.2,5108.4,8164.4,56,4.52,outubro/2026
+Jacareí,Mirante do Vale,casa,aluguel,23.4,23.0,27.8,9,4.52,outubro/2026
+Jacareí,Parque Califórnia,casa,venda,5851.9,4150.0,7204.6,39,,outubro/2026
+Jacareí,Parque dos Príncipes,casa,venda,2791.5,2548.1,4273.9,16,,outubro/2026
+Jacareí,Parque Imperial,casa,venda,3538.5,2734.4,3846.2,9,,outubro/2026
+Jacareí,Parque Itamarati,casa,venda,3428.6,3172.9,4081.6,11,,outubro/2026
+Jacareí,Parque Mirante do Vale,casa,venda,6131.7,4995.8,7892.9,80,5.28,outubro/2026
+Jacareí,Parque Mirante do Vale,casa,aluguel,27.0,22.7,34.5,26,5.28,outubro/2026
+Jacareí,Parque Santo Antônio,casa,venda,3312.5,2771.3,4450.4,23,,outubro/2026
+Jacareí,Residencial Golden Park,casa,venda,5961.9,5502.9,6978.9,10,,outubro/2026
+Jacareí,Residencial Parque dos Sinos,casa,venda,4847.5,4054.1,5779.2,53,,outubro/2026
+Jacareí,Residencial Santa Paula,casa,venda,4333.3,3325.0,5683.2,71,,outubro/2026
+Jacareí,Residencial São Paulo,casa,venda,3946.2,3123.9,4224.3,7,,outubro/2026
+Jacareí,Santa Cruz dos Lázaros,casa,venda,3650.8,3174.6,4360.0,5,,outubro/2026
+Jacareí,São João,casa,venda,4224.3,3329.5,5602.5,22,,outubro/2026
+Jacareí,Terras de Sant Anna,casa,venda,4850.6,4021.5,5317.9,8,,outubro/2026
+Jacareí,Vem Viver,casa,venda,7758.6,7105.5,8927.5,7,,outubro/2026
+Jacareí,Vila Branca,casa,venda,6600.0,5434.8,7218.3,25,,outubro/2026
+Jacareí,Vila Formosa,casa,venda,4310.5,3291.7,5105.4,10,,outubro/2026
+Jacareí,Vila Zezé,casa,venda,4480.7,3652.6,5176.3,35,,outubro/2026
+Jacareí,Villa Branca,casa,venda,6167.0,5057.5,7977.6,256,7.01,outubro/2026
+Jacareí,Villa Branca,casa,aluguel,36.0,28.3,47.7,26,7.01,outubro/2026
+Jacareí,Arboville,apartamento,venda,7031.3,6785.8,7320.7,8,,outubro/2026
+Jacareí,Bairro do Colonia,apartamento,venda,5684.9,5072.5,6486.5,5,,outubro/2026
+Jacareí,Centro,apartamento,venda,6666.7,5714.0,7827.7,55,5.99,outubro/2026
+Jacareí,Centro,apartamento,aluguel,33.3,27.5,39.4,21,5.99,outubro/2026
+Jacareí,Cidade Jardim,apartamento,venda,7853.7,6729.9,7927.7,5,,outubro/2026
+Jacareí,Cidade Salvador,apartamento,venda,4769.2,4380.1,5022.3,6,,outubro/2026
+Jacareí,Jacareí,apartamento,venda,7027.1,6514.2,7653.0,8,,outubro/2026
+Jacareí,Jardim Califórnia,apartamento,venda,7413.8,5357.1,8511.9,117,6.83,outubro/2026
+Jacareí,Jardim Califórnia,apartamento,aluguel,42.2,31.2,48.6,17,6.83,outubro/2026
+Jacareí,Jardim Coleginho,apartamento,venda,5377.0,4755.3,6144.0,20,7.83,outubro/2026
+Jacareí,Jardim Coleginho,apartamento,aluguel,35.1,31.1,35.1,5,7.83,outubro/2026
+Jacareí,Jardim das Indústrias,apartamento,venda,5701.8,4938.3,6666.7,21,,outubro/2026
+Jacareí,Jardim Didinha,apartamento,venda,7853.3,5911.1,7928.4,5,,outubro/2026
+Jacareí,Jardim Flórida,apartamento,venda,5615.3,4650.6,8417.3,18,8.31,outubro/2026
+Jacareí,Jardim Flórida,apartamento,aluguel,38.9,32.1,43.8,7,8.31,outubro/2026
+Jacareí,Jardim Jacinto,apartamento,venda,6537.2,5541.7,7159.5,16,,outubro/2026
+Jacareí,Jardim Marister,apartamento,venda,7212.3,6964.0,7676.7,6,,outubro/2026
+Jacareí,Jardim Novo Amanhecer,apartamento,venda,3718.2,3609.1,4153.1,6,,outubro/2026
+Jacareí,Jardim Paraíba,apartamento,venda,8277.9,7269.1,9328.7,12,,outubro/2026
+Jacareí,Jardim Paraíso,apartamento,venda,5061.2,4437.5,5795.5,29,6.78,outubro/2026
+Jacareí,Jardim Paraíso,apartamento,aluguel,28.6,26.1,32.5,7,6.78,outubro/2026
+Jacareí,Jardim Pereira do Amparo,apartamento,venda,6068.4,4964.9,7710.8,33,8.48,outubro/2026
+Jacareí,Jardim Pereira do Amparo,apartamento,aluguel,42.9,31.0,44.4,9,8.48,outubro/2026
+Jacareí,Jardim Primavera,apartamento,venda,5354.8,4295.6,7239.4,14,,outubro/2026
+Jacareí,Jardim Santa Maria,apartamento,venda,6110.2,5614.0,6571.4,17,8.62,outubro/2026
+Jacareí,Jardim Santa Maria,apartamento,aluguel,43.9,35.0,46.7,5,8.62,outubro/2026
+Jacareí,Jardim Yolanda,apartamento,venda,4488.2,4065.8,5238.1,7,,outubro/2026
+Jacareí,Loteamento Jardim Sol Nascente,apartamento,venda,4666.7,4274.0,5394.7,13,,outubro/2026
+Jacareí,Loteamento Villa Branca,apartamento,venda,8812.6,7056.8,10393.3,46,6.71,outubro/2026
+Jacareí,Loteamento Villa Branca,apartamento,aluguel,49.3,41.2,62.5,17,6.71,outubro/2026
+Jacareí,Pagador de Andrade,apartamento,venda,7590.4,6774.2,8576.9,29,7.6,outubro/2026
+Jacareí,Pagador de Andrade,apartamento,aluguel,48.1,39.1,55.6,17,7.6,outubro/2026
+Jacareí,Parque Santo Antônio,apartamento,venda,5928.6,5272.7,6538.5,17,,outubro/2026
+Jacareí,São João,apartamento,venda,6130.7,5509.9,6822.2,18,,outubro/2026
+Jacareí,Vila Aprazível,apartamento,venda,7121.4,5240.6,8174.8,12,,outubro/2026
+Jacareí,Vila Branca,apartamento,venda,9166.7,7630.2,9445.1,11,,outubro/2026
+Jacareí,Vila Formosa,apartamento,venda,8484.3,6891.7,9142.9,10,,outubro/2026
+Jacareí,Vila Machado,apartamento,venda,5243.5,4782.9,5981.2,14,,outubro/2026
+Jacareí,Vila Nova Aliança,apartamento,venda,5269.6,4770.6,5667.6,14,8.24,outubro/2026
+Jacareí,Vila Nova Aliança,apartamento,aluguel,36.2,33.8,41.0,6,8.24,outubro/2026
+Jacareí,Vila Zezé,apartamento,venda,6597.9,4600.0,6808.5,5,,outubro/2026
+Jacareí,Villa Branca,apartamento,venda,8974.4,7692.3,10305.6,77,6.5,outubro/2026
+Jacareí,Villa Branca,apartamento,aluguel,48.6,43.0,53.1,33,6.5,outubro/2026
+Jacareí,Bandeira Branca,terreno,venda,306.7,192.5,676.0,8,,outubro/2026
+Jacareí,Bosque dos Manacas,terreno,venda,1367.9,1248.3,1423.3,7,,outubro/2026
+Jacareí,Centro,terreno,venda,1272.2,924.4,1457.1,9,,outubro/2026
+Jacareí,Chácaras Condomínio Recanto Pássaros II,terreno,venda,160.3,138.0,268.6,8,,outubro/2026
+Jacareí,Chácaras Santa Maria,terreno,venda,154.1,115.0,154.5,5,,outubro/2026
+Jacareí,Cidade Jardim,terreno,venda,1084.3,876.9,1181.5,11,,outubro/2026
+Jacareí,Cidade Nova,terreno,venda,248.3,187.2,344.9,12,,outubro/2026
+Jacareí,Da Cerejeira,terreno,venda,518.4,450.0,650.7,5,,outubro/2026
+Jacareí,Jardim Califórnia,terreno,venda,1592.1,978.5,1700.0,41,,outubro/2026
+Jacareí,Jardim Colinas,terreno,venda,571.4,388.3,783.3,5,,outubro/2026
+Jacareí,Jardim Colônia,terreno,venda,385.6,174.8,603.9,6,,outubro/2026
+Jacareí,Jardim Jacinto,terreno,venda,1320.8,1173.2,1482.9,11,,outubro/2026
+Jacareí,Jardim Nova Esperança,terreno,venda,258.1,225.8,341.1,8,,outubro/2026
+Jacareí,Jardim Paraíba,terreno,venda,1385.4,1116.4,1763.4,10,,outubro/2026
+Jacareí,Jardim Paraíso,terreno,venda,295.8,213.6,531.5,7,,outubro/2026
+Jacareí,Jardim Santa Maria,terreno,venda,1083.5,920.1,1410.8,16,,outubro/2026
+Jacareí,Jardim Santo Antônio da Boa Vista,terreno,venda,489.5,314.5,575.6,10,,outubro/2026
+Jacareí,Jardim Terras de Santa Helena,terreno,venda,529.4,474.3,606.3,12,,outubro/2026
+Jacareí,Jardim Terras de São João,terreno,venda,814.5,766.4,924.0,6,,outubro/2026
+Jacareí,Loteamento Villa Branca,terreno,venda,1629.7,1367.7,1788.4,20,,outubro/2026
+Jacareí,Mirante do Vale,terreno,venda,808.1,690.0,890.0,21,,outubro/2026
+Jacareí,Pagador de Andrade,terreno,venda,445.4,397.5,450.0,5,,outubro/2026
+Jacareí,Parque Imperial,terreno,venda,340.6,327.1,720.0,5,,outubro/2026
+Jacareí,Parque Mirante do Vale,terreno,venda,740.7,549.9,843.0,45,,outubro/2026
+Jacareí,Parque Residencial Jequitibá,terreno,venda,451.5,419.5,500.4,12,,outubro/2026
+Jacareí,Residencial Parque dos Sinos,terreno,venda,1319.6,1237.7,1386.2,11,,outubro/2026
+Jacareí,Residencial Santa Paula,terreno,venda,1137.4,1072.8,1284.7,16,,outubro/2026
+Jacareí,Rio Abaixo,terreno,venda,442.0,396.5,575.1,10,,outubro/2026
+Jacareí,Rio Comprido,terreno,venda,1318.5,664.7,1733.6,22,,outubro/2026
+Jacareí,São João,terreno,venda,873.3,636.1,1203.5,11,,outubro/2026
+Jacareí,Terras de Santa Helena,terreno,venda,641.6,500.0,650.0,5,,outubro/2026
+Jacareí,Vem Viver,terreno,venda,1822.2,1684.0,2018.0,8,,outubro/2026
+Jacareí,Veraneio Ijal,terreno,venda,153.8,150.0,165.4,5,,outubro/2026
+Jacareí,Villa Branca,terreno,venda,1653.3,1462.9,1842.9,30,,outubro/2026
+Jacareí,Zona de Adensamento Restrito (Zar),terreno,venda,241.8,205.6,326.9,6,,outubro/2026
+Jacareí,Centro,sala,venda,9346.2,6606.7,10797.1,31,5.55,outubro/2026
+Jacareí,Centro,sala,aluguel,43.2,34.8,59.1,37,5.55,outubro/2026
+Jacareí,Jardim Santa Maria,sala,aluguel,25.0,24.0,25.6,5,,outubro/2026
+Jacareí,Villa Branca,sala,aluguel,52.5,42.9,60.0,21,,outubro/2026
+Jacareí,Jardim Califórnia,galpao,venda,4883.3,3328.1,5943.0,10,6.22,outubro/2026
+Jacareí,Jardim Califórnia,galpao,aluguel,25.3,22.9,31.2,13,6.22,outubro/2026
+Jacareí,Jardim Santa Maria,galpao,aluguel,20.0,17.3,21.6,9,,outubro/2026
+Jacareí,Rio Abaixo,galpao,aluguel,26.7,25.3,30.4,9,,outubro/2026
+Jacareí,Rio Comprido,galpao,venda,5479.5,4832.3,6019.2,8,6.75,outubro/2026
+Jacareí,Rio Comprido,galpao,aluguel,30.8,28.8,33.5,8,6.75,outubro/2026

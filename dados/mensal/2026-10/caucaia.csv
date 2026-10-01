@@ -1,0 +1,33 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Caucaia,Centro,apartamento,venda,4276.1,3994.8,4571.4,10,,outubro/2026
+Caucaia,Cumbuco,apartamento,venda,9747.6,8180.6,13157.9,70,,outubro/2026
+Caucaia,Curicaca,apartamento,venda,4351.1,4016.8,4721.8,8,,outubro/2026
+Caucaia,Icaraí,apartamento,venda,3265.5,2282.2,4234.7,35,,outubro/2026
+Caucaia,Itambé,apartamento,venda,3913.0,3580.0,4043.5,9,,outubro/2026
+Caucaia,Jardim Icaraí,apartamento,venda,3716.9,3137.0,4176.1,6,,outubro/2026
+Caucaia,Mestre Antônio,apartamento,venda,4345.8,3920.9,4529.6,7,,outubro/2026
+Caucaia,Pacheco,apartamento,venda,3661.8,3117.6,4291.3,5,,outubro/2026
+Caucaia,Padre Julio Maria,apartamento,venda,4883.8,4499.8,5491.2,5,,outubro/2026
+Caucaia,Padre Romualdo,apartamento,venda,4257.6,4225.8,4514.3,5,,outubro/2026
+Caucaia,Parque Albano (Jurema),apartamento,venda,4651.8,4106.2,5282.4,8,,outubro/2026
+Caucaia,Paumirim,apartamento,venda,3027.9,2800.0,3359.5,5,,outubro/2026
+Caucaia,Praia de Cumbuco,apartamento,venda,11639.3,8901.3,14644.7,15,,outubro/2026
+Caucaia,Tabapuá,apartamento,venda,3000.0,2651.0,4451.1,16,6.44,outubro/2026
+Caucaia,Tabapuá,apartamento,aluguel,16.1,14.3,18.6,8,6.44,outubro/2026
+Caucaia,Tabuba,apartamento,venda,4029.3,3263.0,4288.7,11,,outubro/2026
+Caucaia,Alto do Garrote,casa,venda,6715.7,5958.1,7410.6,8,,outubro/2026
+Caucaia,Camurupim,casa,venda,3682.4,3504.2,3744.8,6,,outubro/2026
+Caucaia,Cumbuco,casa,venda,6918.5,4313.8,9734.7,36,,outubro/2026
+Caucaia,Curicaca,casa,venda,3966.6,3806.7,4191.2,7,,outubro/2026
+Caucaia,Garrote,casa,venda,2666.7,2567.6,3645.4,5,,outubro/2026
+Caucaia,Icaraí,casa,venda,3209.1,2001.7,3664.7,24,,outubro/2026
+Caucaia,Iparana,casa,venda,2600.0,1819.7,3507.9,7,,outubro/2026
+Caucaia,Jardim Icaraí,casa,venda,3701.2,3392.7,3872.3,32,,outubro/2026
+Caucaia,Lagoa do Banana,casa,venda,4601.2,3413.8,5000.0,5,,outubro/2026
+Caucaia,Mestre Antônio,casa,venda,3293.4,2838.5,3552.0,8,,outubro/2026
+Caucaia,Pacheco,casa,venda,3438.5,3194.1,3562.4,22,,outubro/2026
+Caucaia,Tabuba,casa,venda,3344.7,3000.0,4237.5,10,,outubro/2026
+Caucaia,Garrote,terreno,venda,358.4,309.0,409.3,15,,outubro/2026
+Caucaia,Icaraí,terreno,venda,269.9,256.0,336.1,14,,outubro/2026
+Caucaia,Itambé,terreno,venda,860.2,720.0,1000.0,25,,outubro/2026
+Caucaia,Lagoa do Banana,terreno,venda,265.4,215.3,350.0,24,,outubro/2026

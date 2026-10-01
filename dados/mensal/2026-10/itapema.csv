@@ -1,0 +1,54 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Itapema,Alto São Bento,apartamento,venda,11748.4,9684.4,12924.6,53,4.63,outubro/2026
+Itapema,Alto São Bento,apartamento,aluguel,45.3,42.9,51.0,12,4.63,outubro/2026
+Itapema,Andorinha,apartamento,venda,15993.8,13551.2,21083.5,38,,outubro/2026
+Itapema,Canto da Praia,apartamento,venda,19166.7,15956.3,26225.5,91,,outubro/2026
+Itapema,Casa Branca,apartamento,venda,10000.0,7920.0,12762.3,57,5.78,outubro/2026
+Itapema,Casa Branca,apartamento,aluguel,48.2,41.0,55.3,8,5.78,outubro/2026
+Itapema,Castelo Branco,apartamento,venda,15746.4,13818.2,18909.8,147,,outubro/2026
+Itapema,Centro,apartamento,venda,19684.0,15036.4,25455.4,580,2.84,outubro/2026
+Itapema,Centro,apartamento,aluguel,46.6,37.5,62.4,46,2.84,outubro/2026
+Itapema,Estreito,apartamento,venda,33349.4,28975.1,36698.3,10,,outubro/2026
+Itapema,Ilhota,apartamento,venda,21041.7,16487.7,26228.4,43,,outubro/2026
+Itapema,Itapema,apartamento,venda,12225.3,9944.9,17744.2,26,,outubro/2026
+Itapema,Jardim Praia Mar,apartamento,venda,12857.1,10487.5,14339.1,71,,outubro/2026
+Itapema,Meia Praia,apartamento,venda,17176.5,12965.3,23794.9,1395,3.25,outubro/2026
+Itapema,Meia Praia,apartamento,aluguel,46.5,35.7,56.5,257,3.25,outubro/2026
+Itapema,Morretes,apartamento,venda,12755.7,9636.4,16068.4,249,4.93,outubro/2026
+Itapema,Morretes,apartamento,aluguel,52.4,45.4,60.8,47,4.93,outubro/2026
+Itapema,Morretes - Zona 3,apartamento,venda,14468.8,10882.8,17857.1,10,,outubro/2026
+Itapema,Sertão do Trombudo,apartamento,venda,12194.9,10026.8,18057.6,8,,outubro/2026
+Itapema,Sertãozinho,apartamento,venda,11236.0,11124.4,11281.1,5,,outubro/2026
+Itapema,Tabuleiro dos Oliveiras,apartamento,venda,13099.1,10814.3,14978.3,66,5.51,outubro/2026
+Itapema,Tabuleiro dos Oliveiras,apartamento,aluguel,60.1,54.3,68.2,16,5.51,outubro/2026
+Itapema,Várzea,apartamento,venda,12820.7,10670.8,14423.8,38,,outubro/2026
+Itapema,Alto São Bento,casa,venda,7413.0,5410.4,9479.5,34,,outubro/2026
+Itapema,Canto da Praia,casa,venda,15534.4,13688.5,19401.5,23,,outubro/2026
+Itapema,Casa Branca,casa,venda,18290.9,11960.0,27470.9,41,,outubro/2026
+Itapema,Castelo Branco,casa,venda,8630.8,7000.0,9631.6,5,,outubro/2026
+Itapema,Centro,casa,venda,11323.0,10228.0,15291.7,10,,outubro/2026
+Itapema,Ilhota,casa,venda,14302.1,9555.6,21272.9,11,,outubro/2026
+Itapema,Meia Praia,casa,venda,11904.8,7425.5,14770.3,35,,outubro/2026
+Itapema,Morretes,casa,venda,7439.8,5633.3,8840.6,97,6.61,outubro/2026
+Itapema,Morretes,casa,aluguel,41.0,38.6,64.2,7,6.61,outubro/2026
+Itapema,Residenciais Fazenda,casa,venda,9375.0,8129.0,9956.7,11,,outubro/2026
+Itapema,Sertão do Trombudo,casa,venda,8000.0,4989.9,9349.6,21,,outubro/2026
+Itapema,Tabuleiro dos Oliveiras,casa,venda,7739.2,7240.2,8558.8,6,,outubro/2026
+Itapema,Várzea,casa,venda,6500.0,4666.7,9375.0,21,,outubro/2026
+Itapema,Alto São Bento,terreno,venda,1640.4,1307.9,1766.7,9,,outubro/2026
+Itapema,Canto da Praia,terreno,venda,3500.0,3009.3,6034.8,7,,outubro/2026
+Itapema,Casa Branca,terreno,venda,1933.3,1440.5,2208.3,19,,outubro/2026
+Itapema,Ilhota,terreno,venda,3661.9,1139.9,6571.6,14,,outubro/2026
+Itapema,Meia Praia,terreno,venda,5413.2,2104.3,7379.7,10,,outubro/2026
+Itapema,Morretes,terreno,venda,3103.0,2537.8,4208.3,36,,outubro/2026
+Itapema,Sertão do Trombudo,terreno,venda,1420.6,1157.9,1969.0,22,,outubro/2026
+Itapema,Tabuleiro dos Oliveiras,terreno,venda,2904.3,2347.9,4181.6,8,,outubro/2026
+Itapema,Várzea,terreno,venda,2234.6,1507.9,3045.0,8,,outubro/2026
+Itapema,Castelo Branco,sala,venda,12083.3,11682.2,14070.8,5,,outubro/2026
+Itapema,Centro,sala,venda,21674.9,18831.9,23723.5,8,4.38,outubro/2026
+Itapema,Centro,sala,aluguel,79.2,70.8,101.3,22,4.38,outubro/2026
+Itapema,Ilhota,sala,venda,17696.1,16027.5,19683.1,8,,outubro/2026
+Itapema,Meia Praia,sala,venda,15748.0,11428.6,20652.2,61,4.98,outubro/2026
+Itapema,Meia Praia,sala,aluguel,65.3,51.4,91.5,80,4.98,outubro/2026
+Itapema,Morretes,sala,venda,13535.2,11558.9,23143.9,30,5.59,outubro/2026
+Itapema,Morretes,sala,aluguel,63.1,53.6,69.5,14,5.59,outubro/2026

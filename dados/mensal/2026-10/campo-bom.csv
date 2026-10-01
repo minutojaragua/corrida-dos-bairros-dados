@@ -1,0 +1,75 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Campo Bom,25 de Julho,casa,venda,3219.6,2795.4,4508.3,26,,outubro/2026
+Campo Bom,Alto Paulista,casa,venda,4568.6,2798.7,5466.5,14,,outubro/2026
+Campo Bom,Bela Vista,casa,venda,4768.6,3503.6,5345.5,41,,outubro/2026
+Campo Bom,Benevento,casa,venda,6828.3,5836.6,7289.4,18,,outubro/2026
+Campo Bom,Blumenburg,casa,venda,4396.7,3571.3,5004.8,18,,outubro/2026
+Campo Bom,Catléia,casa,venda,4265.9,3572.8,6377.3,12,,outubro/2026
+Campo Bom,Celeste,casa,venda,3861.1,2745.7,4731.4,28,,outubro/2026
+Campo Bom,Centro,casa,venda,5303.0,4089.0,6786.4,176,,outubro/2026
+Campo Bom,Cohab Leste,casa,venda,2733.5,2321.9,3511.3,8,,outubro/2026
+Campo Bom,Cohab Sul,casa,venda,4372.3,4041.7,4803.4,6,,outubro/2026
+Campo Bom,Colina Deuner,casa,venda,4850.7,3165.1,7429.9,29,,outubro/2026
+Campo Bom,Colina do Sol,casa,venda,7363.2,7022.8,7967.7,18,,outubro/2026
+Campo Bom,Dona Augusta,casa,venda,4103.2,3750.0,5208.9,9,,outubro/2026
+Campo Bom,Firenze,casa,venda,5467.1,4040.5,7100.5,72,,outubro/2026
+Campo Bom,Genuíno Sampaio,casa,venda,4703.0,3734.8,6372.3,29,,outubro/2026
+Campo Bom,Gringos,casa,venda,4158.9,3452.6,5256.4,23,,outubro/2026
+Campo Bom,Imigrante,casa,venda,3779.1,3166.9,4997.0,67,,outubro/2026
+Campo Bom,Imigrante Norte,casa,venda,4637.6,3194.2,5334.6,32,,outubro/2026
+Campo Bom,Imigrante Sul,casa,venda,4355.4,3348.8,5376.5,27,,outubro/2026
+Campo Bom,Ipiranga,casa,venda,4821.4,4185.0,5590.5,16,,outubro/2026
+Campo Bom,Jardim do Sol,casa,venda,4421.6,3626.3,5886.5,58,,outubro/2026
+Campo Bom,Loteamento Fauth,casa,venda,5238.7,3921.9,5744.2,10,,outubro/2026
+Campo Bom,Metzler,casa,venda,5446.1,3675.0,6700.0,67,,outubro/2026
+Campo Bom,Metzler - Lot Benevento,casa,venda,3426.5,2820.0,3636.4,5,,outubro/2026
+Campo Bom,Morada da Colina,casa,venda,5517.9,3976.4,7686.8,12,,outubro/2026
+Campo Bom,Morada do Sol,casa,venda,2899.7,2092.9,3531.2,6,,outubro/2026
+Campo Bom,Operária,casa,venda,2968.8,2363.6,3392.1,16,,outubro/2026
+Campo Bom,Paulista,casa,venda,3629.0,2515.7,5063.3,53,,outubro/2026
+Campo Bom,Porto Blos,casa,venda,4167.0,3060.4,5973.3,14,,outubro/2026
+Campo Bom,Quatro Colônias,casa,venda,3523.1,2307.4,6463.8,16,,outubro/2026
+Campo Bom,Rio Branco,casa,venda,3719.6,3005.4,5251.7,27,,outubro/2026
+Campo Bom,Santa Lucia,casa,venda,3785.7,3023.3,4788.4,55,,outubro/2026
+Campo Bom,Santo Antônio,casa,venda,3463.0,2501.7,4879.7,30,,outubro/2026
+Campo Bom,Solar do Campo,casa,venda,5453.1,4435.3,6694.5,75,,outubro/2026
+Campo Bom,Vila Rica,casa,venda,4488.6,2958.4,5790.3,9,,outubro/2026
+Campo Bom,Vila Velha,casa,venda,5932.4,3655.2,7113.4,25,,outubro/2026
+Campo Bom,25 de Julho,apartamento,venda,5430.9,5060.6,5936.7,31,,outubro/2026
+Campo Bom,Alto Paulista,apartamento,venda,4629.6,4473.7,5300.0,13,,outubro/2026
+Campo Bom,Bela Vista,apartamento,venda,4769.9,4475.1,5395.7,16,,outubro/2026
+Campo Bom,Blumenburg,apartamento,venda,5500.0,5500.0,6076.4,5,,outubro/2026
+Campo Bom,Celeste,apartamento,venda,5650.7,4961.0,6061.3,12,,outubro/2026
+Campo Bom,Centro,apartamento,venda,6602.8,5110.4,8006.6,204,4.56,outubro/2026
+Campo Bom,Centro,apartamento,aluguel,25.1,19.5,30.0,26,4.56,outubro/2026
+Campo Bom,Dona Augusta,apartamento,venda,4000.0,3736.8,4415.7,7,,outubro/2026
+Campo Bom,Metzler,apartamento,venda,6109.3,5316.5,6700.3,8,,outubro/2026
+Campo Bom,Paulista,apartamento,venda,5173.1,4545.5,5583.3,9,,outubro/2026
+Campo Bom,25 de Julho,terreno,venda,719.6,636.9,918.4,12,,outubro/2026
+Campo Bom,Alto Paulista,terreno,venda,540.2,493.2,593.3,13,,outubro/2026
+Campo Bom,Bela Vista,terreno,venda,700.0,597.3,850.9,19,,outubro/2026
+Campo Bom,Blumenburg,terreno,venda,583.9,478.1,629.9,10,,outubro/2026
+Campo Bom,Celeste,terreno,venda,781.2,626.7,1282.1,13,,outubro/2026
+Campo Bom,Centro,terreno,venda,988.3,735.4,1346.0,122,,outubro/2026
+Campo Bom,Colina Deuner,terreno,venda,454.5,353.7,562.5,11,,outubro/2026
+Campo Bom,Colina do Sol,terreno,venda,801.4,733.7,863.1,9,,outubro/2026
+Campo Bom,Dona Augusta,terreno,venda,700.6,569.7,1037.8,10,,outubro/2026
+Campo Bom,Firenze,terreno,venda,706.7,639.3,794.4,11,,outubro/2026
+Campo Bom,Genuíno Sampaio,terreno,venda,864.8,763.1,971.3,11,,outubro/2026
+Campo Bom,Gringos,terreno,venda,725.0,531.9,792.1,10,,outubro/2026
+Campo Bom,Imigrante,terreno,venda,614.5,503.3,739.2,45,,outubro/2026
+Campo Bom,Imigrante Norte,terreno,venda,586.7,470.4,656.9,23,,outubro/2026
+Campo Bom,Ipiranga,terreno,venda,544.9,341.2,563.7,8,,outubro/2026
+Campo Bom,Jardim do Sol,terreno,venda,666.9,565.3,781.7,12,,outubro/2026
+Campo Bom,Metzler,terreno,venda,752.4,645.4,857.1,22,,outubro/2026
+Campo Bom,Morada da Colina,terreno,venda,780.8,633.6,878.0,7,,outubro/2026
+Campo Bom,Paulista,terreno,venda,584.7,540.2,672.9,25,,outubro/2026
+Campo Bom,Porto Blos,terreno,venda,717.9,555.4,1359.7,6,,outubro/2026
+Campo Bom,Quatro Colônias,terreno,venda,744.2,621.9,822.8,33,,outubro/2026
+Campo Bom,Rio Branco,terreno,venda,676.4,624.4,781.9,12,,outubro/2026
+Campo Bom,Santa Lucia,terreno,venda,507.7,417.9,571.9,29,,outubro/2026
+Campo Bom,Santo Antônio,terreno,venda,516.5,394.8,630.9,7,,outubro/2026
+Campo Bom,Solar do Campo,terreno,venda,742.9,596.7,867.1,17,,outubro/2026
+Campo Bom,Vila Rica,terreno,venda,498.0,443.3,578.3,5,,outubro/2026
+Campo Bom,Centro,sala,venda,7000.0,5932.1,7977.7,15,4.22,outubro/2026
+Campo Bom,Centro,sala,aluguel,24.6,21.1,35.8,27,4.22,outubro/2026

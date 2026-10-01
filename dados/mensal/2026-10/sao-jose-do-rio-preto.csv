@@ -1,0 +1,794 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+São José do Rio Preto,Alta Vista,casa,venda,5562.5,5404.1,5817.0,7,,outubro/2026
+São José do Rio Preto,Alto Rio Preto,casa,venda,4400.0,3086.0,4932.5,11,7.5,outubro/2026
+São José do Rio Preto,Alto Rio Preto,casa,aluguel,27.5,25.0,34.4,5,7.5,outubro/2026
+São José do Rio Preto,Ary Attab,casa,venda,4988.9,4319.0,5409.7,5,,outubro/2026
+São José do Rio Preto,Bela Vista,casa,venda,3914.4,2717.1,4734.0,22,,outubro/2026
+São José do Rio Preto,Belvedere Terra Nova,casa,venda,4580.4,3832.9,5446.0,36,,outubro/2026
+São José do Rio Preto,Boa Vista,casa,venda,2727.3,2105.3,3535.7,191,8.1,outubro/2026
+São José do Rio Preto,Boa Vista,casa,aluguel,18.4,14.4,23.6,71,8.1,outubro/2026
+São José do Rio Preto,Bom Jardim,casa,venda,2419.4,2186.3,4673.9,7,,outubro/2026
+São José do Rio Preto,Bosque da Felicidade,casa,venda,2418.2,1809.2,2884.6,29,,outubro/2026
+São José do Rio Preto,Botanic Residence,casa,venda,9916.7,9200.0,10720.0,9,,outubro/2026
+São José do Rio Preto,Buona Vita,casa,venda,6478.2,6092.5,7634.2,28,,outubro/2026
+São José do Rio Preto,Cecap,casa,venda,1603.4,1472.2,2090.9,13,,outubro/2026
+São José do Rio Preto,Centro,casa,venda,4113.9,2600.0,5666.7,61,5.57,outubro/2026
+São José do Rio Preto,Centro,casa,aluguel,19.1,14.0,28.8,62,5.57,outubro/2026
+São José do Rio Preto,Centro (Engenheiro Schmitt),casa,venda,3753.6,3074.8,5687.5,18,,outubro/2026
+São José do Rio Preto,Chácara Jockey Club (Zona Rural),casa,venda,6666.7,6500.0,6771.4,5,,outubro/2026
+São José do Rio Preto,Cidade Nova,casa,venda,2568.6,1939.2,3674.5,16,,outubro/2026
+São José do Rio Preto,Conjunto Habitacional,casa,venda,2303.0,1558.8,3166.7,33,,outubro/2026
+São José do Rio Preto,Conjunto Habitacional Caic,casa,venda,1985.3,1893.8,2204.9,10,,outubro/2026
+São José do Rio Preto,Conjunto Habitacional Costa do Sol,casa,venda,2125.0,1572.3,2760.6,22,,outubro/2026
+São José do Rio Preto,Conjunto Habitacional Cristo Rei,casa,venda,2266.7,1609.8,2565.4,18,,outubro/2026
+São José do Rio Preto,Conjunto Habitacional Duas Vendas,casa,venda,2600.0,1950.0,3125.0,9,,outubro/2026
+São José do Rio Preto,Conjunto Habitacional São Deocleciano,casa,venda,2350.0,1906.2,2895.8,43,,outubro/2026
+São José do Rio Preto,Damha I,casa,venda,7857.1,6268.7,9269.9,21,,outubro/2026
+São José do Rio Preto,Damha II,casa,venda,4767.3,4332.7,5674.6,14,,outubro/2026
+São José do Rio Preto,Damha III,casa,venda,6375.0,5258.3,7217.7,28,5.08,outubro/2026
+São José do Rio Preto,Damha III,casa,aluguel,27.0,23.3,27.5,6,5.08,outubro/2026
+São José do Rio Preto,Damha IV,casa,venda,6160.3,5530.9,7800.0,26,,outubro/2026
+São José do Rio Preto,Damha V,casa,venda,7352.9,6596.3,9188.3,27,,outubro/2026
+São José do Rio Preto,Damha VI,casa,venda,8571.4,6884.6,10261.3,29,,outubro/2026
+São José do Rio Preto,Eco Village I,casa,venda,8800.0,7887.3,10000.0,9,,outubro/2026
+São José do Rio Preto,Egydio Zani,casa,venda,4118.3,1100.0,4909.1,13,,outubro/2026
+São José do Rio Preto,Eldorado,casa,venda,1869.8,1368.0,2490.5,95,8.41,outubro/2026
+São José do Rio Preto,Eldorado,casa,aluguel,13.1,12.5,13.8,9,8.41,outubro/2026
+São José do Rio Preto,Eplatz Rio Preto,casa,venda,3208.3,2025.0,4340.3,6,,outubro/2026
+São José do Rio Preto,Estância Jockey Clube,casa,venda,4637.7,3727.9,5561.9,6,,outubro/2026
+São José do Rio Preto,Eville Mais Parque Rio Preto,casa,venda,5884.1,5404.8,6396.1,22,,outubro/2026
+São José do Rio Preto,Fazenda Rio Preto,casa,venda,3175.0,1795.0,4235.3,9,,outubro/2026
+São José do Rio Preto,Fazenda São Pedro (Zona Rural),casa,venda,2963.0,1857.1,4501.7,5,,outubro/2026
+São José do Rio Preto,Fenhouse,casa,venda,5798.4,4414.5,6402.9,10,,outubro/2026
+São José do Rio Preto,Figueira I,casa,venda,5000.0,4679.7,5644.7,15,,outubro/2026
+São José do Rio Preto,Figueira II,casa,venda,7944.1,6781.9,8171.5,12,,outubro/2026
+São José do Rio Preto,Fraternidade,casa,venda,3473.7,2832.4,4191.5,6,,outubro/2026
+São José do Rio Preto,Gaivota I,casa,venda,6744.2,6227.3,7200.0,9,,outubro/2026
+São José do Rio Preto,Gaivota II,casa,venda,8129.4,7261.3,9550.4,34,,outubro/2026
+São José do Rio Preto,Giardino,casa,venda,4666.7,4333.3,5652.2,21,7.15,outubro/2026
+São José do Rio Preto,Giardino,casa,aluguel,27.8,25.7,30.8,5,7.15,outubro/2026
+São José do Rio Preto,Giardino I,casa,venda,4468.8,3905.9,5254.2,8,,outubro/2026
+São José do Rio Preto,Giardino II,casa,venda,5075.3,3838.5,5610.1,6,,outubro/2026
+São José do Rio Preto,Golden Park,casa,venda,6804.2,6505.0,8127.6,6,,outubro/2026
+São José do Rio Preto,Green Valley Edge City,casa,venda,7500.0,5625.0,8000.0,13,,outubro/2026
+São José do Rio Preto,Green Village I,casa,venda,5238.1,4791.7,6013.9,7,,outubro/2026
+São José do Rio Preto,Green Village III,casa,venda,5262.5,5151.5,5533.3,5,,outubro/2026
+São José do Rio Preto,Harmonia Residence e Resort,casa,venda,11176.5,8888.9,12063.5,5,,outubro/2026
+São José do Rio Preto,Higienópolis,casa,venda,5425.7,4355.4,6206.7,22,5.66,outubro/2026
+São José do Rio Preto,Higienópolis,casa,aluguel,25.6,13.3,53.9,6,5.66,outubro/2026
+São José do Rio Preto,Ideal Life Ecolazer Residence,casa,venda,5937.5,5154.7,6700.3,47,,outubro/2026
+São José do Rio Preto,Iguatemi,casa,venda,10720.0,10594.5,10774.6,5,,outubro/2026
+São José do Rio Preto,Jardim Aclimação,casa,venda,3904.8,3031.8,4491.1,34,5.72,outubro/2026
+São José do Rio Preto,Jardim Aclimação,casa,aluguel,18.6,12.3,21.8,12,5.72,outubro/2026
+São José do Rio Preto,Jardim Alice,casa,venda,2161.8,2100.0,3214.3,9,,outubro/2026
+São José do Rio Preto,Jardim Alto Alegre,casa,venda,2740.7,2350.0,3834.8,19,6.7,outubro/2026
+São José do Rio Preto,Jardim Alto Alegre,casa,aluguel,15.3,13.4,24.2,6,6.7,outubro/2026
+São José do Rio Preto,Jardim Alto Rio Preto,casa,venda,3556.5,2877.9,4300.5,48,8.94,outubro/2026
+São José do Rio Preto,Jardim Alto Rio Preto,casa,aluguel,26.5,19.7,34.3,22,8.94,outubro/2026
+São José do Rio Preto,Jardim Alvorada,casa,aluguel,21.7,18.6,26.1,14,,outubro/2026
+São José do Rio Preto,Jardim América,casa,venda,2477.9,1766.7,2650.0,25,6.44,outubro/2026
+São José do Rio Preto,Jardim América,casa,aluguel,13.3,12.7,14.2,5,6.44,outubro/2026
+São José do Rio Preto,Jardim Anielli,casa,venda,1500.0,1233.3,1655.1,5,,outubro/2026
+São José do Rio Preto,Jardim Antunes,casa,venda,1812.5,1450.4,2248.3,24,,outubro/2026
+São José do Rio Preto,Jardim Arroyo,casa,venda,2192.3,1412.5,2675.0,35,,outubro/2026
+São José do Rio Preto,Jardim Astúrias,casa,venda,2796.0,2206.2,3300.0,22,,outubro/2026
+São José do Rio Preto,Jardim Bela Vista,casa,venda,2064.3,1712.5,3996.2,7,,outubro/2026
+São José do Rio Preto,Jardim Bianco,casa,venda,2460.6,2022.4,3672.2,22,,outubro/2026
+São José do Rio Preto,Jardim Bordon,casa,venda,2989.1,2744.6,3304.0,19,5.62,outubro/2026
+São José do Rio Preto,Jardim Bordon,casa,aluguel,14.0,13.5,15.6,7,5.62,outubro/2026
+São José do Rio Preto,Jardim Bosque das Vivendas,casa,venda,4445.0,3517.0,5501.4,24,,outubro/2026
+São José do Rio Preto,Jardim Caetano,casa,venda,5533.3,4285.7,5666.7,5,,outubro/2026
+São José do Rio Preto,Jardim Caetano II,casa,venda,2200.0,1835.7,3117.5,11,,outubro/2026
+São José do Rio Preto,Jardim Campo Belo,casa,venda,2750.0,1933.3,4081.6,9,,outubro/2026
+São José do Rio Preto,Jardim Canaã,casa,venda,2188.8,2017.9,2922.7,12,,outubro/2026
+São José do Rio Preto,Jardim Caparroz,casa,venda,2710.4,2283.8,3353.1,44,6.29,outubro/2026
+São José do Rio Preto,Jardim Caparroz,casa,aluguel,14.2,13.2,16.4,5,6.29,outubro/2026
+São José do Rio Preto,Jardim Castelinho,casa,venda,1764.7,1452.3,2066.7,7,,outubro/2026
+São José do Rio Preto,Jardim Conceição,casa,venda,3306.0,2118.3,3987.7,46,10.45,outubro/2026
+São José do Rio Preto,Jardim Conceição,casa,aluguel,28.8,19.2,40.2,5,10.45,outubro/2026
+São José do Rio Preto,Jardim Congonhas,casa,venda,2853.6,2375.0,3122.4,7,,outubro/2026
+São José do Rio Preto,Jardim das Oliveiras,casa,venda,1909.1,1240.0,2640.0,21,,outubro/2026
+São José do Rio Preto,Jardim do Bosque,casa,venda,2244.2,1954.5,2816.9,13,,outubro/2026
+São José do Rio Preto,Jardim do Cedro,casa,venda,5619.0,4234.4,7801.5,18,,outubro/2026
+São José do Rio Preto,Jardim dos Buritis,casa,venda,4122.8,1299.5,4218.8,5,,outubro/2026
+São José do Rio Preto,Jardim dos Seixas,casa,venda,3608.7,3366.7,4371.5,31,6.62,outubro/2026
+São José do Rio Preto,Jardim dos Seixas,casa,aluguel,19.9,17.8,24.2,14,6.62,outubro/2026
+São José do Rio Preto,Jardim Estrela,casa,venda,2667.4,2032.6,3142.7,14,,outubro/2026
+São José do Rio Preto,Jardim Europa,casa,venda,3000.0,2718.2,3361.1,16,9.72,outubro/2026
+São José do Rio Preto,Jardim Europa,casa,aluguel,24.3,22.3,27.3,7,9.72,outubro/2026
+São José do Rio Preto,Jardim Felicidade,casa,venda,2122.5,1673.8,2579.2,6,,outubro/2026
+São José do Rio Preto,Jardim Francisco Fernandes,casa,venda,5456.8,4123.7,6432.7,37,6.29,outubro/2026
+São José do Rio Preto,Jardim Francisco Fernandes,casa,aluguel,28.6,19.5,34.9,28,6.29,outubro/2026
+São José do Rio Preto,Jardim Fuscaldo,casa,venda,2152.8,1586.2,2512.8,13,,outubro/2026
+São José do Rio Preto,Jardim Gisette,casa,venda,2315.8,1999.6,2722.2,15,,outubro/2026
+São José do Rio Preto,Jardim Herculano,casa,venda,2104.0,1763.4,2211.1,6,,outubro/2026
+São José do Rio Preto,Jardim Itapema,casa,venda,1795.5,1422.4,2375.0,9,,outubro/2026
+São José do Rio Preto,Jardim João Paulo II,casa,venda,1705.9,1500.0,2283.3,33,,outubro/2026
+São José do Rio Preto,Jardim Laranjeiras,casa,venda,1781.7,1223.7,2566.8,10,,outubro/2026
+São José do Rio Preto,Jardim Leste,casa,venda,3500.0,2500.0,4613.2,6,,outubro/2026
+São José do Rio Preto,Jardim Macedo,casa,venda,4565.2,3687.5,5000.0,5,,outubro/2026
+São José do Rio Preto,Jardim Manoel Del Arco,casa,venda,2470.6,2162.5,2966.6,10,,outubro/2026
+São José do Rio Preto,Jardim Maracanã,casa,venda,3555.6,2856.2,4406.4,27,,outubro/2026
+São José do Rio Preto,Jardim Marajó,casa,venda,4230.8,2586.5,5382.6,14,,outubro/2026
+São José do Rio Preto,Jardim Marambáia,casa,venda,3076.9,2900.0,3281.2,5,,outubro/2026
+São José do Rio Preto,Jardim Maria Cândida,casa,venda,2692.3,2643.9,3568.0,5,,outubro/2026
+São José do Rio Preto,Jardim Maria Lúcia,casa,venda,1725.8,1443.8,2305.9,40,8.34,outubro/2026
+São José do Rio Preto,Jardim Maria Lúcia,casa,aluguel,12.0,9.2,15.0,5,8.34,outubro/2026
+São José do Rio Preto,Jardim Morumbi,casa,venda,4747.8,4210.8,5161.9,15,9.15,outubro/2026
+São José do Rio Preto,Jardim Morumbi,casa,aluguel,36.2,27.8,43.7,10,9.15,outubro/2026
+São José do Rio Preto,"Jardim Moyses Miguel Haddad,",casa,venda,8469.8,5138.1,11906.2,36,4.75,outubro/2026
+São José do Rio Preto,"Jardim Moyses Miguel Haddad,",casa,aluguel,33.5,25.8,37.4,11,4.75,outubro/2026
+São José do Rio Preto,Jardim Mugnaini,casa,venda,3250.0,2592.6,4230.8,13,,outubro/2026
+São José do Rio Preto,Jardim Nazareth,casa,venda,2589.4,1926.9,3156.2,100,8.67,outubro/2026
+São José do Rio Preto,Jardim Nazareth,casa,aluguel,18.7,10.9,20.5,8,8.67,outubro/2026
+São José do Rio Preto,Jardim Nunes,casa,venda,2444.4,1750.0,2916.7,45,,outubro/2026
+São José do Rio Preto,Jardim Nunes 2,casa,venda,2050.0,1950.0,3158.3,5,,outubro/2026
+São José do Rio Preto,Jardim Ouro Verde,casa,venda,2500.0,1425.8,3673.0,11,,outubro/2026
+São José do Rio Preto,Jardim Panorama,casa,venda,4910.7,3771.9,5287.3,7,5.67,outubro/2026
+São José do Rio Preto,Jardim Panorama,casa,aluguel,23.2,20.5,28.6,6,5.67,outubro/2026
+São José do Rio Preto,Jardim Paulista,casa,venda,2361.9,2104.6,3070.7,10,,outubro/2026
+São José do Rio Preto,Jardim Planalto,casa,venda,1790.1,1410.7,2361.2,18,,outubro/2026
+São José do Rio Preto,Jardim Primavera,casa,venda,2862.6,2339.9,3721.4,19,7.76,outubro/2026
+São José do Rio Preto,Jardim Primavera,casa,aluguel,18.5,17.0,23.2,6,7.76,outubro/2026
+São José do Rio Preto,Jardim Redentor,casa,venda,5175.2,3490.6,6103.3,5,3.85,outubro/2026
+São José do Rio Preto,Jardim Redentor,casa,aluguel,16.6,16.0,35.4,5,3.85,outubro/2026
+São José do Rio Preto,Jardim Residencial Etemp,casa,venda,2730.3,2383.5,3204.2,18,,outubro/2026
+São José do Rio Preto,Jardim Residencial Vetorasso,casa,venda,2522.7,1914.8,3157.7,24,,outubro/2026
+São José do Rio Preto,Jardim Roseana,casa,venda,2605.6,1960.7,3255.8,5,,outubro/2026
+São José do Rio Preto,Jardim Santa Catarina,casa,venda,3009.4,2462.5,3859.5,30,,outubro/2026
+São José do Rio Preto,Jardim Santa Maria,casa,venda,7718.3,5351.2,8457.4,14,,outubro/2026
+São José do Rio Preto,Jardim Santo Antônio,casa,venda,1502.3,1314.3,2025.6,26,,outubro/2026
+São José do Rio Preto,Jardim São Marco,casa,venda,3658.3,3054.6,4180.6,39,,outubro/2026
+São José do Rio Preto,Jardim Schmitt,casa,venda,3011.3,2076.5,3222.1,11,,outubro/2026
+São José do Rio Preto,Jardim Seyon,casa,venda,3189.5,2176.2,4322.9,18,,outubro/2026
+São José do Rio Preto,Jardim Simões,casa,venda,2207.4,1693.8,2529.8,28,,outubro/2026
+São José do Rio Preto,Jardim Soraia,casa,venda,2043.4,1379.2,2854.2,34,,outubro/2026
+São José do Rio Preto,Jardim Tarraf,casa,venda,3731.7,3280.4,5590.9,32,,outubro/2026
+São José do Rio Preto,Jardim Tarraf II,casa,venda,3982.3,3120.4,5336.6,87,6.72,outubro/2026
+São José do Rio Preto,Jardim Tarraf II,casa,aluguel,22.3,17.4,26.6,12,6.72,outubro/2026
+São José do Rio Preto,Jardim Urano,casa,venda,2396.7,2017.9,2441.5,7,,outubro/2026
+São José do Rio Preto,Jardim Urupês,casa,venda,2208.1,1502.4,2628.6,8,,outubro/2026
+São José do Rio Preto,Jardim Vale do Sol,casa,venda,2279.6,1893.3,2748.9,10,,outubro/2026
+São José do Rio Preto,Jardim Vetorazzo,casa,venda,2028.6,2000.0,2193.0,5,,outubro/2026
+São José do Rio Preto,Jardim Viena,casa,venda,1656.2,1477.6,2290.4,6,,outubro/2026
+São José do Rio Preto,Jardim Vista Alegre,casa,venda,5396.4,4765.6,5919.5,22,,outubro/2026
+São José do Rio Preto,Jardim Vitagliano,casa,venda,10792.0,10769.2,10849.1,5,,outubro/2026
+São José do Rio Preto,Jardim Vitória Régia,casa,venda,2714.3,1711.2,3235.9,13,,outubro/2026
+São José do Rio Preto,Jardim Vivendas,casa,venda,4327.0,3353.7,6333.3,37,7.4,outubro/2026
+São José do Rio Preto,Jardim Vivendas,casa,aluguel,26.7,17.7,32.6,8,7.4,outubro/2026
+São José do Rio Preto,Jardim Yolanda,casa,venda,4365.1,3527.8,6696.4,50,5.8,outubro/2026
+São José do Rio Preto,Jardim Yolanda,casa,aluguel,21.1,18.1,30.9,13,5.8,outubro/2026
+São José do Rio Preto,Jardins de Athenas,casa,venda,4566.8,3951.5,5404.4,10,,outubro/2026
+São José do Rio Preto,Loteamento Jorge Rodrigues,casa,venda,2083.3,1850.0,4705.9,9,,outubro/2026
+São José do Rio Preto,Loteamento Moradas Rio Preto,casa,venda,2875.0,2615.4,4852.9,5,,outubro/2026
+São José do Rio Preto,Loteamento Parque Nova Esperança,casa,venda,1875.0,1375.0,2848.2,19,,outubro/2026
+São José do Rio Preto,Loteamento Parque Residencial da Amizade,casa,venda,1216.2,1087.5,2008.1,6,,outubro/2026
+São José do Rio Preto,Loteamento Parque Residencial da Lealdade,casa,venda,1438.5,1143.8,2506.8,6,,outubro/2026
+São José do Rio Preto,Loteamento Recanto do Lago,casa,venda,6459.9,5541.7,7623.0,87,,outubro/2026
+São José do Rio Preto,Loteamento Residencial Luz da Esperança,casa,venda,2203.4,1875.0,3500.0,21,,outubro/2026
+São José do Rio Preto,Loteamento Village Santa Helena,casa,venda,7573.6,7025.0,8369.6,8,,outubro/2026
+São José do Rio Preto,Maisparque Rio Preto,casa,venda,4750.0,3725.0,6339.3,19,,outubro/2026
+São José do Rio Preto,Mançor Daud,casa,venda,3695.7,2596.0,4000.0,5,,outubro/2026
+São José do Rio Preto,Maria Júlia,casa,venda,7926.8,7867.3,8125.9,7,,outubro/2026
+São José do Rio Preto,Moradas dos Ipês,casa,venda,3775.5,2642.0,4686.4,11,,outubro/2026
+São José do Rio Preto,Nature,casa,venda,6009.6,4549.5,6453.8,6,,outubro/2026
+São José do Rio Preto,Nature I,casa,venda,5390.6,5000.0,5882.4,5,,outubro/2026
+São José do Rio Preto,Nova Redentora,casa,venda,4634.1,3478.3,5338.1,25,6.47,outubro/2026
+São José do Rio Preto,Nova Redentora,casa,aluguel,25.0,21.4,36.9,19,6.47,outubro/2026
+São José do Rio Preto,Parque Celeste,casa,venda,2761.9,2307.7,3333.3,13,,outubro/2026
+São José do Rio Preto,Parque da Cidadania,casa,venda,1384.8,1170.1,1750.0,8,,outubro/2026
+São José do Rio Preto,Parque da Liberdade,casa,venda,3826.8,3109.4,5103.9,24,,outubro/2026
+São José do Rio Preto,Parque da Liberdade 3,casa,venda,3636.4,3187.0,4365.1,7,,outubro/2026
+São José do Rio Preto,Parque da Liberdade III,casa,venda,4000.0,3698.9,4743.8,16,,outubro/2026
+São José do Rio Preto,Parque da Liberdade IV,casa,venda,3600.0,3280.0,5119.0,13,,outubro/2026
+São José do Rio Preto,Parque da Liberdade V,casa,venda,4181.8,3813.2,4892.9,7,,outubro/2026
+São José do Rio Preto,Parque da Liberdade VI,casa,venda,3928.6,3371.6,4534.7,27,,outubro/2026
+São José do Rio Preto,Parque das Amoras,casa,venda,2709.2,2080.4,3945.0,24,,outubro/2026
+São José do Rio Preto,Parque das Amoras II,casa,venda,2939.2,2286.9,3991.8,28,,outubro/2026
+São José do Rio Preto,Parque das Aroeiras,casa,venda,2100.0,1665.5,2647.6,35,,outubro/2026
+São José do Rio Preto,Parque das Aroeiras II,casa,venda,2416.7,1737.5,3000.0,22,,outubro/2026
+São José do Rio Preto,Parque das Flores II,casa,venda,3653.8,2672.2,3986.8,14,,outubro/2026
+São José do Rio Preto,Parque das Perdizes,casa,venda,2822.3,1989.1,3769.7,8,,outubro/2026
+São José do Rio Preto,Parque do Sol,casa,venda,1683.5,1678.6,2050.0,5,,outubro/2026
+São José do Rio Preto,Parque Estoril,casa,venda,2841.1,2022.6,3532.6,20,,outubro/2026
+São José do Rio Preto,Parque Industrial,casa,venda,2525.3,1983.5,3680.0,101,8.32,outubro/2026
+São José do Rio Preto,Parque Industrial,casa,aluguel,17.5,15.1,25.5,32,8.32,outubro/2026
+São José do Rio Preto,Parque Jaguaré,casa,venda,2120.8,1670.8,2801.7,22,,outubro/2026
+São José do Rio Preto,Parque Juriti,casa,venda,2235.3,1500.0,3055.6,9,,outubro/2026
+São José do Rio Preto,Parque Lombardia,casa,venda,6510.9,5652.2,7263.2,9,,outubro/2026
+São José do Rio Preto,Parque Quinta das Paineiras,casa,venda,2981.5,2449.2,3500.0,14,,outubro/2026
+São José do Rio Preto,Parque Residencial Atlântica,casa,venda,2423.3,1959.1,2938.5,10,,outubro/2026
+São José do Rio Preto,Parque Residencial Buona Vita,casa,venda,6474.8,5894.5,7575.2,63,,outubro/2026
+São José do Rio Preto,Parque Residencial Comendador Mancor Daud,casa,venda,3103.4,2542.9,3913.0,65,7.08,outubro/2026
+São José do Rio Preto,Parque Residencial Comendador Mancor Daud,casa,aluguel,18.3,12.5,19.8,10,7.08,outubro/2026
+São José do Rio Preto,Parque Residencial Cristo Rei,casa,venda,2100.0,1525.0,2760.4,12,,outubro/2026
+São José do Rio Preto,Parque Residencial da Fraternidade,casa,venda,2333.3,1843.8,3159.1,20,,outubro/2026
+São José do Rio Preto,Parque Residencial da Lealdade,casa,venda,1800.0,1381.0,2571.4,7,,outubro/2026
+São José do Rio Preto,Parque Residencial da Solidariedade,casa,venda,1100.0,912.5,2237.5,10,,outubro/2026
+São José do Rio Preto,Parque Residencial Damha,casa,venda,7492.5,5938.7,9125.0,156,4.76,outubro/2026
+São José do Rio Preto,Parque Residencial Damha,casa,aluguel,29.7,23.0,42.3,22,4.76,outubro/2026
+São José do Rio Preto,Parque Residencial Damha I,casa,venda,8556.3,6881.6,11239.9,42,4.36,outubro/2026
+São José do Rio Preto,Parque Residencial Damha I,casa,aluguel,31.1,26.1,35.1,5,4.36,outubro/2026
+São José do Rio Preto,Parque Residencial Damha II,casa,venda,5605.3,5151.5,6870.2,17,,outubro/2026
+São José do Rio Preto,Parque Residencial Damha III,casa,venda,6512.6,5548.1,8037.0,47,4.48,outubro/2026
+São José do Rio Preto,Parque Residencial Damha III,casa,aluguel,24.3,20.0,28.2,5,4.48,outubro/2026
+São José do Rio Preto,Parque Residencial Damha IV,casa,venda,6782.6,6051.0,8148.1,49,4.42,outubro/2026
+São José do Rio Preto,Parque Residencial Damha IV,casa,aluguel,25.0,23.3,28.5,5,4.42,outubro/2026
+São José do Rio Preto,Parque Residencial Damha V,casa,venda,8274.4,7250.9,9826.6,74,6.73,outubro/2026
+São José do Rio Preto,Parque Residencial Damha V,casa,aluguel,46.4,39.9,54.6,12,6.73,outubro/2026
+São José do Rio Preto,Parque Residencial Damha VI,casa,venda,8777.8,7567.7,10144.3,79,6.41,outubro/2026
+São José do Rio Preto,Parque Residencial Damha VI,casa,aluguel,46.9,37.9,49.0,13,6.41,outubro/2026
+São José do Rio Preto,Parque Residencial Dignidade,casa,venda,1475.0,1350.0,1900.0,9,,outubro/2026
+São José do Rio Preto,Parque Residencial Dom Lafaiete Libânio,casa,venda,2477.3,1631.8,3068.3,26,,outubro/2026
+São José do Rio Preto,Parque Residencial Dom Lafayete Libanio,casa,venda,2204.5,1657.2,3106.3,12,,outubro/2026
+São José do Rio Preto,Parque Residencial J. Macedo,casa,venda,3455.9,2940.9,4368.9,40,,outubro/2026
+São José do Rio Preto,Parque Residencial Lauriano Tebar,casa,venda,2649.2,2125.0,2881.7,12,,outubro/2026
+São José do Rio Preto,Parque Residencial Lauriano Tebar II,casa,venda,3666.7,2654.0,4227.3,9,,outubro/2026
+São José do Rio Preto,Parque Residencial Maria Zorita,casa,venda,2690.5,2516.7,2719.4,6,,outubro/2026
+São José do Rio Preto,Parque Residencial Nature I,casa,venda,5326.0,4935.3,5816.4,26,,outubro/2026
+São José do Rio Preto,Parque Residencial Romano Calil,casa,venda,2546.3,2116.1,3195.5,20,,outubro/2026
+São José do Rio Preto,Parque Residencial Universo,casa,venda,2650.0,2312.5,3114.3,17,,outubro/2026
+São José do Rio Preto,Parque São Miguel,casa,venda,3802.0,2879.0,4444.4,32,,outubro/2026
+São José do Rio Preto,Parque Vila Nobre,casa,venda,3666.7,2428.6,4571.4,37,,outubro/2026
+São José do Rio Preto,Pinheiros,casa,venda,5324.1,4786.0,5851.9,8,,outubro/2026
+São José do Rio Preto,Quinta do Golfe II Jardins,casa,venda,13522.9,12706.5,15100.0,7,,outubro/2026
+São José do Rio Preto,Quinta do Golfe Jardins,casa,venda,11645.8,10473.0,13138.0,28,,outubro/2026
+São José do Rio Preto,Quinta do Lago,casa,venda,7579.8,6712.5,8090.4,32,,outubro/2026
+São José do Rio Preto,Quinta do Lago - Lac Léman,casa,venda,8475.6,7818.1,8928.8,19,,outubro/2026
+São José do Rio Preto,Quinta do Lago Blue Lagoon,casa,venda,8263.5,7703.2,8797.8,6,,outubro/2026
+São José do Rio Preto,Quinta do Lago I - Blue Lagoon,casa,venda,7981.2,6926.4,8941.3,18,,outubro/2026
+São José do Rio Preto,Quinta do Lago II,casa,venda,8209.9,8114.5,8543.1,6,,outubro/2026
+São José do Rio Preto,Quinta do Lago II - Lac Leman,casa,venda,8858.7,8361.6,9322.9,25,,outubro/2026
+São José do Rio Preto,Quinta do Lago Residence,casa,venda,7211.0,6222.4,8018.1,50,,outubro/2026
+São José do Rio Preto,Recanto do Lago,casa,venda,6478.3,5625.0,7762.6,25,,outubro/2026
+São José do Rio Preto,Recanto Real,casa,venda,7158.4,5769.6,8703.0,34,4.09,outubro/2026
+São José do Rio Preto,Recanto Real,casa,aluguel,24.4,20.4,32.9,26,4.09,outubro/2026
+São José do Rio Preto,Redentora,casa,aluguel,70.0,26.6,72.4,5,,outubro/2026
+São José do Rio Preto,Residencia Santa Regina,casa,venda,3229.8,2917.2,3609.0,9,,outubro/2026
+São José do Rio Preto,Residencial Alta Vista,casa,venda,5555.6,5000.0,6093.8,31,,outubro/2026
+São José do Rio Preto,Residencial Alto das Andorinhas,casa,venda,2362.5,1657.5,3053.6,26,,outubro/2026
+São José do Rio Preto,Residencial Amazonas,casa,venda,4859.2,4577.5,5517.2,9,,outubro/2026
+São José do Rio Preto,Residencial Ana Célia,casa,venda,1972.2,1691.1,2186.0,20,,outubro/2026
+São José do Rio Preto,Residencial Aroeiras II,casa,venda,3025.2,2537.2,4100.0,7,,outubro/2026
+São José do Rio Preto,Residencial Ary Attab,casa,venda,4012.5,3691.4,4614.6,16,,outubro/2026
+São José do Rio Preto,Residencial Bom Sucesso,casa,venda,2692.3,2428.6,3076.9,9,,outubro/2026
+São José do Rio Preto,Residencial Caetano,casa,venda,2357.1,1950.0,3000.0,25,,outubro/2026
+São José do Rio Preto,Residencial Califórnia,casa,venda,2708.3,2220.0,3168.8,8,,outubro/2026
+São José do Rio Preto,Residencial Cidade Jardim,casa,venda,2882.4,1900.0,3750.0,29,,outubro/2026
+São José do Rio Preto,Residencial Colina Azul,casa,venda,4595.2,4381.0,4626.9,5,,outubro/2026
+São José do Rio Preto,Residencial Colorado,casa,venda,2222.2,1821.7,2397.7,7,,outubro/2026
+São José do Rio Preto,Residencial das Américas,casa,venda,2916.7,2100.0,3238.1,25,,outubro/2026
+São José do Rio Preto,Residencial Doutor João Tajara,casa,venda,3910.3,2862.5,4837.6,12,,outubro/2026
+São José do Rio Preto,Residencial Eco Village,casa,venda,9868.4,8846.2,11072.7,17,,outubro/2026
+São José do Rio Preto,Residencial Eco Village I,casa,venda,9545.5,9088.1,10769.2,29,4.74,outubro/2026
+São José do Rio Preto,Residencial Eco Village I,casa,aluguel,37.7,35.7,45.7,9,4.74,outubro/2026
+São José do Rio Preto,Residencial Figueira II,casa,venda,6971.0,5756.6,7809.2,20,,outubro/2026
+São José do Rio Preto,Residencial Flórida Park,casa,venda,2600.0,1706.2,3360.0,9,,outubro/2026
+São José do Rio Preto,Residencial Gabriela,casa,venda,2323.1,1573.8,2808.1,20,,outubro/2026
+São José do Rio Preto,Residencial Gaivota I,casa,venda,6513.4,5748.7,7206.2,94,5.42,outubro/2026
+São José do Rio Preto,Residencial Gaivota I,casa,aluguel,29.4,26.4,33.8,20,5.42,outubro/2026
+São José do Rio Preto,Residencial Gaivota II,casa,venda,7708.3,6698.8,8823.5,61,,outubro/2026
+São José do Rio Preto,Residencial Green Valley,casa,venda,6803.6,6389.6,8584.2,10,,outubro/2026
+São José do Rio Preto,Residencial Jardim Antonieta,casa,venda,2412.9,1900.0,3333.3,21,,outubro/2026
+São José do Rio Preto,Residencial Jardim Vista Bela,casa,venda,3264.7,2000.0,4474.8,13,,outubro/2026
+São José do Rio Preto,Residencial Jardins,casa,venda,5846.3,4514.7,6587.2,8,,outubro/2026
+São José do Rio Preto,Residencial José Bernardes Coelho,casa,venda,2951.8,2867.4,4328.2,7,,outubro/2026
+São José do Rio Preto,Residencial Luzia Polotto,casa,venda,1500.0,1363.6,2332.9,5,,outubro/2026
+São José do Rio Preto,Residencial Macedo Teles I,casa,venda,2476.2,1784.1,2971.2,28,,outubro/2026
+São José do Rio Preto,Residencial Machado I,casa,venda,2785.7,2325.0,3124.1,20,,outubro/2026
+São José do Rio Preto,Residencial Mais Viver,casa,venda,3300.0,2738.8,4708.8,7,,outubro/2026
+São José do Rio Preto,Residencial Marcia,casa,venda,6545.8,5521.4,7797.8,16,,outubro/2026
+São José do Rio Preto,Residencial Maria Clara,casa,venda,1466.2,1275.0,2761.9,5,,outubro/2026
+São José do Rio Preto,Residencial Maria Julia,casa,venda,6974.6,5841.7,7955.5,118,6.25,outubro/2026
+São José do Rio Preto,Residencial Maria Julia,casa,aluguel,36.3,29.5,38.0,6,6.25,outubro/2026
+São José do Rio Preto,Residencial Marialda Mello,casa,venda,2695.5,1550.0,4545.5,5,,outubro/2026
+São José do Rio Preto,Residencial Mário de Mattos,casa,venda,3798.9,3667.7,3907.4,6,,outubro/2026
+São José do Rio Preto,Residencial Maza,casa,venda,5645.2,5195.4,5861.8,19,,outubro/2026
+São José do Rio Preto,Residencial Mirante,casa,venda,2727.3,1782.2,3437.5,17,,outubro/2026
+São José do Rio Preto,Residencial Monte Verde,casa,venda,2187.5,1500.0,2936.2,11,,outubro/2026
+São José do Rio Preto,Residencial Monterey,casa,venda,3084.4,2846.9,3250.0,10,,outubro/2026
+São José do Rio Preto,Residencial Morada do Sol,casa,venda,2292.3,1549.2,3500.0,34,,outubro/2026
+São José do Rio Preto,Residencial Nato Vetorasso,casa,venda,2833.3,2191.1,3559.5,47,,outubro/2026
+São José do Rio Preto,Residencial Palestra,casa,venda,3000.0,2471.5,3666.7,51,,outubro/2026
+São José do Rio Preto,Residencial Quinta do Golfe,casa,venda,11995.2,10000.0,14000.0,77,5.12,outubro/2026
+São José do Rio Preto,Residencial Quinta do Golfe,casa,aluguel,51.2,43.5,56.6,6,5.12,outubro/2026
+São José do Rio Preto,Residencial Quinta do Golfe Jardins,casa,venda,12881.4,12345.8,13366.1,11,,outubro/2026
+São José do Rio Preto,Residencial Santa Ana,casa,venda,1982.0,1575.0,2733.0,16,,outubro/2026
+São José do Rio Preto,Residencial Santa Cruz,casa,venda,2335.5,1575.0,3246.0,24,,outubro/2026
+São José do Rio Preto,Residencial Santa Regina,casa,venda,3549.1,2300.6,4514.3,26,,outubro/2026
+São José do Rio Preto,Residencial São Thomaz,casa,venda,2496.1,1785.7,3181.8,17,,outubro/2026
+São José do Rio Preto,Residencial São Thomaz II,casa,venda,2349.5,1433.8,3780.7,16,,outubro/2026
+São José do Rio Preto,Residencial Setsul II,casa,venda,4875.4,3664.0,5910.0,78,,outubro/2026
+São José do Rio Preto,Residencial Vila Flora,casa,venda,3083.3,2550.0,3879.9,15,,outubro/2026
+São José do Rio Preto,Residencial Vila Madalena,casa,venda,3722.2,2812.5,4890.4,22,,outubro/2026
+São José do Rio Preto,Residencial Village Damha Rio Preto I,casa,venda,6115.4,5456.3,6640.9,8,,outubro/2026
+São José do Rio Preto,Residencial Village Damha Rio Preto II,casa,venda,6356.2,5591.3,7200.2,32,,outubro/2026
+São José do Rio Preto,Roseiral,casa,venda,2742.5,2295.5,3643.8,20,,outubro/2026
+São José do Rio Preto,Santos Dumont,casa,venda,3415.2,2430.4,4115.7,36,6.68,outubro/2026
+São José do Rio Preto,Santos Dumont,casa,aluguel,19.0,14.6,27.8,21,6.68,outubro/2026
+São José do Rio Preto,São Deocleciano,casa,venda,1933.3,1925.9,2000.0,5,,outubro/2026
+São José do Rio Preto,São Francisco,casa,venda,2500.0,2005.8,3577.9,42,,outubro/2026
+São José do Rio Preto,Sestul II,casa,venda,5462.2,5338.2,5652.2,5,,outubro/2026
+São José do Rio Preto,Set Sul 2,casa,venda,5416.7,2800.0,5714.3,9,,outubro/2026
+São José do Rio Preto,Set Valey,casa,venda,4309.8,3795.8,4638.2,6,,outubro/2026
+São José do Rio Preto,Set Valley I,casa,venda,4916.7,4450.0,5416.7,5,,outubro/2026
+São José do Rio Preto,Setparque Avenida 2,casa,venda,2667.6,1862.5,3290.2,32,,outubro/2026
+São José do Rio Preto,Setsul,casa,venda,4641.4,3570.8,5788.2,80,,outubro/2026
+São José do Rio Preto,Setsul II,casa,venda,5269.0,3825.0,6074.4,40,,outubro/2026
+São José do Rio Preto,Setvaley II,casa,venda,4695.9,4485.5,4884.6,6,,outubro/2026
+São José do Rio Preto,Setvalley,casa,venda,2961.5,2087.5,4445.8,40,,outubro/2026
+São José do Rio Preto,Setvalley II,casa,venda,2500.0,2250.0,4365.1,5,,outubro/2026
+São José do Rio Preto,Setvalley III,casa,venda,3359.7,2575.0,4602.2,22,,outubro/2026
+São José do Rio Preto,Solo Sagrado,casa,venda,1750.0,1292.9,2013.2,27,,outubro/2026
+São José do Rio Preto,Solo Sagrado I,casa,venda,1633.3,1236.1,2029.4,27,,outubro/2026
+São José do Rio Preto,Terra Nova Garden Village,casa,venda,4117.6,3181.8,4461.5,13,,outubro/2026
+São José do Rio Preto,Terra Nova Garden Village I,casa,venda,3750.0,3272.4,4333.3,7,,outubro/2026
+São José do Rio Preto,Universitário,casa,venda,4000.0,3199.3,4427.3,7,7.65,outubro/2026
+São José do Rio Preto,Universitário,casa,aluguel,25.5,24.0,28.8,5,7.65,outubro/2026
+São José do Rio Preto,Vetorasso,casa,venda,3223.1,2695.0,3787.5,6,,outubro/2026
+São José do Rio Preto,Vila Aeroporto,casa,venda,2642.3,2447.6,3331.4,5,8.04,outubro/2026
+São José do Rio Preto,Vila Aeroporto,casa,aluguel,17.7,16.1,21.7,7,8.04,outubro/2026
+São José do Rio Preto,Vila Anchieta,casa,venda,2316.7,1865.2,2806.7,62,7.25,outubro/2026
+São José do Rio Preto,Vila Anchieta,casa,aluguel,14.0,11.6,16.5,18,7.25,outubro/2026
+São José do Rio Preto,Vila Angélica,casa,venda,2136.2,1776.2,3209.1,27,8.76,outubro/2026
+São José do Rio Preto,Vila Angélica,casa,aluguel,15.6,13.1,18.6,6,8.76,outubro/2026
+São José do Rio Preto,Vila Aurora,casa,venda,3708.3,2645.9,4757.2,8,,outubro/2026
+São José do Rio Preto,Vila Bancário,casa,venda,3906.2,2708.3,4333.3,5,,outubro/2026
+São José do Rio Preto,Vila Boa Esperança,casa,venda,2186.1,1607.1,2664.5,22,8.78,outubro/2026
+São José do Rio Preto,Vila Boa Esperança,casa,aluguel,16.0,15.0,17.2,5,8.78,outubro/2026
+São José do Rio Preto,Vila Bom Jesus,casa,venda,3477.3,2290.1,3597.1,16,7.32,outubro/2026
+São José do Rio Preto,Vila Bom Jesus,casa,aluguel,21.2,16.5,25.0,5,7.32,outubro/2026
+São José do Rio Preto,Vila Borguese,casa,venda,3043.5,2729.2,3321.0,8,,outubro/2026
+São José do Rio Preto,Vila Cassini,casa,venda,3928.6,3289.6,5313.4,11,,outubro/2026
+São José do Rio Preto,Vila Clementina,casa,venda,3428.6,2110.6,3779.1,9,,outubro/2026
+São José do Rio Preto,Vila Cristina,casa,venda,2923.1,2222.2,4469.7,5,,outubro/2026
+São José do Rio Preto,Vila Curti,casa,venda,2690.6,2583.4,2744.6,6,8.03,outubro/2026
+São José do Rio Preto,Vila Curti,casa,aluguel,18.0,17.1,21.3,6,8.03,outubro/2026
+São José do Rio Preto,Vila Diniz,casa,venda,2647.1,2109.7,3422.2,23,9.75,outubro/2026
+São José do Rio Preto,Vila Diniz,casa,aluguel,21.5,19.6,22.2,6,9.75,outubro/2026
+São José do Rio Preto,Vila Elmaz,casa,venda,1846.9,1651.8,2284.6,22,,outubro/2026
+São José do Rio Preto,Vila Elvira,casa,venda,2631.6,2239.5,3088.9,13,,outubro/2026
+São José do Rio Preto,Vila Ercília,casa,venda,2500.0,1842.1,2687.0,34,7.97,outubro/2026
+São José do Rio Preto,Vila Ercília,casa,aluguel,16.6,12.7,18.1,12,7.97,outubro/2026
+São José do Rio Preto,Vila Esplanada,casa,venda,2499.4,1853.4,3428.6,21,,outubro/2026
+São José do Rio Preto,Vila Falavina,casa,venda,2222.2,1666.7,2295.1,9,,outubro/2026
+São José do Rio Preto,Vila Gasbarro,casa,venda,2750.0,2222.2,3818.2,5,,outubro/2026
+São José do Rio Preto,Vila Goyos,casa,venda,2846.4,1581.5,2991.4,6,,outubro/2026
+São José do Rio Preto,Vila Ideal,casa,venda,2456.1,1582.3,2844.9,15,,outubro/2026
+São José do Rio Preto,Vila Imperial,casa,venda,3061.3,2432.4,4642.9,33,6.27,outubro/2026
+São José do Rio Preto,Vila Imperial,casa,aluguel,16.0,15.2,23.8,12,6.27,outubro/2026
+São José do Rio Preto,Vila Ipiranga,casa,venda,2260.1,1633.8,2748.1,20,,outubro/2026
+São José do Rio Preto,Vila Itália,casa,venda,2583.3,2391.3,2669.9,5,,outubro/2026
+São José do Rio Preto,Vila Maceno,casa,venda,2631.6,2203.1,4000.0,43,7.71,outubro/2026
+São José do Rio Preto,Vila Maceno,casa,aluguel,16.9,15.2,21.6,16,7.71,outubro/2026
+São José do Rio Preto,Vila Maria,casa,venda,2603.1,2003.6,3430.1,6,,outubro/2026
+São José do Rio Preto,Vila Moreira,casa,venda,2577.5,1666.7,3685.8,9,,outubro/2026
+São José do Rio Preto,Vila Nossa Senhora Aparecida,casa,venda,2662.7,2309.8,2934.6,12,,outubro/2026
+São José do Rio Preto,Vila Nossa Senhora da Paz,casa,venda,3375.0,2726.2,4220.2,19,7.0,outubro/2026
+São José do Rio Preto,Vila Nossa Senhora da Paz,casa,aluguel,19.7,17.3,23.1,8,7.0,outubro/2026
+São José do Rio Preto,Vila Nossa Senhora do Bonfim,casa,venda,2036.1,1583.3,2673.1,8,,outubro/2026
+São José do Rio Preto,Vila Redentora,casa,venda,4666.7,4043.5,7500.0,43,7.59,outubro/2026
+São José do Rio Preto,Vila Redentora,casa,aluguel,29.5,23.3,40.5,44,7.59,outubro/2026
+São José do Rio Preto,Vila Santa Cruz,casa,venda,2721.1,2134.6,3843.9,67,8.86,outubro/2026
+São José do Rio Preto,Vila Santa Cruz,casa,aluguel,20.1,17.3,25.2,35,8.86,outubro/2026
+São José do Rio Preto,Vila Santa Tereza,casa,venda,2625.0,2432.4,2864.6,5,,outubro/2026
+São José do Rio Preto,Vila Santo Antônio,casa,venda,3207.0,2732.1,4090.9,11,,outubro/2026
+São José do Rio Preto,Vila São Jorge,casa,venda,3264.7,2335.2,4920.6,26,,outubro/2026
+São José do Rio Preto,Vila São José,casa,venda,4266.7,3633.0,4474.2,11,6.38,outubro/2026
+São José do Rio Preto,Vila São José,casa,aluguel,22.7,18.2,24.7,6,6.38,outubro/2026
+São José do Rio Preto,Vila São Judas Tadeu,casa,venda,2074.1,1622.5,2942.3,16,,outubro/2026
+São José do Rio Preto,Vila Sinibaldi,casa,venda,2695.7,2214.9,3111.1,13,,outubro/2026
+São José do Rio Preto,Vila Toninho,casa,venda,2083.3,1666.7,3250.0,25,,outubro/2026
+São José do Rio Preto,Vila Zilda,casa,venda,2472.2,1814.7,3533.3,10,,outubro/2026
+São José do Rio Preto,Villa Cassini,casa,venda,4230.8,2400.0,4561.4,19,,outubro/2026
+São José do Rio Preto,Village Damha 3,casa,venda,6764.7,5600.0,7291.7,9,,outubro/2026
+São José do Rio Preto,Village Damha I,casa,venda,5631.1,4921.9,6565.5,6,,outubro/2026
+São José do Rio Preto,Village Damha II,casa,venda,5667.0,5000.0,6446.4,14,,outubro/2026
+São José do Rio Preto,Village Damha III,casa,venda,7161.1,6131.0,8150.6,20,,outubro/2026
+São José do Rio Preto,Village Damha Rio Preto I,casa,venda,6395.8,5416.0,6794.4,8,,outubro/2026
+São José do Rio Preto,Village Damha Rio Preto II,casa,venda,6547.6,5741.6,6967.9,9,,outubro/2026
+São José do Rio Preto,Village Damha Rio Preto III,casa,venda,7340.1,6477.5,7847.2,50,,outubro/2026
+São José do Rio Preto,Village Imperial Residence,casa,venda,5741.8,5094.5,6286.4,26,6.27,outubro/2026
+São José do Rio Preto,Village Imperial Residence,casa,aluguel,30.0,19.4,30.8,5,6.27,outubro/2026
+São José do Rio Preto,Village La Montagne,casa,venda,6956.5,5944.4,8989.3,11,,outubro/2026
+São José do Rio Preto,Village Normand,casa,venda,6106.9,5710.9,8345.8,6,,outubro/2026
+São José do Rio Preto,Village Normandie,casa,venda,8996.9,8693.6,9403.0,14,,outubro/2026
+São José do Rio Preto,Village Provence,casa,venda,8184.5,7430.7,9226.3,56,,outubro/2026
+São José do Rio Preto,Village Santa Helena,casa,venda,7333.3,6923.1,7500.0,5,,outubro/2026
+São José do Rio Preto,Alameda,apartamento,aluguel,63.3,59.9,69.6,6,,outubro/2026
+São José do Rio Preto,Alto Rio Preto,apartamento,venda,7958.3,7122.7,8415.2,12,,outubro/2026
+São José do Rio Preto,Anchieta,apartamento,venda,3206.4,3031.7,3760.8,6,,outubro/2026
+São José do Rio Preto,Boa Vista,apartamento,venda,4479.2,3653.2,5444.7,135,7.21,outubro/2026
+São José do Rio Preto,Boa Vista,apartamento,aluguel,26.9,17.6,32.9,73,7.21,outubro/2026
+São José do Rio Preto,Bom Jardim,apartamento,venda,7971.0,6250.0,9134.6,77,5.21,outubro/2026
+São José do Rio Preto,Bom Jardim,apartamento,aluguel,34.6,29.6,42.0,56,5.21,outubro/2026
+São José do Rio Preto,Borghese Boulevard,apartamento,venda,5978.3,5000.0,6985.4,7,,outubro/2026
+São José do Rio Preto,Bosque da Felicidade,apartamento,venda,2571.4,2381.0,3142.9,5,,outubro/2026
+São José do Rio Preto,Caparroz,apartamento,venda,3977.8,3631.4,4438.8,14,,outubro/2026
+São José do Rio Preto,Centenário da Emancipação,apartamento,venda,3673.9,3311.1,3891.3,5,,outubro/2026
+São José do Rio Preto,Centro,apartamento,venda,3360.0,2671.7,4188.5,375,6.5,outubro/2026
+São José do Rio Preto,Centro,apartamento,aluguel,18.2,12.4,28.2,175,6.5,outubro/2026
+São José do Rio Preto,Cidade Nova,apartamento,venda,4000.0,3309.2,4574.6,38,6.33,outubro/2026
+São José do Rio Preto,Cidade Nova,apartamento,aluguel,21.1,17.7,27.7,23,6.33,outubro/2026
+São José do Rio Preto,Conjunto Habitacional Caic,apartamento,venda,2531.7,2346.0,3236.6,8,,outubro/2026
+São José do Rio Preto,Conjunto Habitacional São Deocleciano,apartamento,venda,5000.0,4600.0,6000.0,13,7.44,outubro/2026
+São José do Rio Preto,Conjunto Habitacional São Deocleciano,apartamento,aluguel,31.0,29.5,39.6,11,7.44,outubro/2026
+São José do Rio Preto,Duo Jk,apartamento,venda,10958.3,10606.1,11363.6,5,6.34,outubro/2026
+São José do Rio Preto,Duo Jk,apartamento,aluguel,57.9,43.1,72.7,5,6.34,outubro/2026
+São José do Rio Preto,Eldorado,apartamento,venda,2682.5,2417.6,3593.8,20,8.95,outubro/2026
+São José do Rio Preto,Eldorado,apartamento,aluguel,20.0,16.7,21.2,9,8.95,outubro/2026
+São José do Rio Preto,Estância Matinha,apartamento,venda,8374.0,8028.5,9389.4,6,6.18,outubro/2026
+São José do Rio Preto,Estância Matinha,apartamento,aluguel,43.1,38.4,44.0,12,6.18,outubro/2026
+São José do Rio Preto,Estância São João,apartamento,venda,5333.3,4220.7,5655.4,7,,outubro/2026
+São José do Rio Preto,Fazenda Velha (Zona Rural),apartamento,venda,2991.1,2776.8,3125.0,6,,outubro/2026
+São José do Rio Preto,Georgina Business Park,apartamento,aluguel,71.4,64.6,84.2,21,,outubro/2026
+São José do Rio Preto,Georgina Residencial,apartamento,aluguel,78.3,70.6,80.4,8,,outubro/2026
+São José do Rio Preto,Gonzaga de Campos,apartamento,venda,5894.7,5643.8,6171.7,10,,outubro/2026
+São José do Rio Preto,Green Fields Residence Club,apartamento,aluguel,37.5,36.9,38.2,5,,outubro/2026
+São José do Rio Preto,Green Life São Marcos,apartamento,venda,6923.1,6470.6,7254.9,5,,outubro/2026
+São José do Rio Preto,Higienópolis,apartamento,venda,4957.4,3925.6,6162.8,97,8.67,outubro/2026
+São José do Rio Preto,Higienópolis,apartamento,aluguel,35.8,25.0,43.3,72,8.67,outubro/2026
+São José do Rio Preto,Iguatemi,apartamento,venda,13978.5,11773.9,15653.1,23,5.45,outubro/2026
+São José do Rio Preto,Iguatemi,apartamento,aluguel,63.5,55.5,70.8,52,5.45,outubro/2026
+São José do Rio Preto,Imperial,apartamento,venda,4925.0,3736.8,6866.0,10,,outubro/2026
+São José do Rio Preto,Integrato Iguatemi,apartamento,venda,11135.0,10804.6,11906.3,8,,outubro/2026
+São José do Rio Preto,Jardim Aclimação,apartamento,venda,4224.1,3876.2,5305.5,7,,outubro/2026
+São José do Rio Preto,Jardim Alice,apartamento,venda,5769.6,5025.5,6250.0,10,,outubro/2026
+São José do Rio Preto,Jardim Alto Rio Preto,apartamento,venda,6598.6,4950.5,7624.3,8,8.11,outubro/2026
+São José do Rio Preto,Jardim Alto Rio Preto,apartamento,aluguel,44.6,21.4,50.0,13,8.11,outubro/2026
+São José do Rio Preto,Jardim Americano,apartamento,venda,3159.7,2918.3,3849.1,6,,outubro/2026
+São José do Rio Preto,Jardim Bela Vista,apartamento,venda,4228.7,3333.3,4666.7,21,5.02,outubro/2026
+São José do Rio Preto,Jardim Bela Vista,apartamento,aluguel,17.7,16.4,19.1,6,5.02,outubro/2026
+São José do Rio Preto,Jardim Bianco,apartamento,venda,5689.7,5425.5,6318.8,13,6.18,outubro/2026
+São José do Rio Preto,Jardim Bianco,apartamento,aluguel,29.3,25.6,34.0,26,6.18,outubro/2026
+São José do Rio Preto,Jardim Bosque das Vivendas,apartamento,venda,6737.5,5014.6,7989.7,38,5.63,outubro/2026
+São José do Rio Preto,Jardim Bosque das Vivendas,apartamento,aluguel,31.6,25.7,41.9,51,5.63,outubro/2026
+São José do Rio Preto,Jardim Caparroz,apartamento,venda,3583.3,3295.3,4018.8,12,7.4,outubro/2026
+São José do Rio Preto,Jardim Caparroz,apartamento,aluguel,22.1,17.2,28.9,12,7.4,outubro/2026
+São José do Rio Preto,Jardim Conceição,apartamento,venda,3200.0,2622.0,4011.1,40,8.48,outubro/2026
+São José do Rio Preto,Jardim Conceição,apartamento,aluguel,22.6,18.2,32.6,12,8.48,outubro/2026
+São José do Rio Preto,Jardim Congonhas,apartamento,venda,2755.9,2400.0,3333.3,9,6.79,outubro/2026
+São José do Rio Preto,Jardim Congonhas,apartamento,aluguel,15.6,14.6,16.0,5,6.79,outubro/2026
+São José do Rio Preto,Jardim Europa,apartamento,venda,3629.3,2706.5,4150.9,9,,outubro/2026
+São José do Rio Preto,Jardim Francisco Fernandes,apartamento,venda,6982.4,6054.2,7340.8,8,,outubro/2026
+São José do Rio Preto,Jardim Fuscaldo,apartamento,venda,7106.5,5125.0,7744.8,8,,outubro/2026
+São José do Rio Preto,Jardim Itapema,apartamento,venda,4069.8,3725.2,4991.9,11,,outubro/2026
+São José do Rio Preto,Jardim Jandira,apartamento,venda,3125.0,2969.5,3548.4,11,,outubro/2026
+São José do Rio Preto,Jardim Maracanã,apartamento,venda,8579.8,7823.7,10237.8,42,5.51,outubro/2026
+São José do Rio Preto,Jardim Maracanã,apartamento,aluguel,39.4,36.5,44.3,45,5.51,outubro/2026
+São José do Rio Preto,Jardim Marajó,apartamento,venda,5055.6,3989.6,5725.7,28,7.1,outubro/2026
+São José do Rio Preto,Jardim Marajó,apartamento,aluguel,29.9,22.5,36.1,18,7.1,outubro/2026
+São José do Rio Preto,Jardim Marajo I,apartamento,venda,5256.4,5204.1,5769.2,5,,outubro/2026
+São José do Rio Preto,Jardim Mona,apartamento,aluguel,16.0,12.4,17.0,5,,outubro/2026
+São José do Rio Preto,"Jardim Moyses Miguel Haddad,",apartamento,venda,13793.1,12661.0,14838.7,10,4.36,outubro/2026
+São José do Rio Preto,"Jardim Moyses Miguel Haddad,",apartamento,aluguel,50.1,41.5,64.6,6,4.36,outubro/2026
+São José do Rio Preto,Jardim Nazareth,apartamento,venda,3826.9,2700.0,4038.5,13,7.84,outubro/2026
+São José do Rio Preto,Jardim Nazareth,apartamento,aluguel,25.0,22.5,28.5,7,7.84,outubro/2026
+São José do Rio Preto,Jardim Novo Mundo,apartamento,venda,8196.7,6946.1,9241.3,15,5.86,outubro/2026
+São José do Rio Preto,Jardim Novo Mundo,apartamento,aluguel,40.0,29.9,48.3,9,5.86,outubro/2026
+São José do Rio Preto,Jardim Nunes,apartamento,venda,3500.0,3088.6,3988.6,15,6.99,outubro/2026
+São José do Rio Preto,Jardim Nunes,apartamento,aluguel,20.4,20.0,23.0,7,6.99,outubro/2026
+São José do Rio Preto,Jardim Ouro Verde,apartamento,venda,7076.9,4807.7,9381.4,21,7.1,outubro/2026
+São José do Rio Preto,Jardim Ouro Verde,apartamento,aluguel,41.9,24.1,53.6,10,7.1,outubro/2026
+São José do Rio Preto,Jardim Palmeiras,apartamento,venda,11784.9,10435.9,13100.3,6,,outubro/2026
+São José do Rio Preto,Jardim Panorama,apartamento,venda,4072.7,3349.0,6749.3,48,5.78,outubro/2026
+São José do Rio Preto,Jardim Panorama,apartamento,aluguel,19.6,15.2,37.5,18,5.78,outubro/2026
+São José do Rio Preto,Jardim Paulista,apartamento,venda,11874.0,11652.2,12666.8,6,,outubro/2026
+São José do Rio Preto,Jardim Paulistano,apartamento,venda,13207.5,11346.4,15348.2,39,5.8,outubro/2026
+São José do Rio Preto,Jardim Paulistano,apartamento,aluguel,63.8,56.0,75.5,65,5.8,outubro/2026
+São José do Rio Preto,Jardim Planalto,apartamento,venda,4352.9,3613.6,5466.0,39,6.64,outubro/2026
+São José do Rio Preto,Jardim Planalto,apartamento,aluguel,24.1,22.3,32.8,10,6.64,outubro/2026
+São José do Rio Preto,Jardim Primavera,apartamento,venda,2754.0,2490.2,4227.1,6,,outubro/2026
+São José do Rio Preto,Jardim Redentor,apartamento,venda,5381.0,4056.5,7900.9,18,14.34,outubro/2026
+São José do Rio Preto,Jardim Redentor,apartamento,aluguel,64.3,48.1,71.2,12,14.34,outubro/2026
+São José do Rio Preto,Jardim Residencial Vetorasso,apartamento,venda,3205.1,2770.5,3754.4,23,7.49,outubro/2026
+São José do Rio Preto,Jardim Residencial Vetorasso,apartamento,aluguel,20.0,18.6,21.4,5,7.49,outubro/2026
+São José do Rio Preto,Jardim Santa Catarina,apartamento,venda,5911.0,5702.7,7384.6,5,,outubro/2026
+São José do Rio Preto,Jardim Santa Lúcia,apartamento,venda,3000.0,2612.9,3372.1,29,7.2,outubro/2026
+São José do Rio Preto,Jardim Santa Lúcia,apartamento,aluguel,18.0,14.8,19.1,7,7.2,outubro/2026
+São José do Rio Preto,Jardim Santa Rosa I,apartamento,venda,4375.0,4166.7,4803.9,9,8.97,outubro/2026
+São José do Rio Preto,Jardim Santa Rosa I,apartamento,aluguel,32.7,30.0,34.0,5,8.97,outubro/2026
+São José do Rio Preto,Jardim São Marco,apartamento,venda,6682.4,5538.5,7606.1,14,6.11,outubro/2026
+São José do Rio Preto,Jardim São Marco,apartamento,aluguel,34.0,31.9,41.6,10,6.11,outubro/2026
+São José do Rio Preto,Jardim Seyon,apartamento,venda,3827.8,3594.6,4203.1,12,7.12,outubro/2026
+São José do Rio Preto,Jardim Seyon,apartamento,aluguel,22.7,20.5,25.4,6,7.12,outubro/2026
+São José do Rio Preto,Jardim Simões,apartamento,venda,4475.0,3204.2,5436.3,16,5.71,outubro/2026
+São José do Rio Preto,Jardim Simões,apartamento,aluguel,21.3,18.5,29.4,6,5.71,outubro/2026
+São José do Rio Preto,Jardim Sônia,apartamento,venda,4672.0,4166.7,4794.4,6,,outubro/2026
+São José do Rio Preto,Jardim Tarraf,apartamento,venda,9087.0,5297.6,10602.0,10,,outubro/2026
+São José do Rio Preto,Jardim Tarraf II,apartamento,venda,9858.3,7788.5,11312.5,69,5.79,outubro/2026
+São José do Rio Preto,Jardim Tarraf II,apartamento,aluguel,47.6,38.9,57.7,77,5.79,outubro/2026
+São José do Rio Preto,Jardim Urano,apartamento,venda,4903.1,3748.0,8550.5,40,9.25,outubro/2026
+São José do Rio Preto,Jardim Urano,apartamento,aluguel,37.8,25.6,46.5,27,9.25,outubro/2026
+São José do Rio Preto,Jardim Vetorazzo,apartamento,venda,3273.3,3174.6,3757.4,8,,outubro/2026
+São José do Rio Preto,Jardim Vieira,apartamento,venda,3208.7,2942.1,3222.2,5,,outubro/2026
+São José do Rio Preto,Jardim Vivendas,apartamento,venda,6131.7,4695.2,7797.7,46,8.49,outubro/2026
+São José do Rio Preto,Jardim Vivendas,apartamento,aluguel,43.4,28.4,54.7,20,8.49,outubro/2026
+São José do Rio Preto,Jardim Walkíria,apartamento,venda,6562.5,4744.5,9302.3,65,8.63,outubro/2026
+São José do Rio Preto,Jardim Walkíria,apartamento,aluguel,47.2,25.0,60.9,41,8.63,outubro/2026
+São José do Rio Preto,Jardim Yolanda,apartamento,venda,4727.3,4000.0,6428.6,49,7.06,outubro/2026
+São José do Rio Preto,Jardim Yolanda,apartamento,aluguel,27.8,22.1,35.6,32,7.06,outubro/2026
+São José do Rio Preto,Jardins Rio Preto,apartamento,venda,4041.7,3354.5,4424.8,18,7.81,outubro/2026
+São José do Rio Preto,Jardins Rio Preto,apartamento,aluguel,26.3,23.0,27.8,10,7.81,outubro/2026
+São José do Rio Preto,Loteamento Abílio Jorge Cury,apartamento,venda,5725.0,5338.8,6312.5,7,6.29,outubro/2026
+São José do Rio Preto,Loteamento Abílio Jorge Cury,apartamento,aluguel,30.0,27.4,36.7,15,6.29,outubro/2026
+São José do Rio Preto,Loteamento Clube V,apartamento,venda,4000.0,3351.1,4885.4,26,7.89,outubro/2026
+São José do Rio Preto,Loteamento Clube V,apartamento,aluguel,26.3,22.8,30.5,19,7.89,outubro/2026
+São José do Rio Preto,Loteamento Porto Seguro,apartamento,venda,3428.6,3084.3,3747.6,7,,outubro/2026
+São José do Rio Preto,Murano,apartamento,venda,12961.2,11713.8,13266.6,6,5.68,outubro/2026
+São José do Rio Preto,Murano,apartamento,aluguel,61.3,56.5,63.7,5,5.68,outubro/2026
+São José do Rio Preto,Nau Vivendas,apartamento,aluguel,43.1,42.0,45.6,7,,outubro/2026
+São José do Rio Preto,Navarro Home,apartamento,venda,13475.2,11702.1,14893.6,5,,outubro/2026
+São José do Rio Preto,Nova Redentora,apartamento,venda,7962.0,5995.2,11152.5,18,5.18,outubro/2026
+São José do Rio Preto,Nova Redentora,apartamento,aluguel,34.4,24.6,51.1,19,5.18,outubro/2026
+São José do Rio Preto,Ouro Verde,apartamento,venda,3046.4,2891.2,4989.0,6,,outubro/2026
+São José do Rio Preto,Parque das Amoras II,apartamento,venda,4622.3,4229.7,5178.6,10,5.89,outubro/2026
+São José do Rio Preto,Parque das Amoras II,apartamento,aluguel,22.7,20.3,25.3,6,5.89,outubro/2026
+São José do Rio Preto,Parque das Flores II,apartamento,venda,3877.6,3444.4,4680.9,17,,outubro/2026
+São José do Rio Preto,Parque Estoril,apartamento,venda,4447.2,3852.2,5726.0,38,7.56,outubro/2026
+São José do Rio Preto,Parque Estoril,apartamento,aluguel,28.0,18.9,33.7,23,7.56,outubro/2026
+São José do Rio Preto,Parque Industrial,apartamento,venda,3470.8,2665.8,4298.1,44,8.44,outubro/2026
+São José do Rio Preto,Parque Industrial,apartamento,aluguel,24.4,18.7,29.1,15,8.44,outubro/2026
+São José do Rio Preto,Parque Quinta das Paineiras,apartamento,venda,8209.0,4769.2,8982.9,15,6.29,outubro/2026
+São José do Rio Preto,Parque Quinta das Paineiras,apartamento,aluguel,43.0,28.0,53.9,15,6.29,outubro/2026
+São José do Rio Preto,Parque Residencial Comendador Mancor Daud,apartamento,venda,6948.1,6344.8,7642.6,7,,outubro/2026
+São José do Rio Preto,Parque Residencial Lauriano Tebar,apartamento,venda,2985.1,2828.5,3273.8,15,8.52,outubro/2026
+São José do Rio Preto,Parque Residencial Lauriano Tebar,apartamento,aluguel,21.2,16.5,21.8,7,8.52,outubro/2026
+São José do Rio Preto,Pinheiros,apartamento,venda,7534.2,6338.0,9220.8,41,5.91,outubro/2026
+São José do Rio Preto,Pinheiros,apartamento,aluguel,37.1,30.5,45.5,32,5.91,outubro/2026
+São José do Rio Preto,Pinheiros Condominium Club,apartamento,venda,7374.4,6602.6,7613.5,6,5.5,outubro/2026
+São José do Rio Preto,Pinheiros Condominium Club,apartamento,aluguel,33.8,30.4,36.7,6,5.5,outubro/2026
+São José do Rio Preto,Praças Golfe,apartamento,venda,5857.1,5496.9,6204.7,8,6.49,outubro/2026
+São José do Rio Preto,Praças Golfe,apartamento,aluguel,31.7,29.2,34.3,5,6.49,outubro/2026
+São José do Rio Preto,Quintessa,apartamento,venda,10853.5,10519.3,11990.7,6,,outubro/2026
+São José do Rio Preto,Redentora,apartamento,venda,3933.0,2914.1,5635.9,36,8.42,outubro/2026
+São José do Rio Preto,Redentora,apartamento,aluguel,27.6,15.3,36.5,7,8.42,outubro/2026
+São José do Rio Preto,Reserva da Mata,apartamento,venda,11134.7,10083.7,12591.7,11,,outubro/2026
+São José do Rio Preto,Residencial Ana Célia,apartamento,venda,3227.1,2881.5,3852.5,22,8.4,outubro/2026
+São José do Rio Preto,Residencial Ana Célia,apartamento,aluguel,22.6,19.5,26.3,11,8.4,outubro/2026
+São José do Rio Preto,Residencial Caetano,apartamento,venda,3900.0,3750.0,4300.0,7,,outubro/2026
+São José do Rio Preto,Residencial Cidade Jardim,apartamento,venda,5530.0,3972.2,6391.7,12,6.29,outubro/2026
+São José do Rio Preto,Residencial Cidade Jardim,apartamento,aluguel,29.0,22.9,35.8,6,6.29,outubro/2026
+São José do Rio Preto,Residencial Colorado,apartamento,venda,3673.5,3333.3,4081.6,5,,outubro/2026
+São José do Rio Preto,Residencial Eco Village I,apartamento,aluguel,64.7,57.4,70.5,9,,outubro/2026
+São José do Rio Preto,Residencial Macedo Teles I,apartamento,venda,3392.3,2924.0,3869.7,30,5.84,outubro/2026
+São José do Rio Preto,Residencial Macedo Teles I,apartamento,aluguel,16.5,14.5,20.0,6,5.84,outubro/2026
+São José do Rio Preto,Residencial Rio das Flores,apartamento,venda,2996.6,2724.7,3519.2,10,8.77,outubro/2026
+São José do Rio Preto,Residencial Rio das Flores,apartamento,aluguel,21.9,20.6,26.0,5,8.77,outubro/2026
+São José do Rio Preto,Residencial Santa Filomena,apartamento,venda,4564.4,4321.6,5509.2,14,7.57,outubro/2026
+São José do Rio Preto,Residencial Santa Filomena,apartamento,aluguel,28.8,26.6,31.1,11,7.57,outubro/2026
+São José do Rio Preto,Rio Prado - Mrv,apartamento,venda,5125.0,4871.8,5375.0,5,,outubro/2026
+São José do Rio Preto,Rios d'Italia,apartamento,venda,4376.3,3908.2,4747.7,18,6.44,outubro/2026
+São José do Rio Preto,Rios d'Italia,apartamento,aluguel,23.5,20.2,27.4,6,6.44,outubro/2026
+São José do Rio Preto,Rios de Spagna,apartamento,venda,3800.0,3272.7,4487.2,21,7.52,outubro/2026
+São José do Rio Preto,Rios de Spagna,apartamento,aluguel,23.8,22.0,27.4,9,7.52,outubro/2026
+São José do Rio Preto,Rios Di Itália,apartamento,venda,4180.9,3573.6,5000.0,54,6.89,outubro/2026
+São José do Rio Preto,Rios Di Itália,apartamento,aluguel,24.0,20.4,29.4,44,6.89,outubro/2026
+São José do Rio Preto,Santos Dumont,apartamento,venda,5357.1,4666.7,6601.8,15,7.35,outubro/2026
+São José do Rio Preto,Santos Dumont,apartamento,aluguel,32.8,20.6,45.3,24,7.35,outubro/2026
+São José do Rio Preto,São Francisco,apartamento,venda,4600.0,3903.0,5571.4,13,9.39,outubro/2026
+São José do Rio Preto,São Francisco,apartamento,aluguel,36.0,22.4,37.2,7,9.39,outubro/2026
+São José do Rio Preto,São Manoel,apartamento,venda,3200.0,2633.3,4320.0,13,9.49,outubro/2026
+São José do Rio Preto,São Manoel,apartamento,aluguel,25.3,17.2,31.5,6,9.49,outubro/2026
+São José do Rio Preto,Time,apartamento,aluguel,52.5,50.5,58.0,6,,outubro/2026
+São José do Rio Preto,Universitário,apartamento,venda,7411.8,5148.6,8513.9,16,7.09,outubro/2026
+São José do Rio Preto,Universitário,apartamento,aluguel,43.8,38.4,47.5,16,7.09,outubro/2026
+São José do Rio Preto,Vila Aeroporto,apartamento,venda,3793.1,2962.0,5000.0,5,,outubro/2026
+São José do Rio Preto,Vila Anchieta,apartamento,venda,2928.6,2517.9,3325.0,22,6.15,outubro/2026
+São José do Rio Preto,Vila Anchieta,apartamento,aluguel,15.0,12.0,18.7,9,6.15,outubro/2026
+São José do Rio Preto,Vila Angélica,apartamento,venda,3316.7,2850.0,4291.3,30,7.96,outubro/2026
+São José do Rio Preto,Vila Angélica,apartamento,aluguel,22.0,19.3,24.6,11,7.96,outubro/2026
+São José do Rio Preto,Vila Aurora,apartamento,aluguel,59.6,46.0,62.9,7,,outubro/2026
+São José do Rio Preto,Vila Bancário,apartamento,venda,3265.3,3097.1,4453.8,5,7.86,outubro/2026
+São José do Rio Preto,Vila Bancário,apartamento,aluguel,21.4,15.0,47.3,5,7.86,outubro/2026
+São José do Rio Preto,Vila Boa Esperança,apartamento,venda,3800.0,2926.7,5178.6,11,6.25,outubro/2026
+São José do Rio Preto,Vila Boa Esperança,apartamento,aluguel,19.8,13.7,26.8,6,6.25,outubro/2026
+São José do Rio Preto,Vila Bom Jesus,apartamento,venda,2464.3,2393.6,2857.1,9,,outubro/2026
+São José do Rio Preto,Vila Borguese,apartamento,aluguel,30.4,25.5,35.2,5,,outubro/2026
+São José do Rio Preto,Vila Clementina,apartamento,venda,3800.0,3500.0,4489.8,5,,outubro/2026
+São José do Rio Preto,Vila Cristina,apartamento,venda,3600.0,3227.3,4216.3,7,,outubro/2026
+São José do Rio Preto,Vila Diniz,apartamento,venda,3636.4,2888.9,3840.6,9,6.14,outubro/2026
+São José do Rio Preto,Vila Diniz,apartamento,aluguel,18.6,14.7,22.1,6,6.14,outubro/2026
+São José do Rio Preto,Vila Elmaz,apartamento,venda,4156.2,3543.0,4625.0,7,,outubro/2026
+São José do Rio Preto,Vila Ercília,apartamento,venda,5282.1,3991.7,6201.6,18,6.68,outubro/2026
+São José do Rio Preto,Vila Ercília,apartamento,aluguel,29.4,25.5,30.0,5,6.68,outubro/2026
+São José do Rio Preto,Vila Ideal,apartamento,venda,3250.0,2802.0,4350.0,23,,outubro/2026
+São José do Rio Preto,Vila Imperial,apartamento,venda,4081.6,3333.3,5090.9,153,7.35,outubro/2026
+São José do Rio Preto,Vila Imperial,apartamento,aluguel,25.0,19.1,35.8,94,7.35,outubro/2026
+São José do Rio Preto,Vila Itália,apartamento,venda,3735.5,3265.6,4517.9,50,6.42,outubro/2026
+São José do Rio Preto,Vila Itália,apartamento,aluguel,20.0,14.3,26.3,14,6.42,outubro/2026
+São José do Rio Preto,Vila Maceno,apartamento,venda,3703.7,2755.4,4725.6,27,5.48,outubro/2026
+São José do Rio Preto,Vila Maceno,apartamento,aluguel,16.9,14.5,20.3,11,5.48,outubro/2026
+São José do Rio Preto,Vila Moreira,apartamento,venda,4000.0,3714.3,4076.9,9,,outubro/2026
+São José do Rio Preto,Vila Nossa Senhora da Paz,apartamento,venda,4438.5,3027.1,5694.3,6,7.49,outubro/2026
+São José do Rio Preto,Vila Nossa Senhora da Paz,apartamento,aluguel,27.7,20.7,30.5,6,7.49,outubro/2026
+São José do Rio Preto,Vila Nossa Senhora de Fátima,apartamento,venda,5083.3,4296.4,5579.7,24,4.67,outubro/2026
+São José do Rio Preto,Vila Nossa Senhora de Fátima,apartamento,aluguel,19.8,17.6,22.3,16,4.67,outubro/2026
+São José do Rio Preto,Vila Nossa Senhora do Bonfim,apartamento,venda,8379.2,5068.7,9714.7,34,5.3,outubro/2026
+São José do Rio Preto,Vila Nossa Senhora do Bonfim,apartamento,aluguel,37.0,30.5,45.4,28,5.3,outubro/2026
+São José do Rio Preto,Vila Nosso Senhor do Bom Fim,apartamento,venda,9194.7,8282.0,10061.7,11,,outubro/2026
+São José do Rio Preto,Vila Redentora,apartamento,venda,5059.6,3833.2,7090.6,104,9.2,outubro/2026
+São José do Rio Preto,Vila Redentora,apartamento,aluguel,38.8,22.5,45.5,81,9.2,outubro/2026
+São José do Rio Preto,Vila Santa Cândida,apartamento,venda,3456.7,2643.8,5070.7,6,7.43,outubro/2026
+São José do Rio Preto,Vila Santa Cândida,apartamento,aluguel,21.4,20.0,30.7,6,7.43,outubro/2026
+São José do Rio Preto,Vila Santa Cruz,apartamento,venda,7000.0,3483.6,7750.0,15,,outubro/2026
+São José do Rio Preto,Vila São Jorge,apartamento,venda,4222.2,3600.0,4444.4,9,6.2,outubro/2026
+São José do Rio Preto,Vila São Jorge,apartamento,aluguel,21.8,19.9,24.7,7,6.2,outubro/2026
+São José do Rio Preto,Vila São José,apartamento,venda,8739.3,7104.2,10975.2,12,,outubro/2026
+São José do Rio Preto,Vila São Judas Tadeu,apartamento,venda,3859.6,3357.1,4629.6,17,9.61,outubro/2026
+São José do Rio Preto,Vila São Judas Tadeu,apartamento,aluguel,30.9,26.0,38.1,12,9.61,outubro/2026
+São José do Rio Preto,Vila São Manoel,apartamento,venda,3400.9,2990.2,3897.2,26,7.34,outubro/2026
+São José do Rio Preto,Vila São Manoel,apartamento,aluguel,20.8,14.4,28.9,14,7.34,outubro/2026
+São José do Rio Preto,Vila São Pedro,apartamento,aluguel,29.3,23.7,47.6,6,,outubro/2026
+São José do Rio Preto,Vila Sinibaldi,apartamento,venda,7989.7,6351.4,9359.0,41,5.9,outubro/2026
+São José do Rio Preto,Vila Sinibaldi,apartamento,aluguel,39.3,28.3,48.1,50,5.9,outubro/2026
+São José do Rio Preto,Vila Toninho,apartamento,venda,3936.2,3444.4,4000.0,13,6.71,outubro/2026
+São José do Rio Preto,Vila Toninho,apartamento,aluguel,22.0,19.1,24.2,18,6.71,outubro/2026
+São José do Rio Preto,Ascolo Martin,terreno,venda,1186.1,1099.1,1374.5,8,,outubro/2026
+São José do Rio Preto,Bela Vista,terreno,venda,575.0,493.8,739.7,6,,outubro/2026
+São José do Rio Preto,Boa Vista,terreno,venda,1153.0,899.3,1407.1,28,,outubro/2026
+São José do Rio Preto,Botanic Residence,terreno,venda,1363.6,1303.3,1561.7,15,,outubro/2026
+São José do Rio Preto,Buona Vita,terreno,venda,627.9,570.6,709.0,16,,outubro/2026
+São José do Rio Preto,Centro,terreno,venda,2448.6,1691.3,2974.4,14,,outubro/2026
+São José do Rio Preto,Centro (Engenheiro Schmitt),terreno,venda,640.0,500.0,1350.1,11,,outubro/2026
+São José do Rio Preto,Centro Empresarial Br-153,terreno,venda,988.6,885.6,1104.8,6,,outubro/2026
+São José do Rio Preto,Chácara Recreativa Residencial Cortina d'Ampezzo,terreno,venda,178.3,159.5,195.4,20,,outubro/2026
+São José do Rio Preto,Chácara Recreio Parque do Sabiá (Zona Rural),terreno,venda,162.0,150.0,193.4,5,,outubro/2026
+São José do Rio Preto,Chácaras de Recreio Felicidade (Zona Rural),terreno,venda,576.1,345.0,1135.5,6,,outubro/2026
+São José do Rio Preto,Complexo Eplenum,terreno,venda,1500.0,1394.4,1700.0,42,,outubro/2026
+São José do Rio Preto,Damha V,terreno,venda,2630.6,2306.4,2903.1,8,,outubro/2026
+São José do Rio Preto,Damha VI,terreno,venda,1558.9,1463.8,1624.5,6,,outubro/2026
+São José do Rio Preto,Distrito Industrial,terreno,venda,1000.0,750.0,1097.2,18,,outubro/2026
+São José do Rio Preto,Distrito Industrial Doutor Carlos Arnaldo e Silva,terreno,venda,514.3,450.0,600.1,9,,outubro/2026
+São José do Rio Preto,Eldorado,terreno,venda,591.1,491.7,704.2,16,,outubro/2026
+São José do Rio Preto,Eparque Leste,terreno,venda,491.4,467.6,547.9,6,,outubro/2026
+São José do Rio Preto,Eparque Rio Preto Leste,terreno,venda,500.0,454.8,579.3,12,,outubro/2026
+São José do Rio Preto,Eplatz Rio Preto,terreno,venda,487.5,442.1,557.5,8,,outubro/2026
+São José do Rio Preto,Eplenum,terreno,venda,1405.0,1272.4,1453.4,11,,outubro/2026
+São José do Rio Preto,Eplenum Tresor,terreno,venda,1402.9,1266.8,1798.6,15,,outubro/2026
+São José do Rio Preto,Estância Jóckei Club,terreno,venda,249.1,169.3,732.2,24,,outubro/2026
+São José do Rio Preto,Estância Jockey Clube,terreno,venda,726.2,540.0,859.3,8,,outubro/2026
+São José do Rio Preto,Eville Mais Parque Rio Preto,terreno,venda,752.0,717.9,841.4,12,,outubro/2026
+São José do Rio Preto,Fazenda Palhinha (Zona Rural),terreno,venda,1293.9,1107.0,1447.6,6,,outubro/2026
+São José do Rio Preto,Fazenda Rio Preto,terreno,venda,475.0,440.0,550.0,5,,outubro/2026
+São José do Rio Preto,Fraternidade,terreno,venda,722.2,700.3,830.0,5,,outubro/2026
+São José do Rio Preto,Ideal Life Ecolazer Residence,terreno,venda,968.1,845.0,1150.0,5,,outubro/2026
+São José do Rio Preto,Iguatemi,terreno,venda,1479.4,1389.9,1740.1,20,,outubro/2026
+São José do Rio Preto,Jardim Alice,terreno,venda,946.5,936.0,967.7,8,,outubro/2026
+São José do Rio Preto,Jardim Alto Alegre,terreno,venda,1845.8,1197.9,2258.1,8,,outubro/2026
+São José do Rio Preto,Jardim Arroyo,terreno,venda,575.8,500.0,662.4,8,,outubro/2026
+São José do Rio Preto,Jardim Caparroz,terreno,venda,1102.2,616.4,2000.0,7,,outubro/2026
+São José do Rio Preto,Jardim Conceição,terreno,venda,1260.9,967.7,1676.4,7,,outubro/2026
+São José do Rio Preto,Jardim do Cedro,terreno,venda,791.0,574.7,845.6,8,,outubro/2026
+São José do Rio Preto,Jardim dos Seixas,terreno,venda,2023.8,1800.8,2125.0,8,,outubro/2026
+São José do Rio Preto,Jardim Fuscaldo,terreno,venda,975.7,878.1,1102.9,6,,outubro/2026
+São José do Rio Preto,Jardim João Paulo II,terreno,venda,850.0,700.0,950.0,5,,outubro/2026
+São José do Rio Preto,Jardim Leste,terreno,venda,580.0,523.8,650.0,9,,outubro/2026
+São José do Rio Preto,Jardim Maracanã,terreno,venda,2495.3,2001.8,2750.0,11,,outubro/2026
+São José do Rio Preto,Jardim Marajó,terreno,venda,959.3,813.9,1144.2,15,,outubro/2026
+São José do Rio Preto,"Jardim Moyses Miguel Haddad,",terreno,venda,977.6,840.0,1088.6,10,,outubro/2026
+São José do Rio Preto,Jardim Mugnaini,terreno,venda,1423.5,885.4,1697.6,6,,outubro/2026
+São José do Rio Preto,Jardim Nazareth,terreno,venda,703.4,582.8,851.9,10,,outubro/2026
+São José do Rio Preto,Jardim Nunes,terreno,venda,621.5,556.2,696.9,8,,outubro/2026
+São José do Rio Preto,Jardim Planalto,terreno,venda,963.1,650.0,996.8,5,,outubro/2026
+São José do Rio Preto,Jardim Primavera,terreno,venda,1580.0,1524.5,1857.1,5,,outubro/2026
+São José do Rio Preto,Jardim Simões,terreno,venda,720.0,600.0,800.0,5,,outubro/2026
+São José do Rio Preto,Jardim Tarraf II,terreno,venda,800.0,707.9,858.3,8,,outubro/2026
+São José do Rio Preto,Jardim Vitagliano,terreno,venda,1602.5,1360.8,1703.3,11,,outubro/2026
+São José do Rio Preto,Jardim Vivendas,terreno,venda,1201.0,1180.1,1205.6,8,,outubro/2026
+São José do Rio Preto,Le Vert Residence,terreno,venda,1750.0,1667.0,1801.0,7,,outubro/2026
+São José do Rio Preto,Levert,terreno,venda,1721.2,1669.5,1823.0,6,,outubro/2026
+São José do Rio Preto,Loteamento Parque dos Pássaros,terreno,venda,556.0,414.0,826.5,8,,outubro/2026
+São José do Rio Preto,Loteamento Recanto do Lago,terreno,venda,851.1,766.1,1056.2,18,,outubro/2026
+São José do Rio Preto,Loteamento San Fernando Valley,terreno,venda,450.0,339.0,924.2,5,,outubro/2026
+São José do Rio Preto,Mais Parque,terreno,venda,600.0,561.6,650.0,5,,outubro/2026
+São José do Rio Preto,Maisparque Rio Preto,terreno,venda,737.5,632.9,998.8,21,,outubro/2026
+São José do Rio Preto,Parque das Aroeiras II,terreno,venda,457.0,407.5,495.4,6,,outubro/2026
+São José do Rio Preto,Parque Estoril,terreno,venda,1635.4,1352.3,1900.7,6,,outubro/2026
+São José do Rio Preto,Parque Industrial,terreno,venda,1250.0,1133.5,1494.5,11,,outubro/2026
+São José do Rio Preto,Parque Residencial Buona Vita,terreno,venda,717.4,684.6,772.0,48,,outubro/2026
+São José do Rio Preto,Parque Residencial Comendador Mancor Daud,terreno,venda,781.2,654.8,1081.9,25,,outubro/2026
+São José do Rio Preto,Parque Residencial da Fraternidade,terreno,venda,825.0,765.8,888.4,5,,outubro/2026
+São José do Rio Preto,Parque Residencial Damha,terreno,venda,2101.2,1827.5,2365.1,31,,outubro/2026
+São José do Rio Preto,Parque Residencial Damha V,terreno,venda,2601.6,2399.1,2732.0,6,,outubro/2026
+São José do Rio Preto,Parque Residencial Damha VI,terreno,venda,1819.3,1687.4,1979.1,12,,outubro/2026
+São José do Rio Preto,Parque Residencial J. Macedo,terreno,venda,738.1,704.8,785.7,5,,outubro/2026
+São José do Rio Preto,Parque São Miguel,terreno,venda,1126.9,1062.7,1178.8,5,,outubro/2026
+São José do Rio Preto,Parque Vila Nobre,terreno,venda,451.0,413.3,535.2,39,,outubro/2026
+São José do Rio Preto,Quinta do Golfe Jardins,terreno,venda,2742.1,1988.9,3000.0,5,,outubro/2026
+São José do Rio Preto,Quinta do Golfe Reserva,terreno,venda,2810.9,2461.0,3008.4,7,,outubro/2026
+São José do Rio Preto,Quinta do Lago,terreno,venda,893.2,843.2,901.8,6,,outubro/2026
+São José do Rio Preto,Quinta do Lago - Lac Léman,terreno,venda,953.9,896.5,1028.4,21,,outubro/2026
+São José do Rio Preto,Quinta do Lago II - Lac Leman,terreno,venda,970.3,927.3,1024.2,32,,outubro/2026
+São José do Rio Preto,Quinta do Lago Residence,terreno,venda,973.1,850.0,1012.5,8,,outubro/2026
+São José do Rio Preto,Recanto do Lago,terreno,venda,1014.2,902.8,1049.3,6,,outubro/2026
+São José do Rio Preto,Residencial Alta Vista,terreno,venda,874.1,790.1,986.9,7,,outubro/2026
+São José do Rio Preto,Residencial Ary Attab II,terreno,venda,685.2,668.3,694.7,6,,outubro/2026
+São José do Rio Preto,Residencial Caetano,terreno,venda,521.0,417.7,568.3,22,,outubro/2026
+São José do Rio Preto,Residencial Gaivota I,terreno,venda,1326.4,1193.8,1477.0,10,,outubro/2026
+São José do Rio Preto,Residencial Gaivota II,terreno,venda,1487.5,1428.0,1582.5,10,,outubro/2026
+São José do Rio Preto,Residencial Machado I,terreno,venda,652.7,560.0,1125.0,13,,outubro/2026
+São José do Rio Preto,Residencial Maria Clara,terreno,venda,436.3,416.7,468.8,6,,outubro/2026
+São José do Rio Preto,Residencial Maria Julia,terreno,venda,900.0,850.0,980.0,41,,outubro/2026
+São José do Rio Preto,Residencial Morada do Sol,terreno,venda,400.0,355.1,523.0,11,,outubro/2026
+São José do Rio Preto,Residencial Nato Vetorasso,terreno,venda,545.0,525.4,612.3,7,,outubro/2026
+São José do Rio Preto,Residencial Palestra,terreno,venda,714.3,681.8,850.0,9,,outubro/2026
+São José do Rio Preto,Residencial Quinta do Golfe,terreno,venda,2827.0,2496.6,3014.2,10,,outubro/2026
+São José do Rio Preto,Residencial Santa Ana,terreno,venda,500.0,414.5,632.7,9,,outubro/2026
+São José do Rio Preto,Residencial Setsul II,terreno,venda,875.0,775.0,1053.2,11,,outubro/2026
+São José do Rio Preto,Residencial Vila Verde,terreno,venda,539.8,519.8,587.9,5,,outubro/2026
+São José do Rio Preto,Sem Bairro,terreno,venda,919.1,888.7,942.1,6,,outubro/2026
+São José do Rio Preto,Setparque Avenida 2,terreno,venda,605.9,567.2,687.5,8,,outubro/2026
+São José do Rio Preto,Setsul,terreno,venda,793.4,735.0,1050.0,17,,outubro/2026
+São José do Rio Preto,Setvalley,terreno,venda,575.0,541.6,658.3,7,,outubro/2026
+São José do Rio Preto,Setvalley III,terreno,venda,543.6,509.3,555.9,6,,outubro/2026
+São José do Rio Preto,Universitário,terreno,venda,2367.7,2014.6,2619.8,11,,outubro/2026
+São José do Rio Preto,Vila Anchieta,terreno,venda,775.4,629.0,1120.8,10,,outubro/2026
+São José do Rio Preto,Vila Angélica,terreno,venda,757.6,697.9,1104.6,17,,outubro/2026
+São José do Rio Preto,Vila Aurora,terreno,venda,1142.9,857.1,1557.5,5,,outubro/2026
+São José do Rio Preto,Vila Boa Esperança,terreno,venda,778.4,578.5,951.1,6,,outubro/2026
+São José do Rio Preto,Vila Imperial,terreno,venda,1500.0,1443.8,1735.1,7,,outubro/2026
+São José do Rio Preto,Vila Maceno,terreno,venda,1474.2,1351.4,1859.5,13,,outubro/2026
+São José do Rio Preto,Vila Redentora,terreno,venda,1967.8,1539.3,2429.8,10,,outubro/2026
+São José do Rio Preto,Vila Santa Cruz,terreno,venda,1446.3,1300.0,1590.4,5,,outubro/2026
+São José do Rio Preto,Vila São Jorge,terreno,venda,959.8,735.2,1188.5,6,,outubro/2026
+São José do Rio Preto,Vila Toninho,terreno,venda,750.0,510.8,948.8,31,,outubro/2026
+São José do Rio Preto,Vila Verde,terreno,venda,539.8,450.5,587.9,5,,outubro/2026
+São José do Rio Preto,Village Damha II,terreno,venda,1054.5,947.7,1090.9,5,,outubro/2026
+São José do Rio Preto,Village Provence,terreno,venda,1172.4,1036.8,1231.9,17,,outubro/2026
+São José do Rio Preto,Alto Rio Preto,sala,aluguel,51.8,38.0,119.3,10,,outubro/2026
+São José do Rio Preto,Boa Vista,sala,venda,3934.7,3739.9,4577.4,8,13.08,outubro/2026
+São José do Rio Preto,Boa Vista,sala,aluguel,42.9,31.5,56.7,27,13.08,outubro/2026
+São José do Rio Preto,Centro,sala,venda,4427.4,3000.0,6268.4,62,7.45,outubro/2026
+São José do Rio Preto,Centro,sala,aluguel,27.5,20.0,46.0,93,7.45,outubro/2026
+São José do Rio Preto,Georgina Business Park,sala,venda,16222.2,15014.1,16829.9,11,7.9,outubro/2026
+São José do Rio Preto,Georgina Business Park,sala,aluguel,106.8,93.0,120.3,32,7.9,outubro/2026
+São José do Rio Preto,Iguatemi,sala,aluguel,108.1,81.4,115.5,7,,outubro/2026
+São José do Rio Preto,Iguatemi Business,sala,aluguel,96.9,86.1,100.0,13,,outubro/2026
+São José do Rio Preto,Jardim Aclimação,sala,aluguel,96.4,84.4,105.9,13,,outubro/2026
+São José do Rio Preto,Jardim Francisco Fernandes,sala,aluguel,95.5,88.6,97.7,5,,outubro/2026
+São José do Rio Preto,Jardim Paulista,sala,aluguel,82.5,70.4,92.1,8,,outubro/2026
+São José do Rio Preto,Jardim Primavera,sala,aluguel,26.7,23.3,29.1,9,,outubro/2026
+São José do Rio Preto,Jardim Redentor,sala,aluguel,78.0,67.7,89.6,6,,outubro/2026
+São José do Rio Preto,Jardim Urano,sala,aluguel,45.5,39.5,63.1,8,,outubro/2026
+São José do Rio Preto,Jardim Vivendas,sala,aluguel,92.0,78.7,104.1,22,,outubro/2026
+São José do Rio Preto,Jardim Walkíria,sala,aluguel,65.0,46.7,83.2,7,,outubro/2026
+São José do Rio Preto,Jardim Yolanda,sala,aluguel,46.7,41.7,53.8,5,,outubro/2026
+São José do Rio Preto,Navarro Building,sala,venda,14503.4,12564.1,16190.5,5,6.44,outubro/2026
+São José do Rio Preto,Navarro Building,sala,aluguel,77.8,73.3,108.7,10,6.44,outubro/2026
+São José do Rio Preto,Nova Redentora,sala,aluguel,93.4,73.4,113.2,6,,outubro/2026
+São José do Rio Preto,Parque Estoril,sala,venda,5047.1,4458.3,6900.0,10,,outubro/2026
+São José do Rio Preto,Parque Industrial,sala,aluguel,43.2,32.2,63.3,28,,outubro/2026
+São José do Rio Preto,Parque Residencial Damha,sala,aluguel,97.2,81.1,104.0,6,,outubro/2026
+São José do Rio Preto,Pinheiros,sala,aluguel,71.9,55.6,79.2,7,,outubro/2026
+São José do Rio Preto,Santos Dumont,sala,aluguel,90.0,47.3,113.8,22,,outubro/2026
+São José do Rio Preto,Setsul,sala,aluguel,58.8,45.6,63.7,8,,outubro/2026
+São José do Rio Preto,Setvalley III,sala,aluguel,33.3,32.3,33.3,5,,outubro/2026
+São José do Rio Preto,Vila Aurora,sala,aluguel,41.7,26.6,42.1,7,,outubro/2026
+São José do Rio Preto,Vila Diniz,sala,aluguel,36.4,34.8,44.0,5,,outubro/2026
+São José do Rio Preto,Vila Ercília,sala,aluguel,35.1,33.0,39.2,5,,outubro/2026
+São José do Rio Preto,Vila Imperial,sala,venda,5844.7,4785.3,6900.0,10,11.03,outubro/2026
+São José do Rio Preto,Vila Imperial,sala,aluguel,53.7,31.5,63.2,8,11.03,outubro/2026
+São José do Rio Preto,Vila Maceno,sala,aluguel,52.0,27.8,65.0,9,,outubro/2026
+São José do Rio Preto,Vila Nossa Senhora Aparecida,sala,aluguel,50.0,49.0,54.5,5,,outubro/2026
+São José do Rio Preto,Vila Redentora,sala,aluguel,40.8,36.5,53.8,16,,outubro/2026
+São José do Rio Preto,Vila Santa Cruz,sala,venda,6388.9,3846.2,6857.1,5,7.93,outubro/2026
+São José do Rio Preto,Vila Santa Cruz,sala,aluguel,42.2,36.4,45.0,17,7.93,outubro/2026
+São José do Rio Preto,Vila Santo Antônio,sala,aluguel,43.1,35.4,59.6,9,,outubro/2026
+São José do Rio Preto,Vila São José,sala,aluguel,84.8,76.1,100.0,21,,outubro/2026
+São José do Rio Preto,Vila Sinibaldi,sala,aluguel,50.1,44.6,60.7,7,,outubro/2026
+São José do Rio Preto,Centro,galpao,venda,5625.0,3800.0,7000.0,5,5.93,outubro/2026
+São José do Rio Preto,Centro,galpao,aluguel,27.8,25.4,44.7,6,5.93,outubro/2026
+São José do Rio Preto,Chácara Recreio Parque do Sabiá (Zona Rural),galpao,aluguel,13.8,11.8,16.2,10,,outubro/2026
+São José do Rio Preto,Distrito Industrial,galpao,venda,2386.8,2213.5,2682.0,8,7.04,outubro/2026
+São José do Rio Preto,Distrito Industrial,galpao,aluguel,14.0,10.6,16.9,7,7.04,outubro/2026
+São José do Rio Preto,Distrito Industrial Doutor Carlos Arnaldo e Silva,galpao,venda,4000.0,3209.1,5384.6,5,6.63,outubro/2026
+São José do Rio Preto,Distrito Industrial Doutor Carlos Arnaldo e Silva,galpao,aluguel,22.1,20.0,24.8,22,6.63,outubro/2026
+São José do Rio Preto,Jardim Primavera,galpao,aluguel,17.1,12.7,25.0,6,,outubro/2026
+São José do Rio Preto,Jardim Yolanda,galpao,aluguel,27.6,23.6,44.2,10,,outubro/2026
+São José do Rio Preto,Mini Distrito Adail Vetorasso,galpao,venda,3148.1,2898.2,3726.6,8,,outubro/2026
+São José do Rio Preto,Parque Industrial,galpao,venda,4949.5,3279.7,6478.4,7,4.58,outubro/2026
+São José do Rio Preto,Parque Industrial,galpao,aluguel,18.9,11.8,35.0,6,4.58,outubro/2026
+São José do Rio Preto,Parque Industrial Tancredo Neves,galpao,aluguel,22.7,17.5,26.8,7,,outubro/2026
+São José do Rio Preto,Vila Maceno,galpao,aluguel,15.0,12.0,18.6,5,,outubro/2026
+São José do Rio Preto,Vila Toninho,galpao,aluguel,25.0,13.5,28.9,11,,outubro/2026
