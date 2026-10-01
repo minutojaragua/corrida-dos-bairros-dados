@@ -50,8 +50,8 @@ Rio de Janeiro,Cidade Nova,apartamento,venda,6577.4,5286.8,8268.7,54,,outubro/20
 Rio de Janeiro,Cocotá,apartamento,venda,4272.7,3800.0,4807.7,73,,outubro/2026
 Rio de Janeiro,Coelho Neto,apartamento,venda,2397.9,1764.4,3651.0,56,,outubro/2026
 Rio de Janeiro,Colégio,apartamento,venda,3550.2,2625.6,4662.7,38,,outubro/2026
-Rio de Janeiro,Copacabana,apartamento,venda,11666.7,8888.9,15421.7,549,7.76,outubro/2026
-Rio de Janeiro,Copacabana,apartamento,aluguel,75.4,56.9,100.0,171,7.76,outubro/2026
+Rio de Janeiro,Copacabana,apartamento,venda,11684.4,8888.9,15480.4,550,7.74,outubro/2026
+Rio de Janeiro,Copacabana,apartamento,aluguel,75.4,56.9,100.0,171,7.74,outubro/2026
 Rio de Janeiro,Cordovil,apartamento,venda,2989.4,1873.1,3623.0,84,7.87,outubro/2026
 Rio de Janeiro,Cordovil,apartamento,aluguel,19.6,17.3,21.1,10,7.87,outubro/2026
 Rio de Janeiro,Cosme Velho,apartamento,venda,10000.0,8543.1,11647.3,63,,outubro/2026
@@ -62,7 +62,6 @@ Rio de Janeiro,Curicica,apartamento,aluguel,26.2,20.9,33.8,39,5.72,outubro/2026
 Rio de Janeiro,Del Castilho,apartamento,venda,5800.4,4242.9,7048.4,104,8.13,outubro/2026
 Rio de Janeiro,Del Castilho,apartamento,aluguel,39.3,22.2,51.8,22,8.13,outubro/2026
 Rio de Janeiro,Deodoro,apartamento,aluguel,25.8,21.8,27.7,5,,outubro/2026
-Rio de Janeiro,Duque de Caxias,apartamento,venda,2333.4,1973.4,3931.3,27,,outubro/2026
 Rio de Janeiro,Encantado,apartamento,venda,3992.3,3287.9,5181.4,78,,outubro/2026
 Rio de Janeiro,Engenheiro Leal,apartamento,venda,2393.9,2046.1,3030.6,26,,outubro/2026
 Rio de Janeiro,Engenho da Rainha,apartamento,venda,3528.8,2370.9,4095.4,34,,outubro/2026
@@ -117,8 +116,8 @@ Rio de Janeiro,Jardim Oceânico,apartamento,aluguel,59.4,52.3,67.3,5,6.16,outubr
 Rio de Janeiro,Jardim Sulacap,apartamento,venda,4392.2,4000.0,4753.8,52,7.51,outubro/2026
 Rio de Janeiro,Jardim Sulacap,apartamento,aluguel,27.5,22.6,30.4,5,7.51,outubro/2026
 Rio de Janeiro,Joá,apartamento,venda,12951.5,9625.0,13676.8,14,,outubro/2026
-Rio de Janeiro,Lagoa,apartamento,venda,15557.6,13317.9,18382.7,232,7.03,outubro/2026
-Rio de Janeiro,Lagoa,apartamento,aluguel,91.2,74.1,99.5,31,7.03,outubro/2026
+Rio de Janeiro,Lagoa,apartamento,venda,15643.1,13340.5,18453.3,234,7.0,outubro/2026
+Rio de Janeiro,Lagoa,apartamento,aluguel,91.2,74.1,99.5,31,7.0,outubro/2026
 Rio de Janeiro,Lapa,apartamento,venda,8751.9,7273.9,11591.9,62,,outubro/2026
 Rio de Janeiro,Laranjeiras,apartamento,venda,11678.9,9396.0,14037.7,228,5.14,outubro/2026
 Rio de Janeiro,Laranjeiras,apartamento,aluguel,50.0,38.0,60.7,27,5.14,outubro/2026
@@ -139,7 +138,6 @@ Rio de Janeiro,Méier,apartamento,venda,4632.8,3865.4,5680.9,136,6.35,outubro/20
 Rio de Janeiro,Méier,apartamento,aluguel,24.5,19.5,31.4,54,6.35,outubro/2026
 Rio de Janeiro,Moneró,apartamento,venda,5125.1,4610.1,5718.1,74,5.78,outubro/2026
 Rio de Janeiro,Moneró,apartamento,aluguel,24.7,22.5,31.7,7,5.78,outubro/2026
-Rio de Janeiro,Nova Iguaçu,apartamento,venda,4090.9,3900.0,4240.2,7,,outubro/2026
 Rio de Janeiro,Olaria,apartamento,venda,3869.4,3192.1,4759.1,83,6.98,outubro/2026
 Rio de Janeiro,Olaria,apartamento,aluguel,22.5,20.1,29.1,14,6.98,outubro/2026
 Rio de Janeiro,Oswaldo Cruz,apartamento,venda,3333.3,2777.8,3947.4,69,7.09,outubro/2026
@@ -239,7 +237,7 @@ Rio de Janeiro,Vista Alegre,apartamento,aluguel,31.8,23.0,33.3,7,8.53,outubro/20
 Rio de Janeiro,Zumbi,apartamento,venda,6133.3,5286.3,7487.4,31,,outubro/2026
 Rio de Janeiro,Abolição,casa,venda,3034.3,2164.5,4086.0,58,,outubro/2026
 Rio de Janeiro,Água Santa,casa,venda,2760.1,1672.0,4410.1,16,,outubro/2026
-Rio de Janeiro,Alto da Boa Vista,casa,venda,4961.4,3612.6,6939.2,58,,outubro/2026
+Rio de Janeiro,Alto da Boa Vista,casa,venda,4996.7,3614.1,7032.6,59,,outubro/2026
 Rio de Janeiro,Anchieta,casa,venda,1857.1,1489.9,2672.8,35,,outubro/2026
 Rio de Janeiro,Andaraí,casa,venda,4134.6,2989.8,5484.0,83,12.48,outubro/2026
 Rio de Janeiro,Andaraí,casa,aluguel,43.0,36.2,44.4,6,12.48,outubro/2026
@@ -289,7 +287,6 @@ Rio de Janeiro,Curicica,casa,venda,3566.7,2875.0,4500.0,85,6.8,outubro/2026
 Rio de Janeiro,Curicica,casa,aluguel,20.2,17.8,22.0,14,6.8,outubro/2026
 Rio de Janeiro,Del Castilho,casa,venda,3373.3,2668.2,4505.6,47,,outubro/2026
 Rio de Janeiro,Deodoro,casa,aluguel,20.4,16.8,21.5,5,,outubro/2026
-Rio de Janeiro,Duque de Caxias,casa,venda,2193.9,1573.6,3717.9,21,,outubro/2026
 Rio de Janeiro,Encantado,casa,venda,3066.7,1967.2,3729.2,71,6.14,outubro/2026
 Rio de Janeiro,Encantado,casa,aluguel,15.7,12.8,40.0,5,6.14,outubro/2026
 Rio de Janeiro,Engenheiro Leal,casa,venda,2345.8,2078.0,2906.0,14,,outubro/2026
@@ -338,10 +335,8 @@ Rio de Janeiro,Magalhães Bastos,casa,venda,2040.8,1413.5,2550.0,24,,outubro/202
 Rio de Janeiro,Maracanã,casa,venda,5310.3,3780.0,6896.6,65,,outubro/2026
 Rio de Janeiro,Marechal Hermes,casa,venda,3369.6,2278.5,4436.1,91,,outubro/2026
 Rio de Janeiro,Maria da Graça,casa,venda,3325.5,2559.5,4942.3,24,,outubro/2026
-Rio de Janeiro,Méier,casa,venda,4164.1,3038.1,5616.8,124,,outubro/2026
+Rio de Janeiro,Méier,casa,venda,4166.7,3038.5,5625.0,125,,outubro/2026
 Rio de Janeiro,Moneró,casa,venda,4539.5,3404.8,5134.6,40,,outubro/2026
-Rio de Janeiro,Niterói,casa,venda,4227.8,3738.9,6937.5,6,,outubro/2026
-Rio de Janeiro,Nova Iguaçu,casa,venda,4024.7,3278.2,4756.9,16,,outubro/2026
 Rio de Janeiro,Olaria,casa,venda,3303.8,2632.0,4468.3,86,,outubro/2026
 Rio de Janeiro,Oswaldo Cruz,casa,venda,2840.9,2045.8,3936.4,83,,outubro/2026
 Rio de Janeiro,Paciência,casa,venda,1763.1,1333.3,2433.3,49,,outubro/2026

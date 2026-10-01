@@ -7,7 +7,6 @@ São José,Bela Vista,apartamento,venda,7140.7,6186.5,8076.1,34,6.18,outubro/202
 São José,Bela Vista,apartamento,aluguel,36.8,32.7,40.9,29,6.18,outubro/2026
 São José,Campinas,apartamento,venda,8994.5,7380.3,11581.6,371,5.67,outubro/2026
 São José,Campinas,apartamento,aluguel,42.5,33.9,55.8,238,5.67,outubro/2026
-São José,Capoeiras,apartamento,venda,7142.9,5270.3,8090.9,5,,outubro/2026
 São José,Centro,apartamento,venda,9172.4,7969.2,12553.9,53,5.4,outubro/2026
 São José,Centro,apartamento,aluguel,41.3,34.1,53.1,21,5.4,outubro/2026
 São José,Distrito Industrial,apartamento,venda,8930.7,8672.6,9377.5,6,,outubro/2026
@@ -27,8 +26,6 @@ São José,Kobrasol,apartamento,venda,9716.2,7239.9,12038.6,255,5.48,outubro/202
 São José,Kobrasol,apartamento,aluguel,44.4,35.7,54.8,181,5.48,outubro/2026
 São José,Nossa Senhora do Rosário,apartamento,venda,8329.2,6595.0,10235.4,114,5.1,outubro/2026
 São José,Nossa Senhora do Rosário,apartamento,aluguel,35.4,30.5,41.7,75,5.1,outubro/2026
-São José,Nova Palhoça,apartamento,venda,5887.3,5479.8,6773.0,8,,outubro/2026
-São José,Pagani,apartamento,venda,6432.3,5500.7,7170.5,6,,outubro/2026
 São José,Picadas do Sul,apartamento,venda,6392.1,5494.4,7060.4,8,5.52,outubro/2026
 São José,Picadas do Sul,apartamento,aluguel,29.4,24.8,32.8,14,5.52,outubro/2026
 São José,Ponta de Baixo,apartamento,venda,5714.3,5017.2,7532.4,11,7.45,outubro/2026
@@ -41,7 +38,6 @@ São José,Real Parque,apartamento,venda,5223.9,4791.7,5600.0,17,7.44,outubro/20
 São José,Real Parque,apartamento,aluguel,32.4,29.3,37.4,26,7.44,outubro/2026
 São José,Roçado,apartamento,venda,7948.9,6152.0,10142.9,62,6.33,outubro/2026
 São José,Roçado,apartamento,aluguel,41.9,33.0,48.5,36,6.33,outubro/2026
-São José,São Sebastião,apartamento,venda,4824.8,4690.3,5010.3,6,,outubro/2026
 São José,Serraria,apartamento,venda,6078.1,5217.4,7403.8,101,6.83,outubro/2026
 São José,Serraria,apartamento,aluguel,34.6,28.1,41.6,103,6.83,outubro/2026
 São José,Sertão do Maruim,apartamento,venda,6146.4,5434.8,7000.0,53,6.01,outubro/2026
@@ -53,11 +49,9 @@ São José,Barreiros,casa,aluguel,30.0,23.3,36.7,35,6.44,outubro/2026
 São José,Bela Vista,casa,venda,5646.3,3794.9,7722.2,49,6.55,outubro/2026
 São José,Bela Vista,casa,aluguel,30.8,25.7,38.1,12,6.55,outubro/2026
 São José,Bosque das Mansões,casa,venda,10000.0,6442.2,13598.3,21,,outubro/2026
-São José,Caminho Novo,casa,venda,6689.3,4993.7,7755.9,8,,outubro/2026
 São José,Campinas,casa,venda,6725.5,4927.1,9028.1,24,,outubro/2026
 São José,Centro,casa,venda,6333.3,4620.0,8181.8,69,8.09,outubro/2026
 São José,Centro,casa,aluguel,42.7,27.9,47.4,7,8.09,outubro/2026
-São José,Cidade Universitária Pedra Branca,casa,venda,10603.8,7530.9,12852.3,6,,outubro/2026
 São José,Fazenda Santo Antônio,casa,venda,4979.3,2816.7,6600.0,33,,outubro/2026
 São José,Flor de Nápolis,casa,venda,3677.8,2753.3,5158.3,18,,outubro/2026
 São José,Forquilhas,casa,venda,5327.2,3799.2,7062.1,574,8.13,outubro/2026
@@ -79,7 +73,6 @@ São José,Potecas,casa,venda,5663.5,4404.4,6783.1,261,7.71,outubro/2026
 São José,Potecas,casa,aluguel,36.4,26.8,42.2,8,7.71,outubro/2026
 São José,Praia Comprida,casa,venda,5800.0,4933.3,6883.7,29,4.68,outubro/2026
 São José,Praia Comprida,casa,aluguel,22.6,18.7,30.5,7,4.68,outubro/2026
-São José,Praia de Fora,casa,venda,5991.7,5000.0,7400.0,5,,outubro/2026
 São José,Real Parque,casa,venda,5357.1,4038.0,6942.5,67,,outubro/2026
 São José,Roçado,casa,venda,4166.7,3316.7,7160.0,37,,outubro/2026
 São José,San Marino,casa,venda,5703.0,4336.1,6855.3,10,,outubro/2026

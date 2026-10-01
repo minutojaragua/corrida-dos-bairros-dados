@@ -2,8 +2,6 @@ cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
 Barra Velha,Beira Mar,apartamento,venda,14224.2,11481.8,15821.9,32,,outubro/2026
 Barra Velha,Centro,apartamento,venda,9482.8,7393.2,11849.3,153,5.04,outubro/2026
 Barra Velha,Centro,apartamento,aluguel,39.8,34.6,43.6,8,5.04,outubro/2026
-Barra Velha,Gravatá,apartamento,venda,7017.7,6880.1,7126.9,6,,outubro/2026
-Barra Velha,Itacolomi,apartamento,venda,10084.5,7164.5,14236.3,19,,outubro/2026
 Barra Velha,Itajubá,apartamento,venda,9216.5,6538.5,11873.1,357,5.13,outubro/2026
 Barra Velha,Itajubá,apartamento,aluguel,39.4,32.9,43.7,81,5.13,outubro/2026
 Barra Velha,Itajubá II,apartamento,venda,9844.3,8316.6,12122.4,34,,outubro/2026
@@ -22,7 +20,6 @@ Barra Velha,Vila Nova,apartamento,venda,5811.7,5568.3,6176.7,8,,outubro/2026
 Barra Velha,Centro,casa,venda,5844.2,4255.3,7692.3,169,5.52,outubro/2026
 Barra Velha,Centro,casa,aluguel,26.9,21.1,32.5,5,5.52,outubro/2026
 Barra Velha,Icaraí,casa,venda,4762.2,3898.3,7109.1,14,,outubro/2026
-Barra Velha,Itacolomi,casa,venda,5994.5,5446.1,7194.6,14,,outubro/2026
 Barra Velha,Itajubá,casa,venda,5696.2,3920.0,7382.6,513,5.77,outubro/2026
 Barra Velha,Itajubá,casa,aluguel,27.4,18.2,36.2,40,5.77,outubro/2026
 Barra Velha,Itajubá II,casa,venda,6411.8,5955.2,8219.1,15,,outubro/2026
