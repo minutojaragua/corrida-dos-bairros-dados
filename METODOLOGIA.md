@@ -4,7 +4,7 @@
 
 ## Quem somos
 
-A **Corrida dos Bairros** é o produto de dados do **Minuto Jaraguá**, canal de notícias de Jaraguá do Sul. Publicamos, de graça e todo mês, a mediana do preço pedido por m² em cada bairro de 109 cidades de Santa Catarina, São Paulo e mais 25 estados, a partir de 827.103 anúncios públicos que passaram na validação, deduplicados, de mais de 30 fontes (portais e sites de imobiliárias). Coletamos 1.024.270; a validação por faixa de área e de preço descarta cerca de 19%.
+A **Corrida dos Bairros** é o produto de dados do **Minuto Jaraguá**, canal de notícias de Jaraguá do Sul. Publicamos, de graça e todo mês, a mediana do preço pedido por m² em cada bairro de 109 cidades de Santa Catarina, São Paulo e mais 25 estados, a partir de 837.685 anúncios públicos que passaram na validação, deduplicados, de mais de 30 fontes (portais e sites de imobiliárias). Coletamos 1.037.655; a validação por faixa de área e de preço descarta cerca de 19%.
 
 
 ## Metodologia v2.12 · outubro/2026
