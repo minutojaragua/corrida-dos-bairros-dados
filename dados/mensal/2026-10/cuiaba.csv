@@ -4,15 +4,14 @@ Cuiabá,Alphaville I,casa,venda,8835.0,8043.1,10340.6,5,,outubro/2026
 Cuiabá,Alphaville II,casa,venda,11689.7,10649.6,12434.5,7,,outubro/2026
 Cuiabá,Altos do Coxipó,casa,venda,3262.7,2600.0,3910.6,25,,outubro/2026
 Cuiabá,Alvorada,casa,venda,3386.8,2650.4,5240.4,12,,outubro/2026
-Cuiabá,Araés,casa,venda,3612.5,2430.9,4935.0,28,14.15,outubro/2026
-Cuiabá,Araés,casa,aluguel,42.6,22.2,57.7,5,14.15,outubro/2026
+Cuiabá,Araés,casa,venda,3612.5,2430.9,4935.0,28,,outubro/2026
 Cuiabá,Areão,casa,venda,3431.4,1975.0,4912.5,20,,outubro/2026
 Cuiabá,Bandeirantes,casa,venda,2319.6,1801.2,2745.5,12,,outubro/2026
 Cuiabá,Barra do Pari,casa,venda,4235.3,3155.3,5253.2,21,,outubro/2026
 Cuiabá,Baú,casa,venda,2857.1,2175.3,3418.2,5,,outubro/2026
 Cuiabá,Bela Marina,casa,venda,3372.9,2006.5,3692.6,8,,outubro/2026
-Cuiabá,Boa Esperança,casa,venda,2956.5,2127.7,3895.5,115,6.41,outubro/2026
-Cuiabá,Boa Esperança,casa,aluguel,15.8,15.3,17.4,12,6.41,outubro/2026
+Cuiabá,Boa Esperança,casa,venda,2956.5,2127.7,3895.5,115,6.33,outubro/2026
+Cuiabá,Boa Esperança,casa,aluguel,15.6,14.6,16.5,9,6.33,outubro/2026
 Cuiabá,Bosque da Saúde,casa,venda,3950.0,3150.9,5920.0,12,,outubro/2026
 Cuiabá,Brisas,casa,venda,10030.7,8923.2,11010.5,6,,outubro/2026
 Cuiabá,Canelas,casa,venda,3686.6,3370.1,3822.1,6,,outubro/2026
@@ -23,8 +22,8 @@ Cuiabá,Centro Norte,casa,aluguel,22.7,20.1,30.2,6,9.73,outubro/2026
 Cuiabá,Centro Político Administrativo,casa,venda,5000.0,3489.2,7480.9,9,,outubro/2026
 Cuiabá,Centro Sul,casa,venda,3000.0,2385.9,3641.7,22,,outubro/2026
 Cuiabá,Chácara dos Pinheiros,casa,venda,3875.0,3187.5,5958.8,12,,outubro/2026
-Cuiabá,Cidade Alta,casa,venda,3660.7,2472.5,5156.7,42,9.18,outubro/2026
-Cuiabá,Cidade Alta,casa,aluguel,28.0,25.0,32.6,8,9.18,outubro/2026
+Cuiabá,Cidade Alta,casa,venda,3660.7,2472.5,5156.7,42,8.52,outubro/2026
+Cuiabá,Cidade Alta,casa,aluguel,26.0,26.0,36.2,5,8.52,outubro/2026
 Cuiabá,Cohab São Gonçalo,casa,venda,1384.6,1300.0,2393.3,5,,outubro/2026
 Cuiabá,Coophamil,casa,venda,2500.0,2000.0,3450.0,25,,outubro/2026
 Cuiabá,Coophema,casa,venda,4210.5,3076.9,5376.3,41,,outubro/2026
@@ -52,8 +51,8 @@ Cuiabá,Jardim Califórnia,casa,aluguel,20.3,18.0,20.5,5,6.87,outubro/2026
 Cuiabá,Jardim Comodoro,casa,venda,2338.7,1842.3,3193.8,14,,outubro/2026
 Cuiabá,Jardim Cuiabá,casa,venda,4513.9,2889.0,5838.6,64,9.12,outubro/2026
 Cuiabá,Jardim Cuiabá,casa,aluguel,34.3,27.3,46.0,12,9.12,outubro/2026
-Cuiabá,Jardim das Américas,casa,venda,5799.0,4450.8,7434.1,26,6.19,outubro/2026
-Cuiabá,Jardim das Américas,casa,aluguel,29.9,27.1,40.0,8,6.19,outubro/2026
+Cuiabá,Jardim das Américas,casa,venda,5799.0,4450.8,7434.1,26,6.54,outubro/2026
+Cuiabá,Jardim das Américas,casa,aluguel,31.6,27.5,44.6,7,6.54,outubro/2026
 Cuiabá,Jardim das Palmeiras,casa,venda,3939.4,2810.6,5661.4,15,,outubro/2026
 Cuiabá,Jardim dos Ipês,casa,venda,2419.4,1633.3,4000.0,13,,outubro/2026
 Cuiabá,Jardim Europa,casa,venda,2340.0,1904.4,3032.7,31,,outubro/2026
@@ -61,8 +60,8 @@ Cuiabá,Jardim Florianópolis,casa,venda,5040.0,3261.9,5634.5,7,,outubro/2026
 Cuiabá,Jardim Gramado,casa,venda,2144.5,1561.8,4568.4,15,,outubro/2026
 Cuiabá,Jardim Guanabara,casa,venda,3055.6,2334.6,5000.0,11,8.17,outubro/2026
 Cuiabá,Jardim Guanabara,casa,aluguel,20.8,19.1,25.1,7,8.17,outubro/2026
-Cuiabá,Jardim Imperial,casa,venda,7427.9,5337.6,9453.2,264,6.93,outubro/2026
-Cuiabá,Jardim Imperial,casa,aluguel,42.9,28.4,56.2,44,6.93,outubro/2026
+Cuiabá,Jardim Imperial,casa,venda,7427.9,5337.6,9453.2,264,7.79,outubro/2026
+Cuiabá,Jardim Imperial,casa,aluguel,48.2,28.4,60.2,22,7.79,outubro/2026
 Cuiabá,Jardim Imperial II,casa,venda,5991.9,4462.5,7939.3,20,,outubro/2026
 Cuiabá,Jardim Industriário,casa,venda,2247.9,1671.0,3161.6,16,,outubro/2026
 Cuiabá,Jardim Industriário II,casa,venda,1769.2,1538.5,1989.5,5,,outubro/2026
@@ -71,16 +70,14 @@ Cuiabá,Jardim Itália,casa,aluguel,41.3,31.3,52.6,12,5.24,outubro/2026
 Cuiabá,Jardim Jockey Club,casa,venda,4250.0,3472.8,12250.0,15,,outubro/2026
 Cuiabá,Jardim Leblon,casa,venda,6608.5,4285.7,7142.9,5,,outubro/2026
 Cuiabá,Jardim Mariana,casa,venda,4022.3,2461.7,5603.4,12,,outubro/2026
-Cuiabá,Jardim Mossoró,casa,venda,5384.6,2981.7,6523.5,10,6.26,outubro/2026
-Cuiabá,Jardim Mossoró,casa,aluguel,28.1,14.8,32.9,5,6.26,outubro/2026
+Cuiabá,Jardim Mossoró,casa,venda,5384.6,2981.7,6523.5,10,,outubro/2026
 Cuiabá,Jardim Nossa Senhora Aparecida,casa,venda,3707.5,2374.2,4374.1,10,,outubro/2026
 Cuiabá,Jardim Paulista,casa,venda,2262.4,1833.2,3201.8,27,,outubro/2026
 Cuiabá,Jardim Petrópolis,casa,venda,3143.8,2580.6,4000.0,25,,outubro/2026
 Cuiabá,Jardim Primavera,casa,venda,3817.0,2009.4,4834.0,28,,outubro/2026
 Cuiabá,Jardim Santa Amália,casa,venda,3111.1,2512.7,5179.6,23,,outubro/2026
 Cuiabá,Jardim Santa Marta,casa,venda,3634.9,2870.8,5336.7,14,,outubro/2026
-Cuiabá,Jardim Shangri-La,casa,venda,3971.0,3055.7,4953.1,35,4.84,outubro/2026
-Cuiabá,Jardim Shangri-La,casa,aluguel,16.0,15.8,20.9,5,4.84,outubro/2026
+Cuiabá,Jardim Shangri-La,casa,venda,3971.0,3055.7,4953.1,35,,outubro/2026
 Cuiabá,Jardim Tropical,casa,venda,3158.3,2401.3,4315.4,31,,outubro/2026
 Cuiabá,Jardim Universitário,casa,venda,4762.0,3484.8,5739.0,68,,outubro/2026
 Cuiabá,Jardim Vitória,casa,venda,4463.6,2983.4,6500.0,14,,outubro/2026
@@ -88,11 +85,10 @@ Cuiabá,Lixeira,casa,venda,2812.5,2541.0,3250.0,8,,outubro/2026
 Cuiabá,Loteamento Bom Jesus,casa,venda,5044.9,3361.4,5509.3,7,,outubro/2026
 Cuiabá,Loteamento Residencial Mirante do Parque,casa,venda,2350.0,1400.0,4187.0,9,,outubro/2026
 Cuiabá,Loteamento Salvador Costa Marques,casa,venda,8066.7,5523.8,9384.6,11,,outubro/2026
-Cuiabá,Morada da Serra,casa,venda,2222.6,1814.3,3190.5,62,7.34,outubro/2026
-Cuiabá,Morada da Serra,casa,aluguel,13.6,11.0,18.6,8,7.34,outubro/2026
+Cuiabá,Morada da Serra,casa,venda,2222.6,1814.3,3190.5,62,8.75,outubro/2026
+Cuiabá,Morada da Serra,casa,aluguel,16.2,14.0,25.9,5,8.75,outubro/2026
 Cuiabá,Morada do Ouro,casa,venda,3939.4,2211.3,4849.5,41,,outubro/2026
-Cuiabá,Morada dos Nobres,casa,venda,11141.6,10000.0,12692.3,97,5.3,outubro/2026
-Cuiabá,Morada dos Nobres,casa,aluguel,49.2,41.0,61.8,7,5.3,outubro/2026
+Cuiabá,Morada dos Nobres,casa,venda,11141.6,10000.0,12692.3,97,,outubro/2026
 Cuiabá,Nossa Senhora Aparecida,casa,venda,3000.0,2601.5,3727.3,19,,outubro/2026
 Cuiabá,Nova Conquista,casa,venda,3043.5,2000.0,3812.5,27,,outubro/2026
 Cuiabá,Nova Esperança,casa,venda,3053.6,1820.8,3707.0,10,,outubro/2026
@@ -101,14 +97,13 @@ Cuiabá,Novo Terceiro,casa,venda,1552.8,1461.4,2000.0,7,,outubro/2026
 Cuiabá,Núcleo Habitacional Sucuri,casa,venda,12218.6,11839.5,12991.1,20,,outubro/2026
 Cuiabá,Osmar Cabral,casa,venda,3410.3,2168.8,4819.7,10,,outubro/2026
 Cuiabá,Parque Amperco,casa,venda,11650.0,9755.0,13435.2,15,,outubro/2026
-Cuiabá,Parque Atalaia,casa,venda,4638.8,3546.9,5546.6,24,8.02,outubro/2026
-Cuiabá,Parque Atalaia,casa,aluguel,31.0,27.5,39.3,7,8.02,outubro/2026
+Cuiabá,Parque Atalaia,casa,venda,4638.8,3546.9,5546.6,24,,outubro/2026
 Cuiabá,Parque Cuiabá,casa,venda,2461.5,1772.0,3397.5,58,,outubro/2026
 Cuiabá,Parque das Nações,casa,venda,5666.7,4666.7,6875.0,9,,outubro/2026
 Cuiabá,Parque Georgia,casa,venda,4625.0,3200.0,6250.0,37,,outubro/2026
 Cuiabá,Parque Ohara,casa,venda,2500.0,1904.8,3833.3,13,,outubro/2026
-Cuiabá,Parque Residencial das Nações Indígenas,casa,venda,5535.7,4937.5,6311.8,38,8.22,outubro/2026
-Cuiabá,Parque Residencial das Nações Indígenas,casa,aluguel,37.9,27.8,41.2,11,8.22,outubro/2026
+Cuiabá,Parque Residencial das Nações Indígenas,casa,venda,5535.7,4937.5,6311.8,38,8.67,outubro/2026
+Cuiabá,Parque Residencial das Nações Indígenas,casa,aluguel,40.0,38.9,45.0,7,8.67,outubro/2026
 Cuiabá,Parque Residencial Tropical Ville,casa,venda,4556.6,3688.1,6410.8,20,,outubro/2026
 Cuiabá,Parque Universitário,casa,venda,5529.6,4681.1,9404.8,18,,outubro/2026
 Cuiabá,Pascoal Ramos,casa,venda,3409.1,2761.0,5171.2,32,,outubro/2026
@@ -130,20 +125,20 @@ Cuiabá,Residencial Coxipó,casa,venda,2932.2,1703.5,3489.5,22,,outubro/2026
 Cuiabá,Residencial Nova Canaã,casa,venda,2950.0,2777.8,4166.7,5,,outubro/2026
 Cuiabá,Residencial São José,casa,venda,2941.2,1503.6,3208.5,11,,outubro/2026
 Cuiabá,Ribeirão da Ponte,casa,venda,3728.3,2435.3,10373.0,11,,outubro/2026
-Cuiabá,Ribeirão do Lipa,casa,venda,9311.5,6939.8,11372.3,226,5.63,outubro/2026
-Cuiabá,Ribeirão do Lipa,casa,aluguel,43.7,36.3,53.5,19,5.63,outubro/2026
+Cuiabá,Ribeirão do Lipa,casa,venda,9311.5,6939.8,11372.3,226,5.94,outubro/2026
+Cuiabá,Ribeirão do Lipa,casa,aluguel,46.1,39.3,59.5,11,5.94,outubro/2026
 Cuiabá,Rodoviária Parque,casa,venda,4682.5,4061.1,5207.1,12,,outubro/2026
-Cuiabá,Santa Cruz,casa,venda,4508.5,3418.2,5552.9,112,7.43,outubro/2026
-Cuiabá,Santa Cruz,casa,aluguel,27.9,17.7,32.0,13,7.43,outubro/2026
+Cuiabá,Santa Cruz,casa,venda,4508.5,3418.2,5552.9,112,5.99,outubro/2026
+Cuiabá,Santa Cruz,casa,aluguel,22.5,12.9,39.0,9,5.99,outubro/2026
 Cuiabá,Santa Cruz 2,casa,venda,4056.8,3546.9,5983.9,6,,outubro/2026
 Cuiabá,Santa Cruz II,casa,venda,4772.7,3840.9,6257.1,39,,outubro/2026
 Cuiabá,Santa Helena,casa,venda,3081.0,2652.7,4344.2,10,,outubro/2026
 Cuiabá,Santa Laura,casa,venda,4482.8,2785.7,5596.5,5,,outubro/2026
-Cuiabá,Santa Rosa,casa,venda,5000.0,3724.5,6043.4,72,6.22,outubro/2026
-Cuiabá,Santa Rosa,casa,aluguel,25.9,23.1,29.4,9,6.22,outubro/2026
+Cuiabá,Santa Rosa,casa,venda,5000.0,3724.5,6043.4,72,5.54,outubro/2026
+Cuiabá,Santa Rosa,casa,aluguel,23.1,16.8,30.0,7,5.54,outubro/2026
 Cuiabá,Santa Terezinha (1ª Etapa),casa,venda,3968.1,1999.2,4812.8,14,,outubro/2026
-Cuiabá,São Francisco,casa,venda,5005.7,3851.5,6296.0,10,6.45,outubro/2026
-Cuiabá,São Francisco,casa,aluguel,26.9,14.1,34.9,8,6.45,outubro/2026
+Cuiabá,São Francisco,casa,venda,5005.7,3851.5,6296.0,10,7.74,outubro/2026
+Cuiabá,São Francisco,casa,aluguel,32.3,21.5,34.6,5,7.74,outubro/2026
 Cuiabá,São João Del Rei,casa,venda,7932.7,6958.1,8394.2,55,,outubro/2026
 Cuiabá,São Joao Del Rey,casa,venda,5277.8,4444.4,8064.5,5,,outubro/2026
 Cuiabá,São Sebastião,casa,venda,7241.4,3985.7,9358.6,15,,outubro/2026
@@ -152,105 +147,100 @@ Cuiabá,Supremo Itália,casa,venda,14245.4,12773.0,15108.8,10,,outubro/2026
 Cuiabá,Tijucal,casa,venda,2670.1,2000.0,6521.7,53,,outubro/2026
 Cuiabá,Verdão,casa,venda,2305.7,1855.8,2809.5,16,,outubro/2026
 Cuiabá,Village Flamboyant,casa,venda,2939.9,2407.5,4055.3,15,,outubro/2026
-Cuiabá,Alvorada,apartamento,venda,5436.2,3605.4,7224.3,128,7.59,outubro/2026
-Cuiabá,Alvorada,apartamento,aluguel,34.4,24.8,43.5,36,7.59,outubro/2026
-Cuiabá,Araés,apartamento,venda,4493.6,3517.6,6195.7,96,9.45,outubro/2026
-Cuiabá,Araés,apartamento,aluguel,35.4,33.3,43.6,24,9.45,outubro/2026
-Cuiabá,Areão,apartamento,venda,6256.3,4380.5,7862.7,32,7.29,outubro/2026
-Cuiabá,Areão,apartamento,aluguel,38.0,32.9,40.7,11,7.29,outubro/2026
-Cuiabá,Bandeirantes,apartamento,venda,4735.9,4029.6,5802.1,22,9.22,outubro/2026
-Cuiabá,Bandeirantes,apartamento,aluguel,36.4,33.0,49.6,7,9.22,outubro/2026
-Cuiabá,Baú,apartamento,venda,3333.3,3040.1,3603.8,12,9.79,outubro/2026
-Cuiabá,Baú,apartamento,aluguel,27.2,20.8,40.0,5,9.79,outubro/2026
+Cuiabá,Alvorada,apartamento,venda,5436.2,3605.4,7224.3,128,6.69,outubro/2026
+Cuiabá,Alvorada,apartamento,aluguel,30.3,22.9,41.0,18,6.69,outubro/2026
+Cuiabá,Araés,apartamento,venda,4493.6,3517.6,6195.7,96,9.35,outubro/2026
+Cuiabá,Araés,apartamento,aluguel,35.0,33.7,41.8,18,9.35,outubro/2026
+Cuiabá,Areão,apartamento,venda,6256.3,4380.5,7862.7,32,6.91,outubro/2026
+Cuiabá,Areão,apartamento,aluguel,36.0,35.1,38.0,5,6.91,outubro/2026
+Cuiabá,Bandeirantes,apartamento,venda,4735.9,4029.6,5802.1,22,,outubro/2026
+Cuiabá,Baú,apartamento,venda,3333.3,3040.1,3603.8,12,,outubro/2026
 Cuiabá,Bela Marina,apartamento,venda,6477.3,5706.6,7404.8,19,,outubro/2026
 Cuiabá,Bela Vista,apartamento,venda,7161.2,5295.7,7946.4,10,,outubro/2026
-Cuiabá,Boa Esperança,apartamento,venda,5996.6,5160.9,7028.2,20,8.66,outubro/2026
-Cuiabá,Boa Esperança,apartamento,aluguel,43.3,38.7,54.5,30,8.66,outubro/2026
+Cuiabá,Boa Esperança,apartamento,venda,5996.6,5160.9,7028.2,20,8.52,outubro/2026
+Cuiabá,Boa Esperança,apartamento,aluguel,42.6,37.5,52.1,18,8.52,outubro/2026
 Cuiabá,Bosque,apartamento,venda,8468.6,4809.9,10521.5,11,,outubro/2026
-Cuiabá,Bosque da Saúde,apartamento,venda,6059.5,4620.6,7917.5,128,8.3,outubro/2026
-Cuiabá,Bosque da Saúde,apartamento,aluguel,41.9,30.9,53.9,39,8.3,outubro/2026
-Cuiabá,Cachoeira das Garças,apartamento,venda,4634.1,3864.3,5415.6,23,10.85,outubro/2026
-Cuiabá,Cachoeira das Garças,apartamento,aluguel,41.9,34.1,52.6,8,10.85,outubro/2026
+Cuiabá,Bosque da Saúde,apartamento,venda,6059.5,4620.6,7917.5,128,8.12,outubro/2026
+Cuiabá,Bosque da Saúde,apartamento,aluguel,41.0,30.4,56.3,24,8.12,outubro/2026
+Cuiabá,Cachoeira das Garças,apartamento,venda,4634.1,3864.3,5415.6,23,,outubro/2026
 Cuiabá,Canjica,apartamento,venda,6000.0,4541.7,7160.2,12,,outubro/2026
-Cuiabá,Carumbé,apartamento,venda,5116.3,4183.7,6139.4,53,10.46,outubro/2026
-Cuiabá,Carumbé,apartamento,aluguel,44.6,39.2,51.1,14,10.46,outubro/2026
+Cuiabá,Carumbé,apartamento,venda,5116.3,4183.7,6139.4,53,10.55,outubro/2026
+Cuiabá,Carumbé,apartamento,aluguel,45.0,40.3,50.6,7,10.55,outubro/2026
 Cuiabá,Centro,apartamento,venda,3467.6,3029.0,4410.1,18,,outubro/2026
 Cuiabá,Centro América,apartamento,venda,5600.0,5068.4,6337.0,7,,outubro/2026
-Cuiabá,Centro Norte,apartamento,venda,4024.6,3071.9,5770.8,52,9.27,outubro/2026
-Cuiabá,Centro Norte,apartamento,aluguel,31.1,26.5,41.3,14,9.27,outubro/2026
-Cuiabá,Centro Político Administrativo,apartamento,venda,13710.0,7223.4,17230.8,14,3.16,outubro/2026
-Cuiabá,Centro Político Administrativo,apartamento,aluguel,36.1,33.8,46.2,9,3.16,outubro/2026
-Cuiabá,Centro Sul,apartamento,venda,4812.5,3442.0,5877.3,36,7.46,outubro/2026
-Cuiabá,Centro Sul,apartamento,aluguel,29.9,23.5,54.3,21,7.46,outubro/2026
+Cuiabá,Centro Norte,apartamento,venda,4024.6,3071.9,5770.8,52,9.48,outubro/2026
+Cuiabá,Centro Norte,apartamento,aluguel,31.8,28.6,43.8,9,9.48,outubro/2026
+Cuiabá,Centro Político Administrativo,apartamento,venda,13710.0,7223.4,17230.8,14,3.92,outubro/2026
+Cuiabá,Centro Político Administrativo,apartamento,aluguel,44.8,37.9,49.1,6,3.92,outubro/2026
+Cuiabá,Centro Sul,apartamento,venda,4812.5,3442.0,5877.3,36,8.3,outubro/2026
+Cuiabá,Centro Sul,apartamento,aluguel,33.3,25.6,54.3,13,8.3,outubro/2026
 Cuiabá,Chácara dos Pinheiros,apartamento,venda,4909.1,4500.0,5357.1,29,,outubro/2026
-Cuiabá,Cidade Alta,apartamento,venda,6646.3,3932.6,8840.7,77,6.64,outubro/2026
-Cuiabá,Cidade Alta,apartamento,aluguel,36.8,34.7,42.7,17,6.64,outubro/2026
-Cuiabá,Consil,apartamento,venda,4754.9,4045.5,6070.7,35,7.04,outubro/2026
-Cuiabá,Consil,apartamento,aluguel,27.9,26.0,37.0,8,7.04,outubro/2026
+Cuiabá,Cidade Alta,apartamento,venda,6646.3,3932.6,8840.7,77,8.68,outubro/2026
+Cuiabá,Cidade Alta,apartamento,aluguel,48.1,37.9,64.8,8,8.68,outubro/2026
+Cuiabá,Consil,apartamento,venda,4754.9,4045.5,6070.7,35,8.76,outubro/2026
+Cuiabá,Consil,apartamento,aluguel,34.7,29.1,43.8,5,8.76,outubro/2026
 Cuiabá,Coophamil,apartamento,venda,2949.3,2544.5,3319.9,16,,outubro/2026
-Cuiabá,Coophema,apartamento,venda,4888.9,4388.9,5725.0,61,11.22,outubro/2026
-Cuiabá,Coophema,apartamento,aluguel,45.7,39.9,56.5,19,11.22,outubro/2026
-Cuiabá,Coxipó,apartamento,venda,5327.9,4663.7,5841.2,24,14.5,outubro/2026
-Cuiabá,Coxipó,apartamento,aluguel,64.4,50.7,75.1,12,14.5,outubro/2026
-Cuiabá,Despraiado,apartamento,venda,6921.6,5310.6,8378.0,118,7.44,outubro/2026
-Cuiabá,Despraiado,apartamento,aluguel,42.9,32.1,54.7,21,7.44,outubro/2026
-Cuiabá,Dom Aquino,apartamento,venda,5217.6,4234.8,6229.2,56,12.01,outubro/2026
-Cuiabá,Dom Aquino,apartamento,aluguel,52.2,47.2,63.3,15,12.01,outubro/2026
-Cuiabá,Duque de Caxias,apartamento,venda,8368.3,6554.8,10377.3,164,7.39,outubro/2026
-Cuiabá,Duque de Caxias,apartamento,aluguel,51.5,38.4,63.4,41,7.39,outubro/2026
-Cuiabá,Duque de Caxias I,apartamento,venda,8518.5,6719.4,10154.0,63,6.23,outubro/2026
-Cuiabá,Duque de Caxias I,apartamento,aluguel,44.2,36.1,63.4,21,6.23,outubro/2026
-Cuiabá,Duque de Caxias II,apartamento,venda,7050.9,5138.9,8670.0,44,7.01,outubro/2026
-Cuiabá,Duque de Caxias II,apartamento,aluguel,41.2,36.0,56.0,10,7.01,outubro/2026
+Cuiabá,Coophema,apartamento,venda,4888.9,4388.9,5725.0,61,11.09,outubro/2026
+Cuiabá,Coophema,apartamento,aluguel,45.2,37.5,56.0,12,11.09,outubro/2026
+Cuiabá,Coxipó,apartamento,venda,5327.9,4663.7,5841.2,24,13.13,outubro/2026
+Cuiabá,Coxipó,apartamento,aluguel,58.3,48.9,73.3,8,13.13,outubro/2026
+Cuiabá,Despraiado,apartamento,venda,6921.6,5310.6,8378.0,118,8.7,outubro/2026
+Cuiabá,Despraiado,apartamento,aluguel,50.2,34.8,66.7,12,8.7,outubro/2026
+Cuiabá,Dom Aquino,apartamento,venda,5217.6,4234.8,6229.2,56,12.83,outubro/2026
+Cuiabá,Dom Aquino,apartamento,aluguel,55.8,47.9,62.8,8,12.83,outubro/2026
+Cuiabá,Duque de Caxias,apartamento,venda,8368.3,6554.8,10377.3,164,8.06,outubro/2026
+Cuiabá,Duque de Caxias,apartamento,aluguel,56.2,43.9,74.6,21,8.06,outubro/2026
+Cuiabá,Duque de Caxias I,apartamento,venda,8518.5,6719.4,10154.0,63,6.49,outubro/2026
+Cuiabá,Duque de Caxias I,apartamento,aluguel,46.1,37.2,69.7,10,6.49,outubro/2026
+Cuiabá,Duque de Caxias II,apartamento,venda,7050.9,5138.9,8670.0,44,7.15,outubro/2026
+Cuiabá,Duque de Caxias II,apartamento,aluguel,42.0,40.2,68.2,7,7.15,outubro/2026
 Cuiabá,Eldorado,apartamento,venda,9012.5,7475.2,10196.5,6,,outubro/2026
-Cuiabá,Goiabeiras,apartamento,venda,6666.7,4691.4,9090.9,181,9.02,outubro/2026
-Cuiabá,Goiabeiras,apartamento,aluguel,50.1,41.4,58.4,28,9.02,outubro/2026
-Cuiabá,Grande Terceiro,apartamento,venda,8340.2,6935.5,10071.4,53,5.78,outubro/2026
-Cuiabá,Grande Terceiro,apartamento,aluguel,40.2,37.4,45.7,22,5.78,outubro/2026
-Cuiabá,Jardim Aclimação,apartamento,venda,8516.6,7118.3,10170.5,134,6.0,outubro/2026
-Cuiabá,Jardim Aclimação,apartamento,aluguel,42.6,36.9,56.2,50,6.0,outubro/2026
+Cuiabá,Goiabeiras,apartamento,venda,6666.7,4691.4,9090.9,181,9.16,outubro/2026
+Cuiabá,Goiabeiras,apartamento,aluguel,50.9,44.7,51.6,14,9.16,outubro/2026
+Cuiabá,Grande Terceiro,apartamento,venda,8340.2,6935.5,10071.4,53,5.76,outubro/2026
+Cuiabá,Grande Terceiro,apartamento,aluguel,40.0,37.0,45.2,11,5.76,outubro/2026
+Cuiabá,Jardim Aclimação,apartamento,venda,8516.6,7118.3,10170.5,134,6.06,outubro/2026
+Cuiabá,Jardim Aclimação,apartamento,aluguel,43.0,37.6,54.6,28,6.06,outubro/2026
 Cuiabá,Jardim Alvorada,apartamento,venda,5035.0,4133.7,6471.4,8,,outubro/2026
-Cuiabá,Jardim Bom Clima,apartamento,venda,8590.7,5703.8,10098.9,18,6.8,outubro/2026
-Cuiabá,Jardim Bom Clima,apartamento,aluguel,48.7,28.5,62.7,6,6.8,outubro/2026
+Cuiabá,Jardim Bom Clima,apartamento,venda,8590.7,5703.8,10098.9,18,,outubro/2026
 Cuiabá,Jardim Califórnia,apartamento,venda,6428.6,5000.0,7714.3,13,,outubro/2026
-Cuiabá,Jardim Cuiabá,apartamento,venda,10225.1,8962.5,11620.8,46,7.02,outubro/2026
-Cuiabá,Jardim Cuiabá,apartamento,aluguel,59.8,52.8,73.0,11,7.02,outubro/2026
-Cuiabá,Jardim das Américas,apartamento,venda,9596.9,7156.4,12176.6,166,5.64,outubro/2026
-Cuiabá,Jardim das Américas,apartamento,aluguel,45.1,33.7,57.7,44,5.64,outubro/2026
+Cuiabá,Jardim Cuiabá,apartamento,venda,10225.1,8962.5,11620.8,46,8.2,outubro/2026
+Cuiabá,Jardim Cuiabá,apartamento,aluguel,69.9,56.1,76.5,7,8.2,outubro/2026
+Cuiabá,Jardim das Américas,apartamento,venda,9596.9,7156.4,12176.6,166,5.76,outubro/2026
+Cuiabá,Jardim das Américas,apartamento,aluguel,46.1,36.3,55.3,26,5.76,outubro/2026
 Cuiabá,Jardim das Palmeiras,apartamento,venda,5590.4,5000.0,6361.8,24,9.06,outubro/2026
-Cuiabá,Jardim das Palmeiras,apartamento,aluguel,42.2,33.3,48.8,16,9.06,outubro/2026
-Cuiabá,Jardim Eldorado,apartamento,venda,7142.9,6344.5,8559.8,15,5.21,outubro/2026
-Cuiabá,Jardim Eldorado,apartamento,aluguel,31.0,29.7,41.5,7,5.21,outubro/2026
-Cuiabá,Jardim Europa,apartamento,venda,9170.9,7727.3,10056.3,14,5.73,outubro/2026
-Cuiabá,Jardim Europa,apartamento,aluguel,43.8,36.1,44.9,5,5.73,outubro/2026
+Cuiabá,Jardim das Palmeiras,apartamento,aluguel,42.2,33.3,47.5,10,9.06,outubro/2026
+Cuiabá,Jardim Eldorado,apartamento,venda,7142.9,6344.5,8559.8,15,5.17,outubro/2026
+Cuiabá,Jardim Eldorado,apartamento,aluguel,30.8,29.3,35.3,6,5.17,outubro/2026
+Cuiabá,Jardim Europa,apartamento,venda,9170.9,7727.3,10056.3,14,,outubro/2026
 Cuiabá,Jardim Florianópolis,apartamento,venda,7142.9,4507.0,8543.1,20,,outubro/2026
-Cuiabá,Jardim Guanabara,apartamento,venda,6276.9,3983.5,7757.4,18,6.46,outubro/2026
-Cuiabá,Jardim Guanabara,apartamento,aluguel,33.8,31.6,39.5,8,6.46,outubro/2026
-Cuiabá,Jardim Imperial,apartamento,venda,5669.6,4720.9,6425.0,40,9.69,outubro/2026
-Cuiabá,Jardim Imperial,apartamento,aluguel,45.8,38.1,50.9,14,9.69,outubro/2026
+Cuiabá,Jardim Guanabara,apartamento,venda,6276.9,3983.5,7757.4,18,7.48,outubro/2026
+Cuiabá,Jardim Guanabara,apartamento,aluguel,39.1,32.5,40.7,5,7.48,outubro/2026
+Cuiabá,Jardim Imperial,apartamento,venda,5669.6,4720.9,6425.0,40,8.55,outubro/2026
+Cuiabá,Jardim Imperial,apartamento,aluguel,40.4,33.1,44.9,8,8.55,outubro/2026
 Cuiabá,Jardim Imperial II,apartamento,venda,5368.8,4782.4,6192.8,20,,outubro/2026
 Cuiabá,Jardim Independência,apartamento,venda,12831.9,10710.3,13068.2,5,,outubro/2026
 Cuiabá,Jardim Itália,apartamento,venda,7266.1,6383.9,8551.5,6,,outubro/2026
 Cuiabá,Jardim Kennedy,apartamento,venda,8490.6,7534.2,10067.1,17,,outubro/2026
-Cuiabá,Jardim Leblon,apartamento,venda,10870.1,7332.8,12226.1,40,6.28,outubro/2026
-Cuiabá,Jardim Leblon,apartamento,aluguel,56.9,51.9,63.6,16,6.28,outubro/2026
-Cuiabá,Jardim Mariana,apartamento,venda,7317.6,5634.0,8845.9,72,7.17,outubro/2026
-Cuiabá,Jardim Mariana,apartamento,aluguel,43.7,38.3,51.4,24,7.17,outubro/2026
+Cuiabá,Jardim Leblon,apartamento,venda,10870.1,7332.8,12226.1,40,6.69,outubro/2026
+Cuiabá,Jardim Leblon,apartamento,aluguel,60.6,48.6,65.2,9,6.69,outubro/2026
+Cuiabá,Jardim Mariana,apartamento,venda,7317.6,5634.0,8845.9,72,7.07,outubro/2026
+Cuiabá,Jardim Mariana,apartamento,aluguel,43.1,34.1,48.5,15,7.07,outubro/2026
 Cuiabá,Jardim Petrópolis,apartamento,venda,7272.7,5789.5,9259.3,69,6.35,outubro/2026
-Cuiabá,Jardim Petrópolis,apartamento,aluguel,38.5,36.0,41.5,11,6.35,outubro/2026
+Cuiabá,Jardim Petrópolis,apartamento,aluguel,38.5,37.5,41.7,5,6.35,outubro/2026
 Cuiabá,Jardim Primavera,apartamento,venda,7422.7,6471.9,9524.4,11,,outubro/2026
 Cuiabá,Jardim Santa Isabel,apartamento,venda,5390.5,4407.5,5895.8,8,,outubro/2026
 Cuiabá,Jardim Santa Marta,apartamento,venda,7468.0,5778.2,8644.0,58,7.76,outubro/2026
-Cuiabá,Jardim Santa Marta,apartamento,aluguel,48.3,43.9,65.2,30,7.76,outubro/2026
+Cuiabá,Jardim Santa Marta,apartamento,aluguel,48.3,40.6,67.2,14,7.76,outubro/2026
 Cuiabá,Jardim Tropical,apartamento,venda,3750.0,3434.1,4929.4,16,,outubro/2026
 Cuiabá,Jardim Ubirajara,apartamento,venda,5948.7,5093.8,8307.6,34,,outubro/2026
 Cuiabá,Jardim Universitário,apartamento,venda,4714.3,4389.2,5469.5,11,,outubro/2026
 Cuiabá,Lixeira,apartamento,venda,2674.8,2261.5,3421.6,6,,outubro/2026
 Cuiabá,Miguel Sutil,apartamento,venda,3979.7,3559.6,5157.8,28,,outubro/2026
-Cuiabá,Morada do Ouro,apartamento,venda,6881.0,6017.2,7756.5,71,9.45,outubro/2026
-Cuiabá,Morada do Ouro,apartamento,aluguel,54.2,49.5,66.2,39,9.45,outubro/2026
-Cuiabá,Morada do Ouro II,apartamento,venda,6668.7,5817.6,7944.4,18,10.38,outubro/2026
-Cuiabá,Morada do Ouro II,apartamento,aluguel,57.7,52.8,62.7,11,10.38,outubro/2026
+Cuiabá,Morada do Ouro,apartamento,venda,6881.0,6017.2,7756.5,71,9.89,outubro/2026
+Cuiabá,Morada do Ouro,apartamento,aluguel,56.7,50.3,70.4,22,9.89,outubro/2026
+Cuiabá,Morada do Ouro II,apartamento,venda,6668.7,5817.6,7944.4,18,10.54,outubro/2026
+Cuiabá,Morada do Ouro II,apartamento,aluguel,58.6,53.0,61.0,6,10.54,outubro/2026
 Cuiabá,Morada do Sol,apartamento,venda,11219.5,9090.9,12188.6,9,,outubro/2026
 Cuiabá,Novo Colorado,apartamento,venda,7178.6,6358.4,7600.7,8,,outubro/2026
 Cuiabá,Paiaguás,apartamento,venda,7076.0,3377.7,8810.5,30,10.04,outubro/2026
@@ -258,44 +248,42 @@ Cuiabá,Paiaguás,apartamento,aluguel,59.2,53.6,80.9,5,10.04,outubro/2026
 Cuiabá,Parque Atalaia,apartamento,venda,5909.1,5072.7,6071.2,5,,outubro/2026
 Cuiabá,Parque Cuiabá,apartamento,venda,5385.1,4027.7,5795.2,6,,outubro/2026
 Cuiabá,Parque das Nações,apartamento,venda,4181.8,4062.5,4411.8,5,,outubro/2026
-Cuiabá,Parque Georgia,apartamento,venda,5159.5,4222.2,5487.8,9,10.21,outubro/2026
-Cuiabá,Parque Georgia,apartamento,aluguel,43.9,40.0,50.0,9,10.21,outubro/2026
-Cuiabá,Parque Ohara,apartamento,venda,5000.0,4387.5,6220.9,35,10.2,outubro/2026
-Cuiabá,Parque Ohara,apartamento,aluguel,42.5,40.0,47.2,14,10.2,outubro/2026
-Cuiabá,Parque Residencial das Nações Indígenas,apartamento,venda,4220.4,3906.0,4564.8,24,8.53,outubro/2026
-Cuiabá,Parque Residencial das Nações Indígenas,apartamento,aluguel,30.0,25.0,34.7,13,8.53,outubro/2026
+Cuiabá,Parque Georgia,apartamento,venda,5159.5,4222.2,5487.8,9,11.16,outubro/2026
+Cuiabá,Parque Georgia,apartamento,aluguel,48.0,44.4,50.9,6,11.16,outubro/2026
+Cuiabá,Parque Ohara,apartamento,venda,5000.0,4387.5,6220.9,35,10.63,outubro/2026
+Cuiabá,Parque Ohara,apartamento,aluguel,44.3,40.0,46.2,7,10.63,outubro/2026
+Cuiabá,Parque Residencial das Nações Indígenas,apartamento,venda,4220.4,3906.0,4564.8,24,7.82,outubro/2026
+Cuiabá,Parque Residencial das Nações Indígenas,apartamento,aluguel,27.5,11.4,31.5,7,7.82,outubro/2026
 Cuiabá,Pico do Amor,apartamento,venda,7333.3,6333.3,8871.0,41,,outubro/2026
-Cuiabá,Poção,apartamento,venda,4520.0,4032.3,5571.4,25,8.92,outubro/2026
-Cuiabá,Poção,apartamento,aluguel,33.6,29.8,36.1,6,8.92,outubro/2026
+Cuiabá,Poção,apartamento,venda,4520.0,4032.3,5571.4,25,,outubro/2026
 Cuiabá,Popular,apartamento,venda,5102.0,3872.0,6604.4,71,,outubro/2026
-Cuiabá,Porto,apartamento,venda,5388.7,3942.1,6476.8,64,8.66,outubro/2026
-Cuiabá,Porto,apartamento,aluguel,38.9,33.4,45.4,18,8.66,outubro/2026
+Cuiabá,Porto,apartamento,venda,5388.7,3942.1,6476.8,64,9.29,outubro/2026
+Cuiabá,Porto,apartamento,aluguel,41.7,37.8,45.7,10,9.29,outubro/2026
 Cuiabá,Praeirinho,apartamento,venda,6315.8,5750.0,7125.0,5,,outubro/2026
-Cuiabá,Quilombo,apartamento,venda,7051.3,5167.2,10298.7,159,6.91,outubro/2026
-Cuiabá,Quilombo,apartamento,aluguel,40.6,25.5,50.8,28,6.91,outubro/2026
-Cuiabá,Residencial Bela Marina,apartamento,venda,6547.4,5987.5,6925.6,15,10.85,outubro/2026
-Cuiabá,Residencial Bela Marina,apartamento,aluguel,59.2,44.4,70.8,8,10.85,outubro/2026
+Cuiabá,Quilombo,apartamento,venda,7051.3,5167.2,10298.7,159,6.02,outubro/2026
+Cuiabá,Quilombo,apartamento,aluguel,35.4,24.2,49.4,16,6.02,outubro/2026
+Cuiabá,Residencial Bela Marina,apartamento,venda,6547.4,5987.5,6925.6,15,,outubro/2026
 Cuiabá,Residencial Itamarati,apartamento,venda,6666.7,2500.0,7439.0,5,,outubro/2026
-Cuiabá,Residencial Paiaguás,apartamento,venda,7828.9,5363.6,9602.6,45,7.76,outubro/2026
-Cuiabá,Residencial Paiaguás,apartamento,aluguel,50.6,43.6,59.2,21,7.76,outubro/2026
+Cuiabá,Residencial Paiaguás,apartamento,venda,7828.9,5363.6,9602.6,45,8.75,outubro/2026
+Cuiabá,Residencial Paiaguás,apartamento,aluguel,57.1,44.4,59.1,10,8.75,outubro/2026
 Cuiabá,Residencial Santa Inês,apartamento,venda,2648.1,2416.7,2972.2,8,,outubro/2026
 Cuiabá,Residencial São Carlos,apartamento,venda,2743.1,2272.4,4087.5,8,,outubro/2026
-Cuiabá,Ribeirão da Ponte,apartamento,venda,7258.4,6138.2,8681.9,12,9.23,outubro/2026
-Cuiabá,Ribeirão da Ponte,apartamento,aluguel,55.8,46.0,60.2,12,9.23,outubro/2026
-Cuiabá,Ribeirão do Lipa,apartamento,venda,8093.6,5714.3,10122.5,107,7.18,outubro/2026
-Cuiabá,Ribeirão do Lipa,apartamento,aluguel,48.4,39.7,56.1,43,7.18,outubro/2026
+Cuiabá,Ribeirão da Ponte,apartamento,venda,7258.4,6138.2,8681.9,12,10.0,outubro/2026
+Cuiabá,Ribeirão da Ponte,apartamento,aluguel,60.5,59.4,61.9,6,10.0,outubro/2026
+Cuiabá,Ribeirão do Lipa,apartamento,venda,8093.6,5714.3,10122.5,107,7.32,outubro/2026
+Cuiabá,Ribeirão do Lipa,apartamento,aluguel,49.4,41.2,55.7,22,7.32,outubro/2026
 Cuiabá,Rodoviária Parque,apartamento,venda,6148.1,4334.6,6875.8,28,,outubro/2026
 Cuiabá,Santa Cruz,apartamento,venda,5975.0,5531.4,7000.0,5,,outubro/2026
 Cuiabá,Santa Helena,apartamento,venda,5138.9,3374.2,6447.4,25,,outubro/2026
 Cuiabá,Santa Izabel,apartamento,venda,6090.9,4965.9,6738.6,6,,outubro/2026
 Cuiabá,Santa Marta,apartamento,venda,5931.2,5636.1,8194.2,19,,outubro/2026
 Cuiabá,Santa Rosa,apartamento,venda,7990.0,6852.5,10701.2,55,9.94,outubro/2026
-Cuiabá,Santa Rosa,apartamento,aluguel,66.2,42.1,83.0,12,9.94,outubro/2026
+Cuiabá,Santa Rosa,apartamento,aluguel,66.2,51.3,85.3,6,9.94,outubro/2026
 Cuiabá,São Francisco,apartamento,venda,14285.7,13471.5,15673.6,7,,outubro/2026
 Cuiabá,São José,apartamento,venda,6428.6,5428.6,6666.7,5,,outubro/2026
 Cuiabá,Terceiro,apartamento,venda,5972.5,5375.0,7500.0,9,,outubro/2026
-Cuiabá,Terra Nova,apartamento,venda,4386.0,3541.7,7837.8,41,13.05,outubro/2026
-Cuiabá,Terra Nova,apartamento,aluguel,47.7,38.3,55.1,24,13.05,outubro/2026
+Cuiabá,Terra Nova,apartamento,venda,4386.0,3541.7,7837.8,41,11.74,outubro/2026
+Cuiabá,Terra Nova,apartamento,aluguel,42.9,37.0,53.3,11,11.74,outubro/2026
 Cuiabá,Verdão,apartamento,venda,4440.4,3957.5,5003.3,6,,outubro/2026
 Cuiabá,Vista Alegre,apartamento,venda,5428.6,4814.0,5552.7,7,,outubro/2026
 Cuiabá,Altos do Coxipó,terreno,venda,966.2,780.0,1061.3,7,,outubro/2026
@@ -356,44 +344,33 @@ Cuiabá,São Sebastião,terreno,venda,1232.9,1082.3,1444.7,18,,outubro/2026
 Cuiabá,Supremo Itália,terreno,venda,2916.7,2000.0,2969.0,5,,outubro/2026
 Cuiabá,Tijucal,terreno,venda,1063.5,713.3,1363.7,14,,outubro/2026
 Cuiabá,Village Bordeaux,terreno,venda,1700.0,1553.1,1844.0,17,,outubro/2026
-Cuiabá,Alvorada,sala,venda,12692.3,10702.2,16652.8,11,6.69,outubro/2026
-Cuiabá,Alvorada,sala,aluguel,70.8,37.9,105.2,20,6.69,outubro/2026
-Cuiabá,Araés,sala,aluguel,73.5,59.6,84.4,6,,outubro/2026
-Cuiabá,Bandeirantes,sala,venda,5250.6,5093.8,5629.0,8,8.82,outubro/2026
-Cuiabá,Bandeirantes,sala,aluguel,38.6,30.0,62.0,12,8.82,outubro/2026
-Cuiabá,Baú,sala,aluguel,41.4,36.9,57.9,8,,outubro/2026
+Cuiabá,Alvorada,sala,venda,12692.3,10702.2,16652.8,11,6.16,outubro/2026
+Cuiabá,Alvorada,sala,aluguel,65.2,35.1,83.3,11,6.16,outubro/2026
+Cuiabá,Araés,sala,aluguel,67.0,57.1,80.0,5,,outubro/2026
+Cuiabá,Bandeirantes,sala,venda,5250.6,5093.8,5629.0,8,11.27,outubro/2026
+Cuiabá,Bandeirantes,sala,aluguel,49.3,33.5,83.5,8,11.27,outubro/2026
+Cuiabá,Baú,sala,aluguel,42.9,40.0,52.6,5,,outubro/2026
 Cuiabá,Bosque da Saúde,sala,venda,7966.3,6702.1,9585.2,18,8.99,outubro/2026
-Cuiabá,Bosque da Saúde,sala,aluguel,59.7,44.8,72.2,25,8.99,outubro/2026
-Cuiabá,Carumbé,sala,aluguel,70.3,58.1,75.6,6,,outubro/2026
-Cuiabá,Centro Norte,sala,venda,4700.0,3293.8,6395.3,11,9.4,outubro/2026
-Cuiabá,Centro Norte,sala,aluguel,36.8,25.0,61.6,27,9.4,outubro/2026
-Cuiabá,Centro Sul,sala,venda,4838.7,3906.8,5555.6,9,11.63,outubro/2026
-Cuiabá,Centro Sul,sala,aluguel,46.9,26.8,60.8,32,11.63,outubro/2026
+Cuiabá,Bosque da Saúde,sala,aluguel,59.7,50.0,74.0,17,8.99,outubro/2026
+Cuiabá,Centro Norte,sala,venda,4700.0,3293.8,6395.3,11,9.11,outubro/2026
+Cuiabá,Centro Norte,sala,aluguel,35.7,25.0,64.0,16,9.11,outubro/2026
+Cuiabá,Centro Sul,sala,venda,4838.7,3906.8,5555.6,9,12.28,outubro/2026
+Cuiabá,Centro Sul,sala,aluguel,49.5,30.5,71.0,19,12.28,outubro/2026
 Cuiabá,Consil,sala,aluguel,95.0,95.0,95.0,5,,outubro/2026
-Cuiabá,Dom Aquino,sala,aluguel,36.0,18.8,56.3,11,,outubro/2026
-Cuiabá,Duque de Caxias,sala,aluguel,110.2,75.3,133.1,12,,outubro/2026
+Cuiabá,Dom Aquino,sala,aluguel,41.7,22.1,56.3,7,,outubro/2026
+Cuiabá,Duque de Caxias,sala,aluguel,116.7,92.6,131.7,9,,outubro/2026
 Cuiabá,Jardim Cuiabá,sala,venda,12641.5,12500.0,14423.1,5,11.49,outubro/2026
-Cuiabá,Jardim Cuiabá,sala,aluguel,121.0,73.6,143.8,9,11.49,outubro/2026
-Cuiabá,Jardim Itália,sala,aluguel,83.3,81.2,100.0,9,,outubro/2026
-Cuiabá,Jardim Kennedy,sala,aluguel,71.4,51.3,75.0,5,,outubro/2026
-Cuiabá,Jardim Paulista,sala,aluguel,58.8,34.4,146.4,7,,outubro/2026
-Cuiabá,Jardim Petrópolis,sala,aluguel,61.3,51.4,79.2,10,,outubro/2026
-Cuiabá,Jardim Tropical,sala,aluguel,43.5,19.0,50.0,5,,outubro/2026
-Cuiabá,Morada da Serra,sala,aluguel,38.3,31.2,44.0,6,,outubro/2026
+Cuiabá,Jardim Cuiabá,sala,aluguel,121.0,98.0,143.8,5,11.49,outubro/2026
+Cuiabá,Jardim Itália,sala,aluguel,100.0,92.0,107.7,5,,outubro/2026
+Cuiabá,Jardim Petrópolis,sala,aluguel,70.1,51.1,80.0,9,,outubro/2026
 Cuiabá,Paiaguás,sala,aluguel,82.8,76.0,108.3,7,,outubro/2026
-Cuiabá,Pico do Amor,sala,aluguel,62.9,42.5,73.2,7,,outubro/2026
-Cuiabá,Popular,sala,venda,5136.8,5084.0,5792.1,6,12.4,outubro/2026
-Cuiabá,Popular,sala,aluguel,53.1,34.9,72.1,11,12.4,outubro/2026
-Cuiabá,Porto,sala,aluguel,42.7,35.8,51.7,6,,outubro/2026
-Cuiabá,Quilombo,sala,aluguel,60.4,40.9,84.2,28,,outubro/2026
-Cuiabá,Residencial Paiaguás,sala,venda,14117.6,13541.7,16176.5,9,8.25,outubro/2026
-Cuiabá,Residencial Paiaguás,sala,aluguel,97.0,75.0,114.3,17,8.25,outubro/2026
-Cuiabá,Ribeirão da Ponte,sala,aluguel,70.2,53.8,77.8,5,,outubro/2026
-Cuiabá,Santa Cruz,sala,aluguel,121.7,91.2,134.4,6,,outubro/2026
-Cuiabá,Santa Rosa,sala,aluguel,98.0,76.6,127.5,16,,outubro/2026
-Cuiabá,Centro Norte,galpao,aluguel,32.7,14.4,42.1,5,,outubro/2026
-Cuiabá,Distrito Industrial,galpao,venda,1805.2,1389.6,2236.3,10,12.43,outubro/2026
-Cuiabá,Distrito Industrial,galpao,aluguel,18.7,17.3,23.0,46,12.43,outubro/2026
-Cuiabá,Novo Terceiro,galpao,aluguel,30.0,24.9,30.0,5,,outubro/2026
-Cuiabá,Pico do Amor,galpao,aluguel,24.3,21.9,46.7,6,,outubro/2026
+Cuiabá,Popular,sala,venda,5136.8,5084.0,5792.1,6,13.71,outubro/2026
+Cuiabá,Popular,sala,aluguel,58.7,50.8,76.1,6,13.71,outubro/2026
+Cuiabá,Quilombo,sala,aluguel,70.3,46.5,83.8,14,,outubro/2026
+Cuiabá,Residencial Paiaguás,sala,venda,14117.6,13541.7,16176.5,9,9.0,outubro/2026
+Cuiabá,Residencial Paiaguás,sala,aluguel,105.9,90.8,111.3,8,9.0,outubro/2026
+Cuiabá,Santa Cruz,sala,aluguel,114.9,83.3,128.6,5,,outubro/2026
+Cuiabá,Santa Rosa,sala,aluguel,77.8,75.4,165.0,9,,outubro/2026
+Cuiabá,Distrito Industrial,galpao,venda,1805.2,1389.6,2236.3,10,11.97,outubro/2026
+Cuiabá,Distrito Industrial,galpao,aluguel,18.0,16.8,22.8,35,11.97,outubro/2026
 Cuiabá,Porto,galpao,aluguel,20.2,20.0,20.6,5,,outubro/2026

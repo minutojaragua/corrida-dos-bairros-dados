@@ -1,5 +1,5 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
-Pomerode,Centro,casa,venda,5627.8,3873.6,7258.2,184,6.76,outubro/2026
+Pomerode,Centro,casa,venda,5625.0,3860.7,7266.3,183,6.76,outubro/2026
 Pomerode,Centro,casa,aluguel,31.7,27.9,34.2,6,6.76,outubro/2026
 Pomerode,Jardim Pomerania,casa,venda,7759.6,6721.8,8891.6,7,,outubro/2026
 Pomerode,Pomerode Fundos,casa,venda,5000.5,4405.1,5434.0,30,,outubro/2026
@@ -11,8 +11,8 @@ Pomerode,Testo Central,casa,venda,4426.5,3560.2,5813.0,36,,outubro/2026
 Pomerode,Testo Central Alto,casa,venda,6221.5,4125.4,6634.9,8,,outubro/2026
 Pomerode,Testo Rega,casa,venda,5082.7,3317.8,6710.3,64,,outubro/2026
 Pomerode,Wunderwald,casa,venda,4636.0,4105.9,7812.5,17,,outubro/2026
-Pomerode,Centro,apartamento,venda,8078.0,6536.5,11744.2,190,4.86,outubro/2026
-Pomerode,Centro,apartamento,aluguel,32.7,25.3,37.7,15,4.86,outubro/2026
+Pomerode,Centro,apartamento,venda,8115.9,6619.7,11774.2,189,4.83,outubro/2026
+Pomerode,Centro,apartamento,aluguel,32.7,25.3,37.7,15,4.83,outubro/2026
 Pomerode,Pomerode Fundos,apartamento,venda,6226.9,5703.7,6544.6,6,,outubro/2026
 Pomerode,Ribeirão Areia,apartamento,venda,6591.1,6181.7,7309.9,17,,outubro/2026
 Pomerode,Testo Central,apartamento,venda,5831.2,5512.5,6669.5,7,,outubro/2026
