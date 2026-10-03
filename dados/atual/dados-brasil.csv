@@ -8658,169 +8658,210 @@ joao-pessoa,João Pessoa,Torre,sala,venda,4200.0,3232.1,5312.5,15,13.89,outubro/
 joao-pessoa,João Pessoa,Torre,sala,aluguel,48.6,32.1,81.5,26,13.89,outubro/2026
 joao-pessoa,João Pessoa,Distrito Industrial,galpao,aluguel,15.0,13.5,17.0,19,,outubro/2026
 joao-pessoa,João Pessoa,Indústrias,galpao,aluguel,11.6,11.0,16.8,10,,outubro/2026
-joinville,Joinville,Adhemar Garcia,apartamento,venda,4384.6,3118.9,6964.4,7,,outubro/2026
-joinville,Joinville,América,apartamento,venda,9578.5,6910.2,11764.8,349,4.76,outubro/2026
-joinville,Joinville,América,apartamento,aluguel,38.0,33.7,47.2,40,4.76,outubro/2026
-joinville,Joinville,Anita Garibaldi,apartamento,venda,8142.2,6278.6,9933.0,280,5.56,outubro/2026
-joinville,Joinville,Anita Garibaldi,apartamento,aluguel,37.7,31.2,45.2,48,5.56,outubro/2026
-joinville,Joinville,Atiradores,apartamento,venda,9090.9,6935.5,11268.3,231,4.42,outubro/2026
-joinville,Joinville,Atiradores,apartamento,aluguel,33.5,25.8,55.1,27,4.42,outubro/2026
-joinville,Joinville,Aventureiro,apartamento,venda,5526.9,5078.7,6133.5,22,6.32,outubro/2026
-joinville,Joinville,Aventureiro,apartamento,aluguel,29.1,26.4,31.6,7,6.32,outubro/2026
-joinville,Joinville,Boa Vista,apartamento,venda,5421.6,4277.1,6314.7,15,7.28,outubro/2026
-joinville,Joinville,Boa Vista,apartamento,aluguel,32.9,28.5,35.7,10,7.28,outubro/2026
-joinville,Joinville,Boehmerwald,apartamento,venda,4356.1,4078.8,4400.3,6,8.9,outubro/2026
-joinville,Joinville,Boehmerwald,apartamento,aluguel,32.3,24.0,34.6,13,8.9,outubro/2026
-joinville,Joinville,Bom Retiro,apartamento,venda,6433.3,5270.3,7919.9,72,5.89,outubro/2026
-joinville,Joinville,Bom Retiro,apartamento,aluguel,31.6,28.0,33.7,26,5.89,outubro/2026
-joinville,Joinville,Bucarein,apartamento,venda,6554.9,4774.8,8109.9,56,6.35,outubro/2026
-joinville,Joinville,Bucarein,apartamento,aluguel,34.7,29.2,41.6,16,6.35,outubro/2026
-joinville,Joinville,Centro,apartamento,venda,8830.4,6569.1,11571.9,138,5.95,outubro/2026
-joinville,Joinville,Centro,apartamento,aluguel,43.8,33.8,57.1,39,5.95,outubro/2026
-joinville,Joinville,Comasa,apartamento,venda,5918.4,4864.3,6482.2,7,8.48,outubro/2026
-joinville,Joinville,Comasa,apartamento,aluguel,41.8,31.8,51.6,6,8.48,outubro/2026
-joinville,Joinville,Costa e Silva,apartamento,venda,6263.7,5142.9,7694.4,181,6.63,outubro/2026
-joinville,Joinville,Costa e Silva,apartamento,aluguel,34.6,27.7,43.3,44,6.63,outubro/2026
-joinville,Joinville,Espinheiros,apartamento,venda,5285.7,3963.4,6372.5,5,,outubro/2026
-joinville,Joinville,Fátima,apartamento,venda,5304.1,4904.2,6475.8,7,,outubro/2026
-joinville,Joinville,Floresta,apartamento,venda,6121.8,4746.0,7386.8,75,6.33,outubro/2026
-joinville,Joinville,Floresta,apartamento,aluguel,32.3,29.1,37.2,32,6.33,outubro/2026
-joinville,Joinville,Glória,apartamento,venda,7840.2,6409.8,9392.7,112,5.74,outubro/2026
-joinville,Joinville,Glória,apartamento,aluguel,37.5,31.4,49.1,27,5.74,outubro/2026
-joinville,Joinville,Guanabara,apartamento,venda,6000.0,4935.9,6860.5,25,5.88,outubro/2026
-joinville,Joinville,Guanabara,apartamento,aluguel,29.4,26.8,35.3,5,5.88,outubro/2026
-joinville,Joinville,Iririú,apartamento,venda,5695.6,4837.4,6918.8,42,6.05,outubro/2026
-joinville,Joinville,Iririú,apartamento,aluguel,28.7,26.5,34.0,14,6.05,outubro/2026
-joinville,Joinville,Itaum,apartamento,venda,5436.3,4849.6,5821.6,18,6.84,outubro/2026
-joinville,Joinville,Itaum,apartamento,aluguel,31.0,28.9,34.7,12,6.84,outubro/2026
-joinville,Joinville,Jardim Iririú,apartamento,venda,5087.5,4665.7,6114.8,8,7.17,outubro/2026
-joinville,Joinville,Jardim Iririú,apartamento,aluguel,30.4,24.2,36.2,5,7.17,outubro/2026
-joinville,Joinville,Jardim Sofia,apartamento,venda,4754.9,4374.6,5536.8,12,6.76,outubro/2026
-joinville,Joinville,Jardim Sofia,apartamento,aluguel,26.8,24.1,29.1,6,6.76,outubro/2026
-joinville,Joinville,Jarivatuba,apartamento,venda,4918.3,4289.9,6032.3,6,,outubro/2026
-joinville,Joinville,João Costa,apartamento,venda,4437.6,4029.4,4876.0,14,7.38,outubro/2026
-joinville,Joinville,João Costa,apartamento,aluguel,27.3,26.5,31.7,7,7.38,outubro/2026
-joinville,Joinville,Nova Brasília,apartamento,venda,6738.4,6291.9,7212.3,8,,outubro/2026
-joinville,Joinville,Paranaguamirim,apartamento,venda,4213.7,3867.8,5151.7,11,7.43,outubro/2026
-joinville,Joinville,Paranaguamirim,apartamento,aluguel,26.1,22.0,29.8,5,7.43,outubro/2026
-joinville,Joinville,Parque Guarani,apartamento,venda,4983.3,4883.7,5271.2,9,6.6,outubro/2026
-joinville,Joinville,Parque Guarani,apartamento,aluguel,27.4,25.8,28.0,5,6.6,outubro/2026
-joinville,Joinville,Petrópolis,apartamento,venda,5037.6,4514.8,6415.6,10,7.24,outubro/2026
-joinville,Joinville,Petrópolis,apartamento,aluguel,30.4,28.4,31.8,7,7.24,outubro/2026
-joinville,Joinville,Pirabeiraba,apartamento,venda,6730.3,5443.1,7616.1,16,5.58,outubro/2026
-joinville,Joinville,Pirabeiraba,apartamento,aluguel,31.3,26.4,34.8,8,5.58,outubro/2026
-joinville,Joinville,Saguaçu,apartamento,venda,7236.6,5788.4,9087.1,180,5.85,outubro/2026
-joinville,Joinville,Saguaçu,apartamento,aluguel,35.3,31.9,42.5,24,5.85,outubro/2026
-joinville,Joinville,Santa Catarina,apartamento,venda,6170.1,4735.7,7405.6,10,5.83,outubro/2026
-joinville,Joinville,Santa Catarina,apartamento,aluguel,30.0,28.0,32.6,7,5.83,outubro/2026
-joinville,Joinville,Santo Antônio,apartamento,venda,7402.9,5611.8,9551.2,202,5.9,outubro/2026
-joinville,Joinville,Santo Antônio,apartamento,aluguel,36.4,31.0,46.2,40,5.9,outubro/2026
-joinville,Joinville,São Marcos,apartamento,venda,5654.0,4627.4,5938.7,10,6.11,outubro/2026
-joinville,Joinville,São Marcos,apartamento,aluguel,28.8,24.2,33.6,15,6.11,outubro/2026
-joinville,Joinville,Vila Nova,apartamento,venda,4788.5,4537.0,5942.0,37,5.79,outubro/2026
-joinville,Joinville,Vila Nova,apartamento,aluguel,23.1,21.6,28.5,12,5.79,outubro/2026
-joinville,Joinville,Zona Industrial Norte,apartamento,venda,5842.6,4950.8,6259.2,6,,outubro/2026
-joinville,Joinville,Adhemar Garcia,casa,venda,4045.5,2968.8,4952.5,28,,outubro/2026
-joinville,Joinville,América,casa,venda,7486.8,6095.0,8660.3,86,5.51,outubro/2026
-joinville,Joinville,América,casa,aluguel,34.4,31.7,34.6,5,5.51,outubro/2026
-joinville,Joinville,Anita Garibaldi,casa,venda,6188.3,5076.1,6747.4,62,,outubro/2026
-joinville,Joinville,Atiradores,casa,venda,7345.7,6211.3,8736.6,19,,outubro/2026
-joinville,Joinville,Aventureiro,casa,venda,4751.2,3345.0,5953.5,58,,outubro/2026
-joinville,Joinville,Boa Vista,casa,venda,5303.0,4198.8,6241.6,74,8.3,outubro/2026
-joinville,Joinville,Boa Vista,casa,aluguel,36.7,30.0,37.9,5,8.3,outubro/2026
-joinville,Joinville,Boehmerwald,casa,venda,4389.0,3150.9,5336.2,60,7.87,outubro/2026
-joinville,Joinville,Boehmerwald,casa,aluguel,28.8,27.8,31.3,5,7.87,outubro/2026
-joinville,Joinville,Bom Retiro,casa,venda,6229.0,5238.0,7027.2,104,5.64,outubro/2026
-joinville,Joinville,Bom Retiro,casa,aluguel,29.3,28.4,40.5,7,5.64,outubro/2026
-joinville,Joinville,Bucarein,casa,venda,4716.2,3952.7,5975.6,29,,outubro/2026
-joinville,Joinville,Centro,casa,venda,4944.0,4918.0,7142.9,5,,outubro/2026
-joinville,Joinville,Comasa,casa,venda,5119.9,4692.1,5663.2,24,,outubro/2026
-joinville,Joinville,Costa e Silva,casa,venda,5378.3,4244.8,6022.7,118,,outubro/2026
-joinville,Joinville,Espinheiros,casa,venda,5301.0,4945.7,6124.9,16,,outubro/2026
-joinville,Joinville,Fátima,casa,venda,3809.3,2700.2,5560.7,19,,outubro/2026
-joinville,Joinville,Floresta,casa,venda,5231.2,3805.1,6337.9,144,5.99,outubro/2026
-joinville,Joinville,Floresta,casa,aluguel,26.1,22.4,39.4,8,5.99,outubro/2026
-joinville,Joinville,Glória,casa,venda,7047.8,5770.9,8835.3,160,6.67,outubro/2026
-joinville,Joinville,Glória,casa,aluguel,39.2,34.6,53.6,7,6.67,outubro/2026
-joinville,Joinville,Guanabara,casa,venda,4535.9,3763.5,5567.2,39,,outubro/2026
-joinville,Joinville,Iririú,casa,venda,4899.7,4238.7,5825.0,78,5.83,outubro/2026
-joinville,Joinville,Iririú,casa,aluguel,23.8,23.7,25.9,5,5.83,outubro/2026
-joinville,Joinville,Itaum,casa,venda,4429.0,3404.8,5495.1,52,,outubro/2026
-joinville,Joinville,Itinga,casa,venda,3906.5,3016.7,5538.6,24,,outubro/2026
-joinville,Joinville,Jardim Iririú,casa,venda,4827.8,3920.7,5493.9,35,,outubro/2026
-joinville,Joinville,Jardim Paraíso,casa,venda,4431.7,3142.8,5784.4,16,,outubro/2026
-joinville,Joinville,Jardim Sofia,casa,venda,5626.7,4365.1,6740.3,29,,outubro/2026
-joinville,Joinville,Jarivatuba,casa,venda,4052.6,3385.1,5234.6,19,,outubro/2026
-joinville,Joinville,João Costa,casa,venda,4208.4,2952.6,5360.4,42,,outubro/2026
-joinville,Joinville,Morro do Meio,casa,venda,3799.0,3104.2,4884.8,19,,outubro/2026
-joinville,Joinville,Nova Brasília,casa,venda,4400.0,3200.0,5344.8,49,,outubro/2026
-joinville,Joinville,Paranaguamirim,casa,venda,3998.6,2757.9,4898.8,47,,outubro/2026
-joinville,Joinville,Parque Guarani,casa,venda,4110.8,3247.9,4741.0,26,,outubro/2026
-joinville,Joinville,Petrópolis,casa,venda,3975.1,3027.3,5603.7,43,8.33,outubro/2026
-joinville,Joinville,Petrópolis,casa,aluguel,27.6,26.0,28.6,9,8.33,outubro/2026
-joinville,Joinville,Pirabeiraba,casa,venda,5750.0,4608.7,8513.6,29,,outubro/2026
-joinville,Joinville,Profipo,casa,venda,3642.9,2612.7,4055.7,7,,outubro/2026
-joinville,Joinville,Saguaçu,casa,venda,6373.8,5071.2,7435.4,118,,outubro/2026
-joinville,Joinville,Santa Catarina,casa,venda,4750.0,3714.3,5641.5,29,,outubro/2026
-joinville,Joinville,Santo Antônio,casa,venda,5730.3,4413.4,7387.7,63,,outubro/2026
-joinville,Joinville,São Marcos,casa,venda,5272.5,4265.7,6200.5,36,,outubro/2026
+joinville,Joinville,Adhemar Garcia,apartamento,venda,5000.0,4374.5,5627.2,19,5.9,outubro/2026
+joinville,Joinville,Adhemar Garcia,apartamento,aluguel,24.6,23.2,25.9,6,5.9,outubro/2026
+joinville,Joinville,América,apartamento,venda,9090.9,6718.9,11528.3,756,4.99,outubro/2026
+joinville,Joinville,América,apartamento,aluguel,37.8,31.3,44.5,77,4.99,outubro/2026
+joinville,Joinville,Anita Garibaldi,apartamento,venda,7579.4,5989.6,9993.7,605,6.27,outubro/2026
+joinville,Joinville,Anita Garibaldi,apartamento,aluguel,39.6,31.3,48.4,76,6.27,outubro/2026
+joinville,Joinville,Atiradores,apartamento,venda,8857.1,6771.5,11251.9,501,5.15,outubro/2026
+joinville,Joinville,Atiradores,apartamento,aluguel,38.0,27.6,49.0,47,5.15,outubro/2026
+joinville,Joinville,Aventureiro,apartamento,venda,5229.5,4816.7,5889.0,61,6.93,outubro/2026
+joinville,Joinville,Aventureiro,apartamento,aluguel,30.2,26.1,32.9,18,6.93,outubro/2026
+joinville,Joinville,Boa Vista,apartamento,venda,6086.3,4603.0,7611.5,36,6.37,outubro/2026
+joinville,Joinville,Boa Vista,apartamento,aluguel,32.3,27.2,36.0,16,6.37,outubro/2026
+joinville,Joinville,Boehmerwald,apartamento,venda,4499.8,4334.8,4988.9,15,7.04,outubro/2026
+joinville,Joinville,Boehmerwald,apartamento,aluguel,26.4,23.8,34.3,15,7.04,outubro/2026
+joinville,Joinville,Bom Retiro,apartamento,venda,6688.1,5337.7,8098.4,172,5.78,outubro/2026
+joinville,Joinville,Bom Retiro,apartamento,aluguel,32.2,28.0,39.1,49,5.78,outubro/2026
+joinville,Joinville,Bucarein,apartamento,venda,6036.6,4449.6,7691.4,126,6.24,outubro/2026
+joinville,Joinville,Bucarein,apartamento,aluguel,31.4,28.7,43.5,29,6.24,outubro/2026
+joinville,Joinville,Centro,apartamento,venda,8641.1,6516.4,11388.1,322,5.44,outubro/2026
+joinville,Joinville,Centro,apartamento,aluguel,39.2,29.6,50.2,67,5.44,outubro/2026
+joinville,Joinville,Comasa,apartamento,venda,5165.4,4948.1,6352.2,18,8.74,outubro/2026
+joinville,Joinville,Comasa,apartamento,aluguel,37.6,31.9,51.5,7,8.74,outubro/2026
+joinville,Joinville,Costa e Silva,apartamento,venda,6083.7,4924.9,7648.2,381,6.57,outubro/2026
+joinville,Joinville,Costa e Silva,apartamento,aluguel,33.3,27.5,40.8,71,6.57,outubro/2026
+joinville,Joinville,Espinheiros,apartamento,venda,5496.8,4491.8,6473.2,16,,outubro/2026
+joinville,Joinville,Fátima,apartamento,venda,5246.5,4633.8,6396.7,24,6.36,outubro/2026
+joinville,Joinville,Fátima,apartamento,aluguel,27.8,25.0,30.4,6,6.36,outubro/2026
+joinville,Joinville,Floresta,apartamento,venda,5333.2,4352.2,6751.2,164,7.18,outubro/2026
+joinville,Joinville,Floresta,apartamento,aluguel,31.9,27.7,37.0,46,7.18,outubro/2026
+joinville,Joinville,Glória,apartamento,venda,7490.6,5865.0,10151.1,267,6.07,outubro/2026
+joinville,Joinville,Glória,apartamento,aluguel,37.9,31.9,49.5,38,6.07,outubro/2026
+joinville,Joinville,Guanabara,apartamento,venda,5763.6,4576.8,6626.6,50,6.75,outubro/2026
+joinville,Joinville,Guanabara,apartamento,aluguel,32.4,26.8,37.5,8,6.75,outubro/2026
+joinville,Joinville,Iririú,apartamento,venda,5302.7,4620.3,6875.0,101,6.97,outubro/2026
+joinville,Joinville,Iririú,apartamento,aluguel,30.8,26.7,34.2,23,6.97,outubro/2026
+joinville,Joinville,Itaum,apartamento,venda,5451.0,4375.0,6362.7,53,6.89,outubro/2026
+joinville,Joinville,Itaum,apartamento,aluguel,31.3,28.9,34.7,16,6.89,outubro/2026
+joinville,Joinville,Jardim Iririú,apartamento,venda,4941.2,4290.9,5674.8,30,7.38,outubro/2026
+joinville,Joinville,Jardim Iririú,apartamento,aluguel,30.4,25.8,35.9,11,7.38,outubro/2026
+joinville,Joinville,Jardim Paraíso,apartamento,venda,3419.2,3007.6,4085.8,8,,outubro/2026
+joinville,Joinville,Jardim Sofia,apartamento,venda,5404.5,4535.5,6465.7,20,5.95,outubro/2026
+joinville,Joinville,Jardim Sofia,apartamento,aluguel,26.8,24.1,29.1,6,5.95,outubro/2026
+joinville,Joinville,Jarivatuba,apartamento,venda,4912.3,4137.9,5414.6,13,6.4,outubro/2026
+joinville,Joinville,Jarivatuba,apartamento,aluguel,26.2,23.0,31.6,6,6.4,outubro/2026
+joinville,Joinville,João Costa,apartamento,venda,4680.9,3753.2,5658.4,31,7.69,outubro/2026
+joinville,Joinville,João Costa,apartamento,aluguel,30.0,27.0,33.3,13,7.69,outubro/2026
+joinville,Joinville,Nova Brasília,apartamento,venda,6234.2,4413.5,6931.0,20,,outubro/2026
+joinville,Joinville,Paranaguamirim,apartamento,venda,4831.8,4067.4,5489.7,26,7.4,outubro/2026
+joinville,Joinville,Paranaguamirim,apartamento,aluguel,29.8,24.0,30.5,7,7.4,outubro/2026
+joinville,Joinville,Parque Guarani,apartamento,venda,4931.9,4597.6,5223.3,14,6.74,outubro/2026
+joinville,Joinville,Parque Guarani,apartamento,aluguel,27.7,25.4,30.8,8,6.74,outubro/2026
+joinville,Joinville,Petrópolis,apartamento,venda,5489.8,4546.4,6259.1,23,6.51,outubro/2026
+joinville,Joinville,Petrópolis,apartamento,aluguel,29.8,26.8,31.8,11,6.51,outubro/2026
+joinville,Joinville,Pirabeiraba,apartamento,venda,6277.5,5443.1,7434.7,24,5.81,outubro/2026
+joinville,Joinville,Pirabeiraba,apartamento,aluguel,30.4,26.4,34.6,9,5.81,outubro/2026
+joinville,Joinville,Pirabeiraba (Pirabeiraba),apartamento,venda,6833.2,6087.0,8239.1,9,,outubro/2026
+joinville,Joinville,Saguaçu,apartamento,venda,7149.2,5552.0,8887.8,412,5.84,outubro/2026
+joinville,Joinville,Saguaçu,apartamento,aluguel,34.8,29.3,41.2,37,5.84,outubro/2026
+joinville,Joinville,Santa Catarina,apartamento,venda,5491.1,4450.1,6882.0,22,6.56,outubro/2026
+joinville,Joinville,Santa Catarina,apartamento,aluguel,30.0,28.9,31.9,8,6.56,outubro/2026
+joinville,Joinville,Santo Antônio,apartamento,venda,7213.6,5363.4,9352.8,420,5.86,outubro/2026
+joinville,Joinville,Santo Antônio,apartamento,aluguel,35.2,30.5,45.6,60,5.86,outubro/2026
+joinville,Joinville,São Marcos,apartamento,venda,5384.6,4460.2,5978.7,23,6.51,outubro/2026
+joinville,Joinville,São Marcos,apartamento,aluguel,29.2,26.8,34.9,17,6.51,outubro/2026
+joinville,Joinville,Vila Nova,apartamento,venda,4916.7,4250.0,6234.4,89,6.3,outubro/2026
+joinville,Joinville,Vila Nova,apartamento,aluguel,25.8,21.6,31.1,23,6.3,outubro/2026
+joinville,Joinville,Zona Industrial Norte,apartamento,venda,6194.0,4950.8,6691.3,14,6.82,outubro/2026
+joinville,Joinville,Zona Industrial Norte,apartamento,aluguel,35.2,25.6,44.8,6,6.82,outubro/2026
+joinville,Joinville,Adhemar Garcia,casa,venda,4045.5,2787.5,4981.4,56,,outubro/2026
+joinville,Joinville,América,casa,venda,7774.4,6370.3,9395.6,210,5.31,outubro/2026
+joinville,Joinville,América,casa,aluguel,34.4,31.4,48.3,11,5.31,outubro/2026
+joinville,Joinville,Anita Garibaldi,casa,venda,5866.5,4661.3,7035.7,146,6.75,outubro/2026
+joinville,Joinville,Anita Garibaldi,casa,aluguel,33.0,21.8,39.2,8,6.75,outubro/2026
+joinville,Joinville,Atiradores,casa,venda,7256.1,5303.0,9200.0,41,,outubro/2026
+joinville,Joinville,Aventureiro,casa,venda,4999.8,3368.3,6055.5,144,7.2,outubro/2026
+joinville,Joinville,Aventureiro,casa,aluguel,30.0,24.8,35.9,9,7.2,outubro/2026
+joinville,Joinville,Boa Vista,casa,venda,5529.8,4301.7,6538.5,169,7.33,outubro/2026
+joinville,Joinville,Boa Vista,casa,aluguel,33.8,29.4,37.9,9,7.33,outubro/2026
+joinville,Joinville,Boehmerwald,casa,venda,4428.6,3049.5,5445.5,105,7.67,outubro/2026
+joinville,Joinville,Boehmerwald,casa,aluguel,28.3,20.2,30.7,6,7.67,outubro/2026
+joinville,Joinville,Bom Retiro,casa,venda,5813.8,4804.2,6926.6,214,7.64,outubro/2026
+joinville,Joinville,Bom Retiro,casa,aluguel,37.0,29.0,41.8,14,7.64,outubro/2026
+joinville,Joinville,Bucarein,casa,venda,4859.2,3917.2,6016.7,57,8.74,outubro/2026
+joinville,Joinville,Bucarein,casa,aluguel,35.4,34.0,76.9,5,8.74,outubro/2026
+joinville,Joinville,Centro,casa,venda,6578.9,5494.8,7777.0,25,,outubro/2026
+joinville,Joinville,Centro (Pirabeiraba),casa,venda,6370.8,4794.2,7410.7,13,,outubro/2026
+joinville,Joinville,Comasa,casa,venda,5000.0,3892.3,5801.6,71,,outubro/2026
+joinville,Joinville,Costa e Silva,casa,venda,5520.7,4482.7,6310.9,243,5.89,outubro/2026
+joinville,Joinville,Costa e Silva,casa,aluguel,27.1,24.7,29.0,10,5.89,outubro/2026
+joinville,Joinville,Espinheiros,casa,venda,5313.3,4798.5,6257.9,46,,outubro/2026
+joinville,Joinville,Fátima,casa,venda,4073.5,2744.3,5237.7,40,8.57,outubro/2026
+joinville,Joinville,Fátima,casa,aluguel,29.1,24.1,29.3,5,8.57,outubro/2026
+joinville,Joinville,Floresta,casa,venda,5182.2,3886.1,6111.1,285,5.79,outubro/2026
+joinville,Joinville,Floresta,casa,aluguel,25.0,21.2,33.8,11,5.79,outubro/2026
+joinville,Joinville,Glória,casa,venda,7075.8,5770.3,8655.2,311,5.94,outubro/2026
+joinville,Joinville,Glória,casa,aluguel,35.0,29.0,42.7,12,5.94,outubro/2026
+joinville,Joinville,Guanabara,casa,venda,4829.5,3866.4,5903.6,89,,outubro/2026
+joinville,Joinville,Iririú,casa,venda,5118.1,4374.8,6117.9,191,6.31,outubro/2026
+joinville,Joinville,Iririú,casa,aluguel,26.9,23.7,30.0,13,6.31,outubro/2026
+joinville,Joinville,Itaum,casa,venda,4687.5,3501.6,5595.7,107,,outubro/2026
+joinville,Joinville,Itinga,casa,venda,3940.0,3075.0,5341.1,40,,outubro/2026
+joinville,Joinville,Jardim Iririú,casa,venda,4800.0,3984.0,5615.4,89,7.92,outubro/2026
+joinville,Joinville,Jardim Iririú,casa,aluguel,31.7,29.9,33.3,6,7.92,outubro/2026
+joinville,Joinville,Jardim Paraíso,casa,venda,4916.7,3203.5,5825.8,43,,outubro/2026
+joinville,Joinville,Jardim Sofia,casa,venda,5801.7,4395.5,7021.3,75,,outubro/2026
+joinville,Joinville,Jarivatuba,casa,venda,4052.6,3307.0,5260.7,43,,outubro/2026
+joinville,Joinville,João Costa,casa,venda,4285.7,3134.5,5376.9,81,,outubro/2026
+joinville,Joinville,Morro do Meio,casa,venda,3783.8,2833.3,4928.6,41,,outubro/2026
+joinville,Joinville,Nova Brasília,casa,venda,4642.9,3432.6,5317.3,111,7.34,outubro/2026
+joinville,Joinville,Nova Brasília,casa,aluguel,28.4,24.8,37.1,6,7.34,outubro/2026
+joinville,Joinville,Paranaguamirim,casa,venda,4000.0,2800.0,4915.3,81,7.08,outubro/2026
+joinville,Joinville,Paranaguamirim,casa,aluguel,23.6,19.0,25.0,5,7.08,outubro/2026
+joinville,Joinville,Parque Guarani,casa,venda,4175.0,3299.3,4904.3,36,,outubro/2026
+joinville,Joinville,Petrópolis,casa,venda,4457.3,3145.5,5572.9,86,7.54,outubro/2026
+joinville,Joinville,Petrópolis,casa,aluguel,28.0,26.0,28.6,10,7.54,outubro/2026
+joinville,Joinville,Pirabeiraba,casa,venda,6429.2,4789.6,8351.1,36,,outubro/2026
+joinville,Joinville,Pirabeiraba (Pirabeiraba),casa,venda,6293.1,4772.3,7162.6,15,,outubro/2026
+joinville,Joinville,Profipo,casa,venda,3637.7,3015.1,4345.5,12,,outubro/2026
+joinville,Joinville,Rio Bonito (Pirabeiraba),casa,venda,5238.1,2258.1,6015.0,9,,outubro/2026
+joinville,Joinville,Saguaçu,casa,venda,6454.5,5355.9,7388.8,243,5.56,outubro/2026
+joinville,Joinville,Saguaçu,casa,aluguel,29.9,27.1,44.6,9,5.56,outubro/2026
+joinville,Joinville,Santa Catarina,casa,venda,4750.0,3964.3,5685.7,67,6.87,outubro/2026
+joinville,Joinville,Santa Catarina,casa,aluguel,27.2,25.0,28.0,5,6.87,outubro/2026
+joinville,Joinville,Santo Antônio,casa,venda,6042.5,5000.0,7356.9,121,,outubro/2026
+joinville,Joinville,São Marcos,casa,venda,5750.0,4737.6,6655.6,85,,outubro/2026
 joinville,Joinville,Ulisses Guimarães,casa,venda,4708.0,3291.5,5133.9,6,,outubro/2026
-joinville,Joinville,Ulysses Guimarães,casa,venda,2916.7,1917.3,5060.9,11,,outubro/2026
-joinville,Joinville,Vila Nova,casa,venda,5633.0,4751.8,6712.4,114,5.86,outubro/2026
-joinville,Joinville,Vila Nova,casa,aluguel,27.5,25.8,30.8,5,5.86,outubro/2026
-joinville,Joinville,Zona Industrial Norte,casa,venda,5800.8,5147.3,6775.4,6,,outubro/2026
-joinville,Joinville,América,terreno,venda,1986.8,1516.6,2516.4,25,,outubro/2026
-joinville,Joinville,Anita Garibaldi,terreno,venda,1436.0,1055.8,1798.3,28,,outubro/2026
-joinville,Joinville,Atiradores,terreno,venda,2193.6,1636.3,2840.3,11,,outubro/2026
-joinville,Joinville,Aventureiro,terreno,venda,1121.8,923.1,1288.0,6,,outubro/2026
-joinville,Joinville,Boa Vista,terreno,venda,993.4,911.4,1072.7,12,,outubro/2026
-joinville,Joinville,Boehmerwald,terreno,venda,763.5,601.4,1047.1,24,,outubro/2026
-joinville,Joinville,Bom Retiro,terreno,venda,1092.1,776.5,1273.6,18,,outubro/2026
-joinville,Joinville,Bucarein,terreno,venda,2007.3,1573.8,2085.4,8,,outubro/2026
-joinville,Joinville,Centro,terreno,venda,2434.1,1507.4,3121.6,7,,outubro/2026
-joinville,Joinville,Costa e Silva,terreno,venda,1042.6,726.5,1364.5,20,,outubro/2026
-joinville,Joinville,Espinheiros,terreno,venda,1550.0,986.8,1679.3,9,,outubro/2026
-joinville,Joinville,Fátima,terreno,venda,675.0,571.8,799.0,6,,outubro/2026
-joinville,Joinville,Floresta,terreno,venda,900.7,802.2,1082.1,46,,outubro/2026
-joinville,Joinville,Glória,terreno,venda,1499.9,1090.0,1881.0,29,,outubro/2026
-joinville,Joinville,Guanabara,terreno,venda,1014.3,709.6,1369.5,10,,outubro/2026
-joinville,Joinville,Iririú,terreno,venda,1105.6,884.0,1277.9,15,,outubro/2026
-joinville,Joinville,Itaum,terreno,venda,912.2,735.8,1054.1,21,,outubro/2026
-joinville,Joinville,Itinga,terreno,venda,649.3,538.0,717.4,15,,outubro/2026
-joinville,Joinville,Jarivatuba,terreno,venda,737.2,459.6,887.8,7,,outubro/2026
-joinville,Joinville,João Costa,terreno,venda,698.6,622.2,988.9,9,,outubro/2026
-joinville,Joinville,Morro do Meio,terreno,venda,589.7,508.3,608.0,5,,outubro/2026
-joinville,Joinville,Nova Brasília,terreno,venda,572.0,362.2,675.7,16,,outubro/2026
-joinville,Joinville,Paranaguamirim,terreno,venda,665.5,448.6,711.5,16,,outubro/2026
-joinville,Joinville,Parque Guarani,terreno,venda,833.1,527.8,984.5,5,,outubro/2026
-joinville,Joinville,Petrópolis,terreno,venda,737.8,568.2,1046.8,10,,outubro/2026
-joinville,Joinville,Pirabeiraba,terreno,venda,660.0,418.2,834.0,15,,outubro/2026
-joinville,Joinville,Pirabeiraba (Pirabeiraba),terreno,venda,552.8,333.0,799.0,5,,outubro/2026
-joinville,Joinville,Profipo,terreno,venda,627.7,627.5,711.9,5,,outubro/2026
-joinville,Joinville,Rio Bonito (Pirabeiraba),terreno,venda,386.2,299.1,424.1,8,,outubro/2026
-joinville,Joinville,Saguaçu,terreno,venda,1416.6,1093.2,1698.9,15,,outubro/2026
-joinville,Joinville,Santa Catarina,terreno,venda,734.8,420.2,886.8,11,,outubro/2026
-joinville,Joinville,Santo Antônio,terreno,venda,1607.7,1331.3,1971.7,10,,outubro/2026
-joinville,Joinville,Vila Nova,terreno,venda,949.6,545.5,1445.1,33,,outubro/2026
-joinville,Joinville,Zona Industrial Norte,terreno,venda,1491.7,1241.9,1740.8,8,,outubro/2026
-joinville,Joinville,América,sala,venda,9921.3,6957.8,13477.7,10,6.04,outubro/2026
-joinville,Joinville,América,sala,aluguel,49.9,38.5,70.0,26,6.04,outubro/2026
-joinville,Joinville,Anita Garibaldi,sala,venda,8095.2,7313.4,8222.2,5,8.83,outubro/2026
-joinville,Joinville,Anita Garibaldi,sala,aluguel,59.6,47.2,73.3,18,8.83,outubro/2026
-joinville,Joinville,Atiradores,sala,venda,14404.6,11210.0,17452.7,7,,outubro/2026
-joinville,Joinville,Boa Vista,sala,aluguel,40.0,33.5,56.7,8,,outubro/2026
-joinville,Joinville,Boehmerwald,sala,aluguel,50.0,38.1,60.9,7,,outubro/2026
-joinville,Joinville,Bom Retiro,sala,venda,8525.6,7191.0,9333.3,5,7.57,outubro/2026
-joinville,Joinville,Bom Retiro,sala,aluguel,53.8,47.5,59.8,8,7.57,outubro/2026
-joinville,Joinville,Bucarein,sala,aluguel,34.3,22.1,41.2,8,,outubro/2026
-joinville,Joinville,Centro,sala,venda,5452.7,4347.7,7312.5,30,8.58,outubro/2026
-joinville,Joinville,Centro,sala,aluguel,39.0,25.9,50.3,47,8.58,outubro/2026
-joinville,Joinville,Costa e Silva,sala,aluguel,43.9,42.1,50.7,6,,outubro/2026
-joinville,Joinville,Floresta,sala,aluguel,37.7,33.3,40.0,10,,outubro/2026
-joinville,Joinville,Iririú,sala,aluguel,38.3,30.3,45.5,9,,outubro/2026
-joinville,Joinville,Saguaçu,sala,aluguel,39.9,30.4,49.2,7,,outubro/2026
-joinville,Joinville,Pirabeiraba,galpao,aluguel,30.0,26.5,31.0,7,,outubro/2026
-joinville,Joinville,Vila Nova,galpao,aluguel,30.0,27.0,30.0,6,,outubro/2026
+joinville,Joinville,Ulysses Guimarães,casa,venda,3285.7,2376.2,5178.6,25,,outubro/2026
+joinville,Joinville,Vila Nova,casa,venda,5214.7,4105.0,6473.5,311,6.56,outubro/2026
+joinville,Joinville,Vila Nova,casa,aluguel,28.5,22.9,30.5,10,6.56,outubro/2026
+joinville,Joinville,Zona Industrial Norte,casa,venda,5673.3,5387.9,6607.1,13,,outubro/2026
+joinville,Joinville,América,terreno,venda,1893.5,1341.1,2504.1,72,,outubro/2026
+joinville,Joinville,Anita Garibaldi,terreno,venda,1413.5,1057.5,1870.3,90,,outubro/2026
+joinville,Joinville,Atiradores,terreno,venda,1500.0,1203.5,2472.2,31,,outubro/2026
+joinville,Joinville,Aventureiro,terreno,venda,1168.8,1003.1,1398.7,19,,outubro/2026
+joinville,Joinville,Boa Vista,terreno,venda,1111.7,901.8,1468.3,33,,outubro/2026
+joinville,Joinville,Boehmerwald,terreno,venda,744.4,553.1,969.5,37,,outubro/2026
+joinville,Joinville,Bom Retiro,terreno,venda,1052.7,723.7,1265.2,48,,outubro/2026
+joinville,Joinville,Bucarein,terreno,venda,1951.2,1258.3,2300.8,23,,outubro/2026
+joinville,Joinville,Centro,terreno,venda,2293.5,1187.5,3063.5,19,,outubro/2026
+joinville,Joinville,Centro (Pirabeiraba),terreno,venda,954.5,256.8,1898.2,5,,outubro/2026
+joinville,Joinville,Comasa,terreno,venda,1416.7,1190.5,1866.7,5,,outubro/2026
+joinville,Joinville,Costa e Silva,terreno,venda,1187.4,820.2,1600.3,52,,outubro/2026
+joinville,Joinville,Espinheiros,terreno,venda,1450.0,1079.7,1624.5,25,,outubro/2026
+joinville,Joinville,Fátima,terreno,venda,830.6,675.0,1066.4,11,,outubro/2026
+joinville,Joinville,Floresta,terreno,venda,904.3,762.7,1076.0,90,,outubro/2026
+joinville,Joinville,Glória,terreno,venda,1256.4,758.1,1782.7,80,,outubro/2026
+joinville,Joinville,Guanabara,terreno,venda,1022.7,791.4,1383.3,21,,outubro/2026
+joinville,Joinville,Iririú,terreno,venda,1080.7,802.8,1348.5,40,,outubro/2026
+joinville,Joinville,Itaum,terreno,venda,890.2,600.5,1055.0,42,,outubro/2026
+joinville,Joinville,Itinga,terreno,venda,638.9,373.4,720.0,29,,outubro/2026
+joinville,Joinville,Jardim Iririú,terreno,venda,1023.3,1017.9,1088.6,7,,outubro/2026
+joinville,Joinville,Jardim Paraíso,terreno,venda,633.3,477.5,853.4,11,,outubro/2026
+joinville,Joinville,Jardim Sofia,terreno,venda,648.6,519.6,990.4,7,,outubro/2026
+joinville,Joinville,Jarivatuba,terreno,venda,724.3,597.4,877.8,15,,outubro/2026
+joinville,Joinville,João Costa,terreno,venda,600.0,506.4,696.5,19,,outubro/2026
+joinville,Joinville,Morro do Meio,terreno,venda,589.7,508.3,711.4,9,,outubro/2026
+joinville,Joinville,Nova Brasília,terreno,venda,660.6,471.7,852.3,37,,outubro/2026
+joinville,Joinville,Paranaguamirim,terreno,venda,571.0,403.2,694.9,34,,outubro/2026
+joinville,Joinville,Parque Guarani,terreno,venda,702.8,546.5,871.0,8,,outubro/2026
+joinville,Joinville,Petrópolis,terreno,venda,701.2,580.4,1012.1,21,,outubro/2026
+joinville,Joinville,Pirabeiraba,terreno,venda,564.2,331.4,843.2,40,,outubro/2026
+joinville,Joinville,Pirabeiraba (Pirabeiraba),terreno,venda,805.8,552.8,1263.4,13,,outubro/2026
+joinville,Joinville,Profipo,terreno,venda,627.6,537.4,717.9,12,,outubro/2026
+joinville,Joinville,Rio Bonito,terreno,venda,357.1,249.9,429.1,6,,outubro/2026
+joinville,Joinville,Rio Bonito (Pirabeiraba),terreno,venda,386.2,238.6,475.7,22,,outubro/2026
+joinville,Joinville,Saguaçu,terreno,venda,1500.7,1111.3,1856.5,51,,outubro/2026
+joinville,Joinville,Santa Catarina,terreno,venda,738.7,386.6,828.7,28,,outubro/2026
+joinville,Joinville,Santo Antônio,terreno,venda,1607.7,1308.5,2299.3,26,,outubro/2026
+joinville,Joinville,São Marcos,terreno,venda,606.7,153.4,798.2,16,,outubro/2026
+joinville,Joinville,Vila Nova,terreno,venda,953.3,645.2,1430.4,104,,outubro/2026
+joinville,Joinville,Zona Industrial Norte,terreno,venda,845.7,650.1,1383.4,17,,outubro/2026
+joinville,Joinville,América,sala,venda,9842.5,8026.6,11861.3,21,7.8,outubro/2026
+joinville,Joinville,América,sala,aluguel,64.0,42.0,70.0,45,7.8,outubro/2026
+joinville,Joinville,Anita Garibaldi,sala,venda,7957.0,7313.4,8222.2,9,8.61,outubro/2026
+joinville,Joinville,Anita Garibaldi,sala,aluguel,57.1,40.0,74.4,33,8.61,outubro/2026
+joinville,Joinville,Atiradores,sala,venda,14404.6,9833.7,15889.8,9,4.85,outubro/2026
+joinville,Joinville,Atiradores,sala,aluguel,58.2,52.1,76.1,9,4.85,outubro/2026
+joinville,Joinville,Boa Vista,sala,venda,7596.5,5529.2,8194.4,5,6.45,outubro/2026
+joinville,Joinville,Boa Vista,sala,aluguel,40.8,34.2,50.4,12,6.45,outubro/2026
+joinville,Joinville,Boehmerwald,sala,aluguel,45.0,35.3,60.1,8,,outubro/2026
+joinville,Joinville,Bom Retiro,sala,venda,7111.1,6418.2,9290.5,9,9.33,outubro/2026
+joinville,Joinville,Bom Retiro,sala,aluguel,55.3,44.7,60.0,15,9.33,outubro/2026
+joinville,Joinville,Bucarein,sala,aluguel,40.0,30.1,48.0,14,,outubro/2026
+joinville,Joinville,Centro,sala,venda,5135.1,3595.5,7125.3,61,8.67,outubro/2026
+joinville,Joinville,Centro,sala,aluguel,37.1,26.9,50.0,80,8.67,outubro/2026
+joinville,Joinville,Costa e Silva,sala,aluguel,45.3,42.0,57.8,17,,outubro/2026
+joinville,Joinville,Fátima,sala,aluguel,35.3,34.7,41.2,7,,outubro/2026
+joinville,Joinville,Floresta,sala,aluguel,33.0,29.4,40.0,13,,outubro/2026
+joinville,Joinville,Glória,sala,venda,11184.6,8992.6,13512.8,8,3.62,outubro/2026
+joinville,Joinville,Glória,sala,aluguel,33.7,30.9,47.5,7,3.62,outubro/2026
+joinville,Joinville,Guanabara,sala,aluguel,36.8,29.2,43.4,6,,outubro/2026
+joinville,Joinville,Iririú,sala,aluguel,45.1,35.7,52.6,25,,outubro/2026
+joinville,Joinville,Itaum,sala,aluguel,46.7,36.7,52.1,5,,outubro/2026
+joinville,Joinville,Jardim Iririú,sala,aluguel,24.5,23.0,27.7,7,,outubro/2026
+joinville,Joinville,Saguaçu,sala,aluguel,33.2,28.9,41.6,16,,outubro/2026
+joinville,Joinville,Santo Antônio,sala,aluguel,60.0,36.8,65.5,11,,outubro/2026
+joinville,Joinville,Vila Nova,sala,aluguel,46.5,35.3,53.9,14,,outubro/2026
+joinville,Joinville,Costa e Silva,galpao,venda,4504.5,2484.1,4955.8,5,,outubro/2026
+joinville,Joinville,Paranaguamirim,galpao,aluguel,20.2,18.8,20.3,6,,outubro/2026
+joinville,Joinville,Pirabeiraba,galpao,aluguel,26.5,5.7,30.5,12,,outubro/2026
+joinville,Joinville,Santa Catarina,galpao,venda,2001.4,1910.6,2931.2,6,19.97,outubro/2026
+joinville,Joinville,Santa Catarina,galpao,aluguel,33.3,27.4,41.7,7,19.97,outubro/2026
+joinville,Joinville,Vila Nova,galpao,aluguel,28.8,26.4,30.0,10,,outubro/2026
+joinville,Joinville,Zona Industrial Norte,galpao,aluguel,26.0,23.0,26.5,7,,outubro/2026
 jundiai,Jundiaí,Agapeama,casa,venda,4843.8,3740.1,6196.5,55,,outubro/2026
 jundiai,Jundiaí,Água Doce,casa,venda,3116.3,2896.6,4911.1,14,,outubro/2026
 jundiai,Jundiaí,Anhangabaú,casa,venda,4945.7,4010.3,6704.0,74,7.59,outubro/2026
@@ -14003,140 +14044,174 @@ santo-andre,Santo André,Vila Tibiriçá,galpao,venda,4092.3,3360.0,6184.2,5,,ou
 santo-andre,Santo André,Vila Valparaíso,galpao,venda,5515.6,4326.0,6028.4,11,9.88,outubro/2026
 santo-andre,Santo André,Vila Valparaíso,galpao,aluguel,45.4,35.7,51.4,11,9.88,outubro/2026
 santo-andre,Santo André,Vila Vilma,galpao,venda,5504.6,5277.2,6787.7,9,,outubro/2026
-santos,Santos,Aparecida,apartamento,venda,9287.3,6370.4,12921.5,253,7.04,outubro/2026
-santos,Santos,Aparecida,apartamento,aluguel,54.5,44.4,81.2,91,7.04,outubro/2026
-santos,Santos,Areia Branca,apartamento,venda,6644.4,6235.6,7772.9,5,,outubro/2026
-santos,Santos,Boqueirão,apartamento,venda,8998.0,6593.4,12434.7,477,7.94,outubro/2026
-santos,Santos,Boqueirão,apartamento,aluguel,59.5,41.8,81.0,164,7.94,outubro/2026
-santos,Santos,Campo Grande,apartamento,venda,6020.4,4918.8,8084.4,207,9.07,outubro/2026
-santos,Santos,Campo Grande,apartamento,aluguel,45.5,37.7,72.0,39,9.07,outubro/2026
-santos,Santos,Castelo,apartamento,venda,4200.0,4042.6,5333.3,5,,outubro/2026
-santos,Santos,Centro,apartamento,venda,6250.0,5846.2,6285.7,5,,outubro/2026
-santos,Santos,Embaré,apartamento,venda,8294.5,6430.2,12581.1,346,8.35,outubro/2026
-santos,Santos,Embaré,apartamento,aluguel,57.7,45.3,77.0,103,8.35,outubro/2026
-santos,Santos,Encruzilhada,apartamento,venda,6295.5,4540.5,8586.5,68,10.85,outubro/2026
-santos,Santos,Encruzilhada,apartamento,aluguel,56.9,42.0,69.0,16,10.85,outubro/2026
-santos,Santos,Estuário,apartamento,venda,9371.9,5807.8,9995.0,38,8.05,outubro/2026
-santos,Santos,Estuário,apartamento,aluguel,62.9,52.5,71.7,6,8.05,outubro/2026
-santos,Santos,Gonzaga,apartamento,venda,8843.2,6316.2,12630.0,490,8.56,outubro/2026
-santos,Santos,Gonzaga,apartamento,aluguel,63.1,48.0,88.8,170,8.56,outubro/2026
-santos,Santos,Jabaquara,apartamento,venda,8641.1,4782.6,9285.7,5,,outubro/2026
-santos,Santos,José Menino,apartamento,venda,8060.2,5981.7,11963.0,240,7.83,outubro/2026
-santos,Santos,José Menino,apartamento,aluguel,52.6,40.8,70.2,78,7.83,outubro/2026
-santos,Santos,Macuco,apartamento,venda,8216.5,5905.5,9688.3,72,9.27,outubro/2026
-santos,Santos,Macuco,apartamento,aluguel,63.5,46.7,72.9,21,9.27,outubro/2026
-santos,Santos,Marapé,apartamento,venda,6657.2,5220.5,9628.1,204,10.47,outubro/2026
-santos,Santos,Marapé,apartamento,aluguel,58.1,45.7,70.0,40,10.47,outubro/2026
-santos,Santos,Morro de Nova Cintra,apartamento,venda,6633.3,6081.3,7535.8,18,,outubro/2026
-santos,Santos,Pompéia,apartamento,venda,8478.3,6833.3,11956.5,197,8.73,outubro/2026
-santos,Santos,Pompéia,apartamento,aluguel,61.7,47.2,83.9,47,8.73,outubro/2026
-santos,Santos,Ponta da Praia,apartamento,venda,9618.8,6889.7,13592.2,301,7.49,outubro/2026
-santos,Santos,Ponta da Praia,apartamento,aluguel,60.0,46.9,76.5,93,7.49,outubro/2026
-santos,Santos,Saboó,apartamento,venda,4307.7,3951.6,5192.3,5,,outubro/2026
-santos,Santos,Vila Belmiro,apartamento,venda,6160.7,5182.2,8520.8,47,9.14,outubro/2026
-santos,Santos,Vila Belmiro,apartamento,aluguel,46.9,39.4,72.3,16,9.14,outubro/2026
-santos,Santos,Vila Matias,apartamento,venda,5689.5,4762.2,7742.9,64,11.83,outubro/2026
-santos,Santos,Vila Matias,apartamento,aluguel,56.1,41.4,69.4,33,11.83,outubro/2026
-santos,Santos,Vila Rica,apartamento,venda,10646.0,8333.3,13904.8,26,7.42,outubro/2026
-santos,Santos,Vila Rica,apartamento,aluguel,65.8,44.1,87.6,5,7.42,outubro/2026
-santos,Santos,Aparecida,casa,venda,7854.2,6363.1,9862.0,120,7.3,outubro/2026
-santos,Santos,Aparecida,casa,aluguel,47.8,39.1,52.8,24,7.3,outubro/2026
-santos,Santos,Areia Branca,casa,venda,4300.0,3525.1,4681.2,11,,outubro/2026
-santos,Santos,Bom Retiro,casa,venda,3534.5,2653.6,4054.1,15,,outubro/2026
-santos,Santos,Boqueirão,casa,venda,7245.4,5967.5,9071.5,98,7.4,outubro/2026
-santos,Santos,Boqueirão,casa,aluguel,44.7,34.8,69.2,23,7.4,outubro/2026
-santos,Santos,Campo Grande,casa,venda,6893.4,5838.4,8213.1,100,8.7,outubro/2026
-santos,Santos,Campo Grande,casa,aluguel,50.0,45.7,72.9,21,8.7,outubro/2026
-santos,Santos,Caneleira,casa,venda,3349.3,2133.3,3990.0,5,,outubro/2026
-santos,Santos,Castelo,casa,venda,2995.3,2315.8,3913.6,18,,outubro/2026
-santos,Santos,Centro,casa,venda,5386.7,4222.2,5428.6,5,,outubro/2026
-santos,Santos,Embaré,casa,venda,7637.2,6217.7,9851.2,154,7.07,outubro/2026
-santos,Santos,Embaré,casa,aluguel,45.0,36.4,54.5,33,7.07,outubro/2026
-santos,Santos,Encruzilhada,casa,venda,5496.7,4675.3,8130.5,42,7.38,outubro/2026
-santos,Santos,Encruzilhada,casa,aluguel,33.8,29.8,66.9,7,7.38,outubro/2026
-santos,Santos,Estuário,casa,venda,5830.0,4561.4,6918.5,53,13.03,outubro/2026
-santos,Santos,Estuário,casa,aluguel,63.3,51.7,66.3,8,13.03,outubro/2026
-santos,Santos,Gonzaga,casa,venda,9470.5,7168.7,10899.6,42,7.17,outubro/2026
-santos,Santos,Gonzaga,casa,aluguel,56.6,44.9,74.1,43,7.17,outubro/2026
-santos,Santos,José Menino,casa,venda,7588.2,6374.8,8606.3,19,7.37,outubro/2026
-santos,Santos,José Menino,casa,aluguel,46.6,43.6,49.8,6,7.37,outubro/2026
-santos,Santos,Macuco,casa,venda,5526.3,4479.2,6346.4,59,8.14,outubro/2026
-santos,Santos,Macuco,casa,aluguel,37.5,30.9,46.4,12,8.14,outubro/2026
-santos,Santos,Marapé,casa,venda,6407.5,5078.2,7896.1,116,6.91,outubro/2026
-santos,Santos,Marapé,casa,aluguel,36.9,28.9,41.8,15,6.91,outubro/2026
-santos,Santos,Morro de Nova Cintra,casa,venda,5789.0,5187.6,6009.9,14,,outubro/2026
-santos,Santos,Morro Santa Terezinha,casa,venda,12263.2,8838.4,16558.4,5,,outubro/2026
-santos,Santos,Pompéia,casa,venda,7174.4,5530.5,10051.0,20,11.16,outubro/2026
-santos,Santos,Pompéia,casa,aluguel,66.7,46.7,83.0,17,11.16,outubro/2026
-santos,Santos,Ponta da Praia,casa,venda,9187.3,7272.7,11312.8,101,5.88,outubro/2026
-santos,Santos,Ponta da Praia,casa,aluguel,45.0,37.1,59.2,31,5.88,outubro/2026
-santos,Santos,Rádio Club,casa,venda,2566.7,1948.1,5762.5,8,,outubro/2026
-santos,Santos,Rádio Clube,casa,venda,2887.5,2020.6,5750.0,10,,outubro/2026
-santos,Santos,Santa Maria,casa,venda,3270.3,2794.5,4585.5,34,,outubro/2026
-santos,Santos,São Jorge,casa,venda,3169.6,3000.0,3555.6,13,,outubro/2026
-santos,Santos,Vila Belmiro,casa,venda,6122.4,4761.0,7878.8,73,7.11,outubro/2026
-santos,Santos,Vila Belmiro,casa,aluguel,36.3,33.6,42.1,16,7.11,outubro/2026
-santos,Santos,Vila Matias,casa,venda,5000.0,3782.2,6400.0,49,8.4,outubro/2026
-santos,Santos,Vila Matias,casa,aluguel,35.0,29.2,43.8,17,8.4,outubro/2026
-santos,Santos,Vila Nova,casa,venda,3000.0,2934.1,3475.0,5,,outubro/2026
-santos,Santos,Vila São Jorge,casa,venda,4166.7,3377.4,4901.5,15,,outubro/2026
-santos,Santos,Aparecida,terreno,venda,4984.5,4200.1,6664.1,22,,outubro/2026
-santos,Santos,Boqueirão,terreno,venda,4984.1,4182.4,7388.9,8,,outubro/2026
-santos,Santos,Campo Grande,terreno,venda,3142.9,2925.9,5109.5,11,,outubro/2026
-santos,Santos,Centro,terreno,venda,3549.7,2993.6,4330.7,12,,outubro/2026
-santos,Santos,Chico de Paula,terreno,venda,3350.1,3029.6,4676.7,6,,outubro/2026
-santos,Santos,Embaré,terreno,venda,5082.4,4111.1,6330.4,10,,outubro/2026
-santos,Santos,Encruzilhada,terreno,venda,3462.6,3209.5,3987.2,11,,outubro/2026
-santos,Santos,Estuário,terreno,venda,3299.9,2848.5,4062.5,20,,outubro/2026
-santos,Santos,Gonzaga,terreno,venda,9130.4,5802.5,9817.5,7,,outubro/2026
-santos,Santos,José Menino,terreno,venda,10217.4,8744.4,11902.2,12,,outubro/2026
-santos,Santos,Macuco,terreno,venda,3469.4,2648.6,5000.0,33,,outubro/2026
-santos,Santos,Marapé,terreno,venda,4006.3,3326.5,4905.7,19,,outubro/2026
-santos,Santos,Morro de Nova Cintra,terreno,venda,1343.8,963.6,1935.7,11,,outubro/2026
-santos,Santos,Paquetá,terreno,venda,2416.5,1962.8,3219.7,12,,outubro/2026
-santos,Santos,Ponta da Praia,terreno,venda,3979.7,3482.0,9832.9,10,,outubro/2026
-santos,Santos,Vila Belmiro,terreno,venda,3708.8,2800.0,4446.4,18,,outubro/2026
-santos,Santos,Vila Matias,terreno,venda,4005.3,2863.3,5040.2,34,,outubro/2026
-santos,Santos,Vila Nova,terreno,venda,2000.0,2000.0,2310.0,5,,outubro/2026
-santos,Santos,Aparecida,sala,venda,6212.6,5239.4,9729.2,8,11.47,outubro/2026
-santos,Santos,Aparecida,sala,aluguel,59.4,56.9,67.5,24,11.47,outubro/2026
-santos,Santos,Boqueirão,sala,venda,6521.1,4819.8,10078.1,28,11.04,outubro/2026
-santos,Santos,Boqueirão,sala,aluguel,60.0,48.8,99.9,25,11.04,outubro/2026
-santos,Santos,Campo Grande,sala,venda,5321.4,4770.6,7017.5,5,14.57,outubro/2026
-santos,Santos,Campo Grande,sala,aluguel,64.6,50.7,91.2,6,14.57,outubro/2026
-santos,Santos,Centro,sala,venda,3979.4,2902.3,5541.7,90,10.64,outubro/2026
-santos,Santos,Centro,sala,aluguel,35.3,24.0,56.1,71,10.64,outubro/2026
-santos,Santos,Embaré,sala,venda,5000.0,3980.6,6393.9,12,14.3,outubro/2026
-santos,Santos,Embaré,sala,aluguel,59.6,49.7,69.9,11,14.3,outubro/2026
-santos,Santos,Encruzilhada,sala,venda,7048.4,5503.5,9107.1,38,9.24,outubro/2026
-santos,Santos,Encruzilhada,sala,aluguel,54.3,47.9,90.2,23,9.24,outubro/2026
-santos,Santos,Gonzaga,sala,venda,8194.4,4657.5,10980.4,37,9.56,outubro/2026
-santos,Santos,Gonzaga,sala,aluguel,65.3,41.7,96.3,26,9.56,outubro/2026
-santos,Santos,Macuco,sala,venda,5434.7,5032.8,6555.6,14,14.73,outubro/2026
-santos,Santos,Macuco,sala,aluguel,66.7,36.0,88.2,5,14.73,outubro/2026
-santos,Santos,Marapé,sala,venda,8071.0,6373.1,8625.0,8,11.51,outubro/2026
-santos,Santos,Marapé,sala,aluguel,77.4,58.6,87.8,12,11.51,outubro/2026
-santos,Santos,Ponta da Praia,sala,venda,9905.7,9107.5,11040.9,11,8.38,outubro/2026
-santos,Santos,Ponta da Praia,sala,aluguel,69.2,48.4,75.7,15,8.38,outubro/2026
-santos,Santos,Valongo,sala,venda,6666.7,4554.5,7971.0,27,9.88,outubro/2026
-santos,Santos,Valongo,sala,aluguel,54.9,48.0,67.0,22,9.88,outubro/2026
-santos,Santos,Vila Belmiro,sala,venda,4540.1,3599.8,8264.2,10,13.66,outubro/2026
-santos,Santos,Vila Belmiro,sala,aluguel,51.7,46.2,54.0,6,13.66,outubro/2026
-santos,Santos,Vila Matias,sala,venda,6067.7,4651.4,8333.2,48,10.36,outubro/2026
-santos,Santos,Vila Matias,sala,aluguel,52.4,42.9,71.7,67,10.36,outubro/2026
-santos,Santos,Vila Nova,sala,venda,3629.6,2650.0,4274.1,12,12.0,outubro/2026
-santos,Santos,Vila Nova,sala,aluguel,36.3,31.3,46.9,6,12.0,outubro/2026
-santos,Santos,Centro,galpao,venda,3866.7,2945.5,5197.0,15,7.2,outubro/2026
-santos,Santos,Centro,galpao,aluguel,23.2,18.4,33.0,8,7.2,outubro/2026
-santos,Santos,Estuário,galpao,venda,7343.6,6447.0,7638.1,6,,outubro/2026
-santos,Santos,Macuco,galpao,venda,4589.7,3547.8,7177.9,8,10.9,outubro/2026
-santos,Santos,Macuco,galpao,aluguel,41.7,31.5,46.1,15,10.9,outubro/2026
-santos,Santos,Paquetá,galpao,venda,5106.4,4287.1,5539.8,7,8.08,outubro/2026
-santos,Santos,Paquetá,galpao,aluguel,34.4,23.5,37.5,9,8.08,outubro/2026
-santos,Santos,Valongo,galpao,aluguel,38.3,36.7,57.1,5,,outubro/2026
-santos,Santos,Vila Matias,galpao,venda,5486.3,4561.8,6206.0,8,9.47,outubro/2026
-santos,Santos,Vila Matias,galpao,aluguel,43.3,35.7,47.3,9,9.47,outubro/2026
-santos,Santos,Vila Nova,galpao,aluguel,22.4,19.8,22.9,5,,outubro/2026
+santos,Santos,Aparecida,apartamento,venda,8287.2,6109.9,12222.2,774,8.77,outubro/2026
+santos,Santos,Aparecida,apartamento,aluguel,60.6,45.0,88.5,184,8.77,outubro/2026
+santos,Santos,Areia Branca,apartamento,venda,6242.8,5503.2,7027.8,28,,outubro/2026
+santos,Santos,Bom Retiro,apartamento,venda,2307.7,2211.5,3636.4,5,,outubro/2026
+santos,Santos,Boqueirão,apartamento,venda,8867.9,6540.3,12303.6,1312,8.13,outubro/2026
+santos,Santos,Boqueirão,apartamento,aluguel,60.1,43.3,80.8,350,8.13,outubro/2026
+santos,Santos,Campo Grande,apartamento,venda,6074.5,4846.7,8030.0,638,8.99,outubro/2026
+santos,Santos,Campo Grande,apartamento,aluguel,45.5,37.7,65.6,71,8.99,outubro/2026
+santos,Santos,Caneleira,apartamento,venda,3360.0,2900.0,3400.0,5,,outubro/2026
+santos,Santos,Castelo,apartamento,venda,5333.3,4088.3,6334.7,27,,outubro/2026
+santos,Santos,Centro,apartamento,venda,5952.1,5233.3,6285.7,17,8.95,outubro/2026
+santos,Santos,Centro,apartamento,aluguel,44.4,43.3,54.4,5,8.95,outubro/2026
+santos,Santos,Embaré,apartamento,venda,8076.9,6012.7,12500.0,965,8.17,outubro/2026
+santos,Santos,Embaré,apartamento,aluguel,55.0,41.9,78.9,216,8.17,outubro/2026
+santos,Santos,Encruzilhada,apartamento,venda,6153.8,4750.0,8577.6,190,9.98,outubro/2026
+santos,Santos,Encruzilhada,apartamento,aluguel,51.2,39.0,68.1,41,9.98,outubro/2026
+santos,Santos,Estuário,apartamento,venda,6865.7,5188.5,9552.2,101,12.39,outubro/2026
+santos,Santos,Estuário,apartamento,aluguel,70.9,52.4,79.9,14,12.39,outubro/2026
+santos,Santos,Gonzaga,apartamento,venda,8773.2,6138.9,12699.6,1242,8.36,outubro/2026
+santos,Santos,Gonzaga,apartamento,aluguel,61.1,44.8,87.8,343,8.36,outubro/2026
+santos,Santos,Itararé,apartamento,venda,4732.4,4395.7,5760.7,8,,outubro/2026
+santos,Santos,Jabaquara,apartamento,venda,8055.6,5124.7,8676.9,10,11.38,outubro/2026
+santos,Santos,Jabaquara,apartamento,aluguel,76.4,66.7,78.6,5,11.38,outubro/2026
+santos,Santos,José Menino,apartamento,venda,7543.7,5419.8,10893.4,706,8.26,outubro/2026
+santos,Santos,José Menino,apartamento,aluguel,51.9,38.8,69.4,164,8.26,outubro/2026
+santos,Santos,Macuco,apartamento,venda,6857.0,4941.2,9123.1,181,11.1,outubro/2026
+santos,Santos,Macuco,apartamento,aluguel,63.4,40.2,73.7,36,11.1,outubro/2026
+santos,Santos,Marapé,apartamento,venda,6269.8,4788.7,9394.6,567,10.79,outubro/2026
+santos,Santos,Marapé,apartamento,aluguel,56.4,40.3,70.1,75,10.79,outubro/2026
+santos,Santos,Morro de Nova Cintra,apartamento,venda,5938.2,4974.3,6831.2,46,,outubro/2026
+santos,Santos,Paquetá,apartamento,aluguel,35.7,33.1,38.3,5,,outubro/2026
+santos,Santos,Pompéia,apartamento,venda,8670.1,6629.2,12500.0,606,8.62,outubro/2026
+santos,Santos,Pompéia,apartamento,aluguel,62.3,46.0,80.0,112,8.62,outubro/2026
+santos,Santos,Ponta da Praia,apartamento,venda,8626.4,6255.6,13020.1,979,8.35,outubro/2026
+santos,Santos,Ponta da Praia,apartamento,aluguel,60.0,46.9,77.9,200,8.35,outubro/2026
+santos,Santos,Porto Ponta da Praia,apartamento,venda,20950.6,15852.5,23245.0,6,,outubro/2026
+santos,Santos,Rádio Clube,apartamento,venda,3781.4,3295.5,3829.8,5,,outubro/2026
+santos,Santos,Saboó,apartamento,venda,3920.0,3607.7,4508.7,27,,outubro/2026
+santos,Santos,Santa Maria,apartamento,venda,2860.7,2307.7,3851.4,8,,outubro/2026
+santos,Santos,São Jorge,apartamento,venda,3293.2,2973.1,3525.1,10,,outubro/2026
+santos,Santos,Valongo,apartamento,venda,6437.3,4466.3,6834.5,6,,outubro/2026
+santos,Santos,Vila Belmiro,apartamento,venda,6075.6,4822.8,9088.5,158,8.89,outubro/2026
+santos,Santos,Vila Belmiro,apartamento,aluguel,45.0,36.8,68.0,23,8.89,outubro/2026
+santos,Santos,Vila Matias,apartamento,venda,5585.5,4523.8,7632.0,160,11.73,outubro/2026
+santos,Santos,Vila Matias,apartamento,aluguel,54.6,38.9,70.3,45,11.73,outubro/2026
+santos,Santos,Vila Nova,apartamento,venda,4297.5,4111.1,4549.2,5,,outubro/2026
+santos,Santos,Vila Rica,apartamento,venda,12375.0,9739.1,14237.0,69,6.22,outubro/2026
+santos,Santos,Vila Rica,apartamento,aluguel,64.1,45.1,83.3,10,6.22,outubro/2026
+santos,Santos,Alemoa,casa,venda,1888.9,1842.1,2631.6,5,,outubro/2026
+santos,Santos,Aparecida,casa,venda,7984.4,6325.0,10064.6,352,6.7,outubro/2026
+santos,Santos,Aparecida,casa,aluguel,44.6,37.2,58.1,55,6.7,outubro/2026
+santos,Santos,Areia Branca,casa,venda,4271.4,3028.6,5066.7,25,,outubro/2026
+santos,Santos,Bom Retiro,casa,venda,2978.3,2518.5,3938.0,51,,outubro/2026
+santos,Santos,Boqueirão,casa,venda,7513.5,6352.9,9420.3,309,7.81,outubro/2026
+santos,Santos,Boqueirão,casa,aluguel,48.9,37.3,77.3,58,7.81,outubro/2026
+santos,Santos,Campo Grande,casa,venda,6893.8,5606.5,8779.7,312,8.25,outubro/2026
+santos,Santos,Campo Grande,casa,aluguel,47.4,36.6,72.0,42,8.25,outubro/2026
+santos,Santos,Caneleira,casa,venda,3803.7,2373.6,4403.4,19,,outubro/2026
+santos,Santos,Castelo,casa,venda,2852.6,2304.7,3663.6,58,,outubro/2026
+santos,Santos,Centro,casa,venda,5222.2,3967.7,5639.3,11,7.22,outubro/2026
+santos,Santos,Centro,casa,aluguel,31.4,16.9,45.5,7,7.22,outubro/2026
+santos,Santos,Chico de Paula,casa,venda,4000.0,2326.8,4619.6,17,,outubro/2026
+santos,Santos,Embaré,casa,venda,7888.0,6361.2,9965.5,485,7.13,outubro/2026
+santos,Santos,Embaré,casa,aluguel,46.9,36.4,58.4,70,7.13,outubro/2026
+santos,Santos,Encruzilhada,casa,venda,5516.2,4254.1,7687.8,126,7.35,outubro/2026
+santos,Santos,Encruzilhada,casa,aluguel,33.8,28.1,59.3,14,7.35,outubro/2026
+santos,Santos,Estuário,casa,venda,5645.2,4333.3,6993.5,185,12.69,outubro/2026
+santos,Santos,Estuário,casa,aluguel,59.7,30.4,69.9,14,12.69,outubro/2026
+santos,Santos,Gonzaga,casa,venda,9348.7,6839.7,10984.4,158,7.27,outubro/2026
+santos,Santos,Gonzaga,casa,aluguel,56.6,45.4,73.4,83,7.27,outubro/2026
+santos,Santos,Jabaquara,casa,venda,4800.0,3090.3,7642.9,9,,outubro/2026
+santos,Santos,José Menino,casa,venda,7837.8,6420.3,10050.0,55,6.69,outubro/2026
+santos,Santos,José Menino,casa,aluguel,43.7,35.4,49.8,10,6.69,outubro/2026
+santos,Santos,Macuco,casa,venda,5277.6,4333.3,6513.3,200,9.35,outubro/2026
+santos,Santos,Macuco,casa,aluguel,41.1,33.7,53.8,21,9.35,outubro/2026
+santos,Santos,Marapé,casa,venda,6583.6,5211.6,8331.2,363,6.93,outubro/2026
+santos,Santos,Marapé,casa,aluguel,38.0,31.3,48.7,28,6.93,outubro/2026
+santos,Santos,Morro de Nova Cintra,casa,venda,5788.5,4447.4,6049.1,39,,outubro/2026
+santos,Santos,Morro Santa Terezinha,casa,venda,12263.2,10006.3,16801.2,7,,outubro/2026
+santos,Santos,Pompéia,casa,venda,7415.6,5357.1,9871.1,77,9.87,outubro/2026
+santos,Santos,Pompéia,casa,aluguel,61.0,49.2,78.8,28,9.87,outubro/2026
+santos,Santos,Ponta da Praia,casa,venda,8973.7,7091.0,11350.2,362,6.61,outubro/2026
+santos,Santos,Ponta da Praia,casa,aluguel,49.4,39.5,65.0,66,6.61,outubro/2026
+santos,Santos,Rádio Club,casa,venda,2300.0,1929.4,4428.6,18,,outubro/2026
+santos,Santos,Rádio Clube,casa,venda,3673.5,2179.0,5033.8,31,,outubro/2026
+santos,Santos,Saboó,casa,venda,3720.0,1453.5,4000.0,5,,outubro/2026
+santos,Santos,Santa Maria,casa,venda,3026.9,2446.3,4138.9,99,,outubro/2026
+santos,Santos,São Jorge,casa,venda,3602.1,3156.5,5061.4,34,,outubro/2026
+santos,Santos,Vila Belmiro,casa,venda,6250.0,4961.3,7867.6,231,7.93,outubro/2026
+santos,Santos,Vila Belmiro,casa,aluguel,41.3,34.6,50.8,30,7.93,outubro/2026
+santos,Santos,Vila Matias,casa,venda,4666.7,3757.2,6127.5,137,10.57,outubro/2026
+santos,Santos,Vila Matias,casa,aluguel,41.1,30.0,54.6,34,10.57,outubro/2026
+santos,Santos,Vila Nova,casa,venda,3000.0,2531.1,3612.5,11,,outubro/2026
+santos,Santos,Vila São Jorge,casa,venda,3777.8,3293.6,4846.2,53,,outubro/2026
+santos,Santos,Aparecida,terreno,venda,5245.2,4619.4,6666.7,52,,outubro/2026
+santos,Santos,Boqueirão,terreno,venda,6403.8,4485.8,10402.7,24,,outubro/2026
+santos,Santos,Campo Grande,terreno,venda,4650.0,3169.6,5920.5,34,,outubro/2026
+santos,Santos,Centro,terreno,venda,3094.6,2508.9,3953.1,39,,outubro/2026
+santos,Santos,Chico de Paula,terreno,venda,3059.1,2586.5,4308.9,16,,outubro/2026
+santos,Santos,Embaré,terreno,venda,4375.0,3650.9,5468.8,29,,outubro/2026
+santos,Santos,Encruzilhada,terreno,venda,3897.7,3301.1,4691.5,30,,outubro/2026
+santos,Santos,Estuário,terreno,venda,3099.3,2567.8,3802.4,59,,outubro/2026
+santos,Santos,Gonzaga,terreno,venda,9069.7,8026.0,10089.1,22,,outubro/2026
+santos,Santos,Jabaquara,terreno,venda,3055.6,1733.3,3148.1,5,,outubro/2026
+santos,Santos,José Menino,terreno,venda,8749.1,6556.1,11001.9,27,,outubro/2026
+santos,Santos,Macuco,terreno,venda,3433.0,2543.7,4914.0,90,,outubro/2026
+santos,Santos,Marapé,terreno,venda,3545.5,2906.0,4383.6,52,,outubro/2026
+santos,Santos,Morro de Nova Cintra,terreno,venda,1210.3,906.5,1527.6,28,,outubro/2026
+santos,Santos,Morro Santa Terezinha,terreno,venda,3337.9,2204.4,3793.1,9,,outubro/2026
+santos,Santos,Morro São Bento,terreno,venda,1306.6,728.1,1347.5,5,,outubro/2026
+santos,Santos,Paquetá,terreno,venda,2571.4,1908.4,3494.3,29,,outubro/2026
+santos,Santos,Pompéia,terreno,venda,9368.1,5891.4,12496.6,6,,outubro/2026
+santos,Santos,Ponta da Praia,terreno,venda,4411.8,3703.7,8536.6,37,,outubro/2026
+santos,Santos,Saboó,terreno,venda,1818.2,1494.8,2596.0,7,,outubro/2026
+santos,Santos,Valongo,terreno,venda,2695.2,1962.3,3507.4,12,,outubro/2026
+santos,Santos,Vila Belmiro,terreno,venda,3571.4,2985.1,4536.9,45,,outubro/2026
+santos,Santos,Vila Matias,terreno,venda,3854.8,2876.9,4669.2,80,,outubro/2026
+santos,Santos,Vila Nova,terreno,venda,2292.7,1764.8,2899.2,19,,outubro/2026
+santos,Santos,Vila São Jorge,terreno,venda,1573.4,1459.5,1910.7,7,,outubro/2026
+santos,Santos,Aparecida,sala,venda,5555.6,4653.7,8460.1,27,13.09,outubro/2026
+santos,Santos,Aparecida,sala,aluguel,60.6,52.9,68.5,44,13.09,outubro/2026
+santos,Santos,Boqueirão,sala,venda,7083.3,5000.0,10756.2,88,10.35,outubro/2026
+santos,Santos,Boqueirão,sala,aluguel,61.1,47.8,98.0,58,10.35,outubro/2026
+santos,Santos,Campo Grande,sala,venda,5092.7,4397.1,7127.1,12,15.48,outubro/2026
+santos,Santos,Campo Grande,sala,aluguel,65.7,49.1,108.7,14,15.48,outubro/2026
+santos,Santos,Centro,sala,venda,3777.8,2949.9,5500.0,241,13.25,outubro/2026
+santos,Santos,Centro,sala,aluguel,41.7,26.0,56.5,163,13.25,outubro/2026
+santos,Santos,Embaré,sala,venda,5331.1,4103.4,6873.8,40,13.64,outubro/2026
+santos,Santos,Embaré,sala,aluguel,60.6,46.7,77.7,30,13.64,outubro/2026
+santos,Santos,Encruzilhada,sala,venda,6730.8,4615.4,8823.5,73,9.66,outubro/2026
+santos,Santos,Encruzilhada,sala,aluguel,54.2,44.7,83.2,42,9.66,outubro/2026
+santos,Santos,Estuário,sala,aluguel,70.0,59.4,102.6,7,,outubro/2026
+santos,Santos,Gonzaga,sala,venda,6542.1,4571.4,10000.0,109,12.91,outubro/2026
+santos,Santos,Gonzaga,sala,aluguel,70.4,50.2,100.3,60,12.91,outubro/2026
+santos,Santos,José Menino,sala,venda,6442.3,4473.7,7954.5,13,,outubro/2026
+santos,Santos,Macuco,sala,venda,5434.7,4299.0,6555.6,22,13.82,outubro/2026
+santos,Santos,Macuco,sala,aluguel,62.6,35.7,93.8,8,13.82,outubro/2026
+santos,Santos,Marapé,sala,venda,7750.0,5357.1,8600.0,17,9.79,outubro/2026
+santos,Santos,Marapé,sala,aluguel,63.2,47.6,81.9,36,9.79,outubro/2026
+santos,Santos,Paquetá,sala,venda,6190.5,5172.4,7777.8,5,11.15,outubro/2026
+santos,Santos,Paquetá,sala,aluguel,57.5,39.4,67.0,6,11.15,outubro/2026
+santos,Santos,Pompéia,sala,venda,6056.3,4488.3,10744.7,7,,outubro/2026
+santos,Santos,Ponta da Praia,sala,venda,9593.1,8680.4,10465.9,32,8.77,outubro/2026
+santos,Santos,Ponta da Praia,sala,aluguel,70.1,57.9,95.2,26,8.77,outubro/2026
+santos,Santos,Valongo,sala,venda,5909.1,4255.3,7166.7,65,12.08,outubro/2026
+santos,Santos,Valongo,sala,aluguel,59.5,46.6,73.6,44,12.08,outubro/2026
+santos,Santos,Vila Belmiro,sala,venda,5555.6,3714.3,8260.9,29,11.17,outubro/2026
+santos,Santos,Vila Belmiro,sala,aluguel,51.7,35.4,62.4,24,11.17,outubro/2026
+santos,Santos,Vila Matias,sala,venda,5941.8,4336.1,8490.9,90,10.44,outubro/2026
+santos,Santos,Vila Matias,sala,aluguel,51.7,40.6,68.2,121,10.44,outubro/2026
+santos,Santos,Vila Nova,sala,venda,3720.1,2650.0,4456.0,28,12.13,outubro/2026
+santos,Santos,Vila Nova,sala,aluguel,37.6,31.7,48.4,11,12.13,outubro/2026
+santos,Santos,Centro,galpao,venda,3600.0,2916.4,4429.1,51,7.33,outubro/2026
+santos,Santos,Centro,galpao,aluguel,22.0,17.7,26.0,23,7.33,outubro/2026
+santos,Santos,Chico de Paula,galpao,venda,4555.0,3040.0,4806.2,9,6.93,outubro/2026
+santos,Santos,Chico de Paula,galpao,aluguel,26.3,23.1,35.4,6,6.93,outubro/2026
+santos,Santos,Encruzilhada,galpao,aluguel,22.5,15.0,48.8,5,,outubro/2026
+santos,Santos,Estuário,galpao,venda,5750.2,3829.4,7282.5,16,8.6,outubro/2026
+santos,Santos,Estuário,galpao,aluguel,41.2,39.1,56.7,9,8.6,outubro/2026
+santos,Santos,Macuco,galpao,venda,4779.4,4078.9,6036.7,37,10.04,outubro/2026
+santos,Santos,Macuco,galpao,aluguel,40.0,32.0,50.0,33,10.04,outubro/2026
+santos,Santos,Paquetá,galpao,venda,4287.1,2830.4,5718.8,20,9.15,outubro/2026
+santos,Santos,Paquetá,galpao,aluguel,32.7,23.8,38.4,23,9.15,outubro/2026
+santos,Santos,Valongo,galpao,aluguel,37.5,26.7,52.4,6,,outubro/2026
+santos,Santos,Vila Matias,galpao,venda,5347.6,3681.6,6387.5,27,8.41,outubro/2026
+santos,Santos,Vila Matias,galpao,aluguel,37.5,27.0,44.4,20,8.41,outubro/2026
+santos,Santos,Vila Nova,galpao,venda,3757.2,2582.1,4500.5,13,7.15,outubro/2026
+santos,Santos,Vila Nova,galpao,aluguel,22.4,18.2,27.9,9,7.15,outubro/2026
 sao-bento-do-sul,São Bento do Sul,25 de Julho,casa,venda,3518.2,1227.2,4551.1,16,,outubro/2026
 sao-bento-do-sul,São Bento do Sul,Boehmerwald,casa,venda,3719.1,2613.0,4212.1,12,,outubro/2026
 sao-bento-do-sul,São Bento do Sul,Brasilia,casa,venda,4630.9,3355.8,6120.1,36,,outubro/2026
