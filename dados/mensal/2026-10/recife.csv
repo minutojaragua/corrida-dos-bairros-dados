@@ -1,6 +1,6 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
-Recife,Aflitos,apartamento,venda,5641.0,4247.1,7499.2,117,14.17,outubro/2026
-Recife,Aflitos,apartamento,aluguel,66.6,44.9,79.2,16,14.17,outubro/2026
+Recife,Aflitos,apartamento,venda,5598.3,4254.4,7462.6,118,14.28,outubro/2026
+Recife,Aflitos,apartamento,aluguel,66.6,44.9,79.2,16,14.28,outubro/2026
 Recife,Afogados,apartamento,venda,4375.0,3292.7,6293.1,13,,outubro/2026
 Recife,Água Fria,apartamento,venda,4174.2,3773.3,4470.3,10,,outubro/2026
 Recife,Apipucos,apartamento,venda,9638.6,6646.5,11219.5,45,,outubro/2026
@@ -8,8 +8,8 @@ Recife,Areias,apartamento,venda,3750.0,3380.2,4718.8,8,,outubro/2026
 Recife,Arruda,apartamento,venda,3931.3,3420.9,4567.0,18,,outubro/2026
 Recife,Barro,apartamento,venda,6666.7,5112.3,7306.8,23,7.11,outubro/2026
 Recife,Barro,apartamento,aluguel,39.5,32.4,47.8,7,7.11,outubro/2026
-Recife,Boa Viagem,apartamento,venda,8816.1,5388.9,13426.8,1073,8.97,outubro/2026
-Recife,Boa Viagem,apartamento,aluguel,65.9,46.9,88.0,377,8.97,outubro/2026
+Recife,Boa Viagem,apartamento,venda,8800.0,5366.8,13408.3,1075,8.95,outubro/2026
+Recife,Boa Viagem,apartamento,aluguel,65.6,46.7,88.0,381,8.95,outubro/2026
 Recife,Boa Vista,apartamento,venda,7500.0,4076.8,12183.5,151,10.18,outubro/2026
 Recife,Boa Vista,apartamento,aluguel,63.6,28.3,97.1,45,10.18,outubro/2026
 Recife,Bongi,apartamento,venda,3058.8,2961.4,3627.9,7,,outubro/2026
@@ -22,46 +22,46 @@ Recife,Casa Forte,apartamento,aluguel,55.0,47.1,68.1,24,7.08,outubro/2026
 Recife,Caxangá,apartamento,venda,7365.4,5687.5,9271.8,58,,outubro/2026
 Recife,Centro,apartamento,venda,8595.2,7877.2,13416.6,5,,outubro/2026
 Recife,Cidade Universitária,apartamento,venda,8835.7,7820.9,9455.6,8,,outubro/2026
-Recife,Cordeiro,apartamento,venda,5264.0,3323.8,8327.7,68,6.02,outubro/2026
-Recife,Cordeiro,apartamento,aluguel,26.4,21.5,37.5,9,6.02,outubro/2026
+Recife,Cordeiro,apartamento,venda,5073.5,3333.3,8316.7,69,6.24,outubro/2026
+Recife,Cordeiro,apartamento,aluguel,26.4,21.5,37.5,9,6.24,outubro/2026
 Recife,Derby,apartamento,venda,4033.9,2912.5,8333.3,25,,outubro/2026
 Recife,Dois Irmãos,apartamento,venda,9756.1,6058.7,12195.1,5,,outubro/2026
 Recife,Dois Unidos,apartamento,venda,6333.3,5933.3,6805.6,5,,outubro/2026
-Recife,Encruzilhada,apartamento,venda,8000.0,6311.3,9702.9,151,8.14,outubro/2026
-Recife,Encruzilhada,apartamento,aluguel,54.3,37.3,61.9,19,8.14,outubro/2026
+Recife,Encruzilhada,apartamento,venda,8056.6,6322.3,9701.5,152,8.09,outubro/2026
+Recife,Encruzilhada,apartamento,aluguel,54.3,37.3,61.9,19,8.09,outubro/2026
 Recife,Engenho do Meio,apartamento,venda,3340.7,1918.2,4060.1,14,,outubro/2026
-Recife,Espinheiro,apartamento,venda,6896.6,4568.6,9173.2,191,12.32,outubro/2026
-Recife,Espinheiro,apartamento,aluguel,70.8,46.5,88.1,46,12.32,outubro/2026
+Recife,Espinheiro,apartamento,venda,6896.6,4568.6,9173.2,191,12.18,outubro/2026
+Recife,Espinheiro,apartamento,aluguel,70.0,46.8,87.5,47,12.18,outubro/2026
 Recife,Estância,apartamento,venda,4895.1,3007.4,6339.6,6,,outubro/2026
 Recife,Graças,apartamento,venda,7086.6,5018.0,9242.6,175,10.09,outubro/2026
 Recife,Graças,apartamento,aluguel,59.6,42.2,83.5,43,10.09,outubro/2026
 Recife,Guabiraba,apartamento,venda,4222.2,3384.9,5333.3,11,,outubro/2026
 Recife,Hipódromo,apartamento,venda,8121.5,7490.2,8421.9,13,,outubro/2026
-Recife,Ilha do Leite,apartamento,venda,12170.0,8796.4,13672.2,70,9.71,outubro/2026
-Recife,Ilha do Leite,apartamento,aluguel,98.5,79.1,108.5,12,9.71,outubro/2026
+Recife,Ilha do Leite,apartamento,venda,12170.0,8796.4,13672.2,70,9.56,outubro/2026
+Recife,Ilha do Leite,apartamento,aluguel,97.0,71.1,107.1,13,9.56,outubro/2026
 Recife,Ilha do Retiro,apartamento,venda,9490.7,8562.0,10456.8,63,7.78,outubro/2026
 Recife,Ilha do Retiro,apartamento,aluguel,61.5,60.7,74.0,9,7.78,outubro/2026
 Recife,Imbiribeira,apartamento,venda,7347.4,6000.0,9821.4,133,10.65,outubro/2026
 Recife,Imbiribeira,apartamento,aluguel,65.2,39.7,76.9,27,10.65,outubro/2026
-Recife,Iputinga,apartamento,venda,5211.3,3170.7,6730.8,73,12.62,outubro/2026
-Recife,Iputinga,apartamento,aluguel,54.8,49.5,60.0,8,12.62,outubro/2026
+Recife,Iputinga,apartamento,venda,5070.4,3167.1,6693.1,74,12.97,outubro/2026
+Recife,Iputinga,apartamento,aluguel,54.8,49.5,60.0,8,12.97,outubro/2026
 Recife,Jaqueira,apartamento,venda,7879.9,6407.5,11891.9,84,11.59,outubro/2026
 Recife,Jaqueira,apartamento,aluguel,76.1,32.8,94.7,14,11.59,outubro/2026
 Recife,Jardim São Paulo,apartamento,venda,6164.1,5198.2,6903.8,26,6.48,outubro/2026
 Recife,Jardim São Paulo,apartamento,aluguel,33.3,29.4,40.6,7,6.48,outubro/2026
 Recife,Macaxeira,apartamento,venda,9112.1,8500.0,10000.0,5,,outubro/2026
-Recife,Madalena,apartamento,venda,8888.9,6544.4,10863.4,203,7.88,outubro/2026
-Recife,Madalena,apartamento,aluguel,58.4,50.8,71.9,44,7.88,outubro/2026
-Recife,Monteiro,apartamento,venda,8979.6,7619.0,11515.2,97,8.71,outubro/2026
-Recife,Monteiro,apartamento,aluguel,65.2,48.0,85.6,9,8.71,outubro/2026
+Recife,Madalena,apartamento,venda,8890.7,6553.5,10872.2,204,7.91,outubro/2026
+Recife,Madalena,apartamento,aluguel,58.6,50.8,72.3,45,7.91,outubro/2026
+Recife,Monteiro,apartamento,venda,9033.7,7625.1,11445.8,98,8.66,outubro/2026
+Recife,Monteiro,apartamento,aluguel,65.2,48.0,85.6,9,8.66,outubro/2026
 Recife,Paissandu,apartamento,venda,9480.8,5031.1,10674.2,16,11.54,outubro/2026
 Recife,Paissandu,apartamento,aluguel,91.2,89.8,93.7,7,11.54,outubro/2026
 Recife,Parnamirim,apartamento,venda,9305.6,6417.1,11584.4,161,12.24,outubro/2026
 Recife,Parnamirim,apartamento,aluguel,94.9,76.9,110.9,46,12.24,outubro/2026
 Recife,Passarinho,apartamento,venda,5125.0,4455.8,6269.0,11,,outubro/2026
 Recife,Piedade,apartamento,venda,6363.6,4400.0,8297.9,5,,outubro/2026
-Recife,Pina,apartamento,venda,13158.9,9715.1,16620.9,194,6.96,outubro/2026
-Recife,Pina,apartamento,aluguel,76.3,65.8,93.8,48,6.96,outubro/2026
+Recife,Pina,apartamento,venda,13076.9,9634.5,16575.1,195,7.0,outubro/2026
+Recife,Pina,apartamento,aluguel,76.3,65.8,93.8,48,7.0,outubro/2026
 Recife,Poço,apartamento,venda,10287.5,9023.2,12393.7,44,,outubro/2026
 Recife,Poço da Panela,apartamento,venda,10129.9,8835.4,11523.4,42,,outubro/2026
 Recife,Ponto de Parada,apartamento,venda,10802.0,8014.7,13160.6,12,,outubro/2026
@@ -74,8 +74,8 @@ Recife,San Martin,apartamento,venda,6190.4,4539.0,6616.3,14,,outubro/2026
 Recife,Sancho,apartamento,venda,6833.3,5500.0,7166.7,5,,outubro/2026
 Recife,Santana,apartamento,venda,9622.2,7259.6,11938.4,40,8.75,outubro/2026
 Recife,Santana,apartamento,aluguel,70.2,69.8,77.8,5,8.75,outubro/2026
-Recife,Santo Amaro,apartamento,venda,9951.6,7016.3,13527.4,84,6.73,outubro/2026
-Recife,Santo Amaro,apartamento,aluguel,55.8,48.1,66.6,19,6.73,outubro/2026
+Recife,Santo Amaro,apartamento,venda,9951.6,7016.3,13527.4,84,6.84,outubro/2026
+Recife,Santo Amaro,apartamento,aluguel,56.7,49.1,68.5,20,6.84,outubro/2026
 Recife,São José,apartamento,venda,19086.4,16210.5,22430.6,78,6.26,outubro/2026
 Recife,São José,apartamento,aluguel,99.5,92.0,117.4,20,6.26,outubro/2026
 Recife,Setúbal,apartamento,venda,9963.6,7284.2,12183.9,46,,outubro/2026
@@ -160,8 +160,8 @@ Recife,Madalena,terreno,venda,2001.2,1810.3,2017.5,6,,outubro/2026
 Recife,Várzea,terreno,venda,903.5,638.1,1568.2,18,,outubro/2026
 Recife,Boa Viagem,sala,venda,8427.5,5566.2,15286.4,64,13.21,outubro/2026
 Recife,Boa Viagem,sala,aluguel,92.8,57.8,114.5,98,13.21,outubro/2026
-Recife,Boa Vista,sala,venda,4307.4,2845.9,8465.6,30,14.85,outubro/2026
-Recife,Boa Vista,sala,aluguel,53.3,30.2,87.8,39,14.85,outubro/2026
+Recife,Boa Vista,sala,venda,4393.9,2849.6,8973.2,31,15.95,outubro/2026
+Recife,Boa Vista,sala,aluguel,58.4,30.4,89.2,40,15.95,outubro/2026
 Recife,Casa Amarela,sala,aluguel,94.0,69.9,122.3,10,,outubro/2026
 Recife,Casa Forte,sala,aluguel,100.0,71.6,114.5,18,,outubro/2026
 Recife,Coelhos,sala,venda,4522.1,3447.0,4809.7,8,,outubro/2026
@@ -175,11 +175,11 @@ Recife,Ilha do Leite,sala,venda,5960.5,4593.3,7875.5,28,17.15,outubro/2026
 Recife,Ilha do Leite,sala,aluguel,85.2,69.2,100.6,34,17.15,outubro/2026
 Recife,Paissandu,sala,venda,8314.0,4783.0,11327.8,8,10.93,outubro/2026
 Recife,Paissandu,sala,aluguel,75.7,71.9,95.0,7,10.93,outubro/2026
-Recife,Pina,sala,venda,8928.6,7108.3,13489.6,8,13.08,outubro/2026
-Recife,Pina,sala,aluguel,97.3,66.5,129.9,11,13.08,outubro/2026
+Recife,Pina,sala,venda,8928.6,7108.3,13489.6,8,14.5,outubro/2026
+Recife,Pina,sala,aluguel,107.9,68.9,139.5,12,14.5,outubro/2026
 Recife,Recife,sala,aluguel,39.1,28.9,40.5,6,,outubro/2026
-Recife,Santo Amaro,sala,venda,4858.6,3488.6,6252.8,8,10.1,outubro/2026
-Recife,Santo Amaro,sala,aluguel,40.9,30.7,54.4,8,10.1,outubro/2026
+Recife,Santo Amaro,sala,venda,4858.6,3488.6,6252.8,8,9.61,outubro/2026
+Recife,Santo Amaro,sala,aluguel,38.9,30.6,50.0,9,9.61,outubro/2026
 Recife,Santo Antônio,sala,venda,1950.9,1465.9,2727.7,11,10.83,outubro/2026
 Recife,Santo Antônio,sala,aluguel,17.6,10.6,44.4,7,10.83,outubro/2026
 Recife,Tamarineira,sala,venda,9230.8,8461.5,10740.7,9,8.94,outubro/2026
