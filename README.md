@@ -1,5 +1,7 @@
 # A Corrida dos Bairros: dados abertos
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23159908.svg)](https://doi.org/10.5281/zenodo.23159908)
+
 Este repositório guarda os **dados mensais** publicados em [acorridadosbairros.com.br](https://acorridadosbairros.com.br): a mediana do preço pedido por m² em cada bairro de 109 cidades brasileiras. Junto vão a metodologia, o registro de erratas e a nota técnica. É um projeto do Minuto Jaraguá.
 
 Cada edição fica guardada como foi publicada. Assim, qualquer pessoa pode citar um número e conferir depois de onde ele veio.
@@ -20,7 +22,7 @@ Cada linha traz cidade, bairro, tipo de imóvel, modo (venda ou aluguel), median
 
 > A Corrida dos Bairros, Minuto Jaraguá. Medianas do preço pedido por m² por bairro, edição de outubro/2026. Disponível em https://acorridadosbairros.com.br
 
-Cada edição mensal, a partir de outubro/2026, recebe um DOI no Zenodo. O arquivo `CITATION.cff` traz os metadados para gerenciadores de referência.
+Cada edição mensal, a partir de outubro/2026, recebe um DOI no Zenodo. Edição de outubro/2026: [10.5281/zenodo.23159909](https://doi.org/10.5281/zenodo.23159909). Todas as edições (o DOI leva sempre à mais recente): [10.5281/zenodo.23159908](https://doi.org/10.5281/zenodo.23159908). O arquivo `CITATION.cff` traz os metadados para gerenciadores de referência.
 
 **Versões com DOI são imutáveis.** Uma correção nunca altera a edição já arquivada: sai uma versão nova, com a errata registrada em `ERRATAS.md`, e a versão anterior continua acessível.
 

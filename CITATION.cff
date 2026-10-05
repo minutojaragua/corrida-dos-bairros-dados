@@ -7,6 +7,14 @@ authors:
 version: "2026-10"
 date-released: "2026-10-05"
 license: CC-BY-4.0
+doi: "10.5281/zenodo.23159908"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23159908"
+    description: "Todas as edições (leva sempre à mais recente)"
+  - type: doi
+    value: "10.5281/zenodo.23159909"
+    description: "Edição 2026-10"
 url: "https://acorridadosbairros.com.br"
 repository-artifact: "https://github.com/minutojaragua/corrida-dos-bairros-dados"
 abstract: >-
