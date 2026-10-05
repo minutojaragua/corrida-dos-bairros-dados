@@ -4,8 +4,8 @@ title: "A Corrida dos Bairros: mediana do preço pedido por m² por bairro"
 type: dataset
 authors:
   - name: "Minuto Jaraguá"
-version: "0.1.0"
-date-released: "2026-09-22"
+version: "2026-10"
+date-released: "2026-10-05"
 license: CC-BY-4.0
 url: "https://acorridadosbairros.com.br"
 repository-artifact: "https://github.com/minutojaragua/corrida-dos-bairros-dados"

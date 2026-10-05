@@ -22,5 +22,6 @@
       "relation": "isDocumentedBy",
       "resource_type": "publication-other"
     }
-  ]
+  ],
+  "version": "2026-10"
 }

@@ -18,7 +18,7 @@ Cada linha traz cidade, bairro, tipo de imóvel, modo (venda ou aluguel), median
 
 ## Como citar
 
-> A Corrida dos Bairros, Minuto Jaraguá. Medianas do preço pedido por m² por bairro, edição de setembro/2026. Disponível em https://acorridadosbairros.com.br
+> A Corrida dos Bairros, Minuto Jaraguá. Medianas do preço pedido por m² por bairro, edição de outubro/2026. Disponível em https://acorridadosbairros.com.br
 
 Cada edição mensal, a partir de outubro/2026, recebe um DOI no Zenodo. O arquivo `CITATION.cff` traz os metadados para gerenciadores de referência.
 
