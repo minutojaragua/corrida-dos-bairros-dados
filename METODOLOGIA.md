@@ -40,5 +40,7 @@ Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios público
 
 **Arquivo aberto:** os dados de cada edição, esta metodologia, o registro de erratas e a nota técnica ficam guardados, edição por edição, em [github.com/minutojaragua/corrida-dos-bairros-dados](https://github.com/minutojaragua/corrida-dos-bairros-dados).
 
+**DOI, para citar em trabalho acadêmico:** cada edição tem um DOI permanente no Zenodo. Edição atual (outubro/2026): [doi.org/10.5281/zenodo.23159909](https://doi.org/10.5281/zenodo.23159909). Todas as edições, sempre levando à mais recente: [doi.org/10.5281/zenodo.23159908](https://doi.org/10.5281/zenodo.23159908).
+
 Dados de cada cidade em CSV/JSON no rodapé das páginas. **Licença:** as medianas estão sob Creative Commons Atribuição 4.0 (CC BY 4.0): use, cruze e republique à vontade, inclusive comercialmente, citando "A Corrida dos Bairros, Minuto Jaraguá" com link para este site. A licença cobre os números, não o texto, o desenho e as marcas do site. O arquivo de coordenadas dos bairros (bairros_geo.json) é base derivada do OpenStreetMap e sai sob ODbL 1.0, © colaboradores do OpenStreetMap. Contato e pautas: direct do [@minutojaragua](https://www.instagram.com/minutojaragua/).
 
